@@ -120,7 +120,7 @@ Six lessons in a deliberate order that follows a story arc: **problem → hope �
 - Why it starts slow, then explodes
 - Time is the biggest lever: starting at 16 vs. 26
 - Small amounts + early start > big amounts + late start
-- **Grandma's $100/month reveal:** what it *could* have become
+- **Grandma's $100/month math:** what it *could* have become — computed as a hypothetical, while Elena watches the number appear and is suspiciously unsurprised
 
 ### Lesson 3 — What Is a Share of Stock (vs. a Lottery Ticket) *(the vehicle: what you actually buy)*
 - A share = owning a tiny slice of a real company
@@ -142,6 +142,7 @@ Six lessons in a deliberate order that follows a story arc: **problem → hope �
 - Instant diversification (answers Lesson 4's question)
 - Why they quietly beat most stock-pickers (low fees, boring wins)
 - The message: you don't have to be smart, just consistent
+- **The season's twist lands here:** the 1976 brokerage slip from Lesson 1 resurfaces — Elena has been buying index funds (plus a few carefully studied stocks) for fifty years and is quietly worth **$1.7 million**. Living proof that boring, diversified, never-sell investing works — delivered right after Lesson 4 scared everyone
 
 ### Lesson 6 — Types of Accounts *(the action: where it all lives, go do it)*
 - The account is the container; the fund is what's inside
@@ -150,7 +151,7 @@ Six lessons in a deliberate order that follows a story arc: **problem → hope �
 - Why "earned income" matters (her summer job unlocks it)
 - The practical "here's where to actually start" close
 
-**Through-line:** inflation makes the student realize saving alone isn't safe → compounding gives hope → stocks show what to buy → risk scares her back → index funds rescue her → accounts tell her where to press "go." Grandma's $100/month anchors Lessons 1–2; Maya's resale profits fit naturally into Lessons 3–6.
+**Through-line:** inflation makes the student realize saving alone isn't safe → compounding gives hope → stocks show what to buy → risk scares her back → index funds rescue her → accounts tell her where to press "go." Grandma's $100/month anchors Lessons 1–2, her secret portfolio detonates in Lesson 5, and Maya's resale profits fit naturally into Lessons 3–6.
 
 ---
 
@@ -176,12 +177,14 @@ College-bound and grounded, facing real adult decisions *right now*. First-gen c
 
 **Nadia, 22 — the near-peer mentor.** Maya's older sister, home from college for the summer, already investing a little ($25/month, nothing fancy). Credible instead of preachy because she made the mistakes recently — a bit of freshman-year credit card debt she dug out of, a first paycheck she blew, a negotiation she fumbled. The "cool older sister" who tells the truth and roots for you. She sparks the club and leads the "built for her" material.
 
-**Grandma Elena — the living proof.** Maya and Nadia's grandmother; the friend group has adopted her as the honorary grandma of the club. She **earned $100 a month in the 1960s** — the most powerful storytelling asset in the cast:
-- **Compound-interest showstopper, made personal:** what if she'd invested even part of that $100/month and left it alone? (Compute the exact figure in the lesson; a few years of small 1960s contributions compounding to today lands in the six figures.) The honest twist: she *didn't* invest — she kept it safe in cash. So the lesson carries both the magic of compounding *and* the quiet cost of playing it too safe. The girls get to teach *her* something, too.
-- **Emotional anchor for "built for her":** a woman who earned her own money in the 1960s but often couldn't get a credit card or loan in her own name without a man to co-sign (not fully outlawed until a 1974 federal law) — a living witness to *why Compound exists*.
-- **Mindset nuance:** her thrift is real wisdom, but you can show where discipline curdled into fear/scarcity. Takeaway: keep her discipline, lose her fear.
+**Grandma Elena — the living proof (and the season's twist).** Maya and Nadia's grandmother; the friend group has adopted her as the honorary grandma of the club. She **earned $100 a month in the 1960s** — and, unknown to everyone including her family, she is a **secret millionaire**: starting in the 1970s she bought index funds (among the very first buyers, 1976) plus a handful of stocks she chose by studying Warren Buffett at the public library, held through every crash, and is quietly worth **$1.7 million**. (Echoes real "quiet millionaire" stories — Grace Groner, Ronald Read — so it reads as inspiring, not fantasy.) The most powerful storytelling asset in the cast:
+- **The reveal is staged across the season:** Lesson 1 plants a 1976 brokerage slip in the passbook that nobody reads twice ("that one is not for today"). Lesson 2's compound-interest showstopper runs as a hypothetical while Elena watches, unsurprised. Lesson 5 (index funds) detonates the truth — arriving right after Lesson 4's risk scare, exactly when students need proof that boring, diversified, never-sell investing works. Her keepsake $100 bill is the **control group**: the one month's pay she never invested, kept to show what sitting still costs. Same woman, both experiments, sixty years of data.
+- **Quiet wealth is itself the lesson:** same porch, same empanadas, no flash. Real wealth doesn't look like Instagram — exactly the counter-programming this audience needs.
+- **Emotional anchor for "built for her":** she opened her brokerage account in an era when a woman often couldn't get a credit card or loan in her own name without a man to co-sign (not fully outlawed until a 1974 federal law) — a living witness to *why Compound exists*. Her money is her independence, which is also the in-story answer to the obvious question: she will **not** simply write a check for Keisha's tuition gap. She won't hand over the freedom it took her fifty years to build, and Keisha's climb has to stay Keisha's — write that scene deliberately.
+- **Tone guardrails:** the reveal must never shame cash-keeping families (Sofi's) — Elena's framing is "someone showed me the game; nobody showed them." And reference Buffett by name and paraphrase his ideas only; never quote his letters (all content stays original).
+- **Math guardrail:** the $1.7M must be computed in `finance.ts` from a labeled, realistic contribution history (contributions rising with her wages through the '70s–'90s at historical index returns — flat $20/month alone doesn't get there) and covered in `finance.test.ts`, per the project rule that any number presented as fact is computed, not asserted.
 
-**Three generations of women in one family** — Grandma (earned her own money, never invested), Nadia (learning to invest now), Maya (earns but spends it all) — is a built-in arc about patterns passing down or getting broken.
+**Three generations of women in one family** — Grandma (earned her own money and quietly invested it for fifty years), Nadia (learning to invest now, in the open), Maya (earns but spends it all) — is a built-in arc about what gets passed down, what gets hidden, and what finally gets said out loud.
 
 ---
 
@@ -189,7 +192,7 @@ College-bound and grounded, facing real adult decisions *right now*. First-gen c
 
 **Setting:** summer, one neighborhood, four girls from four money worlds.
 
-**Inciting spark:** the girls help Grandma Elena clear out the garage and find her **1960s pay envelope — $100 a month** — tucked in an old bank passbook. They howl laughing ("a *hundred dollars*?!"), and Grandma stops them: *that hundred dollars was worth more than you think — and could've become more than you'd ever believe.*
+**Inciting spark:** the girls help Grandma Elena clear out the garage and find her **1960s pay envelope — $100 a month** — tucked in an old bank passbook. They howl laughing ("a *hundred dollars*?!"), and Grandma stops them: *that hundred dollars was worth more than you think — and could've become more than you'd ever believe.* (She isn't guessing. She knows exactly what it became — see her reveal, Lesson 5.)
 
 **The club:** Nadia proposes a summer pact — part book club, part challenge — meeting weekly on Grandma's porch.
 
@@ -205,6 +208,7 @@ College-bound and grounded, facing real adult decisions *right now*. First-gen c
 - Emily's home tension escalating until she has to engage.
 - Maya's fork: blow the resale profits, or invest them.
 - Quiet friction *between* the girls — a moment where their different family situations collide (someone with more says something tone-deaf to someone with less) and the friendship has to navigate it. This dramatizes the confidence mission: everyone's money journey starts from a different place.
+- **The season's slow-burn mystery:** the 1976 brokerage slip nobody read twice. The safest-seeming person on the porch has been playing the long game for fifty years — revealed in Lesson 5, and complicating Keisha's arc (rich Grandma exists, and still won't write the check).
 
 ---
 
@@ -250,5 +254,5 @@ College-bound and grounded, facing real adult decisions *right now*. First-gen c
 - Exact dollar figure for Keisha's tuition gap.
 - Whether the $100 Challenge is simulated only, or optionally real/pooled.
 - Finalize Sofi's family business (food cart / cleaning service / salon) and Emily's specific home shock.
-- The precise compound-interest figure for Grandma's $100/month (compute in Lesson 2).
+- Grandma's two numbers, both computed in `finance.ts` from labeled constants: the hypothetical $100/month compounding figure (Lesson 2) and the realistic contribution history that lands her real portfolio at ~$1.7M (Lesson 5).
 - Custom domain vs. github.io subpath (affects the base-path config).

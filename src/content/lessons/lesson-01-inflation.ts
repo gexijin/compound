@@ -3,6 +3,12 @@ import type { Lesson } from '../schema'
 /** Lesson 1 — Inflation. Arc role: the problem (doing nothing loses money).
  * Anchor: Grandma Elena's 1965 pay envelope — $100 a month — and the actual
  * $100 bill still inside it. The bill seeds the season's $100 Challenge.
+ * Season plant: the 1976 brokerage slip in the passbook, which nobody reads
+ * twice — it pays off in Lesson 5 when Elena is revealed as the club's quiet
+ * millionaire (see characters.ts). The keepsake bill is her control group:
+ * the one month's pay she never invested, kept to show what sitting still
+ * costs. Nothing in this lesson may confirm or deny what she did with the
+ * rest.
  */
 export const lesson01: Lesson = {
   id: 'lesson-01',
@@ -42,6 +48,14 @@ export const lesson01: Lesson = {
         {
           speaker: 'narrator',
           text: "The bill went around the circle. Maya smelled it. Keisha held it up to the light like a bank teller. Emily passed it along quickly, without quite looking at it. Nobody noticed. Somebody would remember it later.",
+        },
+        {
+          speaker: 'keisha',
+          text: "There's something else stuck in the passbook. A receipt? 'First Index Investment Trust — 1976.' Sounds fake. Like a bank from a board game.",
+        },
+        {
+          speaker: 'elena',
+          text: "Old paper. Leave it where you found it, mija — that one is not for today.",
         },
         {
           speaker: 'sofi',
@@ -99,7 +113,7 @@ export const lesson01: Lesson = {
         },
       ],
       reveal:
-        "What did the real Elena do? The tin box, mostly, and later the passbook. Safe as houses. One bill from that first summer never left the envelope at all — the one Maya is holding right now.",
+        "What did the real Elena do with those first envelopes? The tin box, at first. And after that — well. She'll tell that story when she's ready. What's certain is that one bill from the first summer never left the envelope at all: the one Maya is holding right now.",
     },
     {
       type: 'teaching',
@@ -143,7 +157,11 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'narrator',
-          text: "Then Grandma Elena did something nobody expected. She took the hundred-dollar bill from Maya, smoothed it flat, and laid it in the middle of the table.",
+          text: "Grandma Elena said nothing at all. She just smiled at her lemonade, like it had told her a very old joke.",
+        },
+        {
+          speaker: 'narrator',
+          text: "Then she did something nobody expected. She took the hundred-dollar bill from Maya, smoothed it flat, and laid it in the middle of the table.",
         },
         {
           speaker: 'elena',

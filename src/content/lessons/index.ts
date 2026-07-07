@@ -51,7 +51,9 @@ export const lessons: Lesson[] = [
     tagline: 'Index funds: hundreds of companies in one purchase. Boring wins.',
     arcRole: 'fix',
     minutes: 10,
-    characters: ['nadia', 'emily', 'sofi'],
+    // Elena's lesson: the 1976 brokerage slip from Lesson 1 pays off here —
+    // she's revealed as the club's quiet millionaire (see characters.ts).
+    characters: ['nadia', 'emily', 'sofi', 'elena'],
     status: 'coming-soon',
     beats: [],
   },

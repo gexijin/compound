@@ -56,8 +56,15 @@ export const characters: Record<CharacterId, Character> = {
     name: 'Grandma Elena',
     age: null,
     role: 'The living proof',
+    // Season secret — keep it OUT of student-facing copy (this `background`
+    // renders on the Home page). Elena has been investing since the 1970s:
+    // mostly index funds (bought the first one, 1976) plus a few stocks she
+    // chose by studying Warren Buffett, held through every crash. Quietly
+    // worth ~$1.7M. Planted in Lesson 1 (the brokerage slip); revealed in
+    // Lesson 5. The keepsake $100 bill is her control group — the one
+    // month's pay she never put to work.
     background:
-      'Earned $100 a month in the 1960s and kept it safe in cash. Her thrift is real wisdom — and a lesson in what playing it too safe costs.',
+      'Earned $100 a month in the 1960s — and knows more about what money can become than she lets on.',
     voice: 'Dry, unhurried, lands the line that stops the room.',
     color: 'bg-ink',
   },
