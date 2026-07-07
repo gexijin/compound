@@ -32,5 +32,6 @@ Lessons are **data, not code**. A reusable lesson engine renders a fixed loop: s
 
 ## Content rules
 
+- User-facing copy calls the units **episodes** ("Episode 1", the `/episode/:slug` route) — code identifiers, file names, and storage keys keep their `lesson` naming.
 - Tone: smart, a little irreverent, never condescending or pink-washed; optimize for confidence over completeness.
 - All content original — no copyrighted lyrics, quotes, or third-party curriculum text.

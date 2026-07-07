@@ -10,7 +10,7 @@ export function LessonPage() {
     return (
       <Shell>
         <p className="mt-10 text-center text-ink-soft">
-          That lesson doesn't exist.{' '}
+          That episode doesn't exist.{' '}
           <Link to="/" className="font-semibold text-grove underline">
             Back to the porch
           </Link>
@@ -45,7 +45,7 @@ export function LessonPage() {
     <Shell>
       <header className="mb-6">
         <p className="font-display text-sm tracking-wide text-grove uppercase">
-          Lesson {lesson.number} · about {lesson.minutes} min
+          Episode {lesson.number} · about {lesson.minutes} min
         </p>
         <h1 className="mt-1 font-display text-3xl font-bold">{lesson.title}</h1>
         <p className="mt-1 text-ink-soft">{lesson.tagline}</p>

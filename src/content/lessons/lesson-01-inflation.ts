@@ -1,12 +1,12 @@
 import type { Lesson } from '../schema'
 
-/** Lesson 1 — Inflation. Arc role: the problem (doing nothing loses money).
+/** Episode 1 — Inflation. Arc role: the problem (doing nothing loses money).
  * Anchor: Grandma Elena's 1965 pay envelope — a stub showing $100 a month —
  * and the $20 bill still inside it: one month's savings she meant to take to
  * the bank and forgot. The paycheck seeds the season's $100 Challenge; the
  * forgotten $20 is the accidental time capsule that teaches inflation.
  * Season plant: the 1976 brokerage slip in the passbook, which nobody reads
- * twice — it pays off in Lesson 5 when Elena is revealed as the club's quiet
+ * twice — it pays off in Episode 5 when Elena is revealed as the club's quiet
  * millionaire (see characters.ts). The $20 is her control group: the one
  * deposit that never got made. Nothing in this lesson may confirm or deny
  * what she did with the rest.
@@ -101,7 +101,7 @@ export const lesson01: Lesson = {
             "Smarter than the box — the bank pays her a few percent, and the passbook fills up with tidy stamped numbers that feel like winning.",
             "But here's the quiet catch: most years, prices rose about as fast as the interest came in — some years faster. The money grew in numbers and mostly treaded water in what it could buy. Better than shrinking. Still not the 'become more than you'd believe' Grandma hinted at.",
           ],
-          coda: 'A savings account is a shelter, not an engine. (What the engine is — that’s Lesson 2.)',
+          coda: 'A savings account is a shelter, not an engine. (What the engine is — that’s Episode 2.)',
         },
         {
           id: 'spend-it',
@@ -202,61 +202,61 @@ export const lesson01: Lesson = {
       questions: [
         {
           prompt:
-            "In 1965, the $20 in Grandma's envelope bought 133 McDonald's hamburgers — they were 15¢ each. Today, that exact same bill buys about...",
+            "Back in the garage, Sofi said: 'It's still $20 — it says so right on it.' So: a $20 bill is always worth the same. True?",
           options: [
             {
               id: 'a',
-              label: '133 burgers — $20 is $20.',
+              label: 'True — the number never changes, so the value never changes.',
               feedback:
-                "The number on the bill is loyal — it still says 20 and still spends as 20. But at today's prices it buys about 10 burgers. The other hundred-plus lunches got picked off a few percent at a time, while the bill sat there looking exactly the same.",
+                "The number is the one thing that never changes — that's exactly the trap. A bill's real worth is what it can buy, and Grandma's $20 went from 133 burgers to 10 while the paper stayed identical. Same number, a fraction of the stuff.",
             },
             {
               id: 'b',
-              label: 'About 60 burgers.',
+              label: "False — a bill's real worth is what it buys, and that shrinks as prices rise.",
+              correct: true,
               feedback:
-                "Closer than most guesses, but still too generous. It's about 10. Burger math is brutal like that: same paper, same number, a tenth of the lunch.",
+                "Right. Money has two faces: the number, which is loyal forever, and the buying power, which quietly shrinks as prices creep. That's why Grandma's $20 bought 133 burgers then and about 10 now — and why 'it says $20 on it' proves nothing.",
             },
             {
               id: 'c',
-              label: 'About 10 burgers.',
-              correct: true,
+              label: "True, as long as it stays safe in a drawer and never gets spent.",
               feedback:
-                "Right — from 133 lunches to 10. The bill didn't change; every price around it did. That gap is inflation's whole trick, and 'measure money in burgers, not numbers' will serve you for life.",
+                "Backwards, actually — the drawer is where the shrinking happens. Prices rise whether or not the bill moves, so sitting still just means losing quietly. Grandma's envelope was the safest place on earth, and it still lost nine-tenths of the stuff.",
             },
           ],
         },
         {
           prompt:
-            'In the U.S., prices creep up about 3% a year, so they double roughly every 24 years. In Argentina, inflation recently ran around 30% a year. How fast do prices double there?',
+            'In the U.S., prices creep up about 3% a year and take roughly 24 years to double. In Argentina, inflation lately runs around 30% a year. How fast do prices double there?',
           options: [
             {
               id: 'a',
               label: 'Still about every 24 years — doubling is doubling.',
               feedback:
-                "Doubling speed depends entirely on the rate. At 30% a year, prices double in under 3 years. It's the same invisible pickpocket that got Grandma's envelope — just sprinting instead of strolling.",
+                "Doubling speed depends entirely on the rate. At 30% a year, prices double in under 3 years — the same invisible pickpocket that got Grandma's envelope, sprinting instead of strolling.",
             },
             {
               id: 'b',
               label: 'About every 10 years.',
               feedback:
-                "Faster — compounding at 30% doubles prices in under 3 years. A teen in Buenos Aires watches prices double between starting high school and finishing it.",
+                "Faster than that. Compounding at 30% doubles prices in under 3 years — a teen in Buenos Aires watches prices double between starting high school and finishing it.",
             },
             {
               id: 'c',
               label: 'About every 2–3 years.',
               correct: true,
               feedback:
-                "Right — under 3 years. That's why people in high-inflation countries spend paychecks the day they arrive or swap them for stabler money: a drawer costs too much there to be an option. Same rule as Grandma's tin box, at ten times the speed — the U.S. version just strolls instead of sprints. It never stops, either way.",
+                "Right — under 3 years. That's why people in high-inflation countries spend paychecks the day they arrive or swap them for stabler money: a drawer is too expensive there to be an option. Same pickpocket as Grandma's envelope, just sprinting instead of strolling.",
             },
           ],
         },
         {
           prompt:
-            'Emily keeps her babysitting cash in a drawer "until she figures things out." The kind, true way to describe what\'s happening:',
+            'Emily keeps her babysitting cash in a drawer "until she figures things out." What\'s the kind, true way to describe what\'s happening?',
           options: [
             {
               id: 'a',
-              label: "Nothing's happening — it's on pause.",
+              label: "Nothing — the money's on pause until she's ready.",
               feedback:
                 "That's what the drawer wants you to think. There's no pause button: prices keep moving whether or not the money does. Waiting has a price tag — small, but it never stops running.",
             },
@@ -265,13 +265,13 @@ export const lesson01: Lesson = {
               label: "It's quietly losing a little buying power every year.",
               correct: true,
               feedback:
-                "Right — and saying it kindly matters, because the drawer isn't a failure, it's a starting line. Emily's money isn't wrong. It's just unemployed.",
+                "Right — and saying it kindly matters, because the drawer isn't a failure, it's a starting line. Emily's money isn't wrong. It's just unemployed. Getting it a job — that's next week on the porch.",
             },
             {
               id: 'c',
-              label: "It's growing, since she keeps adding to it.",
+              label: "It's growing — she keeps adding to it.",
               feedback:
-                "The pile grows because she adds to it — each dollar inside is still slowly shrinking in what it can buy. Adding water to a leaky bucket is effort, not growth.",
+                "The pile grows because she adds to it — but each dollar inside is still slowly shrinking in what it can buy. Adding water to a leaky bucket is effort, not growth.",
             },
           ],
         },

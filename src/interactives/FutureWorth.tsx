@@ -1,30 +1,33 @@
 import { useState } from 'react'
 import {
   BURGER_2025,
+  CPI_2020,
+  CPI_2025,
   ILLUSTRATIVE_INFLATION,
-  REALIZED_INFLATION_1965_2025,
+  REALIZED_INFLATION_2020_2025,
+  YEARS_2020_TO_2025,
   formatDollars,
   purchasingPower,
 } from '../lib/finance'
 
-const MAX_YEARS = 40
+const MAX_YEARS = 20
 const AMOUNT = 100
 
 const RATES = [
-  { id: 'low', rate: 0.02, label: '2% — gentle years' },
   { id: 'mid', rate: ILLUSTRATIVE_INFLATION, label: '3% — typical' },
   {
-    id: 'grandma',
-    rate: REALIZED_INFLATION_1965_2025,
-    label: "~4% — Grandma's actual 60 years",
+    id: 'recent',
+    rate: REALIZED_INFLATION_2020_2025,
+    label: '4.5% — real 2020–2025',
   },
+  { id: 'argentina', rate: 0.3, label: '~30% — Argentina, 2026' },
 ]
 
 const GUESSES = [
   { id: 'g100', value: 100, label: 'Still about $100 worth' },
-  { id: 'g85', value: 85, label: 'About $85 worth' },
-  { id: 'g55', value: 55, label: 'About $55 worth' },
-  { id: 'g40', value: 40, label: 'About $40 worth' },
+  { id: 'g95', value: 95, label: 'About $95 worth' },
+  { id: 'g80', value: 80, label: 'About $80 worth' },
+  { id: 'g65', value: 65, label: 'About $65 worth' },
 ]
 
 // Chart geometry (viewBox units)
@@ -36,12 +39,21 @@ const y = (v: number) => M.top + (1 - v / AMOUNT) * (H - M.top - M.bottom)
 
 export function FutureWorth() {
   const [guess, setGuess] = useState<(typeof GUESSES)[number] | null>(null)
-  const [rateId, setRateId] = useState('mid')
+  const [rateId, setRateId] = useState('recent')
   const [hoverYear, setHoverYear] = useState<number | null>(null)
 
   const rate = RATES.find((r) => r.id === rateId)!.rate
   const at = (yr: number) => purchasingPower(AMOUNT, yr, rate)
-  const truth20 = purchasingPower(AMOUNT, 20, ILLUSTRATIVE_INFLATION)
+  // Show cents once values get small, so "$1.95 buys 0 burgers" doesn't
+  // render as the paradoxical "$2 buys 0 burgers" (Argentina-rate tail).
+  const fmt = (v: number) => formatDollars(v, v < 10 ? 2 : 0)
+  // The real 2020→2025 answer: what the drawer's $100 buys in 2020 stuff.
+  const truth5 = purchasingPower(
+    AMOUNT,
+    YEARS_2020_TO_2025,
+    REALIZED_INFLATION_2020_2025,
+  )
+  const risePct = Math.round((CPI_2025 / CPI_2020 - 1) * 100)
 
   const path = Array.from({ length: MAX_YEARS + 1 }, (_, yr) =>
     `${yr === 0 ? 'M' : 'L'}${x(yr).toFixed(1)},${y(at(yr)).toFixed(1)}`,
@@ -60,9 +72,9 @@ export function FutureWorth() {
         Now it's your bill: the drawer test
       </h3>
       <p className="mt-1 text-sm text-ink-soft">
-        You stash $100 in a drawer today and forget it. Twenty years from now,
-        how much of today's stuff does it buy? Guess first — the math comes
-        after.
+        This one really happened. In 2020, you stash $100 in a drawer and
+        forget it. Five years later, in 2025, how much of 2020's stuff does
+        it still buy? Guess first — the real numbers come after.
       </p>
 
       <div className="mt-3 grid grid-cols-2 gap-2">
@@ -87,23 +99,27 @@ export function FutureWorth() {
       {guess && (
         <div className="mt-5 border-t border-ink/10 pt-5">
           <p className="text-sm">
-            {Math.abs(guess.value - truth20) < 8 ? (
+            {Math.abs(guess.value - truth5) < 8 ? (
               <>
-                <strong>Right</strong> — at typical inflation, your $100 buys
-                about <strong>{formatDollars(truth20)}</strong> of today's
-                stuff in 20 years. Most people guess much higher.
+                <strong>Right</strong> — real U.S. CPI data says prices rose
+                about {risePct}% from 2020 to 2025 (≈
+                {(REALIZED_INFLATION_2020_2025 * 100).toFixed(1)}% a year), so
+                the drawer's $100 buys about{' '}
+                <strong>{formatDollars(truth5)}</strong> of 2020's stuff.
               </>
             ) : (
               <>
-                You guessed {formatDollars(guess.value)} worth. At typical
-                inflation it's about{' '}
-                <strong className="text-grove">{formatDollars(truth20)}</strong>{' '}
-                — the drawer keeps the bill and loses nearly half the stuff.
+                You guessed {formatDollars(guess.value)} worth. Real U.S. CPI
+                data says prices rose about {risePct}% from 2020 to 2025 (≈
+                {(REALIZED_INFLATION_2020_2025 * 100).toFixed(1)}% a year), so
+                it's about{' '}
+                <strong className="text-grove">{formatDollars(truth5)}</strong>{' '}
+                — the drawer kept the bill and lost a fifth of the stuff.
               </>
             )}{' '}
-            In burgers: {Math.floor(100 / BURGER_2025)} today,{' '}
-            {Math.floor(truth20 / BURGER_2025)} in twenty years. Here's the
-            whole curve — try Grandma's rate.
+            You didn't need a lesson to feel that one — groceries, gas,
+            concert tickets. Here's what more years in the drawer do — try
+            Argentina's rate.
           </p>
 
           <div
@@ -157,7 +173,7 @@ export function FutureWorth() {
               </g>
             ))}
             {/* x axis ticks */}
-            {[0, 10, 20, 30, 40].map((yr) => (
+            {[0, 5, 10, 15, 20].map((yr) => (
               <text
                 key={yr}
                 x={x(yr)}
@@ -166,15 +182,15 @@ export function FutureWorth() {
                 fontSize={11}
                 fill="#5c5850"
               >
-                {yr === 0 ? 'today' : `${yr} yrs`}
+                {yr === 0 ? 'year 0' : `${yr} yrs`}
               </text>
             ))}
 
             {/* the curve */}
             <path d={path} fill="none" stroke="#178a4c" strokeWidth={2} />
 
-            {/* decade markers with direct labels */}
-            {[10, 20, 30].map((yr) => (
+            {/* year markers with direct labels */}
+            {[5, 10, 20].map((yr) => (
               <g key={yr}>
                 <circle cx={x(yr)} cy={y(at(yr))} r={4.5} fill="#178a4c" />
                 <text
@@ -185,15 +201,15 @@ export function FutureWorth() {
                   fontWeight={700}
                   fill="#1d1b16"
                 >
-                  {formatDollars(at(yr))}
+                  {fmt(at(yr))}
                 </text>
               </g>
             ))}
 
-            {/* the student's guess at year 20 */}
+            {/* the student's guess at year 5 */}
             <g>
               <circle
-                cx={x(20)}
+                cx={x(5)}
                 cy={y(guess.value)}
                 r={5}
                 fill="none"
@@ -201,7 +217,7 @@ export function FutureWorth() {
                 strokeWidth={2}
               />
               <text
-                x={x(20) + 10}
+                x={x(5) + 10}
                 y={y(guess.value) + 4}
                 fontSize={11}
                 fill="#5c5850"
@@ -242,10 +258,10 @@ export function FutureWorth() {
                     strokeOpacity={0.25}
                   />
                   <text x={8} y={14} fontSize={10} fill="#5c5850">
-                    {hoverYear === 0 ? 'Today' : `In ${hoverYear} years`}
+                    {hoverYear === 0 ? 'Year 0' : `After ${hoverYear} years`}
                   </text>
                   <text x={8} y={28} fontSize={12} fontWeight={700} fill="#1d1b16">
-                    buys {formatDollars(at(hoverYear))} of today's stuff
+                    buys {fmt(at(hoverYear))} of year-0 stuff
                   </text>
                 </g>
               </g>
@@ -265,10 +281,10 @@ export function FutureWorth() {
                 </tr>
               </thead>
               <tbody>
-                {[0, 10, 20, 30, 40].map((yr) => (
+                {[0, 5, 10, 15, 20].map((yr) => (
                   <tr key={yr} className="border-t border-ink/10">
                     <td className="py-1">{yr}</td>
-                    <td className="py-1">{formatDollars(at(yr))}</td>
+                    <td className="py-1">{fmt(at(yr))}</td>
                     <td className="py-1">{Math.floor(at(yr) / BURGER_2025)}</td>
                   </tr>
                 ))}

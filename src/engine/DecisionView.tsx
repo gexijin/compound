@@ -49,32 +49,34 @@ export function DecisionView({ beat, onDecided, onContinue }: Props) {
       </div>
 
       {chosen && (
-        <div className="mt-6 rounded-2xl border-2 border-ink bg-cream p-5">
-          <p className="font-display text-sm tracking-wide text-ink-soft uppercase">
-            How it plays out
-          </p>
-          <div className="mt-3 space-y-3">
-            {chosen.consequence.map((p, i) => (
-              <p key={i}>{p}</p>
-            ))}
+        <>
+          <div className="mt-6 rounded-2xl border-2 border-ink bg-cream p-5">
+            <p className="font-display text-sm tracking-wide text-ink-soft uppercase">
+              How it plays out
+            </p>
+            <div className="mt-3 space-y-3">
+              {chosen.consequence.map((p, i) => (
+                <p key={i}>{p}</p>
+              ))}
+            </div>
+            {chosen.coda && (
+              <p className="mt-4 font-display font-bold text-grove">
+                {chosen.coda}
+              </p>
+            )}
+            {beat.reveal && (
+              <p className="mt-4 border-t border-ink/10 pt-4 text-sm text-ink-soft">
+                {beat.reveal}
+              </p>
+            )}
           </div>
-          {chosen.coda && (
-            <p className="mt-4 font-display font-bold text-grove">
-              {chosen.coda}
-            </p>
-          )}
-          {beat.reveal && (
-            <p className="mt-4 border-t border-ink/10 pt-4 text-sm text-ink-soft">
-              {beat.reveal}
-            </p>
-          )}
           <button
             onClick={onContinue}
-            className="mt-5 rounded-full bg-ink px-6 py-2.5 font-semibold text-paper hover:bg-grove"
+            className="mt-6 rounded-full bg-ink px-6 py-2.5 font-semibold text-paper hover:bg-grove"
           >
             Continue →
           </button>
-        </div>
+        </>
       )}
     </div>
   )

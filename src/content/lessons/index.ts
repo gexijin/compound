@@ -1,9 +1,9 @@
 import type { Lesson } from '../schema'
 import { lesson01 } from './lesson-01-inflation'
 
-/** The investing module — six lessons, one story arc:
+/** The investing module — six episodes, one story arc:
  * problem → hope → vehicle → catch → fix → action.
- * Lesson 1 is fully playable; the rest are authored next.
+ * Episode 1 is fully playable; the rest are authored next.
  */
 export const lessons: Lesson[] = [
   lesson01,
@@ -51,7 +51,7 @@ export const lessons: Lesson[] = [
     tagline: 'Index funds: hundreds of companies in one purchase. Boring wins.',
     arcRole: 'fix',
     minutes: 10,
-    // Elena's lesson: the 1976 brokerage slip from Lesson 1 pays off here —
+    // Elena's lesson: the 1976 brokerage slip from Episode 1 pays off here —
     // she's revealed as the club's quiet millionaire (see characters.ts).
     characters: ['nadia', 'emily', 'sofi', 'elena'],
     status: 'coming-soon',

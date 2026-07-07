@@ -1,9 +1,12 @@
 import { describe, expect, it } from 'vitest'
 import {
   CPI_1965,
+  CPI_2020,
   CPI_2025,
   REALIZED_INFLATION_1965_2025,
+  REALIZED_INFLATION_2020_2025,
   YEARS_1965_TO_2025,
+  YEARS_2020_TO_2025,
   burgersFor,
   doublingYears,
   inflate1965ToToday,
@@ -75,6 +78,24 @@ describe('REALIZED_INFLATION_1965_2025', () => {
       REALIZED_INFLATION_1965_2025,
     )
     expect(viaRate).toBeCloseTo(todayIn1965Dollars(100), 6)
+  })
+})
+
+describe('REALIZED_INFLATION_2020_2025', () => {
+  it('is roughly 4.5% per year', () => {
+    expect(REALIZED_INFLATION_2020_2025).toBeGreaterThan(0.04)
+    expect(REALIZED_INFLATION_2020_2025).toBeLessThan(0.05)
+  })
+
+  it('$100 stashed in 2020 buys about $80 of 2020 stuff today', () => {
+    const left = purchasingPower(
+      100,
+      YEARS_2020_TO_2025,
+      REALIZED_INFLATION_2020_2025,
+    )
+    expect(left).toBeCloseTo((100 * CPI_2020) / CPI_2025, 6)
+    expect(left).toBeGreaterThan(78)
+    expect(left).toBeLessThan(82)
   })
 })
 

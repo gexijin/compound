@@ -40,7 +40,7 @@ export function LessonPlayer({ lesson }: { lesson: Lesson }) {
       <div className="rounded-3xl border-2 border-ink bg-paper p-6 text-center sm:p-10">
         <p className="text-4xl">🎉</p>
         <h2 className="mt-3 font-display text-2xl font-bold">
-          Lesson {lesson.number} done.
+          Episode {lesson.number} done.
         </h2>
         <p className="mt-2 text-ink-soft">
           {result.score} of {result.total} on the first try —{' '}
@@ -72,7 +72,7 @@ export function LessonPlayer({ lesson }: { lesson: Lesson }) {
 
   return (
     <div>
-      <div className="mb-6 flex items-center gap-2" aria-label="Lesson progress">
+      <div className="mb-6 flex items-center gap-2" aria-label="Episode progress">
         {lesson.beats.map((b, i) => (
           <div
             key={i}

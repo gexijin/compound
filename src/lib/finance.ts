@@ -6,14 +6,22 @@
 /** U.S. CPI-U annual averages (1982–84 = 100), Bureau of Labor Statistics.
  * 2025 value is approximate; treat cross-era conversions as "roughly". */
 export const CPI_1965 = 31.5
+export const CPI_2020 = 258.8
 export const CPI_2025 = 322
 export const YEARS_1965_TO_2025 = 60
+export const YEARS_2020_TO_2025 = 5
 
 /** The inflation rate actually realized 1965→2025, derived from the CPI
  * endpoints (≈3.9%/yr). Used for the historical story so the slider, the
  * "$100 ≈ $1,022" conversion, and the "worth ~$10 now" figure all agree. */
 export const REALIZED_INFLATION_1965_2025 =
   Math.pow(CPI_2025 / CPI_1965, 1 / YEARS_1965_TO_2025) - 1
+
+/** The inflation rate actually realized 2020→2025, derived from the CPI
+ * endpoints (≈4.5%/yr) — the recent surge students lived through. Drives the
+ * drawer test's "you stashed $100 in 2020" example. */
+export const REALIZED_INFLATION_2020_2025 =
+  Math.pow(CPI_2025 / CPI_2020, 1 / YEARS_2020_TO_2025) - 1
 
 /** Typical going-forward figure quoted in lessons ("prices creep ~2–3%/yr");
  * default for forward-looking illustrations. */

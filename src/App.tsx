@@ -7,7 +7,7 @@ export default function App() {
     <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/lesson/:slug" element={<LessonPage />} />
+        <Route path="/episode/:slug" element={<LessonPage />} />
       </Routes>
     </HashRouter>
   )

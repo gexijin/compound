@@ -80,7 +80,7 @@ export function QuizView({ beat, onComplete }: Props) {
               onClick={next}
               className="mt-4 rounded-full bg-ink px-6 py-2.5 font-semibold text-paper hover:bg-grove"
             >
-              {isLast ? 'Finish lesson →' : 'Next question →'}
+              {isLast ? 'Finish episode →' : 'Next question →'}
             </button>
           ) : (
             <p className="mt-3 text-sm text-ink-soft">

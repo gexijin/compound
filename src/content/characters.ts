@@ -60,8 +60,8 @@ export const characters: Record<CharacterId, Character> = {
     // renders on the Home page). Elena has been investing since the 1970s:
     // mostly index funds (bought the first one, 1976) plus a few stocks she
     // chose by studying Warren Buffett, held through every crash. Quietly
-    // worth ~$1.7M. Planted in Lesson 1 (the brokerage slip); revealed in
-    // Lesson 5. The forgotten $20 in her pay envelope — one month's savings
+    // worth ~$1.7M. Planted in Episode 1 (the brokerage slip); revealed in
+    // Episode 5. The forgotten $20 in her pay envelope — one month's savings
     // that never made it to the bank — is her accidental control group.
     background:
       'Earned $100 a month in the 1960s — and knows more about what money can become than she lets on.',

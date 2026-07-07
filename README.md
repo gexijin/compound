@@ -106,52 +106,52 @@ The complete scope Compound will eventually teach. The investing module (Section
 
 ## 5. First Build — The Investing Module
 
-Six lessons in a deliberate order that follows a story arc: **problem → hope → vehicle → catch → fix → action.** Each lesson creates the question the next one answers.
+Six episodes in a deliberate order that follows a story arc: **problem → hope → vehicle → catch → fix → action.** Each lesson creates the question the next one answers.
 
-### Lesson 1 — Inflation *(the problem: doing nothing loses money)*
+### Episode 1 — Inflation *(the problem: doing nothing loses money)*
 - Prices rise, so each dollar buys less over time
 - **Grandma's hook:** what $100 bought in the 1960s vs. today
 - Why "safe" cash under the mattress quietly shrinks
 - The rough number (~2–3%/yr) and what it does over decades
 - Takeaway: doing nothing isn't neutral — it's a slow loss
 
-### Lesson 2 — Compound Interest *(the hope: growth over time beats inflation)*
+### Episode 2 — Compound Interest *(the hope: growth over time beats inflation)*
 - Interest earning interest — the snowball
 - Why it starts slow, then explodes
 - Time is the biggest lever: starting at 16 vs. 26
 - Small amounts + early start > big amounts + late start
 - **Grandma's $100/month math:** what it *could* have become — computed as a hypothetical, while Elena watches the number appear and is suspiciously unsurprised
 
-### Lesson 3 — What Is a Share of Stock (vs. a Lottery Ticket) *(the vehicle: what you actually buy)*
+### Episode 3 — What Is a Share of Stock (vs. a Lottery Ticket) *(the vehicle: what you actually buy)*
 - A share = owning a tiny slice of a real company
 - You're a part-owner, not a bettor (the lottery contrast)
 - Where returns come from: the business grows and profits
 - Owning brands she already knows and buys
 - Reframe: not gambling, not get-rich-quick
 
-### Lesson 4 — Risk & Diversification *(the catch: one bet is dangerous)*
+### Episode 4 — Risk & Diversification *(the catch: one bet is dangerous)*
 - Risk is real and normal, not something to fear
 - The single-stock danger: one company can go to zero
 - Don't put all your eggs in one basket
 - Why young = able to ride out the ups and downs
 - Sets up the question: how do I spread out without being an expert?
 
-### Lesson 5 — Index Funds & Why They Work *(the fix: own everything, easily)*
+### Episode 5 — Index Funds & Why They Work *(the fix: own everything, easily)*
 - A basket of hundreds of companies in one purchase
 - Buying "the whole market" instead of guessing winners
-- Instant diversification (answers Lesson 4's question)
+- Instant diversification (answers Episode 4's question)
 - Why they quietly beat most stock-pickers (low fees, boring wins)
 - The message: you don't have to be smart, just consistent
-- **The season's twist lands here:** the 1976 brokerage slip from Lesson 1 resurfaces — Elena has been buying index funds (plus a few carefully studied stocks) for fifty years and is quietly worth **$1.7 million**. Living proof that boring, diversified, never-sell investing works — delivered right after Lesson 4 scared everyone
+- **The season's twist lands here:** the 1976 brokerage slip from Episode 1 resurfaces — Elena has been buying index funds (plus a few carefully studied stocks) for fifty years and is quietly worth **$1.7 million**. Living proof that boring, diversified, never-sell investing works — delivered right after Episode 4 scared everyone
 
-### Lesson 6 — Types of Accounts *(the action: where it all lives, go do it)*
+### Episode 6 — Types of Accounts *(the action: where it all lives, go do it)*
 - The account is the container; the fund is what's inside
 - Custodial brokerage (what a teen can open with a parent)
 - Roth IRA — funded by *her own* earned income, grows tax-free
 - Why "earned income" matters (her summer job unlocks it)
 - The practical "here's where to actually start" close
 
-**Through-line:** inflation makes the student realize saving alone isn't safe → compounding gives hope → stocks show what to buy → risk scares her back → index funds rescue her → accounts tell her where to press "go." Grandma's $100/month anchors Lessons 1–2, her secret portfolio detonates in Lesson 5, and Maya's resale profits fit naturally into Lessons 3–6.
+**Through-line:** inflation makes the student realize saving alone isn't safe → compounding gives hope → stocks show what to buy → risk scares her back → index funds rescue her → accounts tell her where to press "go." Grandma's $100/month anchors Episodes 1–2, her secret portfolio detonates in Episode 5, and Maya's resale profits fit naturally into Episodes 3–6.
 
 ---
 
@@ -178,7 +178,7 @@ College-bound and grounded, facing real adult decisions *right now*. First-gen c
 **Nadia, 22 — the near-peer mentor.** Maya's older sister, home from college for the summer, already investing a little ($25/month, nothing fancy). Credible instead of preachy because she made the mistakes recently — a bit of freshman-year credit card debt she dug out of, a first paycheck she blew, a negotiation she fumbled. The "cool older sister" who tells the truth and roots for you. She sparks the club and leads the "built for her" material.
 
 **Grandma Elena — the living proof (and the season's twist).** Maya and Nadia's grandmother; the friend group has adopted her as the honorary grandma of the club. She **earned $100 a month in the 1960s** — and, unknown to everyone including her family, she is a **secret millionaire**: starting in the 1970s she bought index funds (among the very first buyers, 1976) plus a handful of stocks she chose by studying Warren Buffett at the public library, held through every crash, and is quietly worth **$1.7 million**. (Echoes real "quiet millionaire" stories — Grace Groner, Ronald Read — so it reads as inspiring, not fantasy.) The most powerful storytelling asset in the cast:
-- **The reveal is staged across the season:** Lesson 1 plants a 1976 brokerage slip in the passbook that nobody reads twice ("that one is not for today"). Lesson 2's compound-interest showstopper runs as a hypothetical while Elena watches, unsurprised. Lesson 5 (index funds) detonates the truth — arriving right after Lesson 4's risk scare, exactly when students need proof that boring, diversified, never-sell investing works. The forgotten $20 in her pay envelope is the **control group**: one month's savings that missed its bus to the bank and sat in cash for sixty years. Same woman, both experiments, sixty years of data — the accidental time capsule vs. the money she put to work.
+- **The reveal is staged across the season:** Episode 1 plants a 1976 brokerage slip in the passbook that nobody reads twice ("that one is not for today"). Episode 2's compound-interest showstopper runs as a hypothetical while Elena watches, unsurprised. Episode 5 (index funds) detonates the truth — arriving right after Episode 4's risk scare, exactly when students need proof that boring, diversified, never-sell investing works. The forgotten $20 in her pay envelope is the **control group**: one month's savings that missed its bus to the bank and sat in cash for sixty years. Same woman, both experiments, sixty years of data — the accidental time capsule vs. the money she put to work.
 - **Quiet wealth is itself the lesson:** same porch, same empanadas, no flash. Real wealth doesn't look like Instagram — exactly the counter-programming this audience needs.
 - **Emotional anchor for "built for her":** she opened her brokerage account in an era when a woman often couldn't get a credit card or loan in her own name without a man to co-sign (not fully outlawed until a 1974 federal law) — a living witness to *why Compound exists*. Her money is her independence, which is also the in-story answer to the obvious question: she will **not** simply write a check for Keisha's tuition gap. She won't hand over the freedom it took her fifty years to build, and Keisha's climb has to stay Keisha's — write that scene deliberately.
 - **Tone guardrails:** the reveal must never shame cash-keeping families (Sofi's) — Elena's framing is "someone showed me the game; nobody showed them." And reference Buffett by name and paraphrase his ideas only; never quote his letters (all content stays original).
@@ -192,7 +192,7 @@ College-bound and grounded, facing real adult decisions *right now*. First-gen c
 
 **Setting:** summer, one neighborhood, four girls from four money worlds.
 
-**Inciting spark:** the girls help Grandma Elena clear out the garage and find her **1960s pay envelope — a stub showing $100 a month** — tucked in an old bank passbook, with a **$20 bill still inside**: one month's savings she meant to deposit and forgot. They howl laughing ("a *hundred dollars*?!"), and Grandma stops them: *that twenty was worth more than you think — and could've become more than you'd ever believe.* (She isn't guessing. She knows exactly what the deposits that DID get made became — see her reveal, Lesson 5.)
+**Inciting spark:** the girls help Grandma Elena clear out the garage and find her **1960s pay envelope — a stub showing $100 a month** — tucked in an old bank passbook, with a **$20 bill still inside**: one month's savings she meant to deposit and forgot. They howl laughing ("a *hundred dollars*?!"), and Grandma stops them: *that twenty was worth more than you think — and could've become more than you'd ever believe.* (She isn't guessing. She knows exactly what the deposits that DID get made became — see her reveal, Episode 5.)
 
 **The club:** Nadia proposes a summer pact — part book club, part challenge — meeting weekly on Grandma's porch.
 
@@ -208,7 +208,7 @@ College-bound and grounded, facing real adult decisions *right now*. First-gen c
 - Emily's home tension escalating until she has to engage.
 - Maya's fork: blow the resale profits, or invest them.
 - Quiet friction *between* the girls — a moment where their different family situations collide (someone with more says something tone-deaf to someone with less) and the friendship has to navigate it. This dramatizes the confidence mission: everyone's money journey starts from a different place.
-- **The season's slow-burn mystery:** the 1976 brokerage slip nobody read twice. The safest-seeming person on the porch has been playing the long game for fifty years — revealed in Lesson 5, and complicating Keisha's arc (rich Grandma exists, and still won't write the check).
+- **The season's slow-burn mystery:** the 1976 brokerage slip nobody read twice. The safest-seeming person on the porch has been playing the long game for fifty years — revealed in Episode 5, and complicating Keisha's arc (rich Grandma exists, and still won't write the check).
 
 ---
 
@@ -234,8 +234,8 @@ College-bound and grounded, facing real adult decisions *right now*. First-gen c
 - A lightweight **progress indicator**, persisted in `localStorage` (works normally on a real Pages deploy; keep persistence swappable).
 
 **Build order:**
-1. Lesson engine + character registry + one fully authored lesson (**Lesson 1 — Inflation**, built around Grandma's $100 pay envelope).
-2. The compound-interest interactive (Lesson 2) — its visual "wow" is the flagship moment.
+1. Lesson engine + character registry + one fully authored lesson (**Episode 1 — Inflation**, built around Grandma's $100 pay envelope).
+2. The compound-interest interactive (Episode 2) — its visual "wow" is the flagship moment.
 3. Remaining four investing lessons.
 4. Module wrapper: intro (the garage/pay-envelope scene), the $100 Challenge framing, and a closing capstone.
 
@@ -245,7 +245,7 @@ College-bound and grounded, facing real adult decisions *right now*. First-gen c
 
 **Escape hatch:** GitHub Pages can't run serverless functions. If Compound later needs a backend (accounts syncing progress across devices, analytics, email, anything with secrets), move the repo to **Cloudflare Pages** (or Netlify/Vercel) — same free static hosting and git-push deploy, with serverless functions available, and almost no code change.
 
-**First milestone:** a running local app with the lesson engine + Lesson 1 (Inflation) fully playable end-to-end — story beat, decision point, consequence, teaching, quiz — using Grandma's $100 as the hook.
+**First milestone:** a running local app with the lesson engine + Episode 1 (Inflation) fully playable end-to-end — story beat, decision point, consequence, teaching, quiz — using Grandma's $100 as the hook.
 
 ---
 
@@ -254,5 +254,5 @@ College-bound and grounded, facing real adult decisions *right now*. First-gen c
 - Exact dollar figure for Keisha's tuition gap.
 - Whether the $100 Challenge is simulated only, or optionally real/pooled.
 - Finalize Sofi's family business (food cart / cleaning service / salon) and Emily's specific home shock.
-- Grandma's two numbers, both computed in `finance.ts` from labeled constants: the hypothetical $100/month compounding figure (Lesson 2) and the realistic contribution history that lands her real portfolio at ~$1.7M (Lesson 5).
+- Grandma's two numbers, both computed in `finance.ts` from labeled constants: the hypothetical $100/month compounding figure (Episode 2) and the realistic contribution history that lands her real portfolio at ~$1.7M (Episode 5).
 - Custom domain vs. github.io subpath (affects the base-path config).

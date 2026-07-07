@@ -27,7 +27,7 @@ export function Home() {
         </h1>
         <p className="mt-4 max-w-xl text-lg text-ink-soft">
           They laughed. Then Grandma said what it could have become — and the
-          laughing stopped. Six lessons, one porch, four girls, and the $100
+          laughing stopped. Six episodes, one porch, four girls, and the $100
           Challenge: learn what money actually does, by choosing for the
           characters and watching it play out.
         </p>
@@ -35,12 +35,12 @@ export function Home() {
           No lectures. No accounts. No real money — just the part school skips.
         </p>
         <Link
-          to="/lesson/inflation"
+          to="/episode/inflation"
           className="mt-6 inline-block rounded-full bg-grove px-7 py-3 font-semibold text-paper hover:bg-ink"
         >
           {progress['lesson-01']?.completed
-            ? 'Replay Lesson 1 →'
-            : 'Start Lesson 1 →'}
+            ? 'Replay Episode 1 →'
+            : 'Start Episode 1 →'}
         </Link>
       </header>
 
@@ -49,7 +49,7 @@ export function Home() {
           The investing module
         </h2>
         <p className="mt-1 text-sm text-ink-soft">
-          Six lessons in one arc: problem → hope → vehicle → catch → fix →
+          Six episodes in one arc: problem → hope → vehicle → catch → fix →
           action. Each ~10 minutes.
         </p>
         <ol className="mt-5 space-y-3">
@@ -98,7 +98,7 @@ export function Home() {
             return (
               <li key={lesson.id}>
                 {available ? (
-                  <Link to={`/lesson/${lesson.slug}`} className="block">
+                  <Link to={`/episode/${lesson.slug}`} className="block">
                     {card}
                   </Link>
                 ) : (
