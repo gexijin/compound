@@ -17,7 +17,7 @@ export const lesson01: Lesson = {
   title: 'The $100 in the Garage',
   tagline: 'Inflation, or: why doing nothing with money is not actually doing nothing.',
   arcRole: 'problem',
-  minutes: 11,
+  minutes: 9,
   characters: ['maya', 'keisha', 'emily', 'sofi', 'nadia', 'elena'],
   status: 'available',
   beats: [
@@ -167,46 +167,23 @@ export const lesson01: Lesson = {
           speaker: 'elena',
           text: "This bill sat in a box for sixty years and became less. I'm done keeping it safe. So — it's yours now, all of you. The question is what you'll do with it.",
         },
-      ],
-    },
-    {
-      type: 'decision',
-      context: [
-        "The bill sits in the middle of the table. Sixty years old, still spendable, worth a tenth of what it was the day Grandma sealed the envelope.",
-        "Four girls, one bill, and Grandma watching with that look she has. What should they do with it?",
-      ],
-      prompt: "Choose for the club. The bill is theirs now — what happens to it?",
-      choices: [
         {
-          id: 'pizza',
-          label: "Spend it tonight — pizza on the porch, celebrate the find.",
-          consequence: [
-            "It's a great night. For one evening the bill finally does what money is for.",
-            "But notice whose logic that is: 'enjoy it while it's worth something' — the exact whisper from 1965, wearing new clothes. Grandma laughs harder than anyone. Then she points out that the bill waited sixty years, and it can wait one more week.",
-          ],
-          coda: "No shame in pizza. Just clock the pattern: that's the spend-it-now voice, and now you can hear it.",
+          speaker: 'maya',
+          text: "Easy. Pizza. Tonight. For one glorious evening, the bill finally does what money is for.",
         },
         {
-          id: 'back-in-box',
-          label: "Put it back in the envelope. It's Grandma's history — it feels wrong to touch.",
-          consequence: [
-            "The respectful choice. Also — look closely — the tin box choice, round two. Another sixty years of shrinking, but politely.",
-            "Grandma shakes her head slowly. 'I kept it safe for sixty years, mija. Safe is how it got small. Don't you dare put it back.'",
-          ],
-          coda: "Honoring the past doesn't mean repeating it. She kept the bill so you wouldn't have to keep it.",
+          speaker: 'elena',
+          text: "Ha — there it is. 'Enjoy it while it's worth something.' The exact whisper from 1965, wearing new clothes. That bill waited sixty years, mija. It can wait one more week.",
         },
         {
-          id: 'stake',
-          label: "Make it the stake. The bill becomes the seed of a summer challenge.",
-          consequence: [
-            "Nadia grins like she's been waiting all day for someone to say it.",
-            "The pact: every girl takes a symbolic $100 — like Grandma's — and spends the summer learning what a hundred dollars can actually become. Weekly, on this porch. The bill that lost sixty years gets a second chance, through them.",
-          ],
-          coda: "The money that sat out the whole game becomes the reason they get in it.",
+          speaker: 'nadia',
+          text: "Then here's the pact. Each of us takes a symbolic hundred — like Grandma's — and spends the summer learning what a hundred dollars can actually become. Weekly. This porch. Empanadas mandatory.",
+        },
+        {
+          speaker: 'narrator',
+          text: "The bill stayed on the table. The bill that sat out the whole game had just become the reason they got in it — and the club had a name before the streetlights came on. The $100 Challenge starts next week, with the force Nadia promised.",
         },
       ],
-      reveal:
-        "However the vote goes, Grandma settles it the same way: the bill stays on the table, the challenge is on, and the club has a name before the streetlights come on. The $100 Challenge starts next week — with the force Nadia promised.",
     },
     {
       type: 'quiz',
