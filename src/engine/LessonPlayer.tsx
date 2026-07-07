@@ -84,7 +84,7 @@ export function LessonPlayer({ lesson }: { lesson: Lesson }) {
         ))}
       </div>
 
-      <div className="rounded-3xl border-2 border-ink bg-paper p-6 sm:p-8">
+      <div className="relative rounded-3xl border-2 border-ink bg-paper p-6 sm:p-8">
         {beat.type === 'story' && <StoryView beat={beat} />}
         {beat.type === 'decision' && (
           <DecisionView
@@ -104,6 +104,15 @@ export function LessonPlayer({ lesson }: { lesson: Lesson }) {
             Continue →
           </button>
         )}
+
+        {/* Page ref for quick feedback, e.g. "1b" = lesson 1, second beat. */}
+        <span
+          aria-hidden="true"
+          className="absolute right-3 bottom-2 font-mono text-[10px] text-ink/30 select-none"
+        >
+          {lesson.number}
+          {String.fromCharCode(97 + index)}
+        </span>
       </div>
     </div>
   )

@@ -12,12 +12,20 @@ import {
 } from './finance'
 
 describe('burgersFor', () => {
-  it("Grandma's $100 bought 666 hamburgers in 1965", () => {
+  it("Grandma's $100 paycheck bought 666 hamburgers in 1965", () => {
     expect(burgersFor(100, 1965)).toBe(666)
   })
 
   it('the same $100 buys about 50 today', () => {
     expect(burgersFor(100, 2025)).toBe(50)
+  })
+
+  it('the forgotten $20 in the envelope bought 133 hamburgers in 1965', () => {
+    expect(burgersFor(20, 1965)).toBe(133)
+  })
+
+  it('the same $20 buys about 10 today (Lesson 1 quiz)', () => {
+    expect(burgersFor(20, 2025)).toBe(10)
   })
 })
 

@@ -1,14 +1,15 @@
 import type { Lesson } from '../schema'
 
 /** Lesson 1 — Inflation. Arc role: the problem (doing nothing loses money).
- * Anchor: Grandma Elena's 1965 pay envelope — $100 a month — and the actual
- * $100 bill still inside it. The bill seeds the season's $100 Challenge.
+ * Anchor: Grandma Elena's 1965 pay envelope — a stub showing $100 a month —
+ * and the $20 bill still inside it: one month's savings she meant to take to
+ * the bank and forgot. The paycheck seeds the season's $100 Challenge; the
+ * forgotten $20 is the accidental time capsule that teaches inflation.
  * Season plant: the 1976 brokerage slip in the passbook, which nobody reads
  * twice — it pays off in Lesson 5 when Elena is revealed as the club's quiet
- * millionaire (see characters.ts). The keepsake bill is her control group:
- * the one month's pay she never invested, kept to show what sitting still
- * costs. Nothing in this lesson may confirm or deny what she did with the
- * rest.
+ * millionaire (see characters.ts). The $20 is her control group: the one
+ * deposit that never got made. Nothing in this lesson may confirm or deny
+ * what she did with the rest.
  */
 export const lesson01: Lesson = {
   id: 'lesson-01',
@@ -35,7 +36,7 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'narrator',
-          text: "It was neither. Inside: a small bank passbook, soft at the corners, and a yellowed pay envelope. Typed across the front — JUNE 1965. WAGES: $100.00. And when Maya tipped the envelope, something slid out into her palm: a hundred-dollar bill. A real one. Sixty years old and crisp as Sunday.",
+          text: "It was neither. Inside: a small bank passbook, soft at the corners, and a yellowed pay envelope. Typed across the front — JUNE 1965. WAGES: $100.00. Inside, a pay stub itemizing a month of somebody's life in typewriter columns. And when Maya tipped the envelope, something else slid out into her palm: a twenty-dollar bill. A real one. Sixty years old and crisp as Sunday.",
         },
         {
           speaker: 'maya',
@@ -63,15 +64,15 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'elena',
-          text: "Laugh, go ahead. But that bill was worth more than you think when I sealed it in there — and it could have become more than you'd ever believe.",
+          text: "Laugh at the hundred, go ahead. It's the twenty that stings. That was supposed to go to the bank the Monday after payday. I missed the bus — and then I missed sixty years. It was worth more than you think back then, and it could have become more than you'd ever believe.",
         },
         {
           speaker: 'sofi',
-          text: "Wait — how can it be worth more than a hundred dollars? It says a hundred dollars on it.",
+          text: "But nothing happened to it, no? It's still twenty dollars. It says so right on it.",
         },
         {
           speaker: 'elena',
-          text: "That, mija, is exactly the right question. Sit. The boxes can wait.",
+          text: "'Still twenty dollars.' That, mija, is exactly the belief we're about to ruin. Sit. The boxes can wait.",
         },
       ],
     },
@@ -113,17 +114,26 @@ export const lesson01: Lesson = {
         },
       ],
       reveal:
-        "What did the real Elena do with those first envelopes? The tin box, at first. And after that — well. She'll tell that story when she's ready. What's certain is that one bill from the first summer never left the envelope at all: the one Maya is holding right now.",
+        "What did the real Elena do with those twenties? The tin box, at first, then the passbook. And after that — well. She'll tell that story when she's ready. What's certain is that one June, the twenty never made it anywhere at all: it's the one Maya is holding right now.",
     },
     {
       type: 'teaching',
       title: 'The invisible pickpocket',
       body: [
-        "Here's the thing nobody tells you straight: money sitting still is not standing still. Prices creep up almost every year — groceries, movie tickets, rent, everything. That creep has a name: inflation. It usually runs quiet, around 2–3% a year. Grandma's sixty years actually averaged closer to 4%.",
-        "A few percent sounds like nothing. It is not nothing. It compounds — each year's increase stacks on the last — and at 3% a year, prices roughly double every 24 years. A dollar that just sits there loses about half its buying power every 24 years. Same bill. Half the stuff.",
-        "Which brings us to the bill in Maya's hand. In 1965 it paid the rent — or bought 666 McDonald's hamburgers, back when a burger cost 15 cents. Today the same piece of paper buys about 50. Same bill, same number, six hundred fewer lunches. Don't take our word for it: guess first, then check.",
+        "Time to find out what sixty years in an envelope actually did to the twenty in Maya's hand. Forget percentages for a minute — we'll measure it in something that matters: lunch.",
       ],
-      interactives: ['then-vs-now', 'future-worth'],
+      interactives: ['then-vs-now'],
+      takeaway:
+        "The number on a bill is loyal — it still says 20, it still spends as 20. What it buys is not. Measure money in burgers, not numbers.",
+    },
+    {
+      type: 'teaching',
+      title: 'The pickpocket is still working',
+      body: [
+        "So what happened to the twenty? Nothing dramatic — that's the trick. Prices creep up almost every year: groceries, movie tickets, rent, everything. That creep has a name: inflation. It usually runs quiet, around 2–3% a year. Grandma's sixty years actually averaged closer to 4%.",
+        "A few percent sounds like nothing. It is not nothing. It compounds — each year's increase stacks on the last — and at 3% a year, prices roughly double every 24 years. A dollar that just sits there loses about half its buying power every 24 years. Same bill. Half the stuff. And this isn't a history lesson: it's happening, right now, to any money of yours that's sitting still.",
+      ],
+      interactives: ['future-worth'],
       takeaway:
         "Doing nothing with money isn't neutral — it's a slow loss. Your money is either outgrowing prices or falling behind them. There is no pause button.",
     },
@@ -161,11 +171,11 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'narrator',
-          text: "Then she did something nobody expected. She took the hundred-dollar bill from Maya, smoothed it flat, and laid it in the middle of the table.",
+          text: "Then she did something nobody expected. She took the twenty-dollar bill from Maya, smoothed it flat, and laid it in the middle of the table.",
         },
         {
           speaker: 'elena',
-          text: "This bill sat in a box for sixty years and became less. I'm done keeping it safe. So — it's yours now, all of you. The question is what you'll do with it.",
+          text: "This bill missed its bus to the bank sixty years ago, and it's been getting smaller ever since. It's done waiting. So — it's yours now, all of you. The question is what you'll do with it.",
         },
         {
           speaker: 'maya',
@@ -177,7 +187,7 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'nadia',
-          text: "Then here's the pact. Each of us takes a symbolic hundred — like Grandma's — and spends the summer learning what a hundred dollars can actually become. Weekly. This porch. Empanadas mandatory.",
+          text: "Then here's the pact. Each of us takes a symbolic hundred — one month of Grandma's 1965 pay — and spends the summer learning what a hundred dollars can actually become. Weekly. This porch. Empanadas mandatory.",
         },
         {
           speaker: 'narrator',
@@ -192,26 +202,26 @@ export const lesson01: Lesson = {
       questions: [
         {
           prompt:
-            "In 1965, Grandma's $100 bill bought 666 McDonald's hamburgers — they were 15¢ each. Today, that exact same bill buys about...",
+            "In 1965, the $20 in Grandma's envelope bought 133 McDonald's hamburgers — they were 15¢ each. Today, that exact same bill buys about...",
           options: [
             {
               id: 'a',
-              label: '666 burgers — a hundred dollars is a hundred dollars.',
+              label: '133 burgers — twenty dollars is twenty dollars.',
               feedback:
-                "The number on the bill is loyal — it still says 100 and still spends as 100. But at today's prices it buys about 50 burgers. The other six hundred lunches got picked off a few percent at a time, while the bill sat there looking exactly the same.",
+                "The number on the bill is loyal — it still says 20 and still spends as 20. But at today's prices it buys about 10 burgers. The other hundred-plus lunches got picked off a few percent at a time, while the bill sat there looking exactly the same.",
             },
             {
               id: 'b',
-              label: 'About 250 burgers.',
+              label: 'About 60 burgers.',
               feedback:
-                "Closer than most guesses, but still too generous. It's about 50. Burger math is brutal like that: same paper, same number, a tenth of the lunch.",
+                "Closer than most guesses, but still too generous. It's about 10. Burger math is brutal like that: same paper, same number, a tenth of the lunch.",
             },
             {
               id: 'c',
-              label: 'About 50 burgers.',
+              label: 'About 10 burgers.',
               correct: true,
               feedback:
-                "Right — from 666 lunches to 50. The bill didn't change; every price around it did. That gap is inflation's whole trick, and 'measure money in burgers, not numbers' will serve you for life.",
+                "Right — from 133 lunches to 10. The bill didn't change; every price around it did. That gap is inflation's whole trick, and 'measure money in burgers, not numbers' will serve you for life.",
             },
           ],
         },
