@@ -4,11 +4,6 @@
 
 export interface LessonProgress {
   completed: boolean
-  /** Correct-on-first-try count for the lesson quiz. */
-  quizScore?: number
-  quizTotal?: number
-  /** Choice the student made at each decision beat, keyed by beat index. */
-  choices?: Record<number, string>
 }
 
 export type ProgressMap = Record<string, LessonProgress>

@@ -3,11 +3,10 @@ import type { Choice, DecisionBeat } from '../content/schema'
 
 interface Props {
   beat: DecisionBeat
-  onDecided: (choiceId: string) => void
   onContinue: () => void
 }
 
-export function DecisionView({ beat, onDecided, onContinue }: Props) {
+export function DecisionView({ beat, onContinue }: Props) {
   const [chosen, setChosen] = useState<Choice | null>(null)
 
   return (
@@ -30,10 +29,7 @@ export function DecisionView({ beat, onDecided, onContinue }: Props) {
             <button
               key={choice.id}
               disabled={chosen !== null}
-              onClick={() => {
-                setChosen(choice)
-                onDecided(choice.id)
-              }}
+              onClick={() => setChosen(choice)}
               className={`w-full rounded-xl border-2 p-4 text-left transition-colors ${
                 isChosen
                   ? 'border-grove bg-grove text-paper'

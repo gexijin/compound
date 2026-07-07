@@ -1,4 +1,4 @@
-import type { Character, CharacterId, Speaker } from './schema'
+import type { Character, CharacterId } from './schema'
 
 export const characters: Record<CharacterId, Character> = {
   sofi: {
@@ -68,8 +68,4 @@ export const characters: Record<CharacterId, Character> = {
     voice: 'Dry, unhurried, lands the line that stops the room.',
     color: 'bg-ink',
   },
-}
-
-export function speakerName(speaker: Speaker): string {
-  return speaker === 'narrator' ? '' : characters[speaker].name
 }

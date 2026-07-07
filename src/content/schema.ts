@@ -1,9 +1,7 @@
 /** Shared content types for Compound lessons.
  *
  * Lessons are authored as data (one file per lesson) so story and quiz copy
- * can be edited without touching engine code. Media fields (image, audio) are
- * optional slots: the engine renders whatever is present, so lessons can ship
- * text-first and gain art/narration later with no code changes.
+ * can be edited without touching engine code.
  */
 
 export type CharacterId =
@@ -23,7 +21,6 @@ export interface Character {
   voice: string
   /** Tailwind-safe accent color token used for dialogue chips. */
   color: string
-  portrait?: string
 }
 
 export type Speaker = CharacterId | 'narrator'
@@ -38,8 +35,6 @@ export interface StoryBeat {
   /** Short scene-setting label, e.g. "Grandma Elena's garage — June". */
   scene?: string
   lines: DialogueLine[]
-  image?: string
-  audio?: string
 }
 
 export interface Choice {
@@ -59,7 +54,6 @@ export interface DecisionBeat {
   choices: Choice[]
   /** Revealed after any choice: what actually happened in the story. */
   reveal?: string
-  image?: string
 }
 
 export type InteractiveId = 'then-vs-now' | 'future-worth'
@@ -71,7 +65,6 @@ export interface TeachingBeat {
   /** Registered interactive components to embed, rendered in order. */
   interactives?: InteractiveId[]
   takeaway: string
-  image?: string
 }
 
 export interface QuizOption {

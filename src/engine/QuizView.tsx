@@ -45,16 +45,15 @@ export function QuizView({ beat, onComplete }: Props) {
       <div className="mt-4 space-y-3">
         {question.options.map((option) => {
           const isPicked = picked?.id === option.id
-          const showState = isPicked
           return (
             <button
               key={option.id}
               onClick={() => pick(option)}
               disabled={picked?.correct === true}
               className={`w-full rounded-xl border-2 p-4 text-left transition-colors ${
-                showState && option.correct
+                isPicked && option.correct
                   ? 'border-mint bg-mint/15'
-                  : showState
+                  : isPicked
                     ? 'border-coral bg-coral/10'
                     : 'border-ink/20 bg-paper hover:border-grove hover:bg-cream'
               }`}
