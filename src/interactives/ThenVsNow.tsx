@@ -20,11 +20,11 @@ const ITEMS = [
 ]
 
 const BURGER_GUESSES = [
-  { id: 'g130', label: 'About 130 — a twenty is a twenty' },
+  { id: 'g15', label: 'About 15' },
   { id: 'g60', label: 'About 60' },
-  { id: 'g10', label: 'About 10' },
+  { id: 'g130', label: 'About 130' },
 ]
-const RIGHT_BURGER_GUESS = 'g10'
+const RIGHT_BURGER_GUESS = 'g130'
 
 const VALUE_GUESSES = [
   { id: 'v15', label: 'About $15' },
@@ -64,100 +64,104 @@ function GuessButtons({
   )
 }
 
+/** Pictogram bar: one 🍔 per burger, wrapping into stacked rows. */
+function BurgerBar({ year, count }: { year: number; count: number }) {
+  return (
+    <div>
+      <div className="flex items-baseline justify-between font-display">
+        <span className="text-xl font-bold">{year}</span>
+        <span className="text-sm text-ink-soft">
+          $20 buys <strong>{count}</strong> 🍔
+        </span>
+      </div>
+      <div
+        role="img"
+        aria-label={`${count} hamburgers`}
+        className="mt-1 rounded-lg bg-paper p-2 text-sm leading-6 tracking-tight break-all ring-1 ring-ink/15"
+      >
+        {'🍔'.repeat(count)}
+      </div>
+    </div>
+  )
+}
+
 export function ThenVsNow() {
   const [burgerGuess, setBurgerGuess] = useState<string | null>(null)
   const [valueGuess, setValueGuess] = useState<string | null>(null)
 
   const burgersThen = burgersFor(20, START_YEAR)
   const burgersNow = burgersFor(20, END_YEAR)
-  // What today's ten-burger twenty cost at the 1965 counter: 10 × 15¢.
+  // What today's ten-burger $20 was worth at the 1965 counter.
   const nowInThenMoney = burgersNow * BURGER_1965
 
   return (
-    <div className="rounded-2xl border-2 border-ink bg-cream p-5 sm:p-6">
-      <h3 className="font-display text-lg font-bold">
-        First, a guess — no math allowed
-      </h3>
-      <p className="mt-1 text-sm text-ink-soft">
-        In {START_YEAR}, a McDonald's hamburger cost{' '}
-        {formatDollars(BURGER_1965, 2)}, so the twenty in Maya's hand bought{' '}
-        <strong>{burgersThen} of them</strong>. How many hamburgers does that
-        exact same bill buy today?
-      </p>
-      <GuessButtons
-        guesses={BURGER_GUESSES}
-        picked={burgerGuess}
-        onPick={setBurgerGuess}
-      />
+    <div className="space-y-6">
+      <div className="rounded-2xl border-2 border-ink bg-cream p-5 sm:p-6">
+        <h3 className="font-display text-lg font-bold">First, a guess</h3>
+        <p className="mt-1 text-sm text-ink-soft">
+          The $20 in Maya's hand, back on the day it missed the bus: how
+          many McDonald's hamburgers could it buy in {START_YEAR}?
+        </p>
+        <GuessButtons
+          guesses={BURGER_GUESSES}
+          picked={burgerGuess}
+          onPick={setBurgerGuess}
+        />
+
+        {burgerGuess && (
+          <div className="mt-5 border-t border-ink/10 pt-5">
+            <p className="text-sm">
+              {burgerGuess === RIGHT_BURGER_GUESS
+                ? 'Good instincts: '
+                : 'Most people guess way low: '}
+              <strong className="text-grove">
+                {burgersThen} hamburgers
+              </strong>{' '}
+              — a burger cost about{' '}
+              <strong>{formatDollars(BURGER_1965, 2)}</strong> in {START_YEAR}.
+              Today a hamburger runs about{' '}
+              <strong>{formatDollars(BURGER_2025)}</strong> — the price is up{' '}
+              <strong>{(BURGER_2025 / BURGER_1965).toFixed(1)}×</strong> — so
+              the same $20 bill only buys {burgersNow}:
+            </p>
+            <div className="mt-4 space-y-4">
+              <BurgerBar year={START_YEAR} count={burgersThen} />
+              <BurgerBar year={END_YEAR} count={burgersNow} />
+            </div>
+          </div>
+        )}
+      </div>
 
       {burgerGuess && (
-        <div className="mt-5 border-t border-ink/10 pt-5">
-          <p className="text-sm">
-            {burgerGuess === RIGHT_BURGER_GUESS
-              ? 'Good instincts: '
-              : 'Almost everyone guesses high. '}
-            about <strong className="text-grove">{burgersNow} hamburgers</strong>.
-            Same paper, same number on it — {burgersThen - burgersNow} fewer
-            lunches.
+        <div className="rounded-2xl border-2 border-ink bg-cream p-5 sm:p-6">
+          <h3 className="font-display text-lg font-bold">
+            Now flip it — how much is today's $20 worth in {START_YEAR} money?
+          </h3>
+          <p className="mt-1 text-sm text-ink-soft">
+            Try to calculate how much it would cost to buy the same number of
+            hamburgers in {START_YEAR}.
           </p>
-
-          <div className="mt-4 space-y-3">
-            {[
-              { year: START_YEAR, count: burgersThen },
-              { year: END_YEAR, count: burgersNow },
-            ].map(({ year, count }) => (
-              <div key={year}>
-                <div className="flex items-baseline justify-between font-display">
-                  <span className="text-xl font-bold">{year}</span>
-                  <span className="text-sm text-ink-soft">
-                    $20 at the burger counter
-                  </span>
-                </div>
-                <div className="mt-1 h-10 w-full overflow-hidden rounded-lg bg-paper ring-1 ring-ink/15">
-                  <div
-                    className="flex h-full items-center justify-end rounded-lg bg-grove pr-3"
-                    style={{
-                      width: `${Math.max((count / burgersThen) * 100, 11)}%`,
-                    }}
-                  >
-                    <span className="font-display text-sm font-bold whitespace-nowrap text-lime">
-                      {count} 🍔
-                    </span>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
-
-          <div className="mt-6">
-            <h4 className="font-display text-base font-bold">
-              Now flip it — calculator allowed
-            </h4>
-            <p className="mt-1 text-sm text-ink-soft">
-              Today's $20 buys {burgersNow} burgers. At {START_YEAR} prices,
-              those same {burgersNow} burgers cost {burgersNow} ×{' '}
-              {formatDollars(BURGER_1965, 2)}. Punch it into a calculator: in{' '}
-              {START_YEAR} money, today's twenty is really worth...
-            </p>
-            <GuessButtons
-              guesses={VALUE_GUESSES}
-              picked={valueGuess}
-              onPick={setValueGuess}
-            />
-          </div>
+          <GuessButtons
+            guesses={VALUE_GUESSES}
+            picked={valueGuess}
+            onPick={setValueGuess}
+          />
 
           {valueGuess && (
             <div className="mt-5 border-t border-ink/10 pt-5">
               <p className="text-sm">
                 {valueGuess === RIGHT_VALUE_GUESS
-                  ? 'You did the math: '
-                  : `It's ${burgersNow} × ${formatDollars(BURGER_1965, 2)} = `}
+                  ? 'Nailed it. Here’s the math: '
+                  : 'Here’s the math: '}
+                today's $20 buys {burgersNow} burgers, and in {START_YEAR}{' '}
+                those {burgersNow} burgers cost {burgersNow} ×{' '}
+                {formatDollars(BURGER_1965, 2)} ={' '}
                 <strong className="text-grove">
                   {formatDollars(nowInThenMoney, 2)}
                 </strong>
-                . Hand a {START_YEAR} lunch counter a dollar-fifty and you've
-                matched everything today's twenty can do. Sixty years in an
-                envelope quietly turned a $20 into a{' '}
+                . Everything today's $20 can buy, $1.50 bought in{' '}
+                {START_YEAR}. 60 years in an envelope quietly turned a $20
+                into a{' '}
                 <strong>
                   {formatDollars(nowInThenMoney, 2)} bill wearing a $20 costume
                 </strong>

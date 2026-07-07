@@ -36,7 +36,7 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'narrator',
-          text: "It was neither. Inside: a small bank passbook, soft at the corners, and a yellowed pay envelope. Typed across the front — JUNE 1965. WAGES: $100.00. Inside, a pay stub itemizing a month of somebody's life in typewriter columns. And when Maya tipped the envelope, something else slid out into her palm: a twenty-dollar bill. A real one. Sixty years old and crisp as Sunday.",
+          text: "It was neither. Inside: a small bank passbook, soft at the corners, and a yellowed pay envelope. Typed across the front — JUNE 1965. WAGES: $100.00. Inside, a pay stub itemizing a month of somebody's life in typewriter columns. And when Maya tipped the envelope, something else slid out into her palm: a $20 bill. A real one. 60 years old and crisp as Sunday.",
         },
         {
           speaker: 'maya',
@@ -64,15 +64,15 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'elena',
-          text: "Laugh at the hundred, go ahead. It's the twenty that stings. That was supposed to go to the bank the Monday after payday. I missed the bus — and then I missed sixty years. It was worth more than you think back then, and it could have become more than you'd ever believe.",
+          text: "Laugh at the hundred, go ahead. It's the $20 that stings. That was supposed to go to the bank the Monday after payday. I missed the bus — and then I missed 60 years. It was worth more than you think back then, and it could have become more than you'd ever believe.",
         },
         {
           speaker: 'sofi',
-          text: "But nothing happened to it, no? It's still twenty dollars. It says so right on it.",
+          text: "But nothing happened to it, no? It's still $20. It says so right on it.",
         },
         {
           speaker: 'elena',
-          text: "'Still twenty dollars.' That, mija, is exactly the belief we're about to ruin. Sit. The boxes can wait.",
+          text: "'Still $20.' That, mija, is exactly the belief we're about to ruin. Sit. The boxes can wait.",
         },
       ],
     },
@@ -89,7 +89,7 @@ export const lesson01: Lesson = {
           id: 'tin-box',
           label: 'The tin box under the bed. Banks charge fees; the box never has.',
           consequence: [
-            "The box never lied to her. Sixty years later, every bill she put in is still there — crisp, safe, faithful. Not one dollar lost to a fee, a crash, or a scam.",
+            "The box never lied to her. 60 years later, every bill she put in is still there — crisp, safe, faithful. Not one dollar lost to a fee, a crash, or a scam.",
             "But run the tape forward. The $20 that bought a week of groceries in 1965 buys about two bags of chips and a sad apple today. The box protected the paper perfectly — and the invisible pickpocket took about nine-tenths of what the paper could buy.",
           ],
           coda: 'Nothing was stolen. Everything was lost slowly. That’s the trick.',
@@ -108,29 +108,29 @@ export const lesson01: Lesson = {
           label: "Spend it now. Prices only go up — enjoy it while it's worth something.",
           consequence: [
             "Honestly? She'd have had some great Saturdays. Records, dresses, road trips. Money is for living, and 1965 Elena living her life is not a tragedy.",
-            "But sixty years of $20s is $14,400 that never got a chance to become anything. The spending logic — 'prices only go up, so buy now' — is inflation whispering in your ear. It's not wrong about prices. It's wrong about what money could do instead.",
+            "But 60 years of $20s is $14,400 that never got a chance to become anything. The spending logic — 'prices only go up, so buy now' — is inflation whispering in your ear. It's not wrong about prices. It's wrong about what money could do instead.",
           ],
           coda: 'Spending isn’t the villain. Spending everything, always, means your money never gets a job.',
         },
       ],
       reveal:
-        "What did the real Elena do with those twenties? The tin box, at first, then the passbook. And after that — well. She'll tell that story when she's ready. What's certain is that one June, the twenty never made it anywhere at all: it's the one Maya is holding right now.",
+        "What did the real Elena do with those $20s? The tin box, at first, then the passbook. And after that — well. She'll tell that story when she's ready. What's certain is that one June, the $20 never made it anywhere at all: it's the one Maya is holding right now.",
     },
     {
       type: 'teaching',
       title: 'The invisible pickpocket',
       body: [
-        "Time to find out what sixty years in an envelope actually did to the twenty in Maya's hand. Forget percentages for a minute — we'll measure it in something that matters: lunch.",
+        "Time to find out what 60 years in an envelope actually did to the $20 in Maya's hand. ",
       ],
       interactives: ['then-vs-now'],
       takeaway:
-        "The number on a bill is loyal — it still says 20, it still spends as 20. What it buys is not. Measure money in burgers, not numbers.",
+        "The buying power of cash shrinks over time. The number on the bill stays loyal — what it buys does not.",
     },
     {
       type: 'teaching',
       title: 'The pickpocket is still working',
       body: [
-        "So what happened to the twenty? Nothing dramatic — that's the trick. Prices creep up almost every year: groceries, movie tickets, rent, everything. That creep has a name: inflation. It usually runs quiet, around 2–3% a year. Grandma's sixty years actually averaged closer to 4%.",
+        "So what happened to the $20? Nothing dramatic — that's the trick. Prices creep up almost every year: groceries, movie tickets, rent, everything. That creep has a name: inflation. It usually runs quiet, around 2–3% a year. Grandma's 60 years actually averaged closer to 4%.",
         "A few percent sounds like nothing. It is not nothing. It compounds — each year's increase stacks on the last — and at 3% a year, prices roughly double every 24 years. A dollar that just sits there loses about half its buying power every 24 years. Same bill. Half the stuff. And this isn't a history lesson: it's happening, right now, to any money of yours that's sitting still.",
       ],
       interactives: ['future-worth'],
@@ -171,11 +171,11 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'narrator',
-          text: "Then she did something nobody expected. She took the twenty-dollar bill from Maya, smoothed it flat, and laid it in the middle of the table.",
+          text: "Then she did something nobody expected. She took the $20 bill from Maya, smoothed it flat, and laid it in the middle of the table.",
         },
         {
           speaker: 'elena',
-          text: "This bill missed its bus to the bank sixty years ago, and it's been getting smaller ever since. It's done waiting. So — it's yours now, all of you. The question is what you'll do with it.",
+          text: "This bill missed its bus to the bank 60 years ago, and it's been getting smaller ever since. It's done waiting. So — it's yours now, all of you. The question is what you'll do with it.",
         },
         {
           speaker: 'maya',
@@ -183,7 +183,7 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'elena',
-          text: "Ha — there it is. 'Enjoy it while it's worth something.' The exact whisper from 1965, wearing new clothes. That bill waited sixty years, mija. It can wait one more week.",
+          text: "Ha — there it is. 'Enjoy it while it's worth something.' The exact whisper from 1965, wearing new clothes. That bill waited 60 years, mija. It can wait one more week.",
         },
         {
           speaker: 'nadia',
@@ -206,7 +206,7 @@ export const lesson01: Lesson = {
           options: [
             {
               id: 'a',
-              label: '133 burgers — twenty dollars is twenty dollars.',
+              label: '133 burgers — $20 is $20.',
               feedback:
                 "The number on the bill is loyal — it still says 20 and still spends as 20. But at today's prices it buys about 10 burgers. The other hundred-plus lunches got picked off a few percent at a time, while the bill sat there looking exactly the same.",
             },
