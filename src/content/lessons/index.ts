@@ -1,6 +1,7 @@
 import type { Lesson } from '../schema'
 import { lesson01 } from './lesson-01-inflation'
 import { lesson02 } from './lesson-02-compound-interest'
+import { lesson03 } from './lesson-03-what-is-a-stock'
 
 /** The investing module — six episodes, one story arc:
  * problem → hope → vehicle → catch → fix → action.
@@ -8,22 +9,7 @@ import { lesson02 } from './lesson-02-compound-interest'
 export const lessons: Lesson[] = [
   lesson01,
   lesson02,
-  {
-    id: 'lesson-03',
-    slug: 'what-is-a-stock',
-    number: 3,
-    title: 'A Slice, Not a Ticket',
-    tagline: 'What a share of stock actually is (hint: not a lottery ticket).',
-    arcRole: 'vehicle',
-    minutes: 9,
-    // B-plot artifact: an old paper stock certificate tucked in the passbook
-    // from the Ep 1 box — what a share physically *was*: a printed slice of
-    // a company. Elena stays off-stage; Nadia voices the teaching (voicedBy).
-    characters: ['maya', 'sofi', 'nadia'],
-    status: 'coming-soon',
-    porchRule: 'Buy the slice, not the ticket.',
-    beats: [],
-  },
+  lesson03,
   {
     id: 'lesson-04',
     slug: 'risk-and-diversification',

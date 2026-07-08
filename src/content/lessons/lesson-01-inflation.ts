@@ -15,7 +15,7 @@ export const lesson01: Lesson = {
   id: 'lesson-01',
   slug: 'inflation',
   number: 1,
-  title: 'The $100 in the Garage',
+  title: 'The $20 in the Garage',
   tagline: 'Inflation, or: why doing nothing with money is not actually doing nothing.',
   arcRole: 'problem',
   minutes: 9,

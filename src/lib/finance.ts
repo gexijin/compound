@@ -141,6 +141,21 @@ export function totalDeposited(payment: number, years: number): number {
   return payment * years * 12
 }
 
+/** Powerball jackpot odds, as documented by the lottery itself:
+ * 1 in 292,201,338. Episode 3's contrast — a ticket is a bet that needs
+ * losers; a share is ownership that doesn't. */
+export const POWERBALL_JACKPOT_ODDS_DENOM = 292_201_338
+
+/** Your cut when a business's profit is split across `totalShares` and you
+ * own `sharesOwned` — Episode 3's shop math (dollar amounts illustrative). */
+export function sliceOfProfit(
+  profit: number,
+  totalShares: number,
+  sharesOwned: number,
+): number {
+  return (profit / totalShares) * sharesOwned
+}
+
 export function formatDollars(n: number, decimals = 0): string {
   return n.toLocaleString('en-US', {
     style: 'currency',

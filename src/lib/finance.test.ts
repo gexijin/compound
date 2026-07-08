@@ -15,7 +15,9 @@ import {
   futureValueLump,
   futureValueMonthly,
   inflate1965ToToday,
+  POWERBALL_JACKPOT_ODDS_DENOM,
   purchasingPower,
+  sliceOfProfit,
   todayIn1965Dollars,
   totalDeposited,
 } from './finance'
@@ -188,6 +190,21 @@ describe('Episode 2 — compound growth (7% ≈ long-run stocks after inflation)
     const gain = futureValueMonthly(25, 1) - totalDeposited(25, 1)
     expect(gain).toBeGreaterThan(8)
     expect(gain).toBeLessThan(11)
+  })
+})
+
+describe('Episode 3 — slices and tickets', () => {
+  it("one slice of Maya's 100-slice shop gets 40¢ of a $40 profit month", () => {
+    expect(sliceOfProfit(40, 100, 1)).toBeCloseTo(0.4, 6)
+    expect(sliceOfProfit(40, 100, 10)).toBeCloseTo(4, 6)
+  })
+
+  it('owning all the slices is just the whole profit', () => {
+    expect(sliceOfProfit(40, 100, 100)).toBe(40)
+  })
+
+  it('the Powerball jackpot odds quoted in the lesson: 1 in ~292 million', () => {
+    expect(POWERBALL_JACKPOT_ODDS_DENOM).toBe(292_201_338)
   })
 })
 
