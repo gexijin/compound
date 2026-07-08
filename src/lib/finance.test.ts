@@ -12,9 +12,14 @@ import {
   burgersFor,
   doublingYears,
   drawdown1973to74,
+  elenaContributionsTotal,
+  elenaPortfolio2026,
   fairRepayment2020,
+  feeDrag,
   gainToRecover,
   troughToTodayMultiple,
+  twentyInIndexFrom1976,
+  twentyInPassbook,
   futureValueCoast,
   futureValueLump,
   futureValueMonthly,
@@ -231,6 +236,43 @@ describe('Episode 4 — risk and diversification', () => {
   it('one of ten holdings going to zero is a −10% bruise, not a −100% verdict', () => {
     expect(basketLossOneZero(10)).toBeCloseTo(0.1, 6)
     expect(basketLossOneZero(1)).toBe(1)
+  })
+})
+
+describe('Episode 5 — Elena\'s portfolio and the $20 three ways', () => {
+  it('her lifetime deposits total exactly $84,000', () => {
+    expect(elenaContributionsTotal()).toBe(84_000)
+  })
+
+  it('rising contributions at index returns land near $1.7M by 2026', () => {
+    const v = elenaPortfolio2026()
+    expect(v).toBeGreaterThan(1_600_000)
+    expect(v).toBeLessThan(1_750_000)
+    // The exact figure the porch computes in Episode 5 ("$1,684,185").
+    expect(Math.round(v)).toBe(1_684_185)
+  })
+
+  it('the pot is about 20× what she put in — time did the rest', () => {
+    expect(elenaPortfolio2026() / elenaContributionsTotal()).toBeGreaterThan(15)
+  })
+
+  it('the $20 in a passbook for 60 years ≈ $210 — roughly treading water', () => {
+    expect(twentyInPassbook()).toBeGreaterThan(200)
+    expect(twentyInPassbook()).toBeLessThan(220)
+    // Matching its 1965 buying power would take ~$204.
+    expect(inflate1965ToToday(20)).toBeGreaterThan(195)
+    expect(inflate1965ToToday(20)).toBeLessThan(215)
+  })
+
+  it("the $20 riding Elena's 1976 buy for 50 years ≈ $2,945", () => {
+    expect(twentyInIndexFrom1976()).toBeGreaterThan(2_850)
+    expect(twentyInIndexFrom1976()).toBeLessThan(3_050)
+  })
+
+  it('a 1% yearly fee devours about 37% of the pot over 50 years', () => {
+    expect(feeDrag(0.01, 50)).toBeGreaterThan(0.35)
+    expect(feeDrag(0.01, 50)).toBeLessThan(0.38)
+    expect(feeDrag(0, 50)).toBe(0)
   })
 })
 

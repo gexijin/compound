@@ -187,6 +187,77 @@ export function basketLossOneZero(n: number): number {
   return 1 / n
 }
 
+/** S&P 500 total return (dividends reinvested), annualized over 1976–2026 —
+ * the span of Elena's investing life. The realized figure is ~11–12%/yr;
+ * 10.5% is a conservative round-down so her number under-promises. */
+export const INDEX_RETURN_1976_2026 = 0.105
+
+/** U.S. CPI inflation in 1974 (annual average ≈ 11%) — the year that was
+ * quietly eating Elena's passbook decade in plain sight. */
+export const INFLATION_1974 = 0.11
+
+/** Share of U.S. large-cap stock-picking funds that trailed the S&P 500
+ * over 15 years — roughly nine in ten (SPIVA scorecards, approximate). */
+export const PROS_TRAILING_INDEX_15Y = 0.9
+
+/** Elena's contribution history, rising with her wages — the labeled,
+ * realistic schedule behind the Episode 5 reveal. Flat $20/month never gets
+ * to $1.7M; fifty years of rising deposits at index returns does. She stops
+ * adding at retirement (2010) and just holds. */
+export const ELENA_CONTRIBUTION_TIERS = [
+  { from: 1976, to: 1985, monthly: 50 },
+  { from: 1986, to: 1995, monthly: 150 },
+  { from: 1996, to: 2005, monthly: 300 },
+  { from: 2006, to: 2010, monthly: 400 },
+] as const
+
+export const ELENA_START_YEAR = 1976
+export const ELENA_END_YEAR = 2026
+
+/** Everything Elena ever deposited: $84,000 over 35 contribution years. */
+export function elenaContributionsTotal(): number {
+  return ELENA_CONTRIBUTION_TIERS.reduce(
+    (sum, t) => sum + t.monthly * 12 * (t.to - t.from + 1),
+    0,
+  )
+}
+
+/** Elena's portfolio at the 2026 reveal: contributions credited at each
+ * year's end, grown at INDEX_RETURN_1976_2026, never sold. ≈ $1.68M. */
+export function elenaPortfolio2026(): number {
+  let value = 0
+  for (let year = ELENA_START_YEAR; year < ELENA_END_YEAR; year++) {
+    value *= 1 + INDEX_RETURN_1976_2026
+    const tier = ELENA_CONTRIBUTION_TIERS.find(
+      (t) => year >= t.from && year <= t.to,
+    )
+    if (tier) value += tier.monthly * 12
+  }
+  return value
+}
+
+/** Illustrative passbook savings rate for the $20's three-paths comparison —
+ * a blend of the ~5% regulated era and the near-zero recent decades. */
+export const PASSBOOK_RATE = 0.04
+
+/** Path two for the forgotten $20: deposited in 1965, left 60 years ≈ $210 —
+ * barely ahead of the ~$204 needed to match its 1965 buying power. */
+export function twentyInPassbook(): number {
+  return futureValueLump(20, YEARS_1965_TO_2025, PASSBOOK_RATE)
+}
+
+/** Path three: the $20 rides Elena's 1976 purchase for 50 years ≈ $2,945. */
+export function twentyInIndexFrom1976(): number {
+  return futureValueLump(20, ELENA_END_YEAR - ELENA_START_YEAR, INDEX_RETURN_1976_2026)
+}
+
+/** Fraction of the final pot a yearly fee devours over time: at index-like
+ * returns, a 1% fee costs ~37% of the end value over 50 years. Fees
+ * compound too — in reverse. */
+export function feeDrag(fee: number, years: number, rate: number = INDEX_RETURN_1976_2026): number {
+  return 1 - Math.pow((1 + rate - fee) / (1 + rate), years)
+}
+
 export function formatDollars(n: number, decimals = 0): string {
   return n.toLocaleString('en-US', {
     style: 'currency',
