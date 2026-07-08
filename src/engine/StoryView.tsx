@@ -1,5 +1,6 @@
 import type { StoryBeat } from '../content/schema'
 import { characters } from '../content/characters'
+import { CharacterChip } from './CharacterChip'
 
 export function StoryView({ beat }: { beat: StoryBeat }) {
   return (
@@ -17,12 +18,7 @@ export function StoryView({ beat }: { beat: StoryBeat }) {
             </p>
           ) : (
             <div key={i} className="flex gap-3">
-              <span
-                className={`${characters[line.speaker].color} mt-1 flex h-8 w-8 shrink-0 items-center justify-center rounded-full font-display text-sm font-bold text-paper`}
-                title={characters[line.speaker].name}
-              >
-                {characters[line.speaker].name[0]}
-              </span>
+              <CharacterChip id={line.speaker} />
               <div>
                 <span className="text-xs font-semibold tracking-wide text-ink-soft uppercase">
                   {characters[line.speaker].name}

@@ -20,7 +20,7 @@ const RATES = [
     rate: REALIZED_INFLATION_2020_2025,
     label: '4.5% — real 2020–2025',
   },
-  { id: 'argentina', rate: 0.3, label: '~30% — Argentina, 2026' },
+  { id: 'argentina', rate: 0.3, label: '~30% — Argentina, lately' },
 ]
 
 const GUESSES = [

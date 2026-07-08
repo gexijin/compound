@@ -17,6 +17,7 @@ export const lessons: Lesson[] = [
     minutes: 10,
     characters: ['elena', 'nadia', 'maya', 'emily'],
     status: 'coming-soon',
+    porchRule: 'Small and early beats big and late.',
     beats: [],
   },
   {
@@ -27,8 +28,12 @@ export const lessons: Lesson[] = [
     tagline: 'What a share of stock actually is (hint: not a lottery ticket).',
     arcRole: 'vehicle',
     minutes: 9,
+    // B-plot artifact: an old paper stock certificate tucked in the passbook
+    // from the Ep 1 box — what a share physically *was*: a printed slice of
+    // a company. Elena stays off-stage; Nadia voices the teaching (voicedBy).
     characters: ['maya', 'sofi', 'nadia'],
     status: 'coming-soon',
+    porchRule: 'Buy the slice, not the ticket.',
     beats: [],
   },
   {
@@ -39,8 +44,13 @@ export const lessons: Lesson[] = [
     tagline: 'Risk is normal. Betting everything on one company is not.',
     arcRole: 'catch',
     minutes: 9,
+    // B-plot artifact: a 1974 brokerage statement (or newspaper clipping)
+    // showing the crash halving the market, with Elena's handwriting in the
+    // margin — her voice arrives in writing while she's off-stage. She held
+    // through this; Ep 5 reveals why that mattered.
     characters: ['maya', 'keisha', 'emily'],
     status: 'coming-soon',
+    porchRule: 'All the eggs, never one basket.',
     beats: [],
   },
   {
@@ -55,6 +65,7 @@ export const lessons: Lesson[] = [
     // she's revealed as the club's quiet millionaire (see characters.ts).
     characters: ['nadia', 'emily', 'sofi', 'elena'],
     status: 'coming-soon',
+    porchRule: 'Boring wins — own everything, hold on.',
     beats: [],
   },
   {
@@ -67,6 +78,7 @@ export const lessons: Lesson[] = [
     minutes: 11,
     characters: ['keisha', 'maya', 'nadia', 'elena'],
     status: 'coming-soon',
+    porchRule: 'Your name goes on your money.',
     beats: [],
   },
 ]

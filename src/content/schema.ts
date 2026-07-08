@@ -62,6 +62,9 @@ export interface TeachingBeat {
   type: 'teaching'
   title: string
   body: string[]
+  /** When set, the teaching is delivered in this character's voice —
+   * body written as their speech, takeaway attributed to them. */
+  voicedBy?: CharacterId
   /** Registered interactive components to embed, rendered in order. */
   interactives?: InteractiveId[]
   takeaway: string
@@ -106,5 +109,8 @@ export interface Lesson {
   minutes: number
   characters: CharacterId[]
   status: 'available' | 'coming-soon'
+  /** Porch Rule #N — the episode's one-line maxim, written on the back of
+   * the 1965 pay envelope at the episode's close. Numbered by `number`. */
+  porchRule?: string
   beats: Beat[]
 }

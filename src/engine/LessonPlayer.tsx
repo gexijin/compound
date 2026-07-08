@@ -41,9 +41,22 @@ export function LessonPlayer({ lesson }: { lesson: Lesson }) {
         <p className="mt-2 text-ink-soft">
           {result.score} of {result.total} on the first try —{' '}
           {result.score === result.total
-            ? 'Grandma would deal you in.'
+            ? 'Grandma would slide you the empanadas.'
             : 'and the ones you missed are the ones that stick.'}
         </p>
+        {lesson.porchRule && (
+          <div className="mx-auto mt-6 max-w-md rounded-2xl border-2 border-dashed border-ink/30 bg-cream p-5 text-left">
+            <p className="font-mono text-sm tracking-wide text-ink-soft uppercase">
+              Porch Rule #{lesson.number}
+            </p>
+            <p className="mt-2 font-display text-lg font-bold">
+              {lesson.porchRule}
+            </p>
+            <p className="mt-1 text-xs text-ink-soft">
+              Written on the back of the 1965 pay envelope.
+            </p>
+          </div>
+        )}
         {next && (
           <div className="mx-auto mt-6 max-w-md rounded-2xl bg-cream p-5 text-left">
             <p className="font-display text-sm tracking-wide text-ink-soft uppercase">

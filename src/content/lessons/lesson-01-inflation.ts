@@ -21,6 +21,7 @@ export const lesson01: Lesson = {
   minutes: 9,
   characters: ['maya', 'keisha', 'emily', 'sofi', 'nadia', 'elena'],
   status: 'available',
+  porchRule: 'Money sitting still is money shrinking.',
   beats: [
     {
       type: 'story',
@@ -28,7 +29,7 @@ export const lesson01: Lesson = {
       lines: [
         {
           speaker: 'narrator',
-          text: "The deal was simple: help Grandma Elena clear out the garage, get paid in lemonade and her famous empanadas. Four girls, one hot morning, forty years of boxes.",
+          text: "The deal was simple: help Grandma Elena clear out the garage, get paid in lemonade and her famous empanadas. Four girls, one hot morning, sixty years of boxes.",
         },
         {
           speaker: 'maya',
@@ -119,8 +120,9 @@ export const lesson01: Lesson = {
     {
       type: 'teaching',
       title: 'The invisible pickpocket',
+      voicedBy: 'elena',
       body: [
-        "Time to find out what 60 years in an envelope actually did to the $20 in Maya's hand. ",
+        "Go ahead — ask the machine what 60 years in that envelope did to my twenty. I had to live it one grocery run at a time. You get to watch it happen all at once. Lucky you.",
       ],
       interactives: ['then-vs-now'],
       takeaway:
@@ -129,9 +131,10 @@ export const lesson01: Lesson = {
     {
       type: 'teaching',
       title: 'The pickpocket is still working',
+      voicedBy: 'elena',
       body: [
-        "So what happened to the $20? Nothing dramatic — that's the trick. Prices creep up almost every year: groceries, movie tickets, rent, everything. That creep has a name: inflation. It usually runs quiet, around 2–3% a year. Grandma's 60 years actually averaged closer to 4%.",
-        "A few percent sounds like nothing. It is not nothing. It compounds — each year's increase stacks on the last — and at 3% a year, prices roughly double every 24 years. A dollar that just sits there loses about half its buying power every 24 years. Same bill. Half the stuff. And this isn't a history lesson: it's happening, right now, to any money of yours that's sitting still.",
+        "So what happened to my $20? Nothing dramatic. That is the trick, mija — nothing dramatic ever happens. Prices creep up almost every year: groceries, movie tickets, rent, everything. The creep has a name — inflation — and it runs quiet, around 2–3% a year. My 60 years averaged closer to 4%. I never once saw it move.",
+        "A few percent sounds like nothing. It is not nothing. It compounds — each year's increase stacks on the last — and at 3% a year, prices roughly double every 24 years. A dollar that just sits there loses about half its buying power every 24 years. Same bill. Half the stuff. And don't look at me like this is a history lesson. It is happening to your babysitting money right now, tonight, in the drawer.",
       ],
       interactives: ['future-worth'],
       takeaway:
@@ -183,15 +186,31 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'elena',
-          text: "Ha — there it is. 'Enjoy it while it's worth something.' The exact whisper from 1965, wearing new clothes. That bill waited 60 years, mija. It can wait one more week.",
+          text: "Ha — there it is. 'Enjoy it while it's worth something.' The exact whisper from 1965, wearing new clothes. That bill waited 60 years. It can wait one more week.",
         },
         {
           speaker: 'nadia',
           text: "Then here's the pact. Each of us takes a symbolic hundred — one month of Grandma's 1965 pay — and spends the summer learning what a hundred dollars can actually become. Weekly. This porch. Empanadas mandatory.",
         },
         {
+          speaker: 'keisha',
+          text: "If we're doing this, we're writing it down. I don't trust lessons that only live in feelings.",
+        },
+        {
           speaker: 'narrator',
-          text: "The bill stayed on the table. The bill that sat out the whole game had just become the reason they got in it — and the club had a name before the streetlights came on. The $100 Challenge starts next week, with the force Nadia promised.",
+          text: "She flipped the 1965 pay envelope over, smoothed it against the table, and wrote across the back in block letters: PORCH RULES. Then, underneath: #1 — and looked up, pen waiting.",
+        },
+        {
+          speaker: 'emily',
+          text: "Money sitting still... is money shrinking.",
+        },
+        {
+          speaker: 'elena',
+          text: "Sixty years, and it fits on the back of the envelope it happened to. Write it down, Keisha.",
+        },
+        {
+          speaker: 'narrator',
+          text: "The bill stayed on the table. The bill that sat out the whole game had just become the reason they got in it — and the club had a name, a ledger, and a rule before the streetlights came on. The $100 Challenge starts next week, with the force Nadia promised.",
         },
       ],
     },
