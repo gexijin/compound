@@ -24,6 +24,7 @@ import {
   futureValueLump,
   futureValueMonthly,
   inflate1965ToToday,
+  maxRothContribution,
   POWERBALL_JACKPOT_ODDS_DENOM,
   purchasingPower,
   sliceOfProfit,
@@ -273,6 +274,29 @@ describe('Episode 5 — Elena\'s portfolio and the $20 three ways', () => {
     expect(feeDrag(0.01, 50)).toBeGreaterThan(0.35)
     expect(feeDrag(0.01, 50)).toBeLessThan(0.38)
     expect(feeDrag(0, 50)).toBe(0)
+  })
+})
+
+describe('Episode 6 — accounts and the Roth rule', () => {
+  it('contribute up to min(earned income, limit): $0 / $500 / $10k earnings', () => {
+    expect(maxRothContribution(0)).toBe(0)
+    expect(maxRothContribution(500)).toBe(500)
+    expect(maxRothContribution(10_000)).toBe(7_500)
+  })
+
+  it('birthday money earns nothing toward the limit — only earned income counts', () => {
+    // The rule itself is qualitative; the math boundary it implies is this:
+    expect(maxRothContribution(-50)).toBe(0)
+  })
+
+  it("a summer's $1,000 in a Roth at 16, left to 65, ≈ $27,500 (7%, hypothetical)", () => {
+    expect(futureValueLump(1000, 49)).toBeGreaterThan(27_000)
+    expect(futureValueLump(1000, 49)).toBeLessThan(28_000)
+  })
+
+  it("the club's $20, finally deposited at 16-ish and left to 65, ≈ $550", () => {
+    expect(futureValueLump(20, 49)).toBeGreaterThan(540)
+    expect(futureValueLump(20, 49)).toBeLessThan(560)
   })
 })
 

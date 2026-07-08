@@ -258,6 +258,20 @@ export function feeDrag(fee: number, years: number, rate: number = INDEX_RETURN_
   return 1 - Math.pow((1 + rate - fee) / (1 + rate), years)
 }
 
+/** Roth IRA contribution limit for 2026, under age 50 — rises over time;
+ * lessons quote it as "check the current year's number". */
+export const ROTH_IRA_LIMIT_2026 = 7500
+
+/** The Roth rule: you may contribute up to the smaller of your earned
+ * income for the year or the annual limit. Allowance and birthday money
+ * are not earned income; wages and reported self-employment profit are. */
+export function maxRothContribution(
+  earnedIncome: number,
+  limit: number = ROTH_IRA_LIMIT_2026,
+): number {
+  return Math.max(0, Math.min(earnedIncome, limit))
+}
+
 export function formatDollars(n: number, decimals = 0): string {
   return n.toLocaleString('en-US', {
     style: 'currency',

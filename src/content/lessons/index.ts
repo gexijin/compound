@@ -4,6 +4,7 @@ import { lesson02 } from './lesson-02-compound-interest'
 import { lesson03 } from './lesson-03-what-is-a-stock'
 import { lesson04 } from './lesson-04-risk-and-diversification'
 import { lesson05 } from './lesson-05-index-funds'
+import { lesson06 } from './lesson-06-types-of-accounts'
 
 /** The investing module — six episodes, one story arc:
  * problem → hope → vehicle → catch → fix → action.
@@ -14,19 +15,7 @@ export const lessons: Lesson[] = [
   lesson03,
   lesson04,
   lesson05,
-  {
-    id: 'lesson-06',
-    slug: 'types-of-accounts',
-    number: 6,
-    title: 'Where the Money Lives',
-    tagline: 'Custodial accounts and the Roth IRA — where to actually press go.',
-    arcRole: 'action',
-    minutes: 11,
-    characters: ['keisha', 'maya', 'nadia', 'elena'],
-    status: 'coming-soon',
-    porchRule: 'Your name goes on your money.',
-    beats: [],
-  },
+  lesson06,
 ]
 
 export function getLessonBySlug(slug: string): Lesson | undefined {
