@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import {
+  BURGER_2020,
   CPI_1965,
   CPI_2020,
   CPI_2025,
@@ -10,9 +11,13 @@ import {
   burgersFor,
   doublingYears,
   fairRepayment2020,
+  futureValueCoast,
+  futureValueLump,
+  futureValueMonthly,
   inflate1965ToToday,
   purchasingPower,
   todayIn1965Dollars,
+  totalDeposited,
 } from './finance'
 
 describe('burgersFor', () => {
@@ -100,6 +105,21 @@ describe('REALIZED_INFLATION_2020_2025', () => {
   })
 })
 
+describe('the loan in burgers (BURGER_2020)', () => {
+  it("Beto's $100 was about 50 burgers in 2020", () => {
+    expect(Math.floor(100 / BURGER_2020)).toBe(50)
+  })
+
+  it('the $100 he returned in 2025 buys only about 40 of them', () => {
+    const left = purchasingPower(
+      100,
+      YEARS_2020_TO_2025,
+      REALIZED_INFLATION_2020_2025,
+    )
+    expect(Math.floor(left / BURGER_2020)).toBe(40)
+  })
+})
+
 describe('fairRepayment2020', () => {
   it('a $100 loan from 2020 needs about $124 back in 2025 to break even', () => {
     expect(fairRepayment2020(100)).toBeCloseTo((100 * CPI_2025) / CPI_2020, 6)
@@ -112,6 +132,62 @@ describe('fairRepayment2020', () => {
     expect(
       purchasingPower(repaid, YEARS_2020_TO_2025, REALIZED_INFLATION_2020_2025),
     ).toBeCloseTo(100, 6)
+  })
+})
+
+describe('Episode 2 — compound growth (7% ≈ long-run stocks after inflation)', () => {
+  it("Grandma's missing fortune: $20/mo for 60 years ≈ $200k on $14,400 deposited", () => {
+    expect(futureValueMonthly(20, 60)).toBeGreaterThan(195_000)
+    expect(futureValueMonthly(20, 60)).toBeLessThan(210_000)
+    expect(totalDeposited(20, 60)).toBe(14_400)
+    // The exact figure quoted in Episode 2's closing scene ("$201,432").
+    expect(Math.round(futureValueMonthly(20, 60))).toBe(201_432)
+  })
+
+  it('the single forgotten $20, had it grown 60 years, ≈ $1,150', () => {
+    expect(futureValueLump(20, 60)).toBeGreaterThan(1_100)
+    expect(futureValueLump(20, 60)).toBeLessThan(1_200)
+  })
+
+  it('$100/mo from 16 to 66 ≈ $503k; from 26 it is roughly half (~$247k)', () => {
+    expect(futureValueMonthly(100, 50)).toBeGreaterThan(495_000)
+    expect(futureValueMonthly(100, 50)).toBeLessThan(510_000)
+    expect(futureValueMonthly(100, 40)).toBeGreaterThan(240_000)
+    expect(futureValueMonthly(100, 40)).toBeLessThan(255_000)
+  })
+
+  it('head start wins: $100/mo ages 16–26 then coasting beats $100/mo ages 26–66', () => {
+    const headStart = futureValueCoast(100, 10, 40) // $12k deposited
+    const catchUp = futureValueMonthly(100, 40) // $48k deposited
+    expect(headStart).toBeGreaterThan(catchUp)
+    expect(totalDeposited(100, 10)).toBe(12_000)
+    expect(totalDeposited(100, 40)).toBe(48_000)
+  })
+
+  it('small and early beats big and late: $25/mo × 50y > $100/mo × 30y', () => {
+    const smallEarly = futureValueMonthly(25, 50) // $15k deposited
+    const bigLate = futureValueMonthly(100, 30) // $36k deposited
+    expect(smallEarly).toBeGreaterThan(bigLate)
+    expect(smallEarly).toBeGreaterThan(120_000)
+    expect(smallEarly).toBeLessThan(130_000)
+    expect(bigLate).toBeGreaterThan(110_000)
+    expect(bigLate).toBeLessThan(120_000)
+  })
+
+  it("Maya's one-time $200, left 50 years, ≈ $5,900 — the gesture vs the habit", () => {
+    expect(futureValueLump(200, 50)).toBeGreaterThan(5_700)
+    expect(futureValueLump(200, 50)).toBeLessThan(6_100)
+  })
+
+  it('the quiz curve: $100 grows ~$97 in the first 10 years, ~$287 over 20 (not 2×$97)', () => {
+    expect(futureValueLump(100, 10)).toBeCloseTo(196.7, 0)
+    expect(futureValueLump(100, 20)).toBeCloseTo(387, 0)
+  })
+
+  it("a boring first year: $25/mo is up only ~$9 after year one — and that's it working", () => {
+    const gain = futureValueMonthly(25, 1) - totalDeposited(25, 1)
+    expect(gain).toBeGreaterThan(8)
+    expect(gain).toBeLessThan(11)
   })
 })
 

@@ -135,11 +135,11 @@ export const lesson01: Lesson = {
       body: [
         "So what happened to my $20? Nothing dramatic. That is the trick, mija — nothing dramatic ever happens. Prices creep up almost every year: groceries, movie tickets, rent, everything. The creep has a name — inflation — and it runs quiet, around 2–3% a year. My 60 years averaged closer to 4%. I never once saw it move.",
         "A few percent sounds like nothing. It is not nothing. It compounds — each year's increase stacks on the last — and at 3% a year, prices roughly double every 24 years — so a dollar that just sits there loses half its buying power in that time. Same bill. Half the stuff.",
-        "And don't look at me like this is ancient history. My little brother Beto — seventy-six years old, still my little brother — borrowed $100 from me in March 2020. Everyone was borrowing something in March 2020. Five years later he paid it back: every dollar, counted into my hand, proud as a rooster. Big hug. He says we're even now. Are we? Don't answer for him, mija — answer for yourselves.",
+        "And this is not ancient history. My little brother Beto — seventy-six, still my little brother — borrowed $100 from me in 2020. Five years later he paid it back. Every dollar, proud as a rooster. Big hug. He says we're even. Are we? Don't answer for him, mija — answer for yourselves.",
       ],
       interactives: ['future-worth'],
       takeaway:
-        "Doing nothing with money isn't neutral — it's a slow loss. A repaid $100 is not the $100 that was lent: time quietly sides with the borrower. Your money is either outgrowing prices or falling behind them — there is no pause button.",
+        "Doing nothing with money isn't neutral — it's a slow loss. A repaid $100 is not the $100 that was lent: time sides with the borrower. There is no pause button.",
     },
     {
       type: 'story',

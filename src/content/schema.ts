@@ -56,7 +56,7 @@ export interface DecisionBeat {
   reveal?: string
 }
 
-export type InteractiveId = 'then-vs-now' | 'future-worth'
+export type InteractiveId = 'then-vs-now' | 'future-worth' | 'snowball'
 
 export interface TeachingBeat {
   type: 'teaching'

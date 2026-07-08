@@ -1,25 +1,13 @@
 import type { Lesson } from '../schema'
 import { lesson01 } from './lesson-01-inflation'
+import { lesson02 } from './lesson-02-compound-interest'
 
 /** The investing module — six episodes, one story arc:
  * problem → hope → vehicle → catch → fix → action.
- * Episode 1 is fully playable; the rest are authored next.
  */
 export const lessons: Lesson[] = [
   lesson01,
-  {
-    id: 'lesson-02',
-    slug: 'compound-interest',
-    number: 2,
-    title: "Grandma's Missing Fortune",
-    tagline: 'Compound interest: the force that works like inflation, but for you.',
-    arcRole: 'hope',
-    minutes: 10,
-    characters: ['elena', 'nadia', 'maya', 'emily'],
-    status: 'coming-soon',
-    porchRule: 'Small and early beats big and late.',
-    beats: [],
-  },
+  lesson02,
   {
     id: 'lesson-03',
     slug: 'what-is-a-stock',

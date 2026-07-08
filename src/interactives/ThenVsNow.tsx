@@ -164,7 +164,7 @@ export function ThenVsNow() {
                 <strong>
                   {formatDollars(nowInThenMoney, 2)} bill wearing a $20 costume
                 </strong>
-                . (Official CPI math puts it near{' '}
+                . (Official price records put it near{' '}
                 {formatDollars(todayIn1965Dollars(20), 2)} — burgers rose a
                 little faster than prices overall.)
               </p>
@@ -190,7 +190,7 @@ export function ThenVsNow() {
               <p className="mt-4 text-xs text-ink-soft">
                 Burger and item prices are typical/illustrative (a McDonald's
                 hamburger was 15¢ in 1965; figure about $2 today); the dollar
-                conversions use U.S. CPI data (1965 → 2025), which works out
+                conversions use official U.S. price data (1965 → 2025), which works out
                 to about {(REALIZED_INFLATION_1965_2025 * 100).toFixed(1)}% a
                 year.
               </p>

@@ -63,6 +63,12 @@ export function purchasingPower(
 export const BURGER_1965 = 0.15
 export const BURGER_2025 = 2.0
 
+/** A typical fast-food hamburger ran about $2 in 2020 (illustrative, varies
+ * by location) — the loan test's concrete unit. Beto borrowed 50 burgers'
+ * worth of money; the $100 he returned buys about 40 (its 2020-dollar
+ * purchasing power ÷ the 2020 burger price). */
+export const BURGER_2020 = 2.0
+
 /** Illustrative burger price in a given year, interpolated between the two
  * documented endpoints at a constant rate (≈4.4%/yr — burgers outran CPI). */
 export function burgerPrice(year: number): number {
@@ -79,6 +85,60 @@ export function burgersFor(amount: number, year: number): number {
  * ~3% → ~23.4 years; 30% (recent Argentina) → ~2.6 years. */
 export function doublingYears(rate: number): number {
   return Math.log(2) / Math.log(1 + rate)
+}
+
+/** Long-run growth rate for forward-looking "what could it become" figures:
+ * ~10% nominal long-run U.S. stock returns minus ~3% inflation ≈ 7%, so
+ * results read in today's buying power. A planning number, not a promise. */
+export const ILLUSTRATIVE_RETURN = 0.07
+
+/** Monthly rate that compounds to `annualRate` over a year, so lump-sum and
+ * monthly-deposit math share one effective annual rate. */
+function monthlyRate(annualRate: number): number {
+  return Math.pow(1 + annualRate, 1 / 12) - 1
+}
+
+/** Future value of a single amount left to grow for `years`. */
+export function futureValueLump(
+  amount: number,
+  years: number,
+  rate: number = ILLUSTRATIVE_RETURN,
+): number {
+  return amount * Math.pow(1 + rate, years)
+}
+
+/** Future value of `payment` deposited at the end of every month for `years`.
+ * Episode 2's counterfactual: $20/month for 60 years ≈ $200k (deposits:
+ * $14,400) — Grandma's missing fortune, in today's buying power. */
+export function futureValueMonthly(
+  payment: number,
+  years: number,
+  rate: number = ILLUSTRATIVE_RETURN,
+): number {
+  const m = monthlyRate(rate)
+  const months = Math.round(years * 12)
+  return payment * ((Math.pow(1 + m, months) - 1) / m)
+}
+
+/** Deposit monthly for `contribYears`, then stop and let it coast for
+ * `coastYears`. The head-start proof: $100/mo ages 16–26 then nothing
+ * (deposits $12k) still beats $100/mo ages 26–66 (deposits $48k). */
+export function futureValueCoast(
+  payment: number,
+  contribYears: number,
+  coastYears: number,
+  rate: number = ILLUSTRATIVE_RETURN,
+): number {
+  return futureValueLump(
+    futureValueMonthly(payment, contribYears, rate),
+    coastYears,
+    rate,
+  )
+}
+
+/** What actually left your pocket over `years` of monthly deposits. */
+export function totalDeposited(payment: number, years: number): number {
+  return payment * years * 12
 }
 
 export function formatDollars(n: number, decimals = 0): string {

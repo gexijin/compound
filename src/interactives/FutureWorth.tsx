@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import {
-  BURGER_2025,
+  BURGER_2020,
   CPI_2020,
   CPI_2025,
   ILLUSTRATIVE_INFLATION,
@@ -29,8 +29,8 @@ const RATES = [
 const VERDICTS = [
   { id: 'even', value: 100, label: 'Even — $100 is $100' },
   { id: 'ahead', value: 105, label: 'Elena came out ahead' },
-  { id: 'short-little', value: 95, label: 'Elena is short a few dollars of stuff' },
-  { id: 'short-20', value: 80, label: 'Elena is short about $20 of stuff' },
+  { id: 'short-little', value: 95, label: 'Elena is short ~$5' },
+  { id: 'short-20', value: 80, label: 'Elena is short ~$20' },
 ]
 
 // "Make it fair" choices: the fair one is computed, the rest are decoys.
@@ -80,10 +80,8 @@ export function FutureWorth() {
         The $100 that came back
       </h3>
       <p className="mt-1 text-sm text-ink-soft">
-        Beto borrowed $100 in 2020 and handed back $100 five years later —
-        every dollar. The brother is Elena's; the prices are real (actual U.S.
-        CPI, 2020 to 2025). So: is the debt really settled? Make the call —
-        the math comes after.
+        Beto borrowed $100 in 2020 and paid back $100 in 2025. Every dollar.
+        So — is the debt settled? Make the call. Real numbers after.
       </p>
 
       <div
@@ -114,31 +112,25 @@ export function FutureWorth() {
           <p className="text-sm">
             {verdict.id === 'short-20' ? (
               <>
-                <strong>Right</strong> — and notice that nobody cheated. Real
-                U.S. CPI says prices rose about {risePct}% from 2020 to 2025
-                (≈{(REALIZED_INFLATION_2020_2025 * 100).toFixed(1)}% a year),
-                so the $100 Beto handed back buys about{' '}
-                <strong>{formatDollars(truth5)}</strong> of 2020's stuff.
-                Every dollar came home; about{' '}
-                {formatDollars(AMOUNT - truth5)} of the stuff didn't. Another
-                twenty, gone — without ever leaving anybody's pocket.
+                <strong>Right</strong> — and nobody cheated. Prices rose about{' '}
+                {risePct}% from 2020 to 2025, so his $100 now buys about{' '}
+                <strong>{formatDollars(truth5)}</strong> of 2020's stuff. The
+                dollars came home; {formatDollars(AMOUNT - truth5)} of the
+                stuff didn't. Another twenty, gone — without leaving anybody's
+                pocket.
               </>
             ) : (
               <>
-                Not quite. Real U.S. CPI says prices rose about {risePct}%
-                from 2020 to 2025 (≈
-                {(REALIZED_INFLATION_2020_2025 * 100).toFixed(1)}% a year), so
-                the $100 Beto handed back buys about{' '}
+                Not quite. Prices rose about {risePct}% from 2020 to 2025, so
+                his $100 now buys about{' '}
                 <strong className="text-grove">{formatDollars(truth5)}</strong>{' '}
-                of 2020's stuff. He returned every dollar of the paper — and
-                about {formatDollars(AMOUNT - truth5)} of the stuff never came
-                home. Nobody cheated. Time did it.
+                of 2020's stuff. Elena is short about{' '}
+                {formatDollars(AMOUNT - truth5)} — and nobody cheated. Time
+                did it.
               </>
             )}{' '}
-            Here's what a longer wait does — the curve is what a $100
-            repayment is really worth after more years on the clock. Try
-            Argentina's rate: lend $100 in Buenos Aires and in three years
-            they hand you back a sandwich.
+            What if he'd waited longer? Trace the curve — and try Argentina's
+            rate, where three years turns $100 into a sandwich.
           </p>
 
           <div
@@ -287,34 +279,28 @@ export function FutureWorth() {
             )}
           </svg>
 
-          <details className="mt-2 text-sm">
-            <summary className="cursor-pointer text-ink-soft">
-              See the numbers as a table
-            </summary>
-            <table className="mt-2 w-full max-w-xs text-left">
-              <thead>
-                <tr className="text-xs text-ink-soft uppercase">
-                  <th className="py-1 font-semibold">Repaid after</th>
-                  <th className="py-1 font-semibold">$100 buys</th>
-                  <th className="py-1 font-semibold">≈ burgers 🍔</th>
+          <table className="mt-3 w-full max-w-xs text-left text-sm">
+            <thead>
+              <tr className="text-xs text-ink-soft uppercase">
+                <th className="py-1 font-semibold">Repaid after</th>
+                <th className="py-1 font-semibold">$100 buys</th>
+                <th className="py-1 font-semibold">≈ burgers 🍔</th>
+              </tr>
+            </thead>
+            <tbody>
+              {[0, 5, 10, 15, 20].map((yr) => (
+                <tr key={yr} className="border-t border-ink/10">
+                  <td className="py-1">{yr === 0 ? 'same year' : `${yr} yrs`}</td>
+                  <td className="py-1">{fmt(at(yr))}</td>
+                  <td className="py-1">{Math.floor(at(yr) / BURGER_2020)}</td>
                 </tr>
-              </thead>
-              <tbody>
-                {[0, 5, 10, 15, 20].map((yr) => (
-                  <tr key={yr} className="border-t border-ink/10">
-                    <td className="py-1">{yr === 0 ? 'same year' : `${yr} yrs`}</td>
-                    <td className="py-1">{fmt(at(yr))}</td>
-                    <td className="py-1">{Math.floor(at(yr) / BURGER_2025)}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </details>
+              ))}
+            </tbody>
+          </table>
 
           <div className="mt-5 border-t border-ink/10 pt-5">
             <p className="text-sm font-semibold">
-              Make it fair: what should Beto have handed her in 2025 to truly
-              return what he borrowed?
+              Make it fair: what should he have paid back in 2025?
             </p>
             <div
               className="mt-3 grid grid-cols-2 gap-2 sm:grid-cols-4"
@@ -343,27 +329,29 @@ export function FutureWorth() {
                 {fairPick === FAIR ? (
                   <>
                     <strong>Right</strong> — about {formatDollars(FAIR)},
-                    matching how much prices rose.
+                    matching the rise in prices.
                   </>
                 ) : (
                   <>
                     Closer to{' '}
                     <strong className="text-grove">{formatDollars(FAIR)}</strong>{' '}
-                    — the number has to grow as much as prices did.
+                    — the payback has to grow as much as prices did.
                   </>
                 )}{' '}
-                The extra {formatDollars(FAIR - AMOUNT)} isn't profit; it's
-                just the same buying power finally coming home. Charging for
-                the wait has a name — <strong>interest</strong> — and it's why
-                a bank never lends for free. That's next week on the porch.
+                The extra {formatDollars(FAIR - AMOUNT)} isn't profit — it's
+                the same buying power coming home. Charging for the wait has a
+                name — <strong>interest</strong>. That's next week on the
+                porch.
               </p>
             )}
           </div>
 
-          <p className="mt-5 border-t border-ink/10 pt-4 text-sm text-ink-soft">
-            One more thing: the no-brother version of this story is running in
-            your room right now. A drawer lends your money to nobody, for
-            free, for years. Same math. No hug.
+          <p className="mt-5 border-t border-ink/10 pt-4 text-sm">
+            Bottom line: in 2020, that $100 bought{' '}
+            <strong>{Math.floor(AMOUNT / BURGER_2020)} burgers</strong> 🍔. The
+            $100 that came back buys{' '}
+            <strong>{Math.floor(truth5 / BURGER_2020)}</strong>. And your
+            drawer runs the no-brother version every day: same math, no hug.
           </p>
         </div>
       )}

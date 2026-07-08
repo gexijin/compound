@@ -3,10 +3,12 @@ import { characters } from '../content/characters'
 import { CharacterChip } from './CharacterChip'
 import { ThenVsNow } from '../interactives/ThenVsNow'
 import { FutureWorth } from '../interactives/FutureWorth'
+import { Snowball } from '../interactives/Snowball'
 
 const interactives = {
   'then-vs-now': ThenVsNow,
   'future-worth': FutureWorth,
+  snowball: Snowball,
 } as const
 
 export function TeachingView({ beat }: { beat: TeachingBeat }) {
