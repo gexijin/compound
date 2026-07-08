@@ -36,9 +36,9 @@ export function Home() {
         </h1>
         <p className="mt-4 max-w-xl text-lg text-ink-soft">
           It starts with a forgotten $20 bill and one question: what does the
-          most frugal woman they know understand about money that nobody ever
-          taught them? Sofi, Emily, Maya, and Keisha spend a summer finding
-          out — you make their choices and watch them play out.
+          most frugal woman they know understand that nobody ever taught
+          them? Sofi, Emily, Maya, and Keisha spend a summer finding out —
+          you make their choices and watch them play out.
         </p>
         <p className="mt-3 text-sm text-ink-soft">
           No lectures. No accounts. No real money — just the part school skips.

@@ -37,7 +37,7 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'narrator',
-          text: "It was neither. Inside: a small bank passbook, soft at the corners, and a yellowed pay envelope. Typed across the front — JUNE 1965. WAGES: $100.00. Inside, a pay stub itemizing a month of somebody's life in typewriter columns. And when Maya tipped the envelope, something else slid out into her palm: a $20 bill. A real one. 60 years old and crisp as Sunday.",
+          text: "It was neither. Inside: a small bank passbook, soft at the corners, and a yellowed pay envelope. Typed across the front — JUNE 1965. WAGES: $100.00. And when Maya tipped it, something else slid out into her palm: a $20 bill. A real one. 60 years old and crisp as Sunday.",
         },
         {
           speaker: 'maya',
@@ -49,7 +49,7 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'narrator',
-          text: "The bill went around the circle. Maya smelled it. Keisha held it up to the light like a bank teller. Emily passed it along quickly, without quite looking at it. Nobody noticed. Somebody would remember it later.",
+          text: "The bill went around the circle. Maya smelled it. Keisha held it up to the light like a bank teller. Emily passed it along without quite looking at it. Nobody noticed. Somebody would remember it later.",
         },
         {
           speaker: 'keisha',
@@ -65,7 +65,7 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'elena',
-          text: "Laugh at the hundred, go ahead. It's the $20 that stings. That was supposed to go to the bank the Monday after payday. I missed the bus — and then I missed 60 years. It was worth more than you think back then, and it could have become more than you'd ever believe.",
+          text: "Laugh at the hundred, go ahead. It's the $20 that stings. That was supposed to go to the bank the Monday after payday. I missed the bus — and then I missed 60 years. It was worth more than you think — and it could have become more than you'd believe.",
         },
         {
           speaker: 'sofi',
@@ -82,7 +82,7 @@ export const lesson01: Lesson = {
       context: [
         "Grandma Elena tells it like this: it's June 1965. She's nineteen, first real job, and this envelope — $100 — is a whole month's pay. Rent to her parents, bus fare, food, and a little for the Saturday movies take $80.",
         "That leaves $20. Every month. Her decision, nobody else's — which, in 1965, for a young woman, was rarer than it sounds.",
-        "You're Elena. What do you do with the $20?",
+        "You're Elena.",
       ],
       prompt: 'Choose for her — every month, for years. Where does the $20 go?',
       choices: [
@@ -100,7 +100,7 @@ export const lesson01: Lesson = {
           label: 'The savings passbook at the bank. It pays a little interest.',
           consequence: [
             "Smarter than the box — the bank pays her a few percent, and the passbook fills up with tidy stamped numbers that feel like winning.",
-            "But here's the quiet catch: most years, prices rose about as fast as the interest came in — some years faster. The money grew in numbers and mostly treaded water in what it could buy. Better than shrinking. Still not the 'become more than you'd believe' Grandma hinted at.",
+            "But here's the quiet catch: most years, prices rose about as fast as the interest came in — some years faster. The numbers grew; the buying power treaded water. Better than shrinking. Still not the 'become more than you'd believe' Grandma hinted at.",
           ],
           coda: 'A savings account is a shelter, not an engine. (What the engine is — that’s Episode 2.)',
         },
@@ -115,7 +115,7 @@ export const lesson01: Lesson = {
         },
       ],
       reveal:
-        "What did the real Elena do with those $20s? The tin box, at first, then the passbook. And after that — well. She'll tell that story when she's ready. What's certain is that one June, the $20 never made it anywhere at all: it's the one Maya is holding right now.",
+        "What did the real Elena do with those $20s? The tin box, at first, then the passbook. And after that — well. She'll tell that story when she's ready. But one June, the $20 never made it anywhere at all — it's the one Maya is holding right now.",
     },
     {
       type: 'teaching',
@@ -134,7 +134,7 @@ export const lesson01: Lesson = {
       voicedBy: 'elena',
       body: [
         "So what happened to my $20? Nothing dramatic. That is the trick, mija — nothing dramatic ever happens. Prices creep up almost every year: groceries, movie tickets, rent, everything. The creep has a name — inflation — and it runs quiet, around 2–3% a year. My 60 years averaged closer to 4%. I never once saw it move.",
-        "A few percent sounds like nothing. It is not nothing. It compounds — each year's increase stacks on the last — and at 3% a year, prices roughly double every 24 years. A dollar that just sits there loses about half its buying power every 24 years. Same bill. Half the stuff. And don't look at me like this is a history lesson. It is happening to your babysitting money right now, tonight, in the drawer.",
+        "A few percent sounds like nothing. It is not nothing. It compounds — each year's increase stacks on the last — and at 3% a year, prices roughly double every 24 years — so a dollar that just sits there loses half its buying power in that time. Same bill. Half the stuff. And don't look at me like this is a history lesson. It is happening to your babysitting money right now, tonight, in the drawer.",
       ],
       interactives: ['future-worth'],
       takeaway:
@@ -174,7 +174,7 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'narrator',
-          text: "Then she did something nobody expected. She took the $20 bill from Maya, smoothed it flat, and laid it in the middle of the table.",
+          text: "She took the $20 bill from Maya, smoothed it flat, and laid it in the middle of the table.",
         },
         {
           speaker: 'elena',
@@ -198,7 +198,7 @@ export const lesson01: Lesson = {
         },
         {
           speaker: 'narrator',
-          text: "She flipped the 1965 pay envelope over, smoothed it against the table, and wrote across the back in block letters: PORCH RULES. Then, underneath: #1 — and looked up, pen waiting.",
+          text: "She flipped the 1965 pay envelope over and wrote across the back in block letters: PORCH RULES. Then, underneath: #1 — and looked up, pen waiting.",
         },
         {
           speaker: 'emily',
@@ -252,7 +252,7 @@ export const lesson01: Lesson = {
               id: 'a',
               label: 'Still about every 24 years — doubling is doubling.',
               feedback:
-                "Doubling speed depends entirely on the rate. At 30% a year, prices double in under 3 years — the same invisible pickpocket that got Grandma's envelope, sprinting instead of strolling.",
+                "Doubling speed depends entirely on the rate. At 30% a year, prices double in under 3 years.",
             },
             {
               id: 'b',

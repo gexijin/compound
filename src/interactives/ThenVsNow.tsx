@@ -138,8 +138,7 @@ export function ThenVsNow() {
             Now flip it — how much is today's $20 worth in {START_YEAR} money?
           </h3>
           <p className="mt-1 text-sm text-ink-soft">
-            Try to calculate how much it would cost to buy the same number of
-            hamburgers in {START_YEAR}.
+            Price today's burgers at the {START_YEAR} counter.
           </p>
           <GuessButtons
             guesses={VALUE_GUESSES}

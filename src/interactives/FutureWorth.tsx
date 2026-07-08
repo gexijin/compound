@@ -73,8 +73,8 @@ export function FutureWorth() {
       </h3>
       <p className="mt-1 text-sm text-ink-soft">
         This one really happened. In 2020, you stash $100 in a drawer and
-        forget it. Five years later, in 2025, how much of 2020's stuff does
-        it still buy? Guess first — the real numbers come after.
+        forget it. Five years later, how much of 2020's stuff does it still
+        buy? Guess first — the real numbers come after.
       </p>
 
       <div className="mt-3 grid grid-cols-2 gap-2">
