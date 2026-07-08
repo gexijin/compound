@@ -14,6 +14,15 @@ const arcLabels: Record<string, string> = {
 
 export function Home() {
   const progress = loadProgress()
+  const available = lessons.filter((l) => l.status === 'available')
+  const next = available.find((l) => !progress[l.id]?.completed)
+  const anyDone = available.some((l) => progress[l.id]?.completed)
+  const cta = next ?? available[0]
+  const ctaLabel = next
+    ? anyDone
+      ? `Continue: Episode ${next.number} →`
+      : `Start Episode ${next.number} →`
+    : `Replay Episode ${cta?.number} →`
 
   return (
     <div className="mx-auto max-w-3xl px-4 pb-16">
@@ -22,26 +31,26 @@ export function Home() {
           Compound · a summer of money, told as a story
         </p>
         <h1 className="mt-3 font-display text-4xl leading-tight font-bold sm:text-5xl">
-          The girls found Grandma's 1965 paycheck.
-          <span className="text-grove"> $100 a month.</span>
+          Four girls. One porch.
+          <span className="text-grove"> A grandma with secrets.</span>
         </h1>
         <p className="mt-4 max-w-xl text-lg text-ink-soft">
-          They laughed. Then Grandma said what it could have become — and the
-          laughing stopped. Six episodes, one porch, four girls, and the $100
-          Challenge: learn what money actually does, by choosing for the
-          characters and watching it play out.
+          It starts with a forgotten $20 bill and one question: how did the
+          most frugal woman they know quietly get rich? Sofi, Emily, Maya, and
+          Keisha spend a summer finding out — you make their choices and watch
+          them play out.
         </p>
         <p className="mt-3 text-sm text-ink-soft">
           No lectures. No accounts. No real money — just the part school skips.
         </p>
-        <Link
-          to="/episode/inflation"
-          className="mt-6 inline-block rounded-full bg-grove px-7 py-3 font-semibold text-paper hover:bg-ink"
-        >
-          {progress['lesson-01']?.completed
-            ? 'Replay Episode 1 →'
-            : 'Start Episode 1 →'}
-        </Link>
+        {cta && (
+          <Link
+            to={`/episode/${cta.slug}`}
+            className="mt-6 inline-block rounded-full bg-grove px-7 py-3 font-semibold text-paper hover:bg-ink"
+          >
+            {ctaLabel}
+          </Link>
+        )}
       </header>
 
       <section className="mt-14">
