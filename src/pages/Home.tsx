@@ -5,6 +5,7 @@ import { loadProgress } from '../lib/progress'
 
 const arcLabels: Record<string, string> = {
   problem: 'The problem',
+  clue: 'The clue',
   hope: 'The hope',
   vehicle: 'The vehicle',
   catch: 'The catch',
@@ -58,8 +59,8 @@ export function Home() {
           The investing module
         </h2>
         <p className="mt-1 text-sm text-ink-soft">
-          Six episodes in one arc: problem → hope → vehicle → catch → fix →
-          action. Each ~10 minutes.
+          Seven episodes in one arc: problem → clue → hope → vehicle → catch →
+          fix → action. Each ~10 minutes.
         </p>
         <ol className="mt-5 space-y-3">
           {lessons.map((lesson) => {

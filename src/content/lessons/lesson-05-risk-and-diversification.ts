@@ -1,18 +1,18 @@
 import type { Lesson } from '../schema'
 
-/** Episode 4 — Risk & diversification. Arc role: the catch (one bet is
+/** Episode 5 — Risk & diversification. Arc role: the catch (one bet is
  * dangerous). Elena still off-stage; her voice arrives in writing — a brittle
  * 1974 crash clipping tucked in the pay envelope, her margin note dated
- * October '74. The girls read it as nerve; Episode 5 re-reads it as shopping.
+ * October '74. The girls read it as nerve; Episode 6 re-reads it as shopping.
  * Payoffs this episode: Maya's Ep-1 flex ("I make that in a weekend") gets
- * audited, funny not shaming; DeShawn's hot stock from Ep 3 meets Keisha's
+ * audited, funny not shaming; DeShawn's hot stock from Ep 4 meets Keisha's
  * ten-week tuition clock in the decision. Cliffhanger: how do you own
  * everything without being an expert? Do not confirm anything about Elena.
  */
-export const lesson04: Lesson = {
-  id: 'lesson-04',
+export const lesson05: Lesson = {
+  id: 'lesson-05',
   slug: 'risk-and-diversification',
-  number: 4,
+  number: 5,
   title: 'All the Eggs, One Basket',
   tagline: 'Risk is normal. Betting everything on one company is not.',
   arcRole: 'catch',
@@ -23,15 +23,15 @@ export const lesson04: Lesson = {
   beats: [
     {
       type: 'story',
-      scene: 'The porch — week four, ledger night',
+      scene: 'The porch — week five, ledger night',
       lines: [
         {
           speaker: 'narrator',
-          text: "Audit night. Keisha had declared it in the group chat with a spreadsheet emoji and no further explanation. Elena was still at Beto's; the envelope, the passbook, and three rules held the table without her.",
+          text: "Audit night. Keisha had declared it in the group chat with a spreadsheet emoji and no further explanation. Elena was still at Beto's; the envelope, the passbook, and four rules held the table without her.",
         },
         {
           speaker: 'keisha',
-          text: "Four weeks of the $100 Challenge, so let's see the ledger. Sofi: $31 saved from the stand, first bank visit scheduled. Emily: looked at her balance eleven days straight, twelve dollars invested. Small numbers, real numbers. And then there's Maya's column.",
+          text: "Five weeks of the $100 Challenge. Rules on record: shrinking, holding, starting early, slices. Now the ledger. Sofi: $31 saved from the stand, first bank visit scheduled. Emily: looked at her balance eleven days straight, twelve dollars invested. Small numbers, real numbers. And then there's Maya's column.",
         },
         {
           speaker: 'maya',
@@ -39,7 +39,7 @@ export const lesson04: Lesson = {
         },
         {
           speaker: 'keisha',
-          text: "Earned: nine hundred. Present and accounted for: the $25 you invested after episode two, and... that's the column. Maya. You told Grandma you make her monthly paycheck in a weekend. So where are the weekends?",
+          text: "Earned: nine hundred. Present and accounted for: the $25 you invested after the missing-fortune night, and... that's the column. Maya. You told Grandma you make her monthly paycheck in a weekend. So where are the weekends?",
         },
         {
           speaker: 'maya',
@@ -88,7 +88,7 @@ export const lesson04: Lesson = {
           id: 'all-in',
           label: "DeShawn's stock. It's up 40% — one good run and the gap is basically closed.",
           consequence: [
-            "Run the honest version: hype cools, one bad quarter — say the stock gives back 60%. Illustrative numbers, real shape. Keisha's $1,850 is suddenly $740, in July, with registration in sight. A diversified dip recovers on its own schedule. A single stock offers no such promise — some never come back, and she'd need her money to roughly double just to get home. Down 60% needs up 150%; that's how losses work — the comeback is always steeper than the fall.",
+            "Run the honest version: hype cools, one bad quarter — say the stock gives back 60%. Illustrative numbers, real shape. Keisha's $1,850 is suddenly $740, in July, with registration in sight. A diversified dip recovers on its own schedule. A single stock offers no such promise — some never come back, and she'd need her money to roughly double just to get home.",
             "Notice the trap's design: it needed her deadline. 'Up 40%' only felt like a plan because August was breathing on her. The stock doesn't know it's tuition. The market doesn't care that it's due.",
           ],
           coda: 'A hot stock plus a deadline isn’t a strategy — it’s a countdown strapped to a coin flip.',
@@ -120,7 +120,7 @@ export const lesson04: Lesson = {
       title: 'One egg, one funeral',
       voicedBy: 'nadia',
       body: [
-        "First, respect the fear — it's pointing at something true. Stocks go down. Whole markets go down: 1973–74 cut the S&P nearly in half, down about 48%. Risk isn't a bug you can patch; it's the admission price of the growth we met in episode two. Anyone selling you growth without it is selling you a ticket.",
+        "First, respect the fear — it's pointing at something true. Stocks go down. Whole markets go down: 1973–74 cut the S&P nearly in half, down about 48%. Risk isn't a bug you can patch; it's the admission price of the growth we met on missing-fortune night. Anyone selling you growth without it is selling you a ticket.",
         "But risk comes in two completely different sizes, and the difference is the eggs. One company can go to zero — bad product, bad luck, fraud you couldn't have seen. Zero. Forever. The whole market — hundreds of companies at once — has crashed, halved, and cratered, and never once gone to zero, because it would take every major company in America dying simultaneously. So: ten equal holdings and one dies, you're down 10%. A bruise. One holding and it dies, you're down 100%. A funeral. Same bad news, opposite outcomes — the basket decided which.",
         "And one more piece of ugly arithmetic, because losses cheat: down 50% needs up 100% to get home — the climb back runs on a smaller base. That's why the first rule of risk isn't 'avoid it.' It's 'never take the kind that can be fatal.' Bruises heal. Funerals don't.",
       ],
@@ -165,11 +165,11 @@ export const lesson04: Lesson = {
         },
         {
           speaker: 'emily',
-          text: "Rule #4: all the eggs, never one basket. I'm the scared one, so trust me on the phrasing — this is the rule that makes the other three survivable.",
+          text: "Rule #5: all the eggs, never one basket. I'm the scared one, so trust me on the phrasing — this is the rule that makes the other four survivable.",
         },
         {
           speaker: 'narrator',
-          text: "Four rules on the envelope. The clipping went back inside it, scary headline down. And somewhere across town, a grandmother packed for home, carrying fifty years of answers to questions the porch was finally asking right.",
+          text: "Five rules on the envelope. The clipping went back inside it, scary headline down. And somewhere across town, a grandmother packed for home, carrying fifty years of answers to questions the porch was finally asking right.",
         },
       ],
     },

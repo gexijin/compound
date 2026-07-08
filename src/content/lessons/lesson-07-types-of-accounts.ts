@@ -1,18 +1,18 @@
 import type { Lesson } from '../schema'
 
-/** Episode 6 — Types of accounts. Arc role: the action (where to press go) —
+/** Episode 7 — Types of accounts. Arc role: the action (where to press go) —
  * and the finale, which belongs to the girls, not Elena. The final artifact
  * is from the present: account confirmations with THEIR names on them, taped
  * into the passbook opposite the 1976 slip. Every arc lands: Sofi deposits
  * the 1965 $20 with her mother beside her; Emily has already quietly done the
- * thing; Maya's earn-vs-keep thread resolves (her choice from Ep 2 revealed);
+ * thing; Maya's earn-vs-keep thread resolves (her choice from Ep 3 revealed);
  * Keisha closes the gap her way — Elena's gift is the ledger, never a check.
  * Education-only: the episode points at real-world steps, executes nothing.
  */
-export const lesson06: Lesson = {
-  id: 'lesson-06',
+export const lesson07: Lesson = {
+  id: 'lesson-07',
   slug: 'types-of-accounts',
-  number: 6,
+  number: 7,
   title: 'Where the Money Lives',
   tagline: 'Custodial accounts and the Roth IRA — where to actually press go.',
   arcRole: 'action',
@@ -31,7 +31,7 @@ export const lesson06: Lesson = {
         },
         {
           speaker: 'elena',
-          text: "Five rules on my old envelope. Money sitting still is shrinking. Small and early beats big and late. Buy the slice, not the ticket. All the eggs, never one basket. Boring wins. All true — and all useless, every one, until the money has an address. Today is addresses.",
+          text: "Six rules on my old envelope. Money sitting still is shrinking. Real things hold what paper drops. Small and early beats big and late. Buy the slice, not the ticket. All the eggs, never one basket. Boring wins. All true — and all useless, every one, until the money has an address. Today is addresses.",
         },
         {
           speaker: 'sofi',
@@ -43,7 +43,7 @@ export const lesson06: Lesson = {
         },
         {
           speaker: 'maya',
-          text: "And this is the week I finally say it out loud: episode two, the $200 decision? I picked the $25-a-month thing. Nadia-core. It's been running since June, quietly, like a nerd. Eighty bucks in there now. The problem is it's technically been going through mom's account, because I'm seventeen and apparently a legal rumor.",
+          text: "And this is the week I finally say it out loud: missing-fortune night, the $200 decision? I picked the $25-a-month thing. Nadia-core. It's been running since June, quietly, like a nerd. Eighty bucks in there now. The problem is it's technically been going through mom's account, because I'm seventeen and apparently a legal rumor.",
         },
         {
           speaker: 'elena',
@@ -58,7 +58,7 @@ export const lesson06: Lesson = {
     {
       type: 'decision',
       context: [
-        "Keisha's final numbers, drumroll: $2,400 saved — every shift at the pharmacy, all summer, parked safely in savings like she decided in week four. The tuition gap: $3,000. Nadia's been walking her through the Roth IRA thing all week; her pharmacy W-2 makes her eligible.",
+        "Keisha's final numbers, drumroll: $2,400 saved — every shift at the pharmacy, all summer, parked safely in savings like she decided on ledger night. The tuition gap: $3,000. Nadia's been walking her through the Roth IRA thing all week; her pharmacy W-2 makes her eligible.",
         "Nine days to allocate a summer. The gap is due at registration; the Roth only counts if it starts; and campus life will want a cushion for the thousand small emergencies of freshman year.",
         "You're Keisha, one more time.",
       ],
@@ -69,7 +69,7 @@ export const lesson06: Lesson = {
           label: 'Every dollar at the tuition gap. $600 short is close enough — deal with the rest later.',
           consequence: [
             "The responsible-sounding choice, and it mostly is: the gap shrinks to $600, work-study covers that by October, registration clears. Nobody could call it a mistake.",
-            "But look at what's missing: after a whole summer on this porch, Keisha leaves for college with five rules memorized and nothing anywhere with her name on it. No container, no habit, no first $50 quietly compounding while she studies. 'I'll start after college' — she knows that sentence. It cost Elena's twin self about half a fortune in episode two.",
+            "But look at what's missing: after a whole summer on this porch, Keisha leaves for college with six rules memorized and nothing anywhere with her name on it. No container, no habit, no first $50 quietly compounding while she studies. 'I'll start after college' — she knows that sentence. It cost the late-starting twin about half a fortune on missing-fortune night.",
           ],
           coda: 'Closing the gap is the job. Leaving with zero in your own name — that part was optional.',
         },
@@ -77,8 +77,8 @@ export const lesson06: Lesson = {
           id: 'all-roth',
           label: 'All of it into the Roth IRA. Sixty-six-year-old Keisha will be RICH. Present Keisha will figure something out.',
           consequence: [
-            "Run it forward and the number sings: $2,400 at index-style growth for five decades is future money nobody can ignore — that's the whole Rule #2 religion. Future Keisha: thrilled.",
-            "September Keisha: $3,000 short at the registrar with her savings locked behind a vow. She'd have to borrow the entire gap at whatever interest says yes quickly, or un-do the Roth she just swore by. It's Episode 4's lesson wearing a halo: money with a deadline was never allowed to chase a horizon. August money isn't Roth money, no matter how holy the container.",
+            "Run it forward and the number sings: $2,400 at index-style growth for five decades is future money nobody can ignore — that's the whole Rule #3 religion. Future Keisha: thrilled.",
+            "September Keisha: $3,000 short at the registrar with her savings locked behind a vow. She'd have to borrow the entire gap at whatever interest says yes quickly, or un-do the Roth she just swore by. It's ledger night's lesson wearing a halo: money with a deadline was never allowed to chase a horizon. August money isn't Roth money, no matter how holy the container.",
           ],
           coda: 'A perfect future built by torching September isn’t discipline — it’s the hot stock again, in church clothes.',
         },
@@ -87,9 +87,9 @@ export const lesson06: Lesson = {
           label: 'Gap first — $2,100 at tuition. Then $200 opens the Roth, $100 stays cash for move-in chaos.',
           consequence: [
             "The gap drops to $900, and here's the part that makes it Keisha's: she's already lined up campus work-study — her hours, her plan, chosen instead of panicked into. The remainder is a payment schedule, not a crisis.",
-            "And the $200? It's not about the $200. It's that on move-in day there's an account with KEISHA on it, seeded, real, aimed at a horizon no tuition bill can touch — and a $25-a-month habit that started before the first lecture. The amounts are small. The addresses are perfect: deadline money at the deadline, forever money in the forever container, chaos money in her pocket.",
+            "And the $200? It's not about the $200. It's that on move-in day there's an account with KEISHA on it, seeded, real, aimed at a horizon no tuition bill can touch — and a $25-a-month habit that started before the first lecture. The amounts are small. The addresses are perfect.",
           ],
-          coda: 'Right money, right container, right clock — all five rules, one allocation.',
+          coda: 'Right money, right container, right clock — all six rules, one allocation.',
         },
       ],
       reveal:
@@ -100,20 +100,20 @@ export const lesson06: Lesson = {
       title: 'The name on the door',
       voicedBy: 'elena',
       body: [
-        "The account is the container; the fund is the contents. Get that straight and the rest is paperwork. A brokerage account is just a door with a name on it — behind the door you keep whatever you've learned to buy: index funds, slices, boring everything. Same folly inside, different door, different rules. The door decides who owns it, who can open it, and what the tax collector sees. Choose the contents with rules three, four, five. Choose the door with rule six.",
-        "Under eighteen, the law wants an adult's signature next to yours — so your door is a custodial account: a parent or guardian opens it WITH you, but the money is legally, permanently yours. Not theirs, not 'the family's' — yours, handed to your full control at adulthood. That signature is a formality of age. What I was on paper for ten years — nothing — is not what you'll be at fifteen. That's the entire distance between my 1966 and your 2026, and a law or two paid for the trip.",
-        "So here's what pressing go actually looks like, and it's smaller than you think: one conversation with a parent — bring them THIS, the rules, the math, the story, everything; one custodial account at any big brokerage; one boring index fund inside it; one automatic deposit, sized to survive. Ten dollars a month that never stops beats fifty that quits in October. The paperwork takes an evening. You've spent a whole summer becoming someone who knows exactly what to put behind the door.",
+        "The account is the container; the fund is the contents — Nadia's backpack and books. Get that straight and the rest is paperwork. Inside the backpack you keep whatever you've learned to buy: index funds, slices, boring everything. Same folly inside, different backpack, different rules — the account decides whose name is on it, who can open it, and what the tax collector sees. Choose the contents with rules four, five, six. Choose the container with rule seven.",
+        "Under eighteen, the law wants an adult's signature next to yours — so your container is a custodial account: a parent or guardian opens it WITH you, but the money is legally, permanently yours. Not theirs, not 'the family's' — yours, handed to your full control at adulthood. That signature is a formality of age. What I was on paper for ten years — nothing — is not what you'll be at fifteen. That's the entire distance between my 1966 and your 2026, and a law or two paid for the trip.",
+        "So here's what pressing go actually looks like, and it's smaller than you think: one conversation with a parent — bring them THIS, the rules, the math, the story, everything; one custodial account at any big brokerage; one boring index fund inside it; one automatic deposit, sized to survive. Ten dollars a month that never stops beats fifty that quits in October. The paperwork takes an evening. You've spent a whole summer becoming someone who knows exactly what to put inside.",
       ],
       takeaway:
-        'Account = container, fund = contents. A custodial account puts a minor’s money legally in her own name — the door adults sign, but never own.',
+        'Account = container, fund = contents. A custodial account puts a minor’s money legally in her own name — adults co-sign it, but never own it.',
     },
     {
       type: 'teaching',
       title: 'The container with the superpower',
       voicedBy: 'nadia',
       body: [
-        "Now the best door in the building: the Roth IRA. Same idea — a container, index funds inside — with one superpower: money goes in after taxes, and then grows and comes out at retirement completely tax-free. The government never touches the growth. Ever. And growth is exactly what you have the most of: one summer's $1,000, parked at sixteen and left alone, is about $27,500 of today's buying power at sixty-five — and every dollar of that growth, tax-free. Do that a few summers in a row and you've built something most adults with salaries never got around to.",
-        "The catch — and it's the fairest catch in finance — is the key: EARNED income. Only money you worked for unlocks a Roth. Keisha's pharmacy W-2, yes. Maya's resale profit — reported, thank you very much — yes. Birthday money, allowance, whatever Venmo says: no. You can put in up to what you earned this year or the annual limit, whichever is smaller — the limit's around $7,500 now; check the current year's number. Under eighteen it's opened custodially, like the other door. The law's message, decoded: the moment you earn your first dollar, you're old enough to own a retirement account. Sixteen with a summer job beats twenty-six with a salary, again, forever.",
+        "Now the best backpack in the store: the Roth IRA. Same idea — a container, index funds inside — with one superpower: money goes in after taxes, and then grows and comes out at retirement completely tax-free. The government never touches the growth. Ever. And growth is exactly what you have the most of: one summer's $1,000, parked at sixteen and left alone, is about $27,500 of today's buying power at sixty-five — and every dollar of that growth, tax-free. Do that a few summers in a row and you've built something most adults with salaries never got around to.",
+        "The catch — and it's the fairest catch in finance — is the key: EARNED income. Only money you worked for unlocks a Roth. Keisha's pharmacy W-2, yes. Maya's resale profit — reported, thank you very much — yes. Birthday money, allowance, whatever Venmo says: no. You can put in up to what you earned this year or the annual limit, whichever is smaller — the limit's around $7,500 now; check the current year's number. Under eighteen it's opened custodially, like the other container. The law's message, decoded: the moment you earn your first dollar, you're old enough to own a retirement account. Sixteen with a summer job beats twenty-six with a salary, again, forever.",
         "And Emily's question — the one everyone's family asks: 'doesn't that lock your money in prison until you're old?' Softer than the rumor: what you CONTRIBUTED you can take back out if life demands it — no tax, no penalty. It's the growth that has to stay for the magic. So the Roth isn't a cage; it's a greenhouse with an exit door you'll hopefully never use. The rules don't jail your money. They just pay you extravagantly for patience — and patience, per this entire summer, is the one thing you're all rich in.",
       ],
       takeaway:
@@ -125,7 +125,7 @@ export const lesson06: Lesson = {
       lines: [
         {
           speaker: 'narrator',
-          text: "The deposit slip read twenty dollars even. Sofi filled it out in her best handwriting, her mother beside her at the counter — two account applications side by side, one for each of them, because somewhere between the flour receipts and Rule #5, the tin had voted to diversify.",
+          text: "The deposit slip read twenty dollars even. Sofi filled it out in her best handwriting, her mother beside her at the counter — two account applications side by side, one for each of them, because somewhere between the flour receipts and Rule #6, the tin had voted to diversify.",
         },
         {
           speaker: 'sofi',
@@ -153,19 +153,19 @@ export const lesson06: Lesson = {
         },
         {
           speaker: 'elena',
-          text: "Look at that page, ladies. That is the only inheritance I ever planned to leave — and you just gave it to yourselves. Rule six, someone. It's been carved on my heart since a courthouse in 1976; I'd like to see it in ink.",
+          text: "Look at that page, ladies. That is the only inheritance I ever planned to leave — and you just gave it to yourselves. Rule seven, someone. It's been carved on my heart since a courthouse taught it to me; I'd like to see it in ink.",
         },
         {
           speaker: 'keisha',
-          text: "Rule #6: your name goes on your money. — And that's the envelope full. Six rules, no room left. Feels deliberate, Grandma.",
+          text: "Rule #7: your name goes on your money. — And that's the envelope full. Seven rules, no room left. Feels deliberate, Grandma.",
         },
         {
           speaker: 'elena',
-          text: "Everything on this porch is deliberate, mija. Sixty years ago that envelope held a month of my life and a twenty that missed its bus. Now it holds the whole game, in your six handwritings. Never invisible — none of you, not for one day of your lives. That's the lesson. Class dismissed. Porch stays open.",
+          text: "Everything on this porch is deliberate, mija. Sixty years ago that envelope held a month of my life and a twenty that missed its bus. Now it holds the whole game, in your own handwriting — all of you. Never invisible — none of you, not for one day of your lives. That's the lesson. Class dismissed. Porch stays open.",
         },
         {
           speaker: 'narrator',
-          text: "The $100 Challenge ended the way real ones do: not with a winner, but with four accounts, six rules, one deposited twenty, and a standing Saturday. Keisha packed the ledger for campus. The passbook stayed on the porch — first artifact of somebody else's someday-garage, already growing.",
+          text: "The $100 Challenge ended the way real ones do: not with a winner, but with four accounts, seven rules, one deposited twenty, and a standing Saturday. Keisha packed the ledger for campus. The passbook stayed on the porch — first artifact of somebody else's someday-garage, already growing.",
         },
       ],
     },

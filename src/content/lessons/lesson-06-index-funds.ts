@@ -1,6 +1,6 @@
 import type { Lesson } from '../schema'
 
-/** Episode 5 — Index funds. Arc role: the fix (own everything, easily) — and
+/** Episode 6 — Index funds. Arc role: the fix (own everything, easily) — and
  * the season's reveal. The 1976 slip pays off: Elena bought First Index
  * Investment Trust ("Bogle's folly") after the divorce paperwork showed her
  * she was financially invisible — everything in his name. The vow is "never
@@ -11,10 +11,10 @@ import type { Lesson } from '../schema'
  * it's asked. All numbers: elenaPortfolio2026() ≈ $1,684,185 from $84,000;
  * the $20 three ways (envelope / passbook ~$210 / index ~$2,945).
  */
-export const lesson05: Lesson = {
-  id: 'lesson-05',
+export const lesson06: Lesson = {
+  id: 'lesson-06',
   slug: 'index-funds',
-  number: 5,
+  number: 6,
   title: 'Own Everything, Quietly',
   tagline: 'Index funds: hundreds of companies in one purchase. Boring wins.',
   arcRole: 'fix',
@@ -29,7 +29,7 @@ export const lesson05: Lesson = {
       lines: [
         {
           speaker: 'narrator',
-          text: "Elena returned from Beto's to find her porch annexed by a financial society with four bylaws and a ledger. She read the back of her own 1965 pay envelope for a long moment — rules one through four in four different hands — and nodded once, like a judge accepting a plea.",
+          text: "Elena returned from Beto's to find her porch annexed by a financial society with four bylaws and a ledger. She read the back of her own 1965 pay envelope for a long moment — rules one through five in five different hands — and nodded once, like a judge accepting a plea.",
         },
         {
           speaker: 'keisha',
@@ -45,7 +45,7 @@ export const lesson05: Lesson = {
         },
         {
           speaker: 'elena',
-          text: "Nineteen seventy-six. I'm thirty. The divorce is final in March — his idea, if the ledger wants everything. I go to move my life into my own name and discover my life isn't in my name. The checking account: his. The credit card that bought our groceries for ten years: his, I was the 'authorized user.' The house: his. Legally I was a rumor.",
+          text: "Nineteen seventy-five. I'm twenty-nine. The divorce is final that spring — his idea, if the ledger wants everything. I go to move my life into my own name and discover my life isn't in my name. The checking account: his. The credit card that bought our groceries for ten years: his, I was the 'authorized user.' The house: his. Legally I was a rumor.",
         },
         {
           speaker: 'sofi',
@@ -68,8 +68,8 @@ export const lesson05: Lesson = {
     {
       type: 'decision',
       context: [
-        "March 1976. Everything you own fits in a passbook and a suitcase. The market crashed by half two years ago and has barely started crawling back — the newspapers are still doing funerals for capitalism.",
-        "And there's this: a professor named Bogle just launched a strange new fund that doesn't try to pick winners at all — it just buys a slice of every big company in America at once, for almost no fee. Wall Street is calling it 'Bogle's folly.' Un-American, one poster says. Settling for average.",
+        "Nineteen seventy-six. Everything you own fits in a passbook and a suitcase. The market crashed by half two years ago; prices are still far below the old highs, and the newspapers are still doing funerals for capitalism.",
+        "And there's this: late that summer, a man named Bogle launches a strange new fund that doesn't try to pick winners at all — it just buys a slice of every big company in America at once, for almost no fee. Wall Street is calling it 'Bogle's folly.' Un-American, one poster says. Settling for average.",
         "You're Elena. Thirty, free, furious, and holding every dollar you have.",
       ],
       prompt: 'Your name, your money, your call. Where does it go?',
@@ -79,7 +79,7 @@ export const lesson05: Lesson = {
           label: 'The tin box. You just learned what happens when your money lives under someone else’s name — under your own bed, at least it’s YOURS.',
           consequence: [
             "Completely understandable — and she'd tell you so. After a decade of being a rumor on other people's paperwork, 'where I can see it' isn't foolishness, it's a trauma response with a lid. The tin is honest. Hers. Instant.",
-            "But 1976's pickpocket isn't Episode 1's gentle 4% — inflation is running hot, eleven percent in '74 alone. In the tin, her eleven careful years lose half their buying power in about six more. Visible isn't the same as safe. She'd have her name on a shrinking thing.",
+            "But 1976's pickpocket isn't Episode 1's gentle 4% — inflation is running hot, eleven percent in '74 alone. In the tin, her eleven careful years lose half their buying power in under seven more. Visible isn't the same as safe. She'd have her name on a shrinking thing.",
           ],
           coda: 'The tin protects the paper from everyone except time. She’d already lost a decade to that trade.',
         },
@@ -96,7 +96,7 @@ export const lesson05: Lesson = {
           id: 'folly',
           label: 'Bogle’s folly. Everything the porch has learned, in one purchase: every egg, hundreds of baskets, on sale after the crash.',
           consequence: [
-            "Look at what this weird new thing actually is, through four rules the porch already owns. It's a slice, not a ticket — hundreds of real businesses that bake and ship and earn. It's every basket at once — no single bakery can sink her. Prices just halved, and 'prices only look scary if you're leaving' — she'd be arriving. And it asks for exactly what a 30-year-old with fifty years ahead has the most of: time.",
+            "Look at what this weird new thing actually is, through five rules the porch already owns. It's a slice, not a ticket — hundreds of real businesses that bake and ship and earn. It's every basket at once — no single bakery can sink her. Prices are still deep in the crater of '74, and 'prices only look scary if you're leaving' — she'd be arriving. And it asks for exactly what a 30-year-old with fifty years ahead has the most of: time.",
             "The whole world called it settling for average. But 'average' meant owning a sliver of American business entire — automatically holding whatever wins next, decade after decade, no genius required. The mockery was the discount.",
           ],
           coda: 'Four porch rules, one purchase. The folly was everyone else’s word for it.',
@@ -110,8 +110,8 @@ export const lesson05: Lesson = {
       title: 'The whole market in one purchase',
       voicedBy: 'elena',
       body: [
-        "So now you know what an index fund is, because you reasoned your way to buying one in 1976: a single fund that owns a slice of every big company at once — hundreds of them — weighted by size, for a fee close to nothing. One purchase, and Rule #4 is simply finished: no company can hurt you alone, and you own whichever ones turn out to be the future without having to guess. In 1976 nobody knew which companies would run the next fifty years. I didn't have to know. I owned all of them the whole time.",
-        "Here's the part they called un-American: not trying to win. The professionals pick and trade and charge for the picking — and over any long stretch, roughly nine in ten of them end up behind the boring fund that just bought everything and sat still. Partly it's the guessing. Partly it's the fee: their one percent compounds against you the way growth compounds for you — over fifty years it quietly eats about a third of the pot. A fee is a pickpocket with a business card.",
+        "So now you know what an index fund is, because you reasoned your way to buying one in 1976: a single fund that owns a slice of every big company at once — hundreds of them — weighted by size, for a fee close to nothing. One purchase, and Rule #5 is simply finished: no company can hurt you alone, and you own whichever ones turn out to be the future without having to guess. In 1976 nobody knew which companies would run the next fifty years. I didn't have to know. I owned all of them the whole time.",
+        "Here's the part they called un-American: not trying to win. The professionals pick and trade and charge for the picking — and over any long stretch, roughly nine in ten of them end up behind the boring fund that just bought everything and sat still. Partly it's the guessing. Partly it's the fee: their one percent compounds against you the way growth compounds for you — over fifty years it quietly eats more than a third of the pot. A fee is a pickpocket with a business card.",
         "So the folly asks almost nothing of you. Not brilliance, not timing, not stock-picking homework. Buy everything, keep buying, never sell scared. Any of you can do it. That was always the scandal — it doesn't need experts. It needs time and nerve, and I had both, because a courthouse had just taught me what waiting costs and a crash was holding the door open.",
       ],
       takeaway:
@@ -123,11 +123,11 @@ export const lesson05: Lesson = {
       lines: [
         {
           speaker: 'keisha',
-          text: "Then I'm asking. It's been eight weeks. 'First Index Investment Trust, 1976.' Fifty dollars a month since before my mom was born, into the thing we just did the math on. Grandma. Is it still not for today?",
+          text: "Then I'm asking. It's been five weeks since the garage. 'First Index Investment Trust, 1976.' Fifty dollars a month since before my mom was born, into the thing we just did the math on. Grandma. Is it still not for today?",
         },
         {
           speaker: 'elena',
-          text: "Do the math and tell me. Fifty a month to start, more as my paychecks grew — one-fifty, three hundred, four hundred by the end. Thirty-five years of deposits, then fifteen of just holding on. Eighty-four thousand dollars in, over a lifetime. Never sold — not in '87, not in 2000, not in 2008, not in 2020. Ledger-keeper has the growth rate from last week's clipping. I'll wait.",
+          text: "Do the math and tell me. Fifty a month to start, more as my paychecks grew — one-fifty, three hundred, four hundred by the end. Thirty-five years of deposits, then fifteen of just holding on. Eighty-four thousand dollars in, over a lifetime. Never sold — not in '87, not in 2000, not in 2008, not in 2020. And the market's long-run pace, dividends folded back in, runs about ten and a half percent a year. Ledger-keeper, you have everything. I'll wait.",
         },
         {
           speaker: 'narrator',
@@ -151,7 +151,7 @@ export const lesson05: Lesson = {
         },
         {
           speaker: 'elena',
-          text: "You needed the game more than the answer. All summer you've been living my fifty years in fast-forward — tin, passbook, slices, baskets, crashes — every 'strange' thing I did was the next lesson waiting for you to be ready. The twenty had to wait so you'd price what waiting costs. The slip wasn't for today until you could read it. Today you can read it.",
+          text: "You needed the game more than the answer. All summer you've been living my fifty years in fast-forward — tin, passbook, slices, baskets, crashes — every 'strange' thing I did was the next lesson waiting for you to be ready. The twenty had to wait so you'd price what waiting costs. The slip wasn't for today until you could read it.",
         },
         {
           speaker: 'emily',
@@ -181,18 +181,18 @@ export const lesson05: Lesson = {
       voicedBy: 'elena',
       body: [
         "One last piece of arithmetic, and then the rule. This envelope's twenty — the one that missed the bus in 1965 — finally gets its verdict, because now you can price all three of its possible lives. Life one, the one it lived: sixty years of faithful sitting, still says twenty, buys about two dollars of what it could have bought. Nine-tenths of it pickpocketed in broad daylight. Life two, the passbook it was walking toward: about $210 today — almost exactly what it needed just to tread water. Sixty years of effort to stay even.",
-        "Life three: suppose it had waited in the drawer eleven more years and ridden with me in 1976, into the folly. About $2,945 today — from twenty dollars, doing nothing but refusing to leave. Same bill, three lives: two dollars, two hundred, two thousand nine hundred. The only variable was what it was allowed to own. Boring won by a hundred to one — boring always had the best numbers; it just had the worst marketing. Say the rule, and write it under the other four.",
+        "Life three: suppose it had waited in the drawer eleven more years and ridden with me in 1976, into the folly. About $2,945 today — from twenty dollars, doing nothing but refusing to leave. Same bill, three lives: two dollars, two hundred, two thousand nine hundred. The only variable was what it was allowed to own. Boring won by a thousand to one — it always had the best numbers; it just had the worst marketing. Say the rule, and write it under the other five.",
       ],
       takeaway:
         'Boring wins: own everything, keep buying, hold through everything. Same $20 — ~$2 of buying power in the envelope, ~$210 in the passbook, ~$2,945 riding the index.',
     },
     {
       type: 'story',
-      scene: 'The porch — five rules deep',
+      scene: 'The porch — six rules deep',
       lines: [
         {
           speaker: 'maya',
-          text: "Rule #5: boring wins — own everything, hold on. Written. And I'm framing something else: the most interesting person I know got rich ON PURPOSE by being boring, and hid it under empanadas for fifty years.",
+          text: "Rule #6: boring wins — own everything, hold on. Written. And I'm framing something else: the most interesting person I know got rich ON PURPOSE by being boring, and hid it under empanadas for fifty years.",
         },
         {
           speaker: 'elena',
@@ -208,7 +208,7 @@ export const lesson05: Lesson = {
         },
         {
           speaker: 'narrator',
-          text: "Keisha unpinned the $20 from the ledger and stapled the 1976 slip beside it — the deposit that never made the journey and the one that made all of it, finally on the same page. Five rules down. One porch left.",
+          text: "Keisha unpinned the $20 from the ledger and laid it in the passbook, beside the 1976 slip — the deposit that never made the journey and the one that made all of it, finally on the same page. Six rules down. One porch left.",
         },
       ],
     },
@@ -230,7 +230,7 @@ export const lesson05: Lesson = {
               label: 'A tiny slice of hundreds of companies at once — the whole market, one purchase.',
               correct: true,
               feedback:
-                "Right — Rule #3 and Rule #4 in a single object: a real ownership slice, spread across every basket at once. No single company can sink you, and whichever companies turn out to be the next fifty years' winners, you already own them. Elena never knew which businesses would win. She didn't have to.",
+                "Right — Rule #4 and Rule #5 in a single object: a real ownership slice, spread across every basket at once. No single company can sink you, and whichever companies turn out to be the next fifty years' winners, you already own them. Elena never knew which businesses would win. She didn't have to.",
             },
             {
               id: 'c',
@@ -248,14 +248,14 @@ export const lesson05: Lesson = {
               id: 'a',
               label: 'They beat it — that much full-time expertise has to win out.',
               feedback:
-                "Feels obvious, isn't true: over long stretches roughly nine in ten trail the index they're paid to beat. Two anchors drag them down — guessing wrong about winners, and fees that compound against the client the way growth compounds for her: one percent a year quietly eats about a third of the pot over fifty years. Expertise is real. The math is realer.",
+                "Feels obvious, isn't true: over long stretches roughly nine in ten trail the index they're paid to beat. Two anchors drag them down — guessing wrong about winners, and fees that compound against the client the way growth compounds for her: one percent a year quietly eats more than a third of the pot over fifty years. Expertise is real. The math is realer.",
             },
             {
               id: 'b',
               label: 'Roughly nine in ten lose to it — guessing costs, and their fees compound against you.',
               correct: true,
               feedback:
-                "Right — and that's the scandal that made them call the folly un-American. The index doesn't out-smart the pros; it out-cheaps and out-sits them. No wrong guesses to recover from, and no one-percent fee compounding in reverse — which alone devours about a third of a fifty-year pot. 'Settling for average' beat the experts. Quietly. For decades.",
+                "Right — and that's the scandal that made them call the folly un-American. The index doesn't out-smart the pros; it out-cheaps and out-sits them. No wrong guesses to recover from, and no one-percent fee compounding in reverse — which alone devours more than a third of a fifty-year pot. 'Settling for average' beat the experts. Quietly. For decades.",
             },
             {
               id: 'c',
@@ -273,7 +273,7 @@ export const lesson05: Lesson = {
               id: 'a',
               label: 'Envelope ~$210, passbook ~$2, index ~$2,945.',
               feedback:
-                "Two of the three are swapped: the envelope is the one that still says $20 but buys about $2 of its old life — paper frozen, buying power pickpocketed. The passbook's interest is what got it to ~$210, almost exactly treading water. The index ending you got right, and it's the headline: ~$2,945, a hundred-to-one win for boring.",
+                "Two of the three are swapped: the envelope is the one that still says $20 but buys about $2 of its old life — paper frozen, buying power pickpocketed. The passbook's interest is what got it to ~$210, almost exactly treading water. The index ending you got right, and it's the headline: ~$2,945, a thousand-to-one win for boring.",
             },
             {
               id: 'b',
@@ -286,7 +286,7 @@ export const lesson05: Lesson = {
               id: 'c',
               label: 'All three end up about the same — sixty years is sixty years.',
               feedback:
-                "The years were identical; the vehicles weren't, and the gap is a hundred to one — about $2 of surviving buying power in the envelope, ~$210 in the passbook, ~$2,945 riding the index. Time multiplies whatever it's given: nothing, a shelter, or an engine. That's why 'where does the money live' is next week's — and the season's — last question.",
+                "The years were identical; the vehicles weren't, and the gap runs a thousand to one — about $2 of surviving buying power in the envelope, ~$210 in the passbook, ~$2,945 riding the index. Time multiplies whatever it's given: nothing, a shelter, or an engine. That's why 'where does the money live' is next week's — and the season's — last question.",
             },
           ],
         },

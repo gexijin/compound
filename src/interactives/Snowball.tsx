@@ -6,7 +6,7 @@ import {
   totalDeposited,
 } from '../lib/finance'
 
-/** Episode 2's flagship: the compound-growth snowball. Guess first (Grandma's
+/** Episode 3's flagship: the compound-growth snowball. Guess first (Grandma's
  * missing fortune), then drive the machine — amount and start age — and race
  * a twin who waits ten years. All values via finance.ts at 7% (long-run
  * stocks after inflation), so everything reads in today's buying power. */
@@ -263,7 +263,7 @@ export function Snowball() {
           <p className="mt-4 border-t border-ink/10 pt-4 text-xs text-ink-soft">
             {Math.round(ILLUSTRATIVE_RETURN * 100)}% is the long-run U.S.
             stock market average after inflation — some years way up, some
-            way down (Episode 4 is about the down ones). It is a planning
+            way down (Episode 5 is about the down ones). It is a planning
             number, not a promise — and nothing like it lives in a drawer.
           </p>
         </div>

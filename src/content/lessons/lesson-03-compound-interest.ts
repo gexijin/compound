@@ -1,6 +1,6 @@
 import type { Lesson } from '../schema'
 
-/** Episode 2 — Compound interest. Arc role: the hope (growth beats inflation).
+/** Episode 3 — Compound interest. Arc role: the hope (growth beats inflation).
  * Anchor: the missing-fortune counterfactual — what Grandma's $20/month would
  * have become had every deposit gotten a job (~$200k in today's buying power,
  * computed in finance.ts at 7% ≈ long-run stocks after inflation). Keisha's
@@ -10,10 +10,10 @@ import type { Lesson } from '../schema'
  * question of why, never answer it. The $100 Challenge gets its first
  * check-in; Emily opens her banking app (avoidance arc, step one).
  */
-export const lesson02: Lesson = {
-  id: 'lesson-02',
+export const lesson03: Lesson = {
+  id: 'lesson-03',
   slug: 'compound-interest',
-  number: 2,
+  number: 3,
   title: "Grandma's Missing Fortune",
   tagline: 'Compound interest: the force that works like inflation, but for you.',
   arcRole: 'hope',
@@ -24,23 +24,23 @@ export const lesson02: Lesson = {
   beats: [
     {
       type: 'story',
-      scene: "Grandma Elena's porch — one week later",
+      scene: "Grandma Elena's porch — week three",
       lines: [
         {
           speaker: 'narrator',
-          text: "Week two of the $100 Challenge. The pay envelope sat in the middle of the table, PORCH RULES up, the forgotten $20 pinned inside Keisha's ledger like evidence.",
+          text: "Week three of the $100 Challenge, and Nadia finally got her night. The pay envelope sat in the middle of the table, PORCH RULES up, the forgotten $20 pinned inside Keisha's ledger like evidence.",
         },
         {
           speaker: 'sofi',
-          text: "Rule #1: money sitting still is money shrinking. I said it to my mom. She said the tin has never once shrunk. I didn't have a comeback.",
+          text: "Rules so far, because I've been practicing: money sitting still is money shrinking, and real things hold what paper drops. I recited both to my mom. She tapped her bangles and said, 'We wrote rule two first.' My mom thinks she founded this club.",
         },
         {
           speaker: 'elena',
-          text: "She's right — the tin never shrinks. The world around it grows. Tell her the tin is honest. It's just outnumbered.",
+          text: "She's not wrong, mija. Tell the founder we say hello — and that tonight we finally get to the part her bangles can't do.",
         },
         {
           speaker: 'keisha',
-          text: "Okay, before anything else — I did your math on the bus. Last week you said the $20 'could have become more than you'd believe.' Twenty dollars a month for sixty years is $14,400. That's real money. It is not believe-money.",
+          text: "Okay, before anything else — I did your math on the bus. Back in the garage you said the $20 'could have become more than you'd believe.' Twenty dollars a month for sixty years is $14,400. That's real money. It is not believe-money.",
         },
         {
           speaker: 'elena',
@@ -130,8 +130,8 @@ export const lesson02: Lesson = {
       voicedBy: 'nadia',
       body: [
         "The machine has three dials: how much you put in, how fast it grows, and how long it runs. Adults fixate on the first two — bigger deposits, hotter returns. But the time dial is welded in place for them, and it's wide open for you. You own more of it than almost anyone with money to invest.",
-        "Run the numbers on my age gap. $100 a month from 16 to 66: about half a million. The identical habit started at 26: about $247,000. Ten years, half the fortune. It gets weirder — start at 16, stop completely at 26, never add another dollar: your $12,000 still beats the person who started at 26 and paid in $48,000. And $25 a month for fifty years beats $100 a month for thirty. Small and early doesn't just compete with big and late. It wins.",
-        "One honest thing before the quiz, because this porch doesn't do fine print. That 7% isn't a savings account — savings roughly keeps pace with the pickpocket, remember? It's the long-run average of owning the stock market, after inflation, and no single year is average — some are ugly. What you're actually buying when you buy 'the market' — that's next week. What the ugly years feel like — that's the week after. The curve is real. It just isn't smooth, and it isn't a sprint: it won't fix an August-sized problem by August.",
+        "Run the numbers on my age gap: $100 a month from 16 to 66 is about half a million; the same habit started at 26, about $247,000 — ten years, half the fortune. It gets weirder — start at 16, stop completely at 26, never add another dollar: your $12,000 still beats the person who started at 26 and paid in $48,000. And $25 a month for fifty years beats $100 a month for thirty. Small and early doesn't just compete with big and late. It wins.",
+        "One honest thing before the quiz, because this porch doesn't do fine print. That 7% isn't a savings account — savings roughly keeps pace with the pickpocket, remember? It's the long-run average of owning the stock market, after inflation, and no single year is average — some are ugly. What you're actually buying when you buy 'the market' — that's next week. What the ugly years feel like — that's the week after. The curve is real. It just isn't smooth.",
       ],
       takeaway:
         "Amount, rate, time — and time is the only dial a 16-year-old owns outright. Small and early beats big and late; the head start does the heavy lifting.",
@@ -182,7 +182,7 @@ export const lesson02: Lesson = {
         },
         {
           speaker: 'narrator',
-          text: "Keisha flipped the envelope over and clicked the pen. Under Rule #1 she wrote #2 — and looked at Maya, who'd been quiet since the laptop.",
+          text: "Keisha flipped the envelope over and clicked the pen. Beneath the first two rules she wrote #3 — and looked at Maya, who'd been quiet since the laptop.",
         },
         {
           speaker: 'maya',

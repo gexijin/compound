@@ -92,6 +92,7 @@ export type Beat = StoryBeat | DecisionBeat | TeachingBeat | QuizBeat
 
 export type ArcRole =
   | 'problem'
+  | 'clue'
   | 'hope'
   | 'vehicle'
   | 'catch'

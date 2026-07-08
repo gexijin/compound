@@ -61,7 +61,7 @@ export const characters: Record<CharacterId, Character> = {
     // mostly index funds (bought the first one, 1976) plus a few stocks she
     // chose by studying Warren Buffett, held through every crash. Quietly
     // worth ~$1.7M. Planted in Episode 1 (the brokerage slip); revealed in
-    // Episode 5. The forgotten $20 in her pay envelope — one month's savings
+    // Episode 6. The forgotten $20 in her pay envelope — one month's savings
     // that never made it to the bank — is her accidental control group.
     background:
       'Earned $100 a month in the 1960s — and knows more about what money can become than she lets on.',

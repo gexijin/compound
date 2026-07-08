@@ -26,7 +26,7 @@ export const REALIZED_INFLATION_2020_2025 =
 /** The CPI-matched 2025 repayment of `amount` lent in 2020 — what it takes to
  * hand back the same buying power, not just the same number. Episode 1's loan
  * test: $100 lent in 2020 needs ~$124 back in 2025 to be truly even. The ~$24
- * gap is the price of waiting — the seed of Episode 2's interest lesson. */
+ * gap is the price of waiting — the seed of Episode 3's interest lesson. */
 export function fairRepayment2020(amount: number): number {
   return amount * (CPI_2025 / CPI_2020)
 }
@@ -87,6 +87,44 @@ export function doublingYears(rate: number): number {
   return Math.log(2) / Math.log(1 + rate)
 }
 
+/** CPI annual averages for the store-of-value episode's anchor years. */
+export const CPI_1975 = 53.8
+export const CPI_1985 = 107.6
+
+/** Gold, $/troy oz: London fix annual average for 1975, and an approximate
+ * 2025 average (gold swings hard — treat as "roughly", check current). */
+export const GOLD_1975 = 161
+export const GOLD_2025 = 3400
+
+/** U.S. median new-home sale price, approximate: 1985 vs 2025. Elena's
+ * house is written as "stubbornly median," so her story math IS this math. */
+export const HOUSE_1985 = 84_000
+export const HOUSE_2025 = 420_000
+
+/** How far gold ran 1975→2025 (~21×), vs prices overall (~6×). */
+export function goldMultiple1975(): number {
+  return GOLD_2025 / GOLD_1975
+}
+
+/** The $50 necklace's gold-content value today, ≈ $1,050 — treating the
+ * 1975 price as mostly gold content (illustrative; jewelry adds labor). */
+export function necklaceToday(price1975: number): number {
+  return price1975 * goldMultiple1975()
+}
+
+/** Overall price-level multiple from a given CPI year to 2025 —
+ * 1975: ~6×; 1985: ~3×. What "just keeping up" would have required. */
+export function priceLevelMultipleSince(cpiThen: number): number {
+  return CPI_2025 / cpiThen
+}
+
+/** Elena's house, 1985 → 2025 on median prices: ~5×, while overall prices
+ * rose ~3× — homes roughly keep up with inflation and then some, because
+ * construction is labor (wages rise with prices) and land isn't printed. */
+export function houseMultiple1985(): number {
+  return HOUSE_2025 / HOUSE_1985
+}
+
 /** Long-run growth rate for forward-looking "what could it become" figures:
  * ~10% nominal long-run U.S. stock returns minus ~3% inflation ≈ 7%, so
  * results read in today's buying power. A planning number, not a promise. */
@@ -108,7 +146,7 @@ export function futureValueLump(
 }
 
 /** Future value of `payment` deposited at the end of every month for `years`.
- * Episode 2's counterfactual: $20/month for 60 years ≈ $200k (deposits:
+ * Episode 3's counterfactual: $20/month for 60 years ≈ $200k (deposits:
  * $14,400) — Grandma's missing fortune, in today's buying power. */
 export function futureValueMonthly(
   payment: number,
@@ -142,12 +180,12 @@ export function totalDeposited(payment: number, years: number): number {
 }
 
 /** Powerball jackpot odds, as documented by the lottery itself:
- * 1 in 292,201,338. Episode 3's contrast — a ticket is a bet that needs
+ * 1 in 292,201,338. Episode 4's contrast — a ticket is a bet that needs
  * losers; a share is ownership that doesn't. */
 export const POWERBALL_JACKPOT_ODDS_DENOM = 292_201_338
 
 /** Your cut when a business's profit is split across `totalShares` and you
- * own `sharesOwned` — Episode 3's shop math (dollar amounts illustrative). */
+ * own `sharesOwned` — Episode 4's shop math (dollar amounts illustrative). */
 export function sliceOfProfit(
   profit: number,
   totalShares: number,
@@ -157,7 +195,7 @@ export function sliceOfProfit(
 }
 
 /** The 1973–74 crash, S&P 500 closing levels: the January 1973 peak and the
- * October 1974 trough — the market roughly halved. Episode 4's artifact. */
+ * October 1974 trough — the market roughly halved. Episode 5's artifact. */
 export const SP500_PEAK_JAN_1973 = 120.24
 export const SP500_TROUGH_OCT_1974 = 62.28
 
@@ -201,7 +239,7 @@ export const INFLATION_1974 = 0.11
 export const PROS_TRAILING_INDEX_15Y = 0.9
 
 /** Elena's contribution history, rising with her wages — the labeled,
- * realistic schedule behind the Episode 5 reveal. Flat $20/month never gets
+ * realistic schedule behind the Episode 6 reveal. Flat $20/month never gets
  * to $1.7M; fifty years of rising deposits at index returns does. She stops
  * adding at retirement (2010) and just holds. */
 export const ELENA_CONTRIBUTION_TIERS = [

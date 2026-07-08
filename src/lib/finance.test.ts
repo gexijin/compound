@@ -10,8 +10,15 @@ import {
   YEARS_2020_TO_2025,
   basketLossOneZero,
   burgersFor,
+  CPI_1975,
+  CPI_1985,
   doublingYears,
   drawdown1973to74,
+  goldMultiple1975,
+  houseMultiple1985,
+  necklaceToday,
+  PASSBOOK_RATE,
+  priceLevelMultipleSince,
   elenaContributionsTotal,
   elenaPortfolio2026,
   fairRepayment2020,
@@ -147,12 +154,45 @@ describe('fairRepayment2020', () => {
   })
 })
 
-describe('Episode 2 — compound growth (7% ≈ long-run stocks after inflation)', () => {
+describe('Episode 2 — store of value (the necklace and the house)', () => {
+  it('the $50 necklace, priced as gold content, is worth about $1,050 today', () => {
+    expect(necklaceToday(50)).toBeGreaterThan(1_000)
+    expect(necklaceToday(50)).toBeLessThan(1_100)
+  })
+
+  it('gold ran ~21× from 1975 while prices overall rose ~6×', () => {
+    expect(goldMultiple1975()).toBeGreaterThan(20)
+    expect(goldMultiple1975()).toBeLessThan(22)
+    expect(priceLevelMultipleSince(CPI_1975)).toBeGreaterThan(5.8)
+    expect(priceLevelMultipleSince(CPI_1975)).toBeLessThan(6.2)
+  })
+
+  it('breaking even on 1975\'s $50 takes about $299 today; the kept bill buys ~$8 of 1975 stuff', () => {
+    expect(50 * priceLevelMultipleSince(CPI_1975)).toBeGreaterThan(290)
+    expect(50 * priceLevelMultipleSince(CPI_1975)).toBeLessThan(310)
+    expect(50 * (CPI_1975 / CPI_2025)).toBeGreaterThan(8)
+    expect(50 * (CPI_1975 / CPI_2025)).toBeLessThan(9)
+  })
+
+  it('the $50 in a passbook for 50 years ≈ $355 — ahead of break-even, barely', () => {
+    expect(futureValueLump(50, 50, PASSBOOK_RATE)).toBeGreaterThan(345)
+    expect(futureValueLump(50, 50, PASSBOOK_RATE)).toBeLessThan(365)
+  })
+
+  it("Elena's median house: ~5× since 1985, while prices rose ~3×", () => {
+    expect(houseMultiple1985()).toBeCloseTo(5, 1)
+    expect(priceLevelMultipleSince(CPI_1985)).toBeGreaterThan(2.9)
+    expect(priceLevelMultipleSince(CPI_1985)).toBeLessThan(3.1)
+    expect(houseMultiple1985()).toBeGreaterThan(priceLevelMultipleSince(CPI_1985))
+  })
+})
+
+describe('Episode 3 — compound growth (7% ≈ long-run stocks after inflation)', () => {
   it("Grandma's missing fortune: $20/mo for 60 years ≈ $200k on $14,400 deposited", () => {
     expect(futureValueMonthly(20, 60)).toBeGreaterThan(195_000)
     expect(futureValueMonthly(20, 60)).toBeLessThan(210_000)
     expect(totalDeposited(20, 60)).toBe(14_400)
-    // The exact figure quoted in Episode 2's closing scene ("$201,432").
+    // The exact figure quoted in Episode 3's closing scene ("$201,432").
     expect(Math.round(futureValueMonthly(20, 60))).toBe(201_432)
   })
 
@@ -203,7 +243,7 @@ describe('Episode 2 — compound growth (7% ≈ long-run stocks after inflation)
   })
 })
 
-describe('Episode 3 — slices and tickets', () => {
+describe('Episode 4 — slices and tickets', () => {
   it("one slice of Maya's 100-slice shop gets 40¢ of a $40 profit month", () => {
     expect(sliceOfProfit(40, 100, 1)).toBeCloseTo(0.4, 6)
     expect(sliceOfProfit(40, 100, 10)).toBeCloseTo(4, 6)
@@ -218,7 +258,7 @@ describe('Episode 3 — slices and tickets', () => {
   })
 })
 
-describe('Episode 4 — risk and diversification', () => {
+describe('Episode 5 — risk and diversification', () => {
   it('the 1973–74 crash cut the market roughly in half (≈ −48%)', () => {
     expect(drawdown1973to74()).toBeLessThan(-0.47)
     expect(drawdown1973to74()).toBeGreaterThan(-0.49)
@@ -240,7 +280,7 @@ describe('Episode 4 — risk and diversification', () => {
   })
 })
 
-describe('Episode 5 — Elena\'s portfolio and the $20 three ways', () => {
+describe('Episode 6 — Elena\'s portfolio and the $20 three ways', () => {
   it('her lifetime deposits total exactly $84,000', () => {
     expect(elenaContributionsTotal()).toBe(84_000)
   })
@@ -249,7 +289,7 @@ describe('Episode 5 — Elena\'s portfolio and the $20 three ways', () => {
     const v = elenaPortfolio2026()
     expect(v).toBeGreaterThan(1_600_000)
     expect(v).toBeLessThan(1_750_000)
-    // The exact figure the porch computes in Episode 5 ("$1,684,185").
+    // The exact figure the porch computes in Episode 6 ("$1,684,185").
     expect(Math.round(v)).toBe(1_684_185)
   })
 
@@ -277,7 +317,7 @@ describe('Episode 5 — Elena\'s portfolio and the $20 three ways', () => {
   })
 })
 
-describe('Episode 6 — accounts and the Roth rule', () => {
+describe('Episode 7 — accounts and the Roth rule', () => {
   it('contribute up to min(earned income, limit): $0 / $500 / $10k earnings', () => {
     expect(maxRothContribution(0)).toBe(0)
     expect(maxRothContribution(500)).toBe(500)

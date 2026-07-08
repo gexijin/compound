@@ -1,18 +1,18 @@
 import type { Lesson } from '../schema'
 
-/** Episode 3 — What a stock is. Arc role: the vehicle (what you actually buy).
+/** Episode 4 — What a stock is. Arc role: the vehicle (what you actually buy).
  * Elena is off-stage (visiting Beto); her voice arrives in writing — an old
  * paper stock certificate tucked in the passbook, with a note in her hand on
  * the back. Nadia voices the teaching as the near-peer. Maya's resale shop is
  * the bridge: she already thinks like an owner and doesn't know it.
  * Season: the certificate tightens the mystery (why does Grandma own shares?)
  * without confirming anything; Keisha's classmate's hot stock is planted here
- * and pays off in Episode 4's decision.
+ * and pays off in Episode 5's decision.
  */
-export const lesson03: Lesson = {
-  id: 'lesson-03',
+export const lesson04: Lesson = {
+  id: 'lesson-04',
   slug: 'what-is-a-stock',
-  number: 3,
+  number: 4,
   title: 'A Slice, Not a Ticket',
   tagline: 'What a share of stock actually is (hint: not a lottery ticket).',
   arcRole: 'vehicle',
@@ -23,7 +23,7 @@ export const lesson03: Lesson = {
   beats: [
     {
       type: 'story',
-      scene: 'The porch — week three, Elena away',
+      scene: 'The porch — week four, Elena away',
       lines: [
         {
           speaker: 'narrator',
@@ -31,7 +31,7 @@ export const lesson03: Lesson = {
         },
         {
           speaker: 'keisha',
-          text: "Ledger's open. Rules so far: one, money sitting still is money shrinking. Two, small and early beats big and late. Which means we're all investing now — in what, exactly? Nobody's said what we're actually buying.",
+          text: "Ledger's open. Rules so far: one, money sitting still is money shrinking. Two, real things hold what paper drops. Three, small and early beats big and late. Which means we're all investing now — in what, exactly? Nobody's said what we're actually buying.",
         },
         {
           speaker: 'sofi',
@@ -74,7 +74,7 @@ export const lesson03: Lesson = {
     {
       type: 'decision',
       context: [
-        "Maya's shop cleared $60 this week, and for once she's not spending it — Rule #2 got under her skin. But 'invest it' turns out to be a menu, and three items are winking at her.",
+        "Maya's shop cleared $60 this week, and for once she's not spending it — Rule #3 got under her skin. But 'invest it' turns out to be a menu, and three items are winking at her.",
         "Her feed is hyping a stock called 'the next big thing' — up 40% this month, rocket emojis everywhere. The thrift app she sells through is a public company she knows inside out. And the gas station sells Powerball tickets, $2 a dream.",
         "You're Maya.",
       ],
@@ -128,7 +128,7 @@ export const lesson03: Lesson = {
       voicedBy: 'nadia',
       body: [
         "Now the trap that makes people call this gambling: the price. It updates every second the market's open, wiggling like a heart monitor, and staring at it will convince you stocks are a casino. But the price is just what buyers and sellers are feeling today — the mood. The business underneath changes slowly: it bakes, it ships, it earns, quarter by quarter. When you own a slice, the wiggle is noise; the bread is signal. Elena's tally went quarter after quarter for years — you think she checked a ticker? She checked the mailbox.",
-        "A lottery ticket has no bread. It's a bet where the winners are paid out of the losers' pockets, at 1-in-292-million odds — printed small, felt smaller. A share isn't a bet against anybody: the bakery has a good year, and every single owner does too. That's why 'the stock market is gambling' gets it backwards. Gambling shuffles money between players. Ownership grows it — someone bakes something new, and there's more to split than there was.",
+        "A lottery ticket has no bread. It's a bet paid out of other players' pockets, at 1-in-292-million odds. A share isn't a bet against anybody — the bakery has a good year, and every owner does too. Gambling shuffles money between players; ownership grows because somebody baked something new.",
       ],
       takeaway:
         'The price is the mood; the business is the thing. Tickets shuffle money between players — slices grow because the company actually makes something.',
@@ -163,7 +163,7 @@ export const lesson03: Lesson = {
         },
         {
           speaker: 'nadia',
-          text: "That sentence is next week's whole episode, Keisha. Bring your savings number. We're going to talk about eggs, baskets, and what happened to the market the year after Grandma's twenty missed the bus.",
+          text: "That sentence is next week's whole episode, Keisha. Bring your savings number. We're going to talk about eggs, baskets, and the crash that hit while Grandma's twenty sat in its envelope.",
         },
         {
           speaker: 'narrator',
@@ -171,11 +171,11 @@ export const lesson03: Lesson = {
         },
         {
           speaker: 'sofi',
-          text: "Rule #3: buy the slice, not the ticket. My tío buys tickets. Grandma bought a bakery. I've decided which one I am.",
+          text: "Rule #4: buy the slice, not the ticket. My tío buys tickets. Grandma bought a bakery. I've decided which one I am.",
         },
         {
           speaker: 'narrator',
-          text: "Three rules on a sixty-year-old envelope, a certificate sleeping in a passbook, and one question getting louder every week: what else did Grandma buy?",
+          text: "Four rules on a sixty-year-old envelope, a certificate sleeping in a passbook, and one question getting louder every week: what else did Grandma buy?",
         },
       ],
     },
