@@ -2,6 +2,7 @@ import type { Lesson } from '../schema'
 import { lesson01 } from './lesson-01-inflation'
 import { lesson02 } from './lesson-02-compound-interest'
 import { lesson03 } from './lesson-03-what-is-a-stock'
+import { lesson04 } from './lesson-04-risk-and-diversification'
 
 /** The investing module — six episodes, one story arc:
  * problem → hope → vehicle → catch → fix → action.
@@ -10,23 +11,7 @@ export const lessons: Lesson[] = [
   lesson01,
   lesson02,
   lesson03,
-  {
-    id: 'lesson-04',
-    slug: 'risk-and-diversification',
-    number: 4,
-    title: 'All the Eggs, One Basket',
-    tagline: 'Risk is normal. Betting everything on one company is not.',
-    arcRole: 'catch',
-    minutes: 9,
-    // B-plot artifact: a 1974 brokerage statement (or newspaper clipping)
-    // showing the crash halving the market, with Elena's handwriting in the
-    // margin — her voice arrives in writing while she's off-stage. She held
-    // through this; Ep 5 reveals why that mattered.
-    characters: ['maya', 'keisha', 'emily'],
-    status: 'coming-soon',
-    porchRule: 'All the eggs, never one basket.',
-    beats: [],
-  },
+  lesson04,
   {
     id: 'lesson-05',
     slug: 'index-funds',

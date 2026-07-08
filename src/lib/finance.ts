@@ -156,6 +156,37 @@ export function sliceOfProfit(
   return (profit / totalShares) * sharesOwned
 }
 
+/** The 1973–74 crash, S&P 500 closing levels: the January 1973 peak and the
+ * October 1974 trough — the market roughly halved. Episode 4's artifact. */
+export const SP500_PEAK_JAN_1973 = 120.24
+export const SP500_TROUGH_OCT_1974 = 62.28
+
+/** Approximate S&P 500 level, mid-2025 — price only, excludes dividends
+ * (with dividends reinvested the multiple is far larger). */
+export const SP500_2025 = 6000
+
+/** The 1973–74 peak-to-trough drop (≈ −48%): "the market halved". */
+export function drawdown1973to74(): number {
+  return SP500_TROUGH_OCT_1974 / SP500_PEAK_JAN_1973 - 1
+}
+
+/** How far the market has come since the 1974 bottom (price-only, ≈96×). */
+export function troughToTodayMultiple(): number {
+  return SP500_2025 / SP500_TROUGH_OCT_1974
+}
+
+/** Gain needed to climb out of a fractional loss: down 50% needs up 100%,
+ * because the comeback runs on a smaller base. Losses are lopsided. */
+export function gainToRecover(loss: number): number {
+  return loss / (1 - loss)
+}
+
+/** Portfolio hit when one of `n` equal-sized holdings goes to zero:
+ * 10 baskets, one breaks → −10%. One basket → −100%. */
+export function basketLossOneZero(n: number): number {
+  return 1 / n
+}
+
 export function formatDollars(n: number, decimals = 0): string {
   return n.toLocaleString('en-US', {
     style: 'currency',

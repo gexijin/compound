@@ -8,9 +8,13 @@ import {
   REALIZED_INFLATION_2020_2025,
   YEARS_1965_TO_2025,
   YEARS_2020_TO_2025,
+  basketLossOneZero,
   burgersFor,
   doublingYears,
+  drawdown1973to74,
   fairRepayment2020,
+  gainToRecover,
+  troughToTodayMultiple,
   futureValueCoast,
   futureValueLump,
   futureValueMonthly,
@@ -205,6 +209,28 @@ describe('Episode 3 — slices and tickets', () => {
 
   it('the Powerball jackpot odds quoted in the lesson: 1 in ~292 million', () => {
     expect(POWERBALL_JACKPOT_ODDS_DENOM).toBe(292_201_338)
+  })
+})
+
+describe('Episode 4 — risk and diversification', () => {
+  it('the 1973–74 crash cut the market roughly in half (≈ −48%)', () => {
+    expect(drawdown1973to74()).toBeLessThan(-0.47)
+    expect(drawdown1973to74()).toBeGreaterThan(-0.49)
+  })
+
+  it('from the 1974 bottom, the market is up ~96× (price only, no dividends)', () => {
+    expect(troughToTodayMultiple()).toBeGreaterThan(90)
+    expect(troughToTodayMultiple()).toBeLessThan(100)
+  })
+
+  it('losses are lopsided: down 50% needs up 100%; down 20% needs up 25%', () => {
+    expect(gainToRecover(0.5)).toBeCloseTo(1.0, 6)
+    expect(gainToRecover(0.2)).toBeCloseTo(0.25, 6)
+  })
+
+  it('one of ten holdings going to zero is a −10% bruise, not a −100% verdict', () => {
+    expect(basketLossOneZero(10)).toBeCloseTo(0.1, 6)
+    expect(basketLossOneZero(1)).toBe(1)
   })
 })
 
