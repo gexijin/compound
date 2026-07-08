@@ -9,6 +9,7 @@ import {
   YEARS_2020_TO_2025,
   burgersFor,
   doublingYears,
+  fairRepayment2020,
   inflate1965ToToday,
   purchasingPower,
   todayIn1965Dollars,
@@ -87,7 +88,7 @@ describe('REALIZED_INFLATION_2020_2025', () => {
     expect(REALIZED_INFLATION_2020_2025).toBeLessThan(0.05)
   })
 
-  it('$100 stashed in 2020 buys about $80 of 2020 stuff today', () => {
+  it("the $100 Beto repaid after five years buys about $80 of 2020's stuff", () => {
     const left = purchasingPower(
       100,
       YEARS_2020_TO_2025,
@@ -96,6 +97,21 @@ describe('REALIZED_INFLATION_2020_2025', () => {
     expect(left).toBeCloseTo((100 * CPI_2020) / CPI_2025, 6)
     expect(left).toBeGreaterThan(78)
     expect(left).toBeLessThan(82)
+  })
+})
+
+describe('fairRepayment2020', () => {
+  it('a $100 loan from 2020 needs about $124 back in 2025 to break even', () => {
+    expect(fairRepayment2020(100)).toBeCloseTo((100 * CPI_2025) / CPI_2020, 6)
+    expect(fairRepayment2020(100)).toBeGreaterThan(120)
+    expect(fairRepayment2020(100)).toBeLessThan(128)
+  })
+
+  it('repaying the fair amount restores the buying power that was lent', () => {
+    const repaid = fairRepayment2020(100)
+    expect(
+      purchasingPower(repaid, YEARS_2020_TO_2025, REALIZED_INFLATION_2020_2025),
+    ).toBeCloseTo(100, 6)
   })
 })
 

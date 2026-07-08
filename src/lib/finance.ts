@@ -19,9 +19,17 @@ export const REALIZED_INFLATION_1965_2025 =
 
 /** The inflation rate actually realized 2020→2025, derived from the CPI
  * endpoints (≈4.5%/yr) — the recent surge students lived through. Drives the
- * drawer test's "you stashed $100 in 2020" example. */
+ * loan test's "Beto borrowed $100 in 2020" example. */
 export const REALIZED_INFLATION_2020_2025 =
   Math.pow(CPI_2025 / CPI_2020, 1 / YEARS_2020_TO_2025) - 1
+
+/** The CPI-matched 2025 repayment of `amount` lent in 2020 — what it takes to
+ * hand back the same buying power, not just the same number. Episode 1's loan
+ * test: $100 lent in 2020 needs ~$124 back in 2025 to be truly even. The ~$24
+ * gap is the price of waiting — the seed of Episode 2's interest lesson. */
+export function fairRepayment2020(amount: number): number {
+  return amount * (CPI_2025 / CPI_2020)
+}
 
 /** Typical going-forward figure quoted in lessons ("prices creep ~2–3%/yr");
  * default for forward-looking illustrations. */

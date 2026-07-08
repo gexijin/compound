@@ -6,6 +6,7 @@ import {
   ILLUSTRATIVE_INFLATION,
   REALIZED_INFLATION_2020_2025,
   YEARS_2020_TO_2025,
+  fairRepayment2020,
   formatDollars,
   purchasingPower,
 } from '../lib/finance'
@@ -23,12 +24,18 @@ const RATES = [
   { id: 'argentina', rate: 0.3, label: '~30% — Argentina, lately' },
 ]
 
-const GUESSES = [
-  { id: 'g100', value: 100, label: 'Still about $100 worth' },
-  { id: 'g95', value: 95, label: 'About $95 worth' },
-  { id: 'g80', value: 80, label: 'About $80 worth' },
-  { id: 'g65', value: 65, label: 'About $65 worth' },
+// The verdicts on Beto's repayment. `value` is where the call sits on the
+// buying-power chart: what the returned $100 is "really" worth in 2020 stuff.
+const VERDICTS = [
+  { id: 'even', value: 100, label: 'Even — $100 is $100' },
+  { id: 'ahead', value: 105, label: 'Elena came out ahead' },
+  { id: 'short-little', value: 95, label: 'Elena is short a few dollars of stuff' },
+  { id: 'short-20', value: 80, label: 'Elena is short about $20 of stuff' },
 ]
+
+// "Make it fair" choices: the fair one is computed, the rest are decoys.
+const FAIR = fairRepayment2020(AMOUNT)
+const FAIR_CHOICES = [100, 110, FAIR, 150]
 
 // Chart geometry (viewBox units)
 const W = 560
@@ -38,7 +45,8 @@ const x = (yr: number) => M.left + (yr / MAX_YEARS) * (W - M.left - M.right)
 const y = (v: number) => M.top + (1 - v / AMOUNT) * (H - M.top - M.bottom)
 
 export function FutureWorth() {
-  const [guess, setGuess] = useState<(typeof GUESSES)[number] | null>(null)
+  const [verdict, setVerdict] = useState<(typeof VERDICTS)[number] | null>(null)
+  const [fairPick, setFairPick] = useState<number | null>(null)
   const [rateId, setRateId] = useState('recent')
   const [hoverYear, setHoverYear] = useState<number | null>(null)
 
@@ -47,7 +55,7 @@ export function FutureWorth() {
   // Show cents once values get small, so "$1.95 buys 0 burgers" doesn't
   // render as the paradoxical "$2 buys 0 burgers" (Argentina-rate tail).
   const fmt = (v: number) => formatDollars(v, v < 10 ? 2 : 0)
-  // The real 2020→2025 answer: what the drawer's $100 buys in 2020 stuff.
+  // The real answer: what Beto's returned $100 buys in 2020 stuff (~$80).
   const truth5 = purchasingPower(
     AMOUNT,
     YEARS_2020_TO_2025,
@@ -69,57 +77,68 @@ export function FutureWorth() {
   return (
     <div className="rounded-2xl border-2 border-ink bg-cream p-5 sm:p-6">
       <h3 className="font-display text-lg font-bold">
-        Now it's your bill: the drawer test
+        The $100 that came back
       </h3>
       <p className="mt-1 text-sm text-ink-soft">
-        This one really happened. In 2020, you stash $100 in a drawer and
-        forget it. Five years later, how much of 2020's stuff does it still
-        buy? Guess first — the real numbers come after.
+        Beto borrowed $100 in 2020 and handed back $100 five years later —
+        every dollar. The brother is Elena's; the prices are real (actual U.S.
+        CPI, 2020 to 2025). So: is the debt really settled? Make the call —
+        the math comes after.
       </p>
 
-      <div className="mt-3 grid grid-cols-2 gap-2">
-        {GUESSES.map((g) => (
+      <div
+        className="mt-3 grid grid-cols-1 gap-2 sm:grid-cols-2"
+        role="group"
+        aria-label="Your verdict on the repayment"
+      >
+        {VERDICTS.map((v) => (
           <button
-            key={g.id}
-            disabled={guess !== null}
-            onClick={() => setGuess(g)}
+            key={v.id}
+            disabled={verdict !== null}
+            onClick={() => setVerdict(v)}
             className={`rounded-xl border-2 px-3 py-2 text-sm font-semibold transition-colors ${
-              guess?.id === g.id
+              verdict?.id === v.id
                 ? 'border-grove bg-grove text-paper'
-                : guess
+                : verdict
                   ? 'border-ink/10 text-ink-soft'
                   : 'border-ink/25 bg-paper hover:border-grove'
             }`}
           >
-            {g.label}
+            {v.label}
           </button>
         ))}
       </div>
 
-      {guess && (
+      {verdict && (
         <div className="mt-5 border-t border-ink/10 pt-5">
           <p className="text-sm">
-            {Math.abs(guess.value - truth5) < 8 ? (
+            {verdict.id === 'short-20' ? (
               <>
-                <strong>Right</strong> — real U.S. CPI data says prices rose
-                about {risePct}% from 2020 to 2025 (≈
-                {(REALIZED_INFLATION_2020_2025 * 100).toFixed(1)}% a year), so
-                the drawer's $100 buys about{' '}
+                <strong>Right</strong> — and notice that nobody cheated. Real
+                U.S. CPI says prices rose about {risePct}% from 2020 to 2025
+                (≈{(REALIZED_INFLATION_2020_2025 * 100).toFixed(1)}% a year),
+                so the $100 Beto handed back buys about{' '}
                 <strong>{formatDollars(truth5)}</strong> of 2020's stuff.
+                Every dollar came home; about{' '}
+                {formatDollars(AMOUNT - truth5)} of the stuff didn't. Another
+                twenty, gone — without ever leaving anybody's pocket.
               </>
             ) : (
               <>
-                You guessed {formatDollars(guess.value)} worth. Real U.S. CPI
-                data says prices rose about {risePct}% from 2020 to 2025 (≈
+                Not quite. Real U.S. CPI says prices rose about {risePct}%
+                from 2020 to 2025 (≈
                 {(REALIZED_INFLATION_2020_2025 * 100).toFixed(1)}% a year), so
-                it's about{' '}
+                the $100 Beto handed back buys about{' '}
                 <strong className="text-grove">{formatDollars(truth5)}</strong>{' '}
-                — the drawer kept the bill and lost a fifth of the stuff.
+                of 2020's stuff. He returned every dollar of the paper — and
+                about {formatDollars(AMOUNT - truth5)} of the stuff never came
+                home. Nobody cheated. Time did it.
               </>
             )}{' '}
-            You didn't need a lesson to feel that one — groceries, gas,
-            concert tickets. Here's what more years in the drawer do — try
-            Argentina's rate.
+            Here's what a longer wait does — the curve is what a $100
+            repayment is really worth after more years on the clock. Try
+            Argentina's rate: lend $100 in Buenos Aires and in three years
+            they hand you back a sandwich.
           </p>
 
           <div
@@ -146,7 +165,7 @@ export function FutureWorth() {
             viewBox={`0 0 ${W} ${H}`}
             className="mt-3 w-full touch-none select-none"
             role="img"
-            aria-label={`Purchasing power of $100 over ${MAX_YEARS} years at ${(rate * 100).toFixed(1)}% inflation`}
+            aria-label={`Buying power of a $100 repayment after up to ${MAX_YEARS} years at ${(rate * 100).toFixed(1)}% inflation`}
             onPointerMove={onMove}
             onPointerLeave={() => setHoverYear(null)}
           >
@@ -206,11 +225,11 @@ export function FutureWorth() {
               </g>
             ))}
 
-            {/* the student's guess at year 5 */}
+            {/* the student's call at year 5 */}
             <g>
               <circle
                 cx={x(5)}
-                cy={y(guess.value)}
+                cy={y(verdict.value)}
                 r={5}
                 fill="none"
                 stroke="#ff6b5b"
@@ -218,11 +237,11 @@ export function FutureWorth() {
               />
               <text
                 x={x(5) + 10}
-                y={y(guess.value) + 4}
+                y={y(verdict.value) + 4}
                 fontSize={11}
                 fill="#5c5850"
               >
-                your guess
+                your call
               </text>
             </g>
 
@@ -258,7 +277,7 @@ export function FutureWorth() {
                     strokeOpacity={0.25}
                   />
                   <text x={8} y={14} fontSize={10} fill="#5c5850">
-                    {hoverYear === 0 ? 'Year 0' : `After ${hoverYear} years`}
+                    {hoverYear === 0 ? 'Repaid same year' : `Repaid after ${hoverYear} yrs`}
                   </text>
                   <text x={8} y={28} fontSize={12} fontWeight={700} fill="#1d1b16">
                     buys {fmt(at(hoverYear))} of year-0 stuff
@@ -275,7 +294,7 @@ export function FutureWorth() {
             <table className="mt-2 w-full max-w-xs text-left">
               <thead>
                 <tr className="text-xs text-ink-soft uppercase">
-                  <th className="py-1 font-semibold">Years</th>
+                  <th className="py-1 font-semibold">Repaid after</th>
                   <th className="py-1 font-semibold">$100 buys</th>
                   <th className="py-1 font-semibold">≈ burgers 🍔</th>
                 </tr>
@@ -283,7 +302,7 @@ export function FutureWorth() {
               <tbody>
                 {[0, 5, 10, 15, 20].map((yr) => (
                   <tr key={yr} className="border-t border-ink/10">
-                    <td className="py-1">{yr}</td>
+                    <td className="py-1">{yr === 0 ? 'same year' : `${yr} yrs`}</td>
                     <td className="py-1">{fmt(at(yr))}</td>
                     <td className="py-1">{Math.floor(at(yr) / BURGER_2025)}</td>
                   </tr>
@@ -291,6 +310,61 @@ export function FutureWorth() {
               </tbody>
             </table>
           </details>
+
+          <div className="mt-5 border-t border-ink/10 pt-5">
+            <p className="text-sm font-semibold">
+              Make it fair: what should Beto have handed her in 2025 to truly
+              return what he borrowed?
+            </p>
+            <div
+              className="mt-3 grid grid-cols-2 gap-2 sm:grid-cols-4"
+              role="group"
+              aria-label="Fair repayment amount"
+            >
+              {FAIR_CHOICES.map((v) => (
+                <button
+                  key={v}
+                  disabled={fairPick !== null}
+                  onClick={() => setFairPick(v)}
+                  className={`rounded-xl border-2 px-3 py-2 text-sm font-semibold transition-colors ${
+                    fairPick === v
+                      ? 'border-grove bg-grove text-paper'
+                      : fairPick !== null
+                        ? 'border-ink/10 text-ink-soft'
+                        : 'border-ink/25 bg-paper hover:border-grove'
+                  }`}
+                >
+                  {formatDollars(v)}
+                </button>
+              ))}
+            </div>
+            {fairPick !== null && (
+              <p className="mt-3 text-sm">
+                {fairPick === FAIR ? (
+                  <>
+                    <strong>Right</strong> — about {formatDollars(FAIR)},
+                    matching how much prices rose.
+                  </>
+                ) : (
+                  <>
+                    Closer to{' '}
+                    <strong className="text-grove">{formatDollars(FAIR)}</strong>{' '}
+                    — the number has to grow as much as prices did.
+                  </>
+                )}{' '}
+                The extra {formatDollars(FAIR - AMOUNT)} isn't profit; it's
+                just the same buying power finally coming home. Charging for
+                the wait has a name — <strong>interest</strong> — and it's why
+                a bank never lends for free. That's next week on the porch.
+              </p>
+            )}
+          </div>
+
+          <p className="mt-5 border-t border-ink/10 pt-4 text-sm text-ink-soft">
+            One more thing: the no-brother version of this story is running in
+            your room right now. A drawer lends your money to nobody, for
+            free, for years. Same math. No hug.
+          </p>
         </div>
       )}
     </div>
