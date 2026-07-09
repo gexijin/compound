@@ -1,165 +1,417 @@
-# Compound — A Novel (v7)
+# The Thirty Percent — A Novel
 
-*(Working title. Title round pending; candidates: **Never Buy a Stranger**, The Thirty Percent, The Envelope, Compound.)*
+## Book Plan v8
 
-A funny, voice-driven novel about three generations of women and money. Adult commercial fiction, primary readership women 18–35, with natural crossover down to older teens. Target length: **75,000–85,000 words.** Thirteen chapters, three acts, two reveals.
+**Working title:** *The Thirty Percent*
+Other candidates: *Compound*, *Never Buy a Stranger*, *The Envelope*
 
-**Logline:** Keisha, nineteen, covered her freshman year on her parents' help and her own savings — year two was always the cliff, and she's told no one, including her mother. Hiding in the work of pricing fifty years of her grandmother's life at a garage sale, she and three friends launch an agua fresca stand on Elena's $30-for-30% stake — and spend one summer living Elena's fifty-year arc at compressed speed, while the boxes give up her secret: she was never selling because she was broke. She was auditioning her heirs.
+**Category:** New Adult commercial fiction with adult crossover
+**Primary readership:** women 18–28
+**Crossover readership:** older teens 16–17 and adult women 29–35+
+**Target length:** 75,000–85,000 words
+**Narration:** first-person Keisha, present tense, comic, no hindsight
 
----
+## Core promise
 
-## Positioning & craft models
+A funny, voice-driven novel about three young women, one summer business, a hidden college-money crisis, and a grandmother whose secret fortune forces every woman in the family to stop hiding.
 
-- **Sophie Kinsella (*Confessions of a Shopaholic*)** — the primary comp and register: a funny first-person narrator lying to herself about money, whose comic self-deception the reader sees through. This book is Shopaholic in reverse: not a woman spending her way into denial, but a woman avoiding her way into a cliff.
-- **Louise Rennison (Georgia Nicolson)** — the mechanism, not the surface: ambient voice comedy living in every paragraph of narration, not in set pieces.
-- ***Lessons in Chemistry*** — the market proof: adult readers happily absorb technical material when a distinctive narrator carries it.
-- **Intergenerational women's fiction** (the book-club dual-strand tradition) — a young woman and an older woman whose past holds the secret. Elena's fifty years and the mother's kitchen table are as load-bearing as the stand.
+## Revised logline
 
-Sold as: three generations of women and money — the grandmother's secret, the mother's kitchen table, the daughter's countdown — with the agua fresca stand as the vehicle, not the subject.
+Keisha, nineteen, is $2,800 short of returning to college and has told no one — not even her mother. To avoid opening the school emails that could end her sophomore year, she hides in the practical work of helping her grandmother Elena clear out fifty years of receipts, boxes, and secrets. When Elena stakes Keisha and her friends in an agua fresca stand for thirty dollars and thirty percent, the summer becomes a crash course in friendship, ownership, risk, and shame. But the real lesson is not how money works. It is why every woman in Keisha’s family has been hiding it.
 
-## Voice & form (locked)
+## Positioning
 
-- **First-person Keisha, present tense, no foreknowledge.** The narrator is hiding her want from the reader too; her dry, too-practical narration is the comedy instrument. The Ch. 13 turns are hers and the reader's in the same instant. No retrospective narration of any kind — "I didn't know it then, but…" is banned.
-- **Comedy, two tiers:**
-  - **Narration humor is unlimited and mandatory.** Keisha is funny on every page because her deadpan over-practicality keeps misfiring — she prices a fondue set like a hostile takeover because it's easier than opening the bursar email; she narrates her own denial with total confidence; she judges a napkin contract "elegant." Her flaw *is* the comedy, which is also the theme. The gloom of the opening is rendered as deadpan denial, never as sadness.
-  - **Situational gags stay budgeted: one per chapter**, so the plot never turns slapstick.
-  - **No jokes past the turn:** once a chapter hits its emotional pivot, the narration plays it straight until the envelope line. The funny voice going quiet is the emotional signal.
-  - **Each character has one repeatable comic mechanism**, escalated across the book: Maya — catastrophic overconfidence with money she doesn't have (the saved-for-later cart; the resale-ticket watch); Sofi — devastating literal questions adults can't answer; Emily — pathological precision ("reads it twice and says nothing"; the phone spreadsheet); Elena — theatrical stinginess played as performance; Marcus — unearned portfolio-manager vocabulary ("rebalancing my thesis" about three stocks from a feed).
-  - **Quality bar:** Kinsella register — lines an adult reader underlines and sends to a friend. The humor is never nostalgic-cute about the girls' ages; period objects (the 1983 haircut receipt) are funny only when a girl interrogates them in-scene.
-- **The group chat is on the page** — typeset as texts, timestamps, 3–6 exchanges per chapter as the default; up to ~10 in chapters where the chat carries plot (Maya's breakup; Ch. 10's catch; Marcus quitting). It carries: Maya's voice (and her breakup — jokes with a crack in them, boy never seen), Marcus's screenshot drops (the crops are the comedy), Sofi's deadpan, and Keisha lurking the sophomore-lease-and-schedule posts of classmates she is, silently, not joining.
-- **POV limit is theme.** Keisha can't see what her friends don't show her (Emily's dad conversation, Sofi's kitchen) — the narrator who never asks for help never asks the real questions either. Negative space is a feature, enforced by the form.
-- **The envelope as running device:** each chapter closes on its line, written in-scene by whoever earned it — never recited, sometimes fought over, once amended, once repealed, twice mocked. At least two envelope lines land sideways (ironic or contested) so the device stays a character, not a stamp.
-- **Never state the moral.** Elena never recites a rule; neither does the narrator or the prose. The envelope line is the only place a chapter's lesson may appear explicitly.
+This is not pitched as a “financial literacy novel.” It is pitched as a **funny New Adult family-and-friendship story with money as the pressure point**.
 
-## Document design (replaces the illustration program)
+The education is sneaky. Readers should feel they are reading about:
 
-No illustration. Artifacts appear as **typeset design elements** in the adult epistolary tradition (*Where'd You Go, Bernadette*): formatted chat exchanges, receipt and slip facsimiles set in type, envelope pages, one simple line chart. Every chapter contains at least one real story artifact.
+* a college girl lying to her mom
+* a messy summer business
+* friendship fights
+* a grandmother with a secret
+* a young man chasing fast money
+* three generations of women who were never taught how to ask
 
-Core recurring elements:
-- **The envelope, evolving** — a full page at each act break: clean maxims → the Ch. 7 amendment in different ink, Elena's signature below the girls' → the Ch. 5 rule struck through and rewritten in Ch. 10 → coffee-stained and handed forward in Ch. 13.
-- **The two ledger curves** (Ch. 4 onward) — poured-back vs. pocketed, updated in later chapters; the reader *sees* the gap widen. Doubles as the tuition countdown: the curve is always measured against $2,800 and late August.
-- **The weekly sales curve** — the stand's growth, ~25% a week, then the bend.
-- **Marcus's cropped screenshots** — the crop is the comedy; the final crop is the growth.
-- One-off artifacts: the 1965 pay envelope, the 1975 necklace receipt, the passbook, the misspelled sign, the dead certificate, the 1976 fund slip, Emily's cheat-sheet facsimile, the final three-document spread in Ch. 13.
+They should only realize afterward that they learned profit, ownership, risk, compounding, account opening, and the danger of money secrecy.
 
-**Reveal constraints:** no artifact before Ch. 11 may show or imply Elena's totals; nothing before Ch. 13 may hint at the 529.
+## Story engine
 
-## Elena discipline: right about money, wrong on the page
+Keisha believes being practical means needing less.
+Maya believes money should make life feel bigger now.
+Emily believes the right spreadsheet can protect her from fear.
+Elena believes hiding money is the same as protecting people.
+Marcus believes one big win can free him forever.
 
-Elena stays the living proof — but she loses one negotiation (Ch. 7: the flawed deal was hers, and she signs the amendment below their names), closes one door she shouldn't (Ch. 10: Keisha almost asks; Elena deflects into a lesson — re-readable as guilt after Ch. 13), and gets one modern thing charmingly wrong (Ch. 7: "flyers with extra steps"). Mentor becomes character; both fractures and the Ch. 13 confession have on-page roots.
+The summer proves all of them partly right and dangerously wrong.
 
----
+# Core cast
 
-## The cast
+## Keisha, 19 — narrator / protagonist
 
-- **Keisha, 19 — narrator.** Finished freshman year at the settled-for school on parents' help, a small loan, and her own savings; year two was always the cliff, and she ran the number once, told no one, and narrated to herself that something would work out. Declined the flagship out of the same "practicality." Live problem: a **$2,800 gap**, fall deadline late August. Applied online for a **residential assistant position** months ago; heard nothing; too shy to send the follow-up email. Weekday shifts at the grocery store; the stand is Saturdays. Flaw on the page from Ch. 1: she notices things and decides not to ask. Her deadpan denial is the book's comedy engine — she didn't waste the money, she wasted the *year*.
-- **Maya, 18 — hustler + spender, the comic voice.** ~$900 earned, almost nothing kept. Her breakup lives in the chat as a register, not a plot — one real beat outside the chat, never moralized as spending. Her want: tickets to the summer stadium tour of a (fictional) pop star the chat is obsessed with — face price ~$120, on sale mid-summer, resale climbing weekly; waiting has a price. Her thread: *Maya seeks value outside herself.* Comic mechanism: catastrophic overconfidence with money she doesn't have.
-- **Emily, 17 — the avoider, the math brain.** Won't open her banking app — which lives on a cracked, dying phone. Her stated want: the new phone, **$900** (~$500 already saved), researched to death in a comparison spreadsheet, never bought — analysis as avoidance. One wound scene (Ch. 5: dinner, a family that doesn't talk), one middle beat (Ch. 9: the login screen, two lines), one payoff (Ch. 12: she already opened the account — which means she had the conversation with her dad, alone, off-page). Comic mechanism: pathological precision.
-- **Sofi, 16 — the unembarrassed question-asker.** Cash-only household; her mom's "keep it safe" is the loving counter-voice; the recipe is her family's. Quinceañera obligation comes due mid-book: family money with a date on it. Her small own want after the obligation clears: a used camera — the first pretty thing nobody co-signed, one generation down (never stated). Comic mechanism: devastating literal questions adults can't answer — one of them (Ch. 2) is the book's thesis, unanswered.
-- **Elena, ~83 — the grandmother, the patient investor.** Married ~1963; a stay-at-home wife who never touched the finances, though she kept a small savings account she never thought about. Widowed by Vietnam ~1969 — and discovered she legally barely existed: accounts in his name, no credit of her own, banks that wanted a male co-signer. The erasure was the arrangement, not the man. The vow: *never invisible again.* Tin box → passbook → the 1976 index fund ("Bogle's folly"), bought alone, two years after a crash, held through everything — **~$1.7M by 2026, ~90% the fund**, a small satellite of individual companies she knew (the Ch. 6 certificates are hers — the winners paid for the losers and still barely beat the boring fund), and "the quiet part" in bonds and cash for the money she lives on. The flaw: a woman erased once hides what she has from everyone. Comic mechanism: theatrical stinginess played as performance.
-- **Marcus, 24 — Maya's brother, the fast investor, Elena's foil.** First real money of his life meets a trading app and a bull run. Arc: small win → green screenshots → quits his unglamorous job on the page, at his peak → full-time meme stocks and crypto (categories only, never a name) → off-screen crater → silence in the chat, which Maya covers for → asks for the job back → "how do you open the boring one?" → the final cropped screenshot: one boring confirmation. Never the villain, never the fool; the villain is the app's design and the year. Capped at ~4 scenes. Comic mechanism: unearned portfolio-manager vocabulary.
-- **Keisha's mom** — one scene per act. Ch. 1: the kitchen-table lie, witnessed. Mid-book: the near-miss (a classmate's mother, a piece of college mail). Ch. 13: the confession, and the echo — she never knew any of this either; nobody taught her generation.
-- **Margins:** Sofi's mom (Chs. 3, 12, 13); the smug vendor (Ch. 8); the lemonade kids (one scene); regulars.
+Keisha has finished freshman year at the college she settled for. She is $2,800 short for sophomore year, has a hold notice she keeps archiving, and has told her mother that fall is handled.
 
-## Emotionally-straight scenes
+She works weekday grocery shifts and spends Saturdays at the stand. She applied for an RA position months ago but has been too ashamed to follow up.
 
-Two or three scenes per act play **feelings-first, with the money meaning legible only on reflection or re-read** — emotionally complete even if the reader never notices the lesson:
+**Surface trait:** dry, practical, funny, observant.
+**Flaw:** notices everything and asks nothing.
+**Money wound:** she thinks needing help is failure.
+**Arc:** from hiding the number to saying it out loud.
 
-- **Ch. 1 / Ch. 13, Keisha's mom at the kitchen table** — the lie and the confession; a daughter protecting her mother from disappointment. The tuition is set dressing.
-- **Ch. 5, Emily's dinner** — a family that doesn't talk, period. No maxim in sight.
-- **Ch. 9, Sofi's quinceañera money** — what her family expects of a daughter; love, not leak; the reader does the math themselves.
-- **Maya's breakup beat** — one or two lines outside the chat; nobody makes it about her spending.
-- **Marcus's silence** — the chat going quiet after the crater; Maya covering for him. No mechanics, no lecture.
+Her victory is not that college gets paid for. Her victory is that she stops disappearing from her own life.
 
-## The numbers (assumptions summary — full file separate)
+## Maya, 21 — older friend / chaos engine
 
-Keisha's gap **$2,800**; deadline late August. Twelve Saturdays. Week one: ten customers, $19. Growth ~25%/week on reinvestment (the second cooler, the ad, the thrift rack), **plateauing around week 8** — one corner, one neighborhood, saturation. Season gross ≈ $1,400–1,600; Elena's 30% off the top; costs out; girls split per the Ch. 7 labor-weighted amendment. Keisha's summer: stand share ≈ $300–400 + grocery-job savings ≈ $800–1,000 → **still ~$1,400 short at the Ch. 10 dark ledger.** Closed in Ch. 13 by: the RA award (housing relief), the 529 (**~$30–35k on ~$12–14k contributed** — $60/month since she was two, ≈12% nominal labeled *a lucky decade* in-scene, glided to cash), and her own money. A beam, not the building; the arithmetic on the page adds up. Emily's phone $900 (~$500 saved). Maya's ticket ~$120 face, resale climbing. Elena: ~$1.7M, ≈$84k contributed, 10.5% nominal history; illustrative forward returns at 7% real. Small student loans exist as a fact, one line, mechanism never explained (the sequel's door).
+Maya is slightly older than Keisha and already in the adult world: job shifts, bills, dating, maybe a credit card balance, and the constant feeling that everyone else is having a better life.
 
----
+She spends because pleasure feels like proof she exists. The concert ticket is not shallow; it is a real want. The book must respect that.
 
-## ACT I — THE DEAL (a lie, a flop, a mistake)
+**Surface trait:** funny, bold, overconfident, socially electric.
+**Flaw:** treats wanting as urgency.
+**Money wound:** she wants money to produce aliveness now.
+**Arc:** from spending to prove value to choosing joy with eyes open.
 
-**Ch. 1 — The $20 in the Garage** *(inflation)*
-**Cold open, page 1: the lie, witnessed.** Mom at the kitchen table asks if fall housing is sorted; Keisha says it's handled — while her phone shows an unregistered-for-fall hold notice, which she archives without reading. Classmates are posting sophomore leases. Established in passing: the RA application sent months ago into the void; the grocery-store shifts; the number she ran once. She goes to Elena's to hide in work. The garage sale starts on page 3. In a coat-pocket box: the 1965 pay envelope — his pay, her deposit slip — $20 inside. Emily: "It got robbed. Slowly." **Plant:** among Elena's papers, a kept clipping of Keisha's acceptance announcement — *Elena knew, and said nothing.* The shoebox glimpsed. Situational gag: the fondue-set pricing war, narrated in Keisha's dry deadpan — easier than the bursar email.
-*Artifact: the 1965 pay envelope.*
-*Envelope: Money sitting still is money shrinking.*
+Maya should be wrong often, but not always. She must have at least one moment where the saver-types are too bloodless and she is emotionally right.
 
-**Ch. 2 — The Fifty-Dollar Necklace** *(store of value + the deal, staged)*
-The buyer, the "not for sale," the 1975 receipt: $50 then, ~$1,050 now — "the first pretty thing nobody co-signed," and for years nobody *would.* Then **the signing scene, on the page, as comedy:** four girls treating a $30 napkin-deal like a Fortune 500 closing — Maya signs in cursive, Emily reads it twice and says nothing, and Sofi asks the book's thesis out loud: **"What does 'profit' mean exactly?"** — and they all laugh instead of answering. Narrator-Keisha clocks that the page is one paragraph long and decides that's *elegant* — practicality misfiring, her flaw in miniature. In the chat: the tour announcement; Maya calls the ticket "basically an investment."
-*Artifact: the 1975 receipt (and/or the napkin one-pager).*
-*Envelope: Real things hold what paper drops.*
+## Emily, 18 — younger friend / math brain
 
-**Ch. 3 — Ten Customers** *(cost, revenue, profit — taught on wreckage)*
-**The flop Saturday.** Overprepared — three coolers, custom cups, a batch big enough for a block party — and ten customers. Surplus poured out at dusk; the eight-year-olds' lemonade stand across the aisle outsells them (one scene, never a recurring rival). Take: **$19 and a ruined afternoon.** Real talk of quitting. Elena, ledger open, walks them backward through costs on the wreckage — the poured-out batch was a cost too. Marcus's first green screenshot hits the chat; he drops by, comps himself a drink "against future gains," dispenses advice; Elena asks him one Sofi-grade question he can't answer. Maya's breakup arrives *in the chat* — jokes with a crack in them. Situational gag: the sign misspells "hibiscus," and the chat's renaming spree.
-*Artifact: the misspelled sign.*
-*Envelope: Profit is what's left, not what comes in.*
+Emily is brilliant with numbers and terrified of her own. Her cracked phone holds the banking app she refuses to open. She can calculate everyone else’s problem while avoiding hers.
 
-**Ch. 4 — The Two Coolers** *(compounding, lived)*
-**Cold open: the $84 Saturday** — the fix worked, and they count their first real money ("You *kept* $37"). Which makes the vote hurt: reinvest-or-spend splits 2–2 — and the split has faces: Maya's ticket clock and Sofi's deadline against Keisha's gap and Emily's silence. Elena: "Run both." Two ledger curves open — poured-back vs. pocketed — insultingly flat, widening all book, always measured against $2,800 and late August. Twin artifacts: the 1965–76 passbook and Maya's saved-for-later cart screenshot ($212 — a running bit). First envelope wording-fight (Maya too profane, Emily precise and dead; the compromise survives).
-*Artifact: the two ledger curves, first drawing (plus the passbook — no totals that imply Elena's present wealth).*
-*Envelope: Small and early beats big and late.*
+**Surface trait:** precise, dry, quiet, devastatingly literal when cornered.
+**Flaw:** analysis as avoidance.
+**Money wound:** she thinks knowing the exact answer will hurt more than guessing.
+**Arc:** from studying the door to opening it.
 
-**Ch. 5 — Payout Day** *(what a stock is — taught through envy)*
-Elena collects her 30% in cash, in front of girls who hauled ice. "She didn't even *do* anything." The resentment flips: **ownership** — and anyone can be on her side of the table; the market is millions of little 30%s for sale. Refuse-the-pitch rep #1: Marcus's meme tip, declined with love. **The girls add their own rule to the envelope — "The ledger never lies"** (their first authored maxim; it will be repealed). **The Emily scene:** dinner, her dad's one question, fifteen lines, never revisited — a family that doesn't talk; no maxim in sight. Situational gag: Maya reenacts Elena's cash-count, badly.
-*Artifact: the envelope with the girls' first authored rule.*
-*Envelope: Buy the slice, not the ticket.*
+Her payoff is not just opening an account. It is opening the account before Keisha knows she has done it, proving that some growth happens off-page because Keisha does not ask enough questions.
 
-## ACT II — THE DOUBT (the rules under fire)
+## Sofi, 16/17 — supporting younger mirror
 
-**Ch. 6 — The Two Certificates** *(growth, and what makes a business worth holding)*
-Elena away; two 1980s certificates from her own small satchel of holdings — one compounded four decades, one was "unstoppable" and is a corpse. Her note: "I keep the dead one where I can see it." The quality questions (moats, never the word). The stand's own curve is running ~25% a week now, and Elena's dry line lands: **"That fund of mine is a thousand little stands doing what yours just did."** **The lie's near-miss:** a classmate's mother stops by the stand and asks Keisha about move-in dates; Keisha handles it so smoothly the reader's stomach drops. Situational gag: they try to cash the dead certificate; the chat mocks two envelope maxims as fortune cookies — and keeps them anyway.
-*Artifact: the dead certificate.*
-*Envelope: Buy the machine, not the moment.*
+Sofi is not a co-lead in v8. She supplies the family agua fresca recipe and carries the family-cash perspective. She is younger, sharper, and less embarrassed than the older girls.
 
-**Ch. 7 — The Ad Fight** *(labor vs. capital — the fracture, and Elena loses a round)*
-Elena dismisses Maya's plan as **"flyers with extra steps."** Maya spends her own ~$40; Saturday explodes; Monday she wants a bigger cut. Emily's attribution test (ad or heat wave?) makes math pick a side between friends — and proves the ad. Elena pays Maya's cut with theatrical reluctance — the girls' native knowledge wins a round, which is Elena's own shoebox thesis turned on her. The gut punch: pricing contributions prices Sofi's recipe — given, never invoiced — and she leaves the porch without a word. **No jokes past this turn.** Resolution: they re-read the one-pager and someone says the quiet part — **the deal that shortchanged labor and never priced the recipe was written by the woman teaching them to read what they sign.** Elena doesn't defend it: "I wrote the deal I'd have wanted at your age. Nobody gave your age to me" — and **signs the amendment below their names.** Bad arrangements are usually written by decent people.
-*Artifact: the envelope, amended — different ink, Elena's signature last.*
-*Envelope: (amended, on labor.)*
+**Function:** truth-teller, recipe owner, next generation.
+**Key plot role:** the labor/value fight around the recipe.
+**Arc:** from family asset to personal authorship.
 
-**Ch. 8 — The Shoebox** *(valuation, management, invest in what you know)*
-Cold open: the smug vendor offers to buy the booth. But first, **Sofi's return, on her terms:** Elena prices the recipe retroactively — not cash, a clause naming it Sofi's property, licensed to the booth, a royalty per batch. Sofi accepts by correcting the wording; her mom's "keep it safe" gets one approving nod — the recipe stayed hers. Then Emily builds **payback years** (price ÷ yearly earnings; $600 = two summers; $15,000 = fifty); armed, the girls try to buy back Elena's 30% — her price is eye-watering and fair; they decline. The shoebox: fifty years of receipts — **she never bought a stranger** — plus the chains she loved and never bought (too dear), including a video store. **The management beat:** one receipt from a company she *sold* — margin note on the founder leaving; "I don't lend money to people I wouldn't lend my car." The shoebox *nominates*; the math *decides*. Each girl scouts one company from her own week for the porch watchlist — Keisha's from the grocery store. Situational gag: the 1983 haircut receipt — Sofi interrogates Elena about it, and gets one dry line about what banks required of women before 1974.
-*Artifact: a shoebox receipt spread (no totals).*
-*Envelope: Price is what you pay, years are what you count.*
+She appears at crucial pressure points, not constantly. She keeps the teen crossover bridge without pulling the whole book into YA.
 
-**Ch. 9 — The Rainout** *(risk & diversification — and the bend in the curve)*
-A rained-out Saturday zeroes the weekend: one product, one corner, one weather system *is* one basket. Fix: Maya's thrift rack, split per the Ch. 7 amendment. And the sales curve has bent — the block is saturated; growth was never going to be forever, which is what the dead certificate was priced to ignore. **Marcus, in the chat, at his peak: he's quit his job** — announced like a promotion; in person, he offers to *stake the booth* — cover a bigger inventory buy for a cut. The girls, armed with the amendment, actually read his terms — and decline. (He just went all-in on one basket; nobody says it.) Sofi's quinceañera obligation comes due: family-money-with-a-date vs. her-money-for-later — played emotionally straight. **Emily's middle beat (two lines):** waiting out the rain, she gets as far as the banking app's login screen on the cracked phone — and locks it. Situational gag: emergency rack pricing by committee.
-*Artifact: the 1974 crash clipping, Elena's margin note.*
-*Envelope: All the eggs, never one basket.* Hook: Marcus is still green. Are the rules just… slow?
+## Elena, ~83 — grandmother / hidden investor
 
-**Ch. 10 — The Hot Streak** *(horizon — the turn)*
-**Cold open, the dark ledger:** Emily runs the best case — every remaining Saturday at peak, Keisha's share — **still ~$1,400 short**, three weeks out. Then Marcus peaks: "$900 in a day. We made $63 and I smell like hibiscus." **The closed door:** Keisha stands on Elena's porch with the question half-formed — the closest she comes all book to asking — and Elena deflects into a lesson. The door shuts; leaving, Keisha glimpses Elena at the window, watching her go — one sentence, devastating on re-read. That night: on **the payment app the booth uses — which has an invest tab** — a hyped stock could close the gap in a month, booth money one thumb-press away. *Maya catches her, and says so in front of everyone* (the chat runs long; it is carrying plot). What saves Keisha is the ledger reflex: she runs the audit upward on Marcus — "show me the whole year, not the good days" — and the whole-year number is red. One tax line: quick wins split with the IRS. Off-screen, his position craters; the chat goes quiet where he used to be, and Maya covers for him. **The repeal:** the girls strike their own Ch. 5 rule — the ledger never caught Keisha's thumb; Maya did. Struck through, rewritten: *"The ledger only answers what you ask it."* **And then, alone, the bravest thing in the book so far: Keisha writes the follow-up email to the housing office about her RA application — three sentences, twenty minutes, sent.** **No jokes past the porch.**
-*Artifact: the envelope — rule struck through, rewritten.*
-*Envelope: Money with a date on it doesn't get to gamble.* Hook: how do you own everything without being an expert?
+Elena is Keisha’s grandmother: funny, theatrical, stingy on purpose, and secretly wealthy. She was financially erased as a young widow and taught herself never to be invisible again.
 
-## ACT III — THE TRUTH AND THE HANDS
+But Elena’s strength has curdled into secrecy. She hides what she has even from the people it was for.
 
-**Ch. 11 — Own Everything, Quietly** *(index funds + THE ELENA REVEAL)*
-**This chapter carries only what the reveal needs.** The answer to Ch. 10's hook: an index fund — the whole market in one purchase. The 1976 slip resurfaces, and the dry lines come: married at the kitchen table of another era; the Army sent a flag, the bank sent a form asking for her husband's signature; a woman who legally barely existed teaching herself what nobody thought a widow needed to know; the mocked new fund bought alone, two years after a crash — Vanguard's first, "you've heard of them now" — held through everything: **~$1.7M** (≈ $84k contributed; all figures from the assumptions file). The satellite stocks get one honest line — **"I picked well and it barely mattered. Imagine picking badly."** The quiet part in bonds, one line, her own maxim applied to herself: money she lives on doesn't get to gamble. Every strange habit was curriculum; they were being auditioned. **The check Keisha never asks for is refused before it's asked — she is rich, and she is not paying.** The $20 three ways stays as the emotional coda of an object from page 3: envelope ~$2 of buying power / passbook ~$210 / riding the 1976 buy ≈ $2,900. Nothing else with a percent sign.
-*Artifact: the 1976 fund slip.*
-*Envelope: Boring wins — own everything, hold on.*
+**Surface trait:** funny, severe, theatrical, unsentimental.
+**Flaw:** confuses hiding with protecting.
+**Money wound:** once erased, she built a life around never being seen clearly.
+**Arc:** from secret teacher to accountable grandmother.
 
-**Ch. 12 — Opening Day** *(the finale of the hands — the exit exam)*
-The last mile, dramatized — **three girls open accounts, one snag each, and the snag is the lesson:**
-- **Sofi:** custodial needs her mom — the tin honored as step one; her mother's scene.
-- **Emily:** the reveal that she already did it — a printed confirmation slid across the table, done weeks ago, which means she had the conversation with her dad, alone, off-page; Ch. 5 and the login screen retroactively lit. Played emotionally straight. Then, two lines: she buys the phone — in cash, off the spreadsheet's exact pick — and the first thing she opens on it is the banking app.
-- **Keisha:** 19, alone at the counter of her own life — no custodian, no co-signer, her signature only. Her snag is that there is no snag: nothing was ever standing at the counter but her.
-- **Maya declines — honestly.** "I'd empty it by Friday. I know myself." Nobody argues; nobody moralizes. She hands Emily her copy of the cheat sheet: "hold this for when." (Her hustle income still gets the tax line — Elena: "the IRS respects your hustle, mija; it invoices it.")
+She is not allowed to be simply wise. She must be wrong on the page.
 
-Everything true for everyone equally is curriculum, not story — it lives in **Emily's handwritten how-to cheat sheet**, reproduced as a facsimile, full version in the back matter (checking account first — "that's it? that's the scary part?"; the broke-years Roth logic — low-income years are the sale). **The exam:** Marcus — job back, mentioned in one offhand line, never prosecuted — scoffs; Keisha defends the plan to his face: gap first + small Roth + cash buffer, what she owns, where the return comes from, why her name matters — **slightly funny and slightly shaky doing it; a flawless recitation would read like the author grading her own student.** They walk home owning things. Later, quietly, Marcus to Emily, her cheat sheet between them: "how do you open the boring one?" Convinced not by a lecture but by watching four girls pass an exam he'd fail.
-*Artifact: Emily's cheat-sheet facsimile.*
-*Envelope: Your name goes on your money.*
+## Marcus, 24 — Maya’s brother / fast-money foil
 
-**Ch. 13 — The Last Saturday** *(the confession, then the 529 — the true end)*
-Wind-down. **First, the confession:** Keisha tells her mother the truth at the kitchen table — the hold notice, the number, the year of not asking — **with no rescue in sight.** The scene the whole book has been flinching from, played straight. Her mother's answer is the echo: she never knew any of this either; nobody taught her; the lie worked because it was told to someone who couldn't check. Then, one beat each: **the 30% payoff** — Elena earmarked her cut all season and funds the three accounts opened in Ch. 12: "your money was working while you were" → Sofi deposits the 1965 $20, her mother beside her → Maya's quiet "must be nice," not resolved too fast → the amended, repealed-and-rewritten, coffee-stained envelope. Everything seems resolved — *which is when Elena asks Keisha to stay.* **The 529:** opened the year she turned two, ~$60/month that never flinched — 2020 and 2022 on the chart, deposits marching through — **~$30–35k on ~$12–14k contributed**, more than half growth, glided to cash as the date approached. **And the email is answered: the RA award — housing covered — earned weeks ago by three sentences she almost didn't send.** Against the fall: 529 + RA + her stand money + the small, eyes-open loan (the sequel's door) — a beam, not the building, and the arithmetic closes on the page. **Keisha's anger stays:** "You watched me panic all summer" — and the reader can prosecute it: the kept clipping, the closed door, the face at the window. Elena's answer is imperfect: part audition, part confession — hiding was her wound; a woman erased once hides what she has from everyone, even the people it was for. *Never invisible* finally turns inward. One disclaimer, in-scene: a lucky sixteen years is not the promise; the boring average was enough. In the chat, Marcus's last screenshot: one boring confirmation, cropped like the old ones. **No jokes past Elena's "stay."**
-*Envelope (different handwriting): The best time was years ago. The second-best time is now — for someone who's two.*
-**Final artifact:** the 1976 slip, the 2026 confirmations, and between them a statement dated the year Keisha turned two.
+Marcus has a job he dislikes and a dream he repeats like a prayer: hit it big, retire by 35, never answer to anyone again.
 
----
+He trades through apps, posts cropped screenshots, speaks in fake portfolio-manager language, and briefly looks like he is winning.
 
-## Back matter
+**Surface trait:** charming, funny, overconfident.
+**Flaw:** mistakes volatility for destiny.
+**Money wound:** he wants one big win to rescue him from ordinary work.
+**Arc:** from performance wealth to quiet ownership.
 
-An appendix with Emily's full cheat sheet (account-opening steps, the two questions, glossary — including one line on a reachable cash buffer, and one line on expense ratios: "pick the fund with the lowest — lower is better, that's the whole rule"), and the author's note on numbers, naming, and what the book deliberately doesn't teach. The appendix opens with a spoiler warning played as a joke in Keisha's voice.
+He should not be a fool. He should be smart, scared, and seduced by speed.
 
-## Sequel doors (design, not oversight)
+## Keisha’s mom — emotional anchor
 
-Debt, credit scores, student loans, credit cards — gestured at, never taught. Keisha's eyes-open loan; Maya's cheat sheet "for when"; Marcus's first boring year. Book two is the 22-to-25 reader's own material.
+Keisha’s mother appears once per act. She is not clueless. She is part of the generation that was never taught enough to check.
+
+Her final kitchen-table scene is one of the emotional centers of the book: the lie worked because it was told to someone who did not know how to ask the right financial questions either.
+
+## Sofi’s mom — supporting counter-wisdom
+
+Sofi’s mom represents caution, cash, family obligation, and protection. She should not be treated as backward. Her money logic is different, not inferior.
+
+# Education strategy
+
+The book teaches only when the story needs it.
+
+No chapter should feel like “today’s lesson is inflation.” The private craft map may include financial ideas, but the reader-facing experience is emotional.
+
+## Five core lessons hidden in plot
+
+1. Money you refuse to look at controls you.
+2. Profit is not the same as cash coming in.
+3. Ownership is different from labor.
+4. Money with a deadline cannot gamble.
+5. Your name belongs on your money.
+
+Everything else — taxes, index funds, expense ratios, account types, Roth logic, bonds, 529 details — is light, contextual, or moved into optional back matter.
+
+# Form and devices
+
+## Keep
+
+* Keisha’s first-person comic narration
+* group chat
+* Elena’s envelope
+* a few major artifacts
+* Emily’s cheat sheet
+* final document spread
+
+## Reduce
+
+* artifact in every chapter
+* repeated charts
+* too many envelope maxims
+* chapter-by-chapter finance-label feeling
+
+## Artifact rule
+
+Artifacts appear only when they create emotional or plot impact.
+
+Key artifacts:
+
+* 1965 pay envelope
+* napkin deal: $30 for 30%
+* stand ledger
+* amended agreement
+* 1976 fund slip
+* Emily’s cheat sheet
+* final 529/account/RA spread
+
+# Plot overview
+
+## Act I — The Lie and the Deal
+
+Keisha lies to her mother at the kitchen table. Fall is “handled.” Her phone says otherwise.
+
+She goes to Elena’s house to help with a garage sale because pricing old objects feels safer than opening school emails. The girls find receipts, old envelopes, and hints that Elena’s past contains money stories no one has heard.
+
+Elena stakes Keisha, Maya, and Emily in an agua fresca stand: thirty dollars for thirty percent. Sofi supplies the recipe.
+
+The first Saturday flops. The girls overbuy, overprepare, and sell almost nothing. The embarrassment is funny until the math is not.
+
+They learn that cash coming in is not profit because they are standing in the wreckage of their own bad assumptions.
+
+Marcus enters with green screenshots and his dream: retire by 35. He looks ridiculous, but also tempting.
+
+## Act II — The Stand Works, Then Doesn’t
+
+The stand improves. Sales grow. The group chat gets funnier. The girls feel briefly powerful.
+
+Then money starts causing real conflict.
+
+Maya’s ad brings customers, so she wants more. Emily’s math proves Maya has a point. Sofi realizes the recipe was treated as free labor. Elena’s thirty percent begins to feel unfair.
+
+The girls renegotiate. Elena loses a round and signs below their names. This matters: the old woman teaching them to read contracts has written a bad contract herself.
+
+Meanwhile, Keisha’s private crisis worsens. Even if the stand succeeds, it will not close the college gap.
+
+Marcus peaks. He quits his job and talks about freedom. For a moment, his way looks smarter than Elena’s slow way. Keisha nearly believes it because desperation makes speed look rational.
+
+Then the stand plateaus. Rain ruins a Saturday. The numbers stop being magical.
+
+Keisha almost asks Elena for help, but Elena deflects into another lesson. The door closes. Keisha sees Elena watching her leave.
+
+That night, Keisha nearly gambles booth money through an app. Maya catches her. The friendship saves her before the ledger does.
+
+Keisha finally sends the RA follow-up email.
+
+## Act III — The Truth and the Names
+
+Elena reveals the real story: after being widowed, she discovered she barely existed financially. Accounts, credit, signatures, forms — all of it taught her that a woman without money in her name could vanish inside her own life.
+
+She bought and held a boring index fund for decades. She became wealthy quietly. The strange habits, receipts, and envelope lines were not random. They were curriculum.
+
+But Keisha is angry. Elena watched her panic.
+
+The girls open accounts. Emily has already done hers, quietly. Maya admits she is not ready yet and asks Emily to hold the cheat sheet “for when.” Sofi’s recipe money becomes hers, protected and named. Marcus, after his crash, asks how to open the boring one.
+
+Keisha confesses to her mother: the hold notice, the $2,800, the months of lying. Her mother’s response is the generational echo — she did not know how to help because nobody taught her either.
+
+Then Elena reveals the 529: money planted when Keisha was two, not as a rescue from this summer but as a beam laid years ago. The RA award also comes through because Keisha sent the email. The gap closes through old help, new courage, Keisha’s own work, and an honest small loan if needed.
+
+The ending is hopeful but not too neat. Keisha accepts the help, but she does not fully absolve Elena. Elena’s wound was hiding. Keisha’s growth is refusing to hide anymore.
+
+# Chapter plan
+
+## Chapter 1 — The Lie at the Kitchen Table
+
+Keisha’s mother asks about fall housing. Keisha says it is handled while her phone shows a school hold notice. She archives it unread.
+
+Classmates post sophomore leases. Keisha goes to Elena’s garage sale to hide inside usefulness.
+
+At the sale, she finds the 1965 pay envelope and a hint that Elena has kept Keisha’s college news closer than anyone realized.
+
+**Story purpose:** open with shame, comedy, and the lie.
+**Hidden lesson:** money you do not look at still moves.
+
+## Chapter 2 — Thirty Dollars for Thirty Percent
+
+The girls find the old necklace receipt and argue over value. Elena refuses to sell certain things.
+
+The agua fresca idea begins. Elena offers thirty dollars for thirty percent. The girls treat the napkin agreement like a major corporate merger. Sofi asks what “profit” means. Nobody answers well.
+
+Marcus drops a screenshot in the chat and says Maya should be nicer to the only future retiree in the family.
+
+**Story purpose:** form the business and expose everyone’s money personality.
+**Hidden lesson:** ownership begins with terms nobody reads carefully enough.
+
+## Chapter 3 — Ten Customers
+
+The first Saturday is a flop. Too much ice, too many cups, too much batch, ten customers, almost no money.
+
+The girls fight about whether they made money. Elena walks them through the wreckage.
+
+Maya wants to quit dramatically. Emily calculates quietly. Keisha pretends this was never her real plan anyway.
+
+**Story purpose:** humiliation bonds the group.
+**Hidden lesson:** revenue is not profit.
+
+## Chapter 4 — The First Good Saturday
+
+The stand improves. They make enough money to feel real.
+
+The fight becomes what to do with the money: split it now, buy better supplies, advertise, or save for individual goals.
+
+Maya wants life now. Emily wants more data. Keisha secretly wants the stand to become impossible math: small enough not to admit, big enough to save her.
+
+**Story purpose:** success creates conflict.
+**Hidden lesson:** early reinvestment changes the shape of later choices.
+
+## Chapter 5 — Elena Takes Her Cut
+
+Elena takes her thirty percent in cash. The girls resent her because she did not haul ice, chop fruit, or stand in the heat.
+
+Elena explains ownership without lecturing: she is paid because her name is on the deal.
+
+Emily has a quiet home scene that shows a family where nobody talks directly about money.
+
+**Story purpose:** ownership becomes emotionally annoying.
+**Hidden lesson:** labor and ownership are different claims.
+
+## Chapter 6 — Maya’s Ad
+
+Maya spends her own money on promotion. It works. Sales jump.
+
+Maya wants a bigger cut. Emily proves the ad mattered. Keisha hates that the math is right because the math is picking sides.
+
+Sofi hears the argument and realizes no one has priced the recipe.
+
+**Story purpose:** friendship fight over value.
+**Hidden lesson:** invisible contributions are still contributions.
+
+## Chapter 7 — The Amendment
+
+The girls confront Elena. The original deal shortchanged labor and treated Sofi’s recipe as free.
+
+Elena is defensive, then quiet. She admits she wrote the kind of deal she wished someone had offered her when she was young, not necessarily a fair one.
+
+They amend the agreement. Sofi’s recipe is named as hers. Elena signs last.
+
+**Story purpose:** Elena loses a round; the girls gain authorship.
+**Hidden lesson:** contracts reflect power, even when decent people write them.
+
+## Chapter 8 — The Vendor
+
+A smug vendor offers to buy the booth or its “brand.” The girls suddenly have to ask what the stand is worth.
+
+Emily builds a payback-years calculation. Maya thinks the vendor is insulting them. Keisha sees, briefly, that a business is not just work; it is future cash someone else wants.
+
+Elena’s old receipts show companies she bought, almost bought, and sold.
+
+**Story purpose:** the stand becomes an asset, not just a hustle.
+**Hidden lesson:** price only means something against future earning power.
+
+## Chapter 9 — Rainout
+
+Rain kills a Saturday. The stand makes nothing.
+
+One corner, one product, one weather system: too much dependence on one thing. Maya suggests adding a thrift rack or side product. Emily worries the numbers are getting muddy. Keisha sees the college deadline getting closer.
+
+Marcus announces he has quit his job. He talks like a man who has escaped gravity.
+
+**Story purpose:** growth bends; Marcus looks seductive.
+**Hidden lesson:** concentration feels efficient until it fails.
+
+## Chapter 10 — The Thumb
+
+Emily runs the best-case summer number. Even if everything goes well, Keisha is still short.
+
+Keisha almost asks Elena for help, but Elena deflects into a lesson. Keisha leaves angry and ashamed.
+
+Later, Keisha sees the investing tab in the payment app. One hyped stock could theoretically close the gap. Her thumb hovers.
+
+Maya catches her. Not Elena. Not the ledger. Maya.
+
+Keisha audits Marcus’s full-year return and sees red. The dream cracks. She sends the RA follow-up email.
+
+**Story purpose:** Keisha chooses reality over desperate speed.
+**Hidden lesson:** money with a deadline cannot gamble.
+
+## Chapter 11 — Elena’s Story
+
+Elena reveals the truth: widowhood, financial erasure, accounts she could not access easily, credit she did not have, signatures people expected from a man who was gone.
+
+She taught herself money because the world had taught her what invisibility costs.
+
+She bought a boring index fund decades ago and held it. She became wealthy quietly.
+
+But Keisha sees the other truth: Elena knew enough to help and hid anyway.
+
+**Story purpose:** reveal Elena’s wealth and wound.
+**Hidden lesson:** boring ownership can become power, but secrecy can poison protection.
+
+## Chapter 12 — Names on Accounts
+
+The girls open accounts.
+
+Emily has already opened hers. Maya admits she would empty hers and is not ready; this is treated as honesty, not failure. Sofi’s recipe money is protected and named. Keisha signs alone.
+
+Marcus, bruised by his crash and back at work or trying to get back, asks Emily how to open “the boring one.”
+
+**Story purpose:** practical action as emotional climax.
+**Hidden lesson:** your name belongs on your money.
+
+## Chapter 13 — The Kitchen Table Again
+
+Keisha tells her mother everything: the hold notice, the $2,800, the silence, the fear.
+
+Her mother does not rescue her with wisdom. She admits she did not know what to ask. The lie worked because it landed inside another woman’s missing education.
+
+Then Elena reveals the 529: small monthly deposits from when Keisha was two, grown over time and shifted to safety as college approached. The RA email is answered too. The gap closes.
+
+Keisha is relieved and furious.
+
+Elena admits the truth imperfectly: she hid because hiding was the first way she ever felt safe. But what once protected her made Keisha feel alone.
+
+The final movement is not forgiveness as a bow. It is inheritance with eyes open.
+
+Keisha goes forward with her own money, her own account, her own name, and one rule she finally understands: no more hiding.
+
+# Ending note
+
+The ending should be warm but not tidy.
+
+Keisha returns to school. Maya does not become a perfect saver. Emily does not become fearless. Marcus does not become a financial saint. Elena does not become fully absolved.
+
+But the pattern has changed.
+
+One woman planted money.
+One woman admits she was never taught.
+One woman says the number out loud.
+And the youngest one is watching.
+
+# Back matter
+
+Optional appendix: Emily’s cheat sheet.
+
+Keep it short, funny, and opt-in. It may include:
+
+* how to open checking/savings
+* what profit means
+* what an index fund is
+* why deadline money stays safe
+* why account ownership matters
+* tiny glossary
+* spoiler warning in Keisha’s voice
+
+Back matter should feel like a bonus, not the reason the book exists.
