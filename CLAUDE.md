@@ -9,55 +9,46 @@
 - `story-bible.md` is canon: cast, setting, money logic, emotional architecture.
 - `chapter-plan.md` is sequence only: 25 chapters, scene beats, POV, Keisha pressure, and chapter turns. Do not infer extra drafting rules from it.
 - `pitch.md` is the sales artifact: logline and pitch. Not a drafting reference; if it conflicts with the bible, the bible wins.
-- `manuscript/` holds the draft, one file per chapter: `ch01.md` … `ch25.md`. Chapter files contain prose only — no notes, no headers beyond the chapter number/title, no beat annotations.
-- `notes/continuity.md` (create on first draft) records facts invented during drafting that the bible doesn't fix: minor names, prices, street details, dates, running jokes. Update it after every chapter; check it before every chapter.
+- `manuscript/` holds the draft, one file per chapter (`ch01.md` … `ch25.md`), prose only.
+- `notes/continuity.md` (create on first draft) records facts invented during drafting that the bible doesn't fix: minor names, prices, dates, running jokes.
+- `math/` holds the scripts that derive and regression-test the bible's money numbers, with its own CLAUDE.md. If a script and the bible disagree, raise it — don't silently change either.
 
-## Canon precedence
+## Canon
 
-1. The bible's numbers are load-bearing and never change in draft: $2,800 net / $5,500 gross, $30 for 30%, $60 float, $600 offer, $5,000 annual 529 slice, $900,000, the timeline dates. Never invent a new money figure without checking it against the bible's arithmetic.
-2. Before drafting any chapter: reread its entry in `chapter-plan.md`, the bible sections it touches, and `notes/continuity.md`.
-3. If a scene needs something the bible doesn't cover, invent the smallest thing that works, keep it consistent with canon, and log it in continuity notes.
+- The bible's money figures, dates, and timeline never change in draft. Never invent a money number without checking it against the bible's arithmetic.
+- If a scene needs something the bible doesn't cover, invent the smallest thing that works and log it in `notes/continuity.md`.
 
 ---
 
-## Register: how the book reads
+## Register
 
-The comps are *Come and Get It*, *Black Cake*, and *Margo's Got Money Troubles* (secondary: *Honey & Spice*, *Memphis*, *Banyan Moon*). Take from each what it does best:
+Comps: *Come and Get It*, *Black Cake*, *Margo's Got Money Troubles*. From *Margo's*: the voice — a broke young woman narrating her own money crisis with jokes, warmth, and zero self-pity. From *Come and Get It*: money as social texture — prices, brands, overheard talk, small transactions rendered exactly, no authorial judgment of anyone's spending. From *Black Cake*: the intergenerational braid — a matriarch's history arriving in installments, secrets driving momentum.
 
-- From *Margo's Got Money Troubles*: the voice — a broke young woman narrating her own money crisis with jokes, warmth, and zero self-pity. Frank about mechanics (what things cost, what a paycheck covers), funny about everything, honest by accident.
-- From *Come and Get It*: money as social texture — brands, prices, overheard talk, small transactions rendered exactly, comedy from cringe-accurate speech, no authorial judgment of anyone's spending.
-- From *Black Cake* (and *Memphis*, *Banyan Moon*): the intergenerational braid — a matriarch's history arriving in installments, secrets driving momentum, the family story carrying equal weight to the present-day plot.
+The register is contemporary book-club prose: clean, warm, concrete, scene-driven. Sentence-level pleasure comes from observation and voice, not lyricism.
 
-The target register is contemporary book-club prose: clean, warm, concrete, scene-driven, quick to read. Sentence-level pleasure comes from observation and voice, not lyricism. Adult, not YA: the sentences trust the reader, the concerns are adult (rent, wages, dignity, mothers), and nothing is simplified for a teen shelf.
+## Prose rules
 
-## Prose rules (natural, not synthetic)
+1. **Vary rhythm.** Mix long and short sentences irregularly; no matched paragraph lengths, no fragment-fragment-fragment as fake urgency.
+2. **Ban the tells.** Never: "something shifts," "a beat passes," "I let out a breath I didn't know I was holding," "the weight of," "for the first time in a long time," "I can't help but," a character "visibly" doing anything, or an emotion named by the narrator ("I feel ashamed"). When feeling spikes, Keisha narrates outward — objects, logistics, other people's hands.
+3. **No rule-of-three reflex.** Triplet constructions ("not X, not Y, but Z") rarely, never twice in a chapter.
+4. **One image per moment, maximum.** Metaphors are scarce, homemade, from Keisha's world — never literary. If narration explains what a gesture means, cut the explanation and keep the gesture.
+5. **Jokes land once.** Never tag a joke ("I joke," "deflecting with humor"), never explain one, never let the narrator admire her own line.
+6. **Don't aphorize the turn.** The chapter's turn lands in action or dialogue, not a closing narrator summary. Vary endings; no echo-line closers as formula.
+7. **Specificity over atmosphere.** Real geography, real prices, the physical work of the stand. When in doubt, add a concrete noun and delete an adjective.
+8. **No hindsight, ever.** No foreshadowing ("I don't know it yet, but…"), no adult-narrator irony. Keisha knows only what she has seen by that line of that page.
 
-These exist so the draft reads like a person wrote it. Violations are revision-blockers, not style preferences.
+## Dialogue
 
-1. **Vary rhythm.** Mix long sentences with short ones irregularly. No paragraph-after-paragraph of matched lengths, no fragment-fragment-fragment as fake urgency. Some sentences should ramble the way thought rambles.
-2. **Ban the tells.** Never: "something shifts," "a beat passes," "I let out a breath I didn't know I was holding," "the weight of," "for the first time in a long time," "I can't help but," a character "visibly" doing anything, or an emotion named by the narrator ("I feel ashamed"). Keisha is evasive; when feeling spikes, she narrates outward — objects, logistics, other people's hands.
-3. **No rule-of-three reflex.** Triplet constructions ("not X, not Y, but Z"; "Maybe A. Maybe B. Maybe C.") at most rarely, never twice in a chapter.
-4. **One image per moment, maximum.** Metaphors are scarce, homemade, and from Keisha's world (fryer, load ratings, inventory) — never literary. If narration explains what a gesture or image means, cut the explanation and keep the gesture.
-5. **Jokes land once.** Comedy comes from character logic and specificity. Never tag a joke ("I joke," "deflecting with humor"), never explain one, never let the narrator admire her own line.
-6. **Don't aphorize the turn.** Each chapter's turn lands in action or dialogue, not in a closing narrator summary. Vary endings: mid-gesture, on a line of dialogue, on an image, occasionally on a thought. No echo-line closers as a formula.
-7. **Specificity over atmosphere.** Real Sioux Falls geography, real weather, real prices, the actual physical work of a stand (ice weight, cambro spigots, cash-box counts). When in doubt, add a concrete noun and delete an adjective.
-8. **No hindsight, ever.** Present tense with no retrospection means no foreshadowing ("I don't know it yet, but…"), no adult-narrator irony, no chapter-opening throat-clearing that frames what's coming. Keisha knows only what she has seen by that line of that page.
-9. **Math on the page, not in the prose.** When numbers matter, show them the way people actually handle them — a phone screen, a receipt, a napkin column, Emily's spreadsheet — then let people react. Never a paragraph of narrated arithmetic.
+- People interrupt, answer the wrong question, and leave sentences unfinished. Nobody delivers information the listener already has. Contractions unless a character is being deliberately formal.
+- Each principal keeps the register the bible gives them; unattributed lines should be identifiable by voice. No phonetic dialect spelling — voice is syntax and rhythm, not apostrophes.
+- Race and ethnicity are canon facts, never narrated observations; narration doesn't ethnically flavor anyone's speech.
+- "Says" and "asks" do the work; action beats over tags; never an adverbial tag ("she says sharply").
 
-## Dialogue rules
+## POV
 
-- People talk past each other, interrupt, answer the wrong question, and leave sentences unfinished. Nobody delivers information the listener already has.
-- Contractions everywhere except where a character is being deliberately formal (Estelle negotiating, Denise on the phone with a payment-plan office).
-- Each principal has a register and keeps it: Estelle's flat declaratives and market haggling; Denise's shift-supervisor efficiency; Sydney performing; Emily in ratios; Sofi calm and literal; Max in finance-bro idiom applied to trivia; Keisha deadpan and deflecting. A reader should identify unattributed lines by voice.
-- No phonetic dialect spelling for anyone. Voice comes from syntax, vocabulary, and rhythm, not apostrophes.
-- Race and ethnicity are canon facts, not narrated observations — nobody in the book comments on the neighborhood's mix, and narration doesn't ethnically flavor anyone's speech. The church, the market, and the block supply culture through specifics (food, errands, names), not commentary.
-- Attribution stays invisible: "says" and "asks" do the work; action beats replace tags where possible; never an adverbial tag ("she says sharply").
-
-## POV discipline
-
-- Strict limited first person. Keisha narrates only scenes she is in and only what she can perceive. Other characters' arcs arrive through what crosses her view — screenshots, overheard halves of calls, things said at the stand.
-- She misreads people. The reader should sometimes see past her (Denise's almost-knowing moments, Max's showing-up pattern) while she doesn't — dramatic irony through detail she reports but doesn't process.
-- Her avoidance shapes the narration itself: when the truth gets close, she changes the subject on the page — inventory counts, an overpass rating, someone else's business. The style performs the theme; the narrator never announces it.
+- Strict limited first person: Keisha narrates only scenes she is in and only what she can perceive. Other arcs arrive through what crosses her view.
+- The reader should sometimes see past her — dramatic irony through details she reports but doesn't process.
+- When the truth gets close, she changes the subject on the page. The style performs the theme; the narrator never announces it.
 
 ---
 
@@ -65,9 +56,9 @@ These exist so the draft reads like a person wrote it. Violations are revision-b
 
 - Keisha narrates in first person, present tense, comic and avoidant.
 - Adult family/friendship novel with a light romantic thread; not YA, not romance-led.
-- Artifacts (receipts, envelopes, screenshots, the ledger) appear only for emotional or plot impact. No artifact-per-chapter rhythm.
+- Artifacts appear only for emotional or plot impact. No artifact-per-chapter rhythm.
 - Keisha's civil-engineering interest stays specific, comic, and literal.
-- Chapters open in motion — mid-scene or mid-task, never with recap or scene-setting weather paragraphs.
+- Chapters open in motion — mid-scene or mid-task, never with recap or scene-setting.
 
 ## Drafting rules
 
@@ -88,10 +79,10 @@ These exist so the draft reads like a person wrote it. Violations are revision-b
 15. **Comedy from character.** The book is funny because the people are funny, not because the plot turns slapstick.
 16. **End with cost.** The gap closes, but adulthood begins.
 
-## Drafting workflow
+## Workflow
 
-- **Length.** Target 78,000–85,000 words total. Typical chapter: 2,800–3,600 words. Single-beat chapters (2, 17) may run 1,500–2,200; the set pieces (21, 24) may run 4,500–6,000. Never pad a chapter to hit a number.
-- **One chapter per pass.** Draft in order. Before each chapter, reread the plan entry, the relevant bible sections, continuity notes, and the last few pages of the previous chapter so the seams don't show.
-- **Plan beats are obligations, not an outline to transcribe.** Hit every beat in the chapter's plan entry, in an order and proportion that serves the scene. Connective tissue between beats is yours to invent.
-- **Self-check before finishing a chapter.** Verify: the turn landed in scene; Keisha wanted, hid, and paid; no prose-rule violations; no canon-number drift; nothing thematic said out loud that the objects already say. Fix before moving on.
-- **Revision requests operate on prose, not plan.** When asked to revise a chapter, don't silently change beats, canon, or sequence; if a revision seems to require that, say so first.
+- **Length:** 78,000–85,000 words total; typical chapter 2,800–3,600. Single-beat chapters (2, 17) may run short; the set pieces (21, 24) may run long. Never pad.
+- **Draft in order, one chapter per pass.** First reread the plan entry, the bible sections it touches, continuity notes, and the previous chapter's ending.
+- **Plan beats are obligations, not an outline to transcribe.** Hit every beat, in whatever order and proportion serves the scene.
+- **Before finishing a chapter, check:** the turn landed in scene; Keisha wanted, hid, and paid; no banned prose; no canon drift.
+- **Revisions touch prose, not beats or canon.** If a revision seems to require changing those, say so first.
