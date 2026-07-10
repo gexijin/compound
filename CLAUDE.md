@@ -54,7 +54,6 @@ The register is contemporary book-club prose: clean, warm, concrete, scene-drive
 
 ## Form and devices
 
-- Keisha narrates in first person, present tense, comic and avoidant.
 - Adult family/friendship novel with a light romantic thread; not YA, not romance-led.
 - Artifacts appear only for emotional or plot impact. No artifact-per-chapter rhythm.
 - Keisha's civil-engineering interest stays specific, comic, and literal.

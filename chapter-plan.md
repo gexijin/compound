@@ -1,6 +1,8 @@
 # Full Price — Chapter Plan
 
-**Shape:** 25 chapters in three acts — Act I: 1–7, Act II: 8–19, Act III: 20–25. Chapter length varies by design: single-beat chapters (2, 17) stay short; the two set pieces (21, 24) may run long. The summer calendar — market Saturdays, Levitt Thursday/Friday nights, weekday shifts — is the connective tissue between chapters.
+**Shape:** 25 chapters in three acts — Act I: 1–7, Act II: 8–19, Act III: 20–25 — plus five titled interstitials, the **Essie strand** (close-third past tense; rules in the story bible): *1965* after ch. 4, *1976* after ch. 7, *2009* before ch. 12, *1987* after ch. 18, *2021* before ch. 20. Chapter length varies by design: single-beat chapters (2, 17) stay short; the two set pieces (21, 24) may run long. The summer calendar — market Saturdays, Levitt Thursday/Friday nights, weekday shifts — is the connective tissue between chapters, and it counts toward the book's hard clock: the fall bill's late-August due date, named in ch. 2.
+
+Each chapter carries a **Turn** (what changed — retrospective) and a **Hook** (the open loop carried forward). Hooks marked TBD are honest gaps to solve in drafting, not omissions.
 
 ## Act I — The Lie and the Deal
 
@@ -19,16 +21,22 @@ Denise's envelope system appears as household texture with a punchline — the k
 **POV:** in-scene throughout — the kitchen, her phone, the garage.
 **Keisha pressure:** Keisha needs her life to look handled, so she turns the bursar's estimate into an archived problem and chooses garage-sale usefulness over confession.
 **Turn:** Keisha chooses usefulness over truth.
+**Hook:** the 1965 envelope, unexplained — and the bursar's number archived, not gone.
 
 ### 2. Hold Music
 
 Keisha calls the SDSU bursar. Hold music, forms, a transfer, a dropped call. This is the origin of the archive habit.
 
-A deliberately small chapter — one girl, one kitchen floor, one institution that never picks up.
+**The two maths, seeded.** On hold, she runs the numbers both ways on the back of an envelope: if the mystery credit returns, **$2,800** — grindable, hideable, survivable-shaped; if it doesn't, **$7,800** — the take-a-year-off number. The credit line carries an institution's name she doesn't audit — *you don't call a bank to ask why it gave you money* — and last year had one of those too, and last year worked out. The call drops before anyone can say which math is true. The due date — late August — is on the screen. The book's clock starts here.
+
+The archive habit and the unopened box are born in the same scene. (Voice rule — *the other math*, never the figure — lives in the bible's two-maths deployment note.)
+
+Still a deliberately small chapter — one girl, one kitchen floor, one institution that never picks up.
 
 **POV:** her own call, her own kitchen floor.
-**Keisha pressure:** Keisha wants the institution to solve the problem without involving her family; the failed call makes avoidance feel earned.
+**Keisha pressure:** Keisha wants the institution to solve the problem without involving her family; the failed call makes avoidance feel earned — and leaves which math is true unresolved.
 **Turn:** avoidance becomes a scar from a failed attempt.
+**Hook:** the call drops with the two maths unresolved — and the due date on the screen.
 
 ### 3. Thirty Dollars for Thirty Percent
 
@@ -41,6 +49,7 @@ Estelle asks, "You have your housing?" Keisha lies. Max drops a green screenshot
 **POV:** in-scene at Estelle's; the deal happens across a card table with Keisha holding the pen.
 **Keisha pressure:** Keisha wants the stand to give her something solvable, so she signs onto unfamiliar terms and lies about housing in the same breath.
 **Turn:** everyone signs before understanding the terms.
+**Hook:** TBD
 
 ### 4. Ten Customers
 
@@ -55,18 +64,26 @@ Then, in the flop's aftermath, the cash-box handover happens live at the stand: 
 **POV:** the memory via a post on the page; in-scene behind the stand for the full humiliation; the handover in-scene.
 **Keisha pressure:** Keisha wants public effort to count as proof she is fine; the flop makes her failure visible to people who know her countdown, and the cash box lets responsibility feel like safety.
 **Turn:** they feel poor in public — and Keisha mistakes being responsible for being safe.
+**Hook:** the cash box is hers now.
+
+---
+
+### Interstitial: 1965
+
+*Essie strand — close-third past tense.* The pay envelope: John Morrell plant, age seventeen, already a veteran of two paychecks a month. One scene, one artifact; ends on an act — the envelope opened, counted, divided. No lesson, no hindsight. Placed against ch. 4's wage-physics: two girls learning hours-for-dollars, sixty years apart, on either side of the page break.
 
 ### 5. The Forwarded Email
 
 Denise asks about the deposit. Keisha forwards an old housing email as if current. The stand has its first decent Saturday. The reinvest-versus-split fight begins.
 
-Denise's first almost-knowing moment: she reads the forwarded email a beat too long, thumb hovering on the date line, then puts the phone down and asks about supper.
+Denise's first almost-knowing moment, **escalated to a near-catch**: she reads the forwarded email a beat too long, thumb hovering on the date line — and asks one concrete question ("this says spring — where's the fall one?"). Keisha survives it by spending something: a fresh lie invented under fire, with a specific checkable detail she will now have to maintain. Denise puts the phone down and asks about supper. The cover-up's cost curve turns visible — lies told under pressure, not maintenance performed in private.
 
 Max turns up at the good Saturday — unneeded, no gear to haul, no sister requiring him — and hangs around. One beat. Keisha does not comment. His showing-up pattern begins here.
 
 **POV:** in-scene at the kitchen table and the stand; the hesitation is something Keisha watches while pretending not to.
 **Keisha pressure:** Keisha needs Denise to stop asking, so she turns an old email into new evidence and makes the lie harder to unwind.
 **Turn:** the lie now requires fabrication.
+**Hook:** a new lie with a checkable detail is in circulation.
 
 ### 6. Estelle Takes Her Cut
 
@@ -75,8 +92,11 @@ Estelle takes thirty percent in cash, at the stand, in front of the market. At l
 Emily's quiet home scene, staged: Keisha delivers the week's cash count to the Larsen house after close-out and gets kept for supper. Hotdish, kindness, and not one sentence about money — including the cash envelope sitting on the counter like it's radioactive. Keisha, fluent in silence, recognizes a different dialect of it.
 
 **POV:** in-scene at the market; in-scene at the Larsens' as invited witness with a stated errand.
+**Community near-catch (slot):** one church-lady question at the stand, in front of Denise — the question Keisha can't deflect without spending something. Placed here or in the ch. 13 region; decide in drafting.
+
 **Keisha pressure:** Keisha wants cash-box competence to be real; Estelle's cut and Emily's house show her two different silences around money.
 **Turn:** ownership looks unfair when labor is sweaty.
+**Hook:** TBD
 
 ### 7. The Good Weeks
 
@@ -91,6 +111,13 @@ And the pattern the reader has been tracking since ch. 5 gets named. Not *Max ap
 **POV:** her own drafts folder, her own group chat; the noticing happens in-scene at the stand.
 **Keisha pressure:** Keisha wants the stand's optimism without the risk of another rejection, so she keeps the next right action in drafts — and wants Max to remain an annoyance, not a temptation; catching herself counting him makes the distraction private.
 **Turn:** Keisha knows the next right action and postpones it — and fast money becomes charming.
+**Hook:** the unsent email sits in drafts.
+
+---
+
+### Interstitial: 1976
+
+*Essie strand.* The fund slip, filled out in handwriting practiced first on scrap paper — a salesman's fund whose teeth she cannot yet see. One scene; ends on the signature. Two women entering ownership fifty years apart: the stand finds rhythm on one side of the page break, Essie opens the account on the other. The reader meets the slip here; Keisha will not see it until ch. 21.
 
 ---
 
@@ -103,18 +130,20 @@ Sydney spends her own money on promotion — but the real discovery is *where th
 **POV:** Sydney pitches at the stand with everyone present; the first Levitt night happens on the page with Keisha pouring.
 **Keisha pressure:** Keisha wants the stand's success to come from controllable labor; Sydney's discovery makes value messier than operations.
 **Turn:** the person everyone calls irresponsible may have created the value — not by spending louder, but by seeing the market nobody else looked for.
+**Hook:** Sydney's bigger-cut demand is on the table.
 
 ### 9. The Deposit
 
 Denise pushes housing paperwork — and raises the commuter option once: "you could do a year at Augie, live here." Keisha has a real answer, airtight: her program is civil engineering, and Augustana doesn't offer it; her aid package; her lab section. One exchange, then done — but Denise watches her answer a beat too fast. Her second almost-knowing moment.
 
-At the portal, Denise performs certainty — nods at screens, signs where Keisha points, asks nothing. Keisha, fluent in bluffing, recognizes the performance instantly and says nothing: correcting her mother's bluff would mean opening her own. Mother and daughter protect each other's cover without knowing it. The bedding is paid for in cash from the envelope marked SCHOOL — the mother's honest envelope funding the daughter's prop.
+At the portal, Denise performs certainty — nods at screens, signs where Keisha points, asks nothing. **The portal near-catch (renovation):** the housing status is on those screens, and the scene's spine is the aversion — Keisha drives the session, scrolls past the line that would end the lie, angles the laptop, invents a reason to summarize instead of show. Denise nearly sees it once; Keisha spends a bluff to survive — and recognizes, mid-bluff, that her mother is bluffing too, and says nothing: correcting her mother's bluff would mean opening her own. The near-catch and the mutual cover are the same beat. Mother and daughter protect each other's cover without knowing it. The bedding is paid for in cash from the envelope marked SCHOOL — the mother's honest envelope funding the daughter's prop.
 
 Keisha pays a real deposit she cannot afford to keep the lie alive: her savings plus accumulated wages, scraped to zero. The deposit empties her, and the bedding bag enters her room.
 
 **POV:** in-scene at the portal, in the store, at the counter paying.
 **Keisha pressure:** Keisha wants the deposit and bedding to make the lie look real; paying for proof empties her while she protects Denise's bluff.
 **Turn:** the lie now costs money — and both women at the table are bluffing.
+**Hook:** she is at zero, the bedding bag is in her room, and the bill is still unpaid.
 
 ### 10. The Value Fight
 
@@ -125,6 +154,7 @@ The seed for ch. 15, planted in passing: somewhere in Emily's figures, the stand
 **POV:** in-scene; she's a party to the argument.
 **Keisha pressure:** Keisha wants value to mean labor she can recognize; the argument makes ownership, promotion, operations, and recipe all personal.
 **Turn:** value becomes personal.
+**Hook:** TBD *(known gap — the chapter currently ends complete-in-itself)*
 
 ### 11. The Invoice
 
@@ -139,18 +169,26 @@ One beat, played dry: Sofi is sixteen; the amendment needs a guardian's signatur
 **POV:** in-scene at her own kitchen table.
 **Keisha pressure:** Keisha wants the amendment to settle fairness; the $600 offer privately tempts her because cash feels safer than ownership.
 **Turn:** the teacher has to admit she wrote the kind of deal that was once written against her — and a friendly man puts a price on the summer before the ink dries.
+**Hook:** the $600 offer sits unanswered.
+
+### Interstitial: 2009
+
+*Essie strand — the irony trigger.* The January ritual: $400 into an account bearing a two-year-old's name. Deposits on the page, balances never. One scene; ends on the act of the deposit. From here the reader knows what is inside every envelope Keisha won't read.
+
+---
 
 ### 12. The Envelope and the Erasure
 
 The $600 offer hangs unanswered over the whole chapter. Keisha carries the temptation privately — six hundred dollars is *real* money, cash money, wage-shaped money — while the girls' group chat cycles between insulted and tempted. A friendly man priced their summer at scrap value, and the insult is starting to locate itself.
 
-Keisha helps Estelle with paperwork. The 1965 John Morrell pay envelope resurfaces in the boxes, and it makes Estelle talk — the **first telling**, in her register and at her length: eighth grade then work, the plant at seventeen, widowed young, and the banks — legal until '74, practical for longer. She stops at the erasure. No 1976, no fund slip, no fortune, no 529. She changes the subject herself; Keisha, mid-cover-up, is relieved not to ask a follow-up. Two hiders, both grateful for the exit.
+Keisha helps Estelle with paperwork. The 1965 John Morrell pay envelope resurfaces in the boxes, and it makes Estelle talk — the **first telling**, in her register but **compressed hard**: the reader has already lived 1965 and 1976 in the Essie strand, so the telling performs for Keisha, not the reader (revised two-tellings rule). Eighth grade then work, the plant at seventeen, widowed young, and the banks — legal until '74, practical for longer. She stops at the erasure. No 1976, no fund slip, no fortune, no 529. She changes the subject herself; Keisha, mid-cover-up, is relieved not to ask a follow-up. Two hiders, both grateful for the exit.
 
-In the same session, Keisha handles an envelope bearing the 529 institution's name. She files it unread — she hears what was done to Estelle while holding the envelope that contains its sequel, and reads neither. And she hears the story of a lowballed woman while privately wanting to take a lowball.
+In the same session, Keisha handles an envelope bearing the 529 institution's name — and the chapter's full weight now sits here. The reader, holding the 2009 interstitial, knows this envelope is the answer to the entire summer. Keisha notices the institution's name matches the credit line on the portal and declines to complete the thought — one refusal-budget unit, freshly motivated in-scene: mid-cover-up, she is grateful for any exit. She files it unread — she hears what was done to Estelle while holding the envelope that contains its sequel, and reads neither. And she hears the story of a lowballed woman while privately wanting to take a lowball.
 
 **POV:** two-hander in the garage; the offer's weight is inside her own narration.
 **Keisha pressure:** Keisha wants the offer to be a simple cash answer; Estelle's erasure story and the unread 529 envelope make that answer harder to take.
 **Turn:** the answer passes through her hands.
+**Hook:** the 529 envelope, filed unread — and the reader knows what is in it.
 
 ### 13. The Vendor
 
@@ -159,6 +197,7 @@ The offer gets its meeting. The insult is felt first and fully — the concessio
 **POV:** in-scene; the vote happens around her.
 **Keisha pressure:** Keisha wants the lowball to close her secret hole; the vote keeps her visible, invested, and still short.
 **Turn:** Keisha almost sells the summer to solve a secret hole — and the amendment they signed for fairness turns out to be the thing that made the business worth keeping.
+**Hook:** TBD
 
 ### 14. The Float
 
@@ -169,6 +208,7 @@ The same week, at the kitchen table: the car needs a repair, and Denise handles 
 **POV:** her hand in the cash box; her seat at the table while Denise works the phone.
 **Keisha pressure:** Keisha wants to stay the responsible operations person, so she renames borrowing from the float as timing and carries it into Denise's honest-money scene.
 **Turn:** the cover-up crosses a line — in the house of the woman who never hides a dollar she can hold.
+**Hook:** the float is still sixty dollars light.
 
 ### 15. The Offer and the Warning
 
@@ -181,6 +221,7 @@ The same evening, Sydney corners her. She loves both of them and sees the cliff,
 **POV:** the offer to her face, the columns in front of her, the warning at her elbow.
 **Keisha pressure:** Keisha wants to refuse Max without naming her desperation; Emily's columns crack the money physics she has trusted all summer.
 **Turn:** fast money arrives wearing a boy's face — and three ways of earning sit on one table for the first time.
+**Hook:** Max's offer, declined barely, stays open — and so does the warning.
 
 ### 16. Washout
 
@@ -192,7 +233,8 @@ Home, soaked: Denise is up. The bedding bag sits on the chair where it has sat f
 
 **POV:** in-scene throughout — the melt, the teardown, the kitchen at midnight.
 **Keisha pressure:** Keisha wants the washout to prove wages are safer, but the rain softens her defense against Max and Denise's bedding-bag look tightens the lie.
-**Turn:** the found venue can vanish, the counted boy stops being a count — and the mother is one beat from knowing.
+**Turn:** the found venue can vanish, and the counted boy stops being a count.
+**Hook:** Denise is one beat from knowing — the bedding-bag look, her third and last almost-knowing.
 
 ### 17. The Near-Miss
 
@@ -203,10 +245,13 @@ Keisha's retreat is now partly deference to the story she heard in ch. 12 — ho
 **POV:** two-hander, in-scene.
 **Keisha pressure:** Keisha wants to ask Estelle without having to need her; both women retreat before the truth can become spoken.
 **Turn:** two women miss each other by inches.
+**Hook:** the question neither asked still stands — and Estelle watched her leave.
 
 ### 18. The Thumb and the Sixty Dollars
 
-Keisha sees the investing tab. One hyped stock could close the gap. Her thumb hovers over money that includes borrowed float money.
+**The forced look.** A registration hold forces Keisha onto the portal at last — and the screen shows the unreduced bill: **$7,800**. She doesn't know the fall slice lands days before the late-August due date; the reader, holding the 2009 interstitial, does. From this scene forward she isn't hiding a survivable number — as far as she knows, she is hiding the end of college. The real number never changes; only what she believes does.
+
+Keisha sees the investing tab. One hyped stock could close the gap. Her thumb hovers over money that includes borrowed float money — a desperation scene now, not a temptation scene.
 
 Sydney catches her. That night, Keisha audits Max's full-year return and sees red. She sends the follow-up email — her first real outward ask.
 
@@ -217,6 +262,13 @@ Two movements, one staircase: she chooses reality over speed at night, and pract
 **POV:** her own thumb, her own screen, her own sent folder; then the confession delivered in-scene to the girls.
 **Keisha pressure:** Keisha wants speed without confession; sending the employment email becomes her first real outward ask, and confessing something small enough to survive tests whether truth destroys the group.
 **Turn:** Keisha chooses reality over speed — and the small confession rehearses the big one.
+**Hook:** the employment email is out, unanswered — and she still believes the screen.
+
+---
+
+### Interstitial: 1987
+
+*Essie strand.* Strike paycheck, Black Monday, the sale near the bottom — her one panic, staged without commentary. One scene; ends on the act of the sale. The certificate that survives because it is slow gets one image, no explanation. Placed against ch. 19: her crash beside Max's, thirty-nine years apart — panic as class condition, not character flaw.
 
 ### 19. The Crash
 
@@ -231,10 +283,17 @@ His crash remains his own: no reforming for Keisha, no scene where she saves him
 **POV:** phone in hand; in the Ellis kitchen at Sydney's summons; at the teardown.
 **Keisha pressure:** Keisha wants Max's crash to stay his problem; watching speed lose its costume strips glamour from her own temptation.
 **Turn:** the fast path loses its costume.
+**Hook:** TBD
 
 ---
 
 ## Act III — The Truth and the Names
+
+### Interstitial: 2021
+
+*Essie strand.* The shift to safety: the 529 moved out of stocks because college has become real — Keisha is fourteen. One phone call, one confirmation slip; ends on the act. Quiet proof she has been watching all along, placed immediately before Keisha decides to stop hiding.
+
+---
 
 ### 20. The Ledger and the Envelope
 
@@ -245,10 +304,11 @@ During the final ledger session, a stray detail — a transfer notation, the app
 **POV:** in-scene at the ledger session; the notation crosses the table in front of her.
 **Keisha pressure:** Keisha wants the ledger to tell her confession can still be avoided; the numbers prove it cannot.
 **Turn:** the numbers force the first honest conversation.
+**Hook:** the confession is decided and not yet spoken.
 
 ### 21. Estelle's Story
 
-The chapter opens **mid-story** — the erasure is already known from ch. 12, so Estelle picks up where she stopped: the 1976 fund slip, filled out in handwriting practiced on scrap paper. Decades of boring ownership: old statements, reinvested dividends, tax-prep envelopes, nothing flashy. The fortune. The 529 opened when Keisha was two.
+The chapter opens **mid-story** — the erasure is already known from ch. 12, and with the Essie strand in place the recounting is **cut to what's new**: the magnitude (**$900,000**), the Deere certificate's survival, the 529's mechanics and the guarantee. The fund slip physically appears on the table — the hinge between strands: the reader watched it being filled out in 1976; Keisha is seeing it for the first time. The chapter is recognition and reciprocity almost entirely. What Estelle gives Keisha is the name and the guarantee — certainty, not cash — and the reader feels the certainty land as the collapse of the two maths: the number was $2,800 the whole time, and she could have known in June.
 
 The 529 paid last year too. The beam was always there and still not enough.
 
@@ -272,7 +332,7 @@ Estelle's defense comes in two layers, and the second is the one she has never s
 
 and, underneath it, said once and with difficulty, the education wound — she never explained money to anyone because a woman who stopped school at eighth grade does not lecture; she was certain that the moment she opened her mouth about the things she'd taught herself, someone with more schooling would find the flaw in her sentence and take the whole thing away. She could always *do* it. She never felt entitled to *say* it.
 
-If the scene earns it, she calls herself **Essie** exactly once, inside her own story, and never again.
+If the scene earns it, she calls herself **Essie** exactly once, inside her own story, and never again — and with the strand, the reader has known Essie all along; the single use lands as the two strands fusing, not as reveal.
 
 Keisha: "That is an explanation. It is not an apology."
 
@@ -283,6 +343,7 @@ Estelle is understood, not absolved. She does not apologize well. The book does 
 **POV:** two-hander throughout; the scene break is Keisha's own walk.
 **Keisha pressure:** Keisha wants to accuse Estelle cleanly, then recognizes the family resemblance and gives her own number back.
 **Turn:** Estelle is understood, not absolved — and the number is finally in the air.
+**Hook:** Denise still doesn't know any of it.
 
 ### 22. The Ticket
 
@@ -295,6 +356,7 @@ Keisha's stake is explicit: she watches someone pay a real price out loud, days 
 **POV:** in the audience Sydney convened on purpose.
 **Keisha pressure:** Keisha wants Sydney's public sacrifice not to implicate her; instead she watches someone name a cost out loud.
 **Turn:** Sydney pays a real price with eyes open — in front of the one who's still hiding.
+**Hook:** TBD
 
 ### 23. Full Price
 
@@ -309,6 +371,7 @@ Keisha and Max have a post-crash conversation. They split the cost of a date —
 **POV:** at the counter, at the signing table, on the date.
 **Keisha pressure:** Keisha wants help that is not rescue; the laptop loan gives her terms she can sign after saying the number.
 **Turn:** money can be care without being rescue.
+**Hook:** TBD
 
 ### 24. The Kitchen Table Again
 
@@ -327,6 +390,7 @@ The gap closes on the page: 529 slice, circulation-desk job, stand share, tiny m
 **POV:** in-scene; the one scene in the book where all three generations hold the table at once, and Keisha's job is to start it and then get out of the way.
 **Keisha pressure:** Keisha wants Denise to know without losing her; the confession forces all three women to speak or ask in their own way.
 **Turn:** the family pattern is named — by each woman, for herself.
+**Hook:** TBD *(near-resolution by design; ch. 25 is coda)*
 
 ### 25. The Watched One
 
@@ -339,3 +403,4 @@ Final image: at the loading of the car, Keisha catches Sofi watching her — thr
 **POV:** in-scene at the car; the last thing she narrates is being seen.
 **Keisha pressure:** Keisha wants leaving to feel solved; the visible costs and Sofi watching make the interruption ongoing, not finished.
 **Turn:** the pattern is still transmitting — but now someone sees it, and the last thing the watched one saw was the number being said out loud.
+**Hook:** — *(final chapter; the open loop is the book's own: the pattern still transmitting)*

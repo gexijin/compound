@@ -6,8 +6,8 @@
 **Category:** Adult commercial fiction with book-club appeal — **fixed; not revisited.**
 **Primary readership:** the adult book-club core, women 25–55, with natural crossover to younger readers. Although Keisha is nineteen, the book is adult fiction because the emotional frame belongs equally to Keisha, Denise, and Estelle. The three-generation braid is the book's center of gravity and its claim to the shelf: Estelle and Denise carry narrative mass equal to the summer-stand plot.
 **Target length:** 78,000–85,000 words
-**Structure:** approximately 25 chapters in three acts; chapter length varies by design — single-beat chapters stay short, the two set pieces (chs. 21 and 24) may run long
-**Narration:** first-person Keisha, present tense, comic, no hindsight
+**Structure:** approximately 25 chapters in three acts, plus five titled interstitials — the **Essie strand** (page order: 1965, 1976, 2009, 1987, 2021); chapter length varies by design — single-beat chapters stay short, the two set pieces (chs. 21 and 24) may run long
+**Narration:** first-person Keisha, present tense, comic, no hindsight — plus the Essie strand: five interstitials in close-third past tense, each a single scene anchored on one canonical artifact, 3–6 pages, unnumbered, titled by year. Rules in "The Essie strand" under Emotional architecture.
 **Setting:** Sioux Falls, South Dakota — present day
 
 **Comps:** *Come and Get It*, *Black Cake*, *Margo's Got Money Troubles*; secondary: *Honey & Spice*, *Memphis*, *Banyan Moon*.
@@ -94,6 +94,10 @@ The sacrosanct figure is the **net**. It is shame-sized: small enough that one h
 
 The net number should not be widened for melodrama.
 
+## The clock
+
+The book's hard deadline is the **fall bill's due date — late August, named in ch. 2 and enforced throughout**. The 529 slice lands days before it, per the disbursement design; until then the portal shows the unreduced bill. The market calendar counts toward this cliff: every good Saturday reads as +$X, −1 week. The church ladies' countdown is the emotional clock; the due date is the financial one.
+
 
 ## The 529: $20,000, built from $400 a year
 
@@ -111,6 +115,8 @@ Freshman year closed without a crisis, and Keisha misread why. Year one carried 
 Planning sophomore year in April, she runs the math both ways. If the mystery money comes back: **$2,800 short** — hideable, grindable, survivable-shaped. If it doesn't: **$7,800** — three summers of fryer work, the take-a-year-off number. She plans on the small number because the big one ends college, and hides $2,800 all summer while the $7,800 hums underneath it. The one act that would settle which math is true — asking — is the one she cannot perform.
 
 Ch. 21 therefore hands her no money at all. The fall slice was already in motion. What Estelle gives her is the name and the guarantee — certainty, not cash.
+
+**Deployment (firm):** both numbers are seeded on the page in ch. 2 — the dropped bursar call and the two maths are born in the same scene. Thereafter the narration names only *the other math*, never the figure: the flinch is a voice pattern, and the digits reappear only when spoken aloud in Act III. The unaudited credit line carries an institution's name Keisha declines to recognize; the 529 envelope (ch. 12) and the forced look at the unreduced bill (ch. 18) are the same refusal at rising pressure.
 
 
 ## Estelle's fortune: $900,000, earned the slow way
@@ -190,11 +196,35 @@ The refusal is comic on page one and legible as armor by Act III: the woman who 
 
 **Seed:** established early, in Keisha's narration, as a family fact with a punchline (ch. 1–3 region).
 **Payoff:** at the laptop-loan signing (ch. 23), Keisha calls her "Grandma" — unadorned. Neither comments on it. It should land like a door opening.
-**Reserve:** "Essie" is spent only if ch. 21 earns it — Estelle referring to herself by the name from before the armor, one time, in her own story.
+**Reserve:** "Essie" is spent only if ch. 21 earns it — Estelle referring to herself by the name from before the armor, one time, in her own story. With the Essie strand in place, the reader has known Essie all along and Keisha never has: the single use in ch. 21 lands as **fusion** — the two strands touching for the first time — not as reveal. The single-use rule is unchanged.
 
-## The two tellings (craft rule)
+## The Essie strand (interstitial rules)
 
-Estelle's history is told in two installments, staged in chs. 12 and 21: the first telling ends at the erasure — what was done to her; what she built afterward waits for the second. The incompleteness is characterization, not authorial withholding. The fund slip must not be named or handled in ch. 12; it is the physical hinge between the two installments and appears in ch. 21 only.
+Five titled interstitials in close-third past tense — **1965, 1976, 2009, 1987, 2021**, in that page order — run between chapters; placements are fixed in the chapter plan. In her own POV she is **Essie**, exclusively. Rules, firm:
+
+* **Learning, never teaching.** The strand shows Essie learning — no lessons, no hindsight, no moral, no direct address. The first time Estelle teaches money out loud remains the laptop loan (ch. 23); if the interstitials narrate wisdom, ch. 23 collapses. Lessons happen by placement only: 1987 sitting beside the crash *is* the lesson, and nobody says it.
+* **Acts, not reflections.** Each interstitial is one scene anchored on one canonical artifact (pay envelope, fund slip, sale confirmation, 529 confirmation) and ends on an act — a deposit, a signature, a sale — never a reflection.
+* **The habit, never the magnitude.** Deposits appear on the page ($600, $2,000, $400); balances never. The $900,000 and the Deere total remain ch. 21 property: the reader gets the existence-secret early and the scale-surprise stays intact.
+* **Strand order is artifact order, not timeline order.** 2009 precedes 1987 on the page — 2009 is the irony trigger before ch. 12; 1987 echoes the crash after ch. 18. The strand is anchored to Keisha's summer, not to chronology.
+
+## The two tellings (craft rule, revised for the Essie strand)
+
+The rule now governs **Keisha's** knowledge only. Estelle still tells her story in two installments (chs. 12 and 21): the first ends at the erasure, and what she built afterward waits for the second. But the reader arrives at each telling already holding the staged scenes from the Essie strand — so the withholding performs as characterization *for Keisha*, not as suspense for the reader, and the first telling can compress hard on the page.
+
+The fund slip is the hinge between strands: the reader watches it being filled out in the 1976 interstitial; Keisha first sees it in ch. 21. It must not be named or handled in ch. 12.
+
+## Reader-knowledge ledger (irony maintenance)
+
+Three knowledge states now run through the book; the irony engine is the gap between them. Track per act:
+
+| Secret | Reader knows | Keisha knows | Denise knows |
+| --- | --- | --- | --- |
+| The two maths ($2,800 vs $7,800) | ch. 2 | ch. 2 (lives it) | ch. 24 |
+| The 529 exists | 2009 interstitial (before ch. 12) | ch. 21 | ch. 24 |
+| The fortune's magnitude ($900K) | ch. 21 | ch. 21 | ch. 24 |
+| The lie's contents (deposit, bedding, float, archive) | as staged, chs. 1–18 | throughout | ch. 24 |
+
+The engine: from the 2009 interstitial onward, the reader knows the net is already there — tension inside safety; the dominant feeling is *look up, honey*, not *oh no*. From ch. 12 to ch. 24 the reader holds the secret over two generations, which sharpens Denise's ch. 24 wound rather than softening it.
 
 ## Four key Estelle-Keisha beats
 
@@ -232,6 +262,10 @@ The lie is a ladder, each rung requiring the next: archive, failed bursar call, 
 *(The timing armor on the $60 float is canonical: steady paychecks must never make it look like cash-flow management. It is a line crossed by a girl at zero.)*
 
 The final confession is not admitting a number. It is dismantling a structure.
+
+## The refusal budget (craft rule)
+
+Once the reader knows about the 529 (2009 interstitial), every on-page refusal to look — the portal, the envelope, the drafts — spends reader patience. Budget: **three to four refusals**, each freshly motivated in-scene (mid-cover-up relief in ch. 12; the take-a-year-off number at the portal), never habitual. Confessions must begin (ch. 18's small one) before the budget exhausts. A knowing reader loses patience faster than an unknowing one.
 
 ## Keisha's stand role
 
