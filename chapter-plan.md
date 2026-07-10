@@ -5,7 +5,7 @@
 
 ### 1. The Lie at the Kitchen Table
 
-Denise asks about fall housing. Keisha says "handled." Her phone shows the hold notice. She archives it.
+Denise asks about fall housing. Keisha says "handled." Her phone shows the bursar's fall estimate — the number after aid. She archives it.
 
 Establish in one sentence, as pure texture: Keisha's fast-food job — weekday lunch shifts, never market days. Also landing in narration this region, with punchlines and zero solemnity: she is the first Carter to enroll in college, and she studies civil engineering at SDSU — bridges, a fascination that is entirely hers and comic in its specificity.
 
@@ -16,7 +16,7 @@ The refused-name family fact can land here in Keisha's narration: *she never let
 Denise's envelope system appears as household texture with a punchline — the kitchen-drawer liturgy, GROCERIES / LIGHTS / CAR / SCHOOL — established as ordinary long before it means anything.
 
 **POV:** in-scene throughout — the kitchen, her phone, the garage.
-**Keisha pressure:** Keisha needs her life to look handled, so she turns the hold notice into an archived problem and chooses garage-sale usefulness over confession.
+**Keisha pressure:** Keisha needs her life to look handled, so she turns the bursar's estimate into an archived problem and chooses garage-sale usefulness over confession.
 **Turn:** Keisha chooses usefulness over truth.
 
 ### 2. Hold Music
@@ -261,7 +261,7 @@ The chapter opens **mid-story** — the erasure is already known from ch. 14, so
 
 The 529 paid last year too. The beam was always there and still not enough.
 
-**The hidden category.** Inside the reveal, one beat belonging to Keisha's money physics: investing was never a thing she rejected — it was a thing she couldn't see, a physics that didn't exist for people like them. And her grandmother has been living inside it for fifty years. Keisha spent a summer frying her way at a problem Estelle solved four decades ago with an instrument Keisha didn't know their family could hold. Same house, different physics. The erasure operating on a third generation.
+**The hidden category.** Inside the reveal, one beat belonging to Keisha's money physics: investing was never a thing she rejected — it was a thing she couldn't see, a physics that didn't exist for people like them. And her grandmother has been living inside it for fifty years. Keisha spent a summer frying her way at a problem Estelle solved in 1976 with an instrument Keisha didn't know their family could hold. Same house, different physics. The erasure operating on a third generation.
 
 Then a **scene break** — hours, not days. Keisha walks, sits on the porch, does the math on a life. The accusation happens on her return, or when Estelle comes to find her. The gap lets Keisha formulate the charge; what she has not formulated is her own reflection in it.
 
@@ -321,7 +321,7 @@ Keisha and Max have a post-crash conversation. They split the cost of a date —
 
 ### 27. The Kitchen Table Again
 
-Keisha tells her mother *her* everything: hold notice, $2,800, deposit, bedding bag, float, months of silence.
+Keisha tells her mother *her* everything: the archived bursar email, $2,800, deposit, bedding bag, float, months of silence — and the two maths: that all summer she didn't know whether the true number was $2,800 or $7,800, and couldn't make herself ask.
 
 Denise admits she did not know what to ask — and the braid's middle strand surfaces: she was the daughter of the most financially capable woman in the neighborhood and nobody ever told her. One beat of anger at Estelle exists without resolving; the mother-daughter repair is Keisha and Denise's, and Estelle's account stays open. A second beat lands inside it: Denise learns that Keisha heard the erasure story first — the daughter skipped, the granddaughter told. It deepens the wound without adding a scene.
 
