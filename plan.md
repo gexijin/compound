@@ -1,8 +1,8 @@
-# The Thirty Percent — A Novel
+# Grandma Stell's Secrets — A Novel
 
-## Book Plan v12
+## Book Plan v13
 
-**Title:** *The Thirty Percent*
+**Title:** *Grandma Stell's Secrets* (working title; alternates on file: *Grandma Stell*, *Full Price*; re-test against drafted voice — watch for cozy drift, the book is tarter than this title's shelf-neighbors)
 **Category:** Adult commercial fiction with book-club appeal
 **Primary readership:** women 18–35, purchased from the adult shelf
 **Target length:** 78,000–85,000 words
@@ -11,6 +11,8 @@
 **Setting:** Sioux Falls, South Dakota — present day
 
 **Pitch-language note:** The book should not be pitched as "financial literacy" or "New Adult." The educational intent is real, but the reader-facing promise is story, voice, family, friendship, shame, romance, and secrets.
+
+**v13 change log:** Working title changed to *Grandma Stell's Secrets* (from *The Thirty Percent*); no finance term on the cover. Estelle's biography split into two installments: erasure history moved to ch. 14 (triggered by the pay envelope; ends before 1976), fortune and 529 held for ch. 24; ch. 24 restructured with a scene break between telling and accusation, mid-tirade self-recognition preserved; fund slip now appears in ch. 24 only. Ripples: ch. 19 retreat re-motivated, ch. 24 accusation names the ch. 14 asymmetry, ch. 27 gains a Denise beat (the granddaughter was told first). Ch. 25 re-scoped to Sydney's priced choice ("The Ticket"); Emily's account moved to ch. 23 as a discovered fact; Sofi's custodial account compressed to a ch. 27 beat; Keisha's standalone signing cut (her signature scene is the ch. 26 loan). Romance made legible in Act I: flicker added to ch. 3, Max pattern-appearance added to ch. 6, ch. 9 reframed from origin to escalation, Act I Max-presence capped in writing. Drafting Priority 10 (cast economy) added. Changes informed by comps research (*Come and Get It*, *Black Cake*, *Margo's Got Money Troubles*; secondary *Honey & Spice*, *Memphis*, *Banyan Moon*).
 
 **v12 change log:** Setting fixed in Sioux Falls (near-north neighborhood; Falls Park farmers market + Levitt concerts). Elena renamed and recast as Estelle Carter, 78, Black, self-taught, eighth-grade education, with a fixed historical timeline. Maya/Marcus recast white as Sydney and Max Ellis. Sofi Ortiz confirmed as neighbor, not blood, with a firm ownership rule. Market-regulars community device added. "Grandma" name refusal and payoff added. Four-generation theme reframed as transmission by community proximity.
 
@@ -176,11 +178,17 @@ The refusal is comic on page one and legible as armor by Act III: the woman who 
 **Payoff:** at the laptop-loan signing (ch. 26), Keisha calls her "Grandma" — unadorned. Neither comments on it. It should land like a door opening.
 **Reserve:** "Essie" is spent only if ch. 24 earns it — Estelle referring to herself by the name from before the armor, one time, in her own story.
 
+## The two tellings (craft rule)
+
+Estelle's history is told in two installments. The **ch. 14 telling** ends at the erasure — what was done to her: eighth grade then work, the plant, widowed young, the banks' refusal. What she built afterward stays hidden until **ch. 24**: 1976, the fund slip, the fortune, the 529. The incompleteness is characterization, not authorial withholding — Estelle changes the subject herself, and Keisha, mid-cover-up, is relieved not to ask a follow-up. Two hiders, both grateful for the exit.
+
+The fund slip must not be named or handled in ch. 14; it is the physical hinge between the two installments and appears in ch. 24 only.
+
 ## Three key Estelle-Keisha beats
 
 **Early:** Estelle asks, "You have your housing?" Keisha lies. Estelle never asks again.
 
-**Middle:** Keisha handles an envelope from the 529 institution while filing Estelle's papers. She does not read it. The answer passes through her hands.
+**Middle:** While filing Estelle's papers, Keisha hears the first telling — the erasure story, triggered by the 1965 pay envelope — and handles an envelope from the 529 institution in the same session. She does not read it. Keisha hears what was done to Estelle while holding the envelope that contains its sequel, and reads neither.
 
 **Late:** Keisha begins, "Can I ask you something about money?" Estelle almost offers. Both retreat. Keisha sees Estelle watching her leave.
 
@@ -188,11 +196,15 @@ The theme performs itself: two women trained by secrecy miss each other by inche
 
 ## The confrontation (ch. 24)
 
+The chapter opens mid-story — the reader and Keisha already know the erasure from ch. 14, so Estelle picks up where she stopped: 1976 and everything after. Then a **scene break** (hours, not days) before the accusation. The gap lets Keisha formulate the charge; the self-recognition stays live because what she has not formulated is her own reflection in it.
+
 Keisha's accusation is not simply, "You knew and let me panic."
 
 It is sharper:
 
 > "You built an entire system of secret help so you would never have to have one honest conversation."
+
+And it names the ch. 14 asymmetry: Estelle told her what was done to her — and still not what she did about it. The secret help was hidden inside an apparent moment of openness. *(Alternate, decidable at draft: keep Keisha's line verbatim as above and let Estelle's defense be what names the asymmetry.)*
 
 The 529 is love engineered to avoid intimacy.
 
@@ -294,6 +306,8 @@ Her late spending beat should be small: one beautiful item at full price, one re
 
 *(Payoff placement: Keisha calls her "Grandma" — unadorned — at the laptop-loan signing in ch. 26. Neither comments on it.)*
 
+*(Telling placement: the timeline above reaches the reader in two installments — through the erasure in ch. 14, from 1976 onward in ch. 24. See "The two tellings" craft rule.)*
+
 ## Denise Carter, ~45 — Keisha's mother / emotional anchor
 
 Black. Estelle's daughter. Practical, perceptive, institutionally under-informed.
@@ -366,7 +380,7 @@ White; Norwegian-Lutheran stock, fourth-generation Sioux Falls. Her home is kind
 **What she is right about:** clarity is kindness, even when it hurts.
 **Arc:** from studying the door to opening it.
 
-Emily opens her account before Keisha knows. That proves Keisha's limited POV has missed other people's courage.
+Emily opens her account before Keisha knows — discovered as a fact in ch. 23, never staged as a scene. That proves Keisha's limited POV has missed other people's courage: the door opens quietly.
 
 ---
 
@@ -378,9 +392,15 @@ This is a light slow burn, around five key beats. It should add commercial pleas
 
 Keisha and Max are mirrors. Both are ashamed of the slow path. Both are tempted by speed. Both want money to erase humiliation.
 
+## Seeding (Act I)
+
+The slow burn must be legible by the end of Act I. Two plants, no more: a **ch. 3 flicker** (Keisha notices Max — annoyed attention, deadpan register — and files it as evidence against him; one to two lines riding the existing screenshot moment) and a **ch. 6 pattern-appearance** (Max present at the first good Saturday, unneeded, hanging around; Keisha does not comment, the reader should be counting even if she isn't). Beat 1 below (ch. 9) then names what these planted — escalation, not origin.
+
+**Hard cap on Act I Max-presence:** these two moments plus the ch. 3 screenshot, nothing further. "Max secondary" holds.
+
 ## Five beats
 
-1. **Flicker:** Max shows up at the stand more often than a brother needs to. Keisha notices herself noticing.
+1. **Flicker named:** Max shows up at the stand more often than a brother needs to — a pattern the reader has been tracking since ch. 6. Keisha catches herself keeping the count: noticing herself noticing.
 2. **Alignment:** during a value fight, he takes Keisha's side for reasons that are not quite math.
 3. **The offer:** at his peak, Max offers to "make" Keisha the money. Fast money arrives wearing a boy's face. Keisha declines.
 4. **Sydney's warning:** Sydney notices the danger first. She loves both of them and sees the cliff.
@@ -421,8 +441,8 @@ The book should be funny on every page because the people are funny, not because
 * the napkin deal
 * stand ledger
 * amended agreement (with Sofi's royalty line)
-* 1965 John Morrell pay envelope
-* 1976 fund slip
+* 1965 John Morrell pay envelope (seed: ch. 1, unexplained object at the garage sale → detonation: ch. 14, the first telling)
+* 1976 fund slip (ch. 24 only — never named or handled earlier)
 * drafts-folder email
 * bedding bag in the corner
 * the market regulars (recurring witness cast; see Setting)
@@ -448,7 +468,7 @@ Artifacts appear only when they create emotional or plot impact. No artifact-per
 
 Denise asks about fall housing. Keisha says "handled." Her phone shows the hold notice. She archives it.
 
-Classmates post Brookings leases. Keisha flees to Estelle's garage sale. The 1965 pay envelope appears. So does the broken chair Estelle refuses to replace.
+Classmates post Brookings leases. Keisha flees to Estelle's garage sale. The 1965 pay envelope appears — unexplained; its story waits for ch. 14. So does the broken chair Estelle refuses to replace.
 
 The refused-name family fact can land here in Keisha's narration: *she never let us call her Grandma; grandmas were old women, and she was busy.*
 
@@ -464,7 +484,7 @@ Keisha calls the SDSU bursar. Hold music, forms, a transfer, a dropped call. Thi
 
 Necklace receipt. Estelle haggles over junk and refuses to sell treasures — and the haggling establishes her market legend before the stand exists. The agua fresca idea begins with Sofi's family recipe and the observation that the Falls Park market has no drink stall worth the name. Estelle offers $30 for 30%. Sofi asks what profit means. Nobody answers well.
 
-Estelle asks, "You have your housing?" Keisha lies. Max drops a green screenshot: retirement by 35 is ahead of schedule.
+Estelle asks, "You have your housing?" Keisha lies. Max drops a green screenshot: retirement by 35 is ahead of schedule. Keisha notices him once — annoyed attention, one or two lines in her deadpan register — and files it as further evidence against him. The noticing is the seed; the disapproval is the cover.
 
 **Turn:** everyone signs before understanding the terms.
 
@@ -483,6 +503,8 @@ Keisha's earlier RA rejection is revealed. "I already tried" becomes her alibi. 
 ### 6. The Forwarded Email
 
 Denise asks about the deposit. Keisha forwards an old housing email as if current. The stand has its first decent Saturday. The reinvest-versus-split fight begins.
+
+Max turns up at the good Saturday — unneeded, no gear to haul, no sister requiring him — and hangs around. One beat. Keisha does not comment. The reader should be counting even if she isn't. *(Placed here deliberately: showing up where he's not needed is the pattern ch. 9 will name, and ch. 4's humiliation belongs to the girls and the church ladies alone.)*
 
 **Turn:** the lie now requires fabrication.
 
@@ -504,7 +526,7 @@ Keisha drafts the follow-up email to SDSU student employment and does not send i
 
 ### 9. The Brother Who Keeps Showing Up
 
-Max appears at the stand more than necessary. Keisha notices herself noticing. He uses portfolio language for cup sizes.
+The pattern the reader has been tracking since ch. 6 gets named. Not *Max appears more than necessary* — the reader knows — but *Keisha catches herself keeping the count*: noticing herself noticing. He uses portfolio language for cup sizes.
 
 **Turn:** fast money becomes charming.
 
@@ -534,9 +556,11 @@ Sofi invoices the recipe. Lourdes is appalled — and the mother-daughter scene 
 
 **Turn:** the teacher has to admit she wrote the kind of deal that was once written against her.
 
-### 14. The Envelope She Files
+### 14. The Envelope and the Erasure
 
-Keisha helps Estelle with paperwork and handles an envelope bearing the 529 institution's name. She files it unread.
+Keisha helps Estelle with paperwork. The 1965 John Morrell pay envelope resurfaces in the boxes, and it makes Estelle talk — the **first telling**, in her register and at her length: eighth grade then work, the plant at seventeen, widowed young, and the banks — legal until '74, practical for longer. She stops at the erasure. No 1976, no fund slip, no fortune, no 529. She changes the subject herself; Keisha, mid-cover-up, is relieved not to ask a follow-up. Two hiders, both grateful for the exit.
+
+In the same session, Keisha handles an envelope bearing the 529 institution's name. She files it unread — she hears what was done to Estelle while holding the envelope that contains its sequel, and reads neither.
 
 **Turn:** the answer passes through her hands.
 
@@ -568,6 +592,8 @@ Sydney privately calls out the danger — she loves both of them and sees the cl
 
 Emily's best-case math says Keisha is still short. Keisha begins to ask Estelle for help. Estelle almost offers. Both retreat. Keisha sees Estelle watching her leave.
 
+Keisha's retreat is now partly deference to the story she heard in ch. 14 — how do you ask for money from someone the world once refused? She is not asking a thrifty grandmother; she is asking a woman she knows was erased.
+
 **Turn:** two women miss each other by inches.
 
 ### 20. The Thumb
@@ -598,15 +624,19 @@ Max's fall happens on the page. The screenshot cannot be cropped clean. He makes
 
 Season winding down. Stand shares total about $1,000 each. Keisha is still short. She decides to stop hiding, starting with Estelle.
 
+During the final ledger session, a stray detail — a transfer notation, the app on the cracked phone finally opened — reveals that Emily opened her account **weeks ago** and never said. One beat, no scene. Keisha's limited POV missed someone's courage entirely, discovered the night she decides to stop hiding: evidence that the door opens quietly.
+
 **Turn:** the numbers force the first honest conversation.
 
 ### 24. Estelle's Story
 
-Estelle tells the truth, in order: eighth grade, then work. The 1965 John Morrell envelope. Widowed young; the banks; the erasure — legal until 1974, practical for longer. The 1976 fund slip, filled out in handwriting practiced on scrap paper. Decades of boring ownership. The 529 opened when Keisha was two.
+The chapter opens **mid-story** — the erasure is already known from ch. 14, so Estelle picks up where she stopped: the 1976 fund slip, filled out in handwriting practiced on scrap paper. Decades of boring ownership. The fortune. The 529 opened when Keisha was two.
 
 The 529 paid last year too. The beam was always there and still not enough.
 
-Keisha accuses Estelle of building secret help to avoid honest conversation. Mid-tirade, Keisha hears herself — **this remains the scene's center; everything else in the chapter serves it.** Estelle's defense comes in two layers: "Hiding was the first way I ever felt safe," and beneath it, said once and with difficulty, the education wound — she never taught anyone because she was certain that the moment she said it out loud, someone with more schooling would find the flaw in her sentence and take it all away.
+Then a **scene break** — hours, not days. Keisha walks, sits on the porch, does the math on a life. The accusation happens on her return, or when Estelle comes to find her. The gap lets Keisha formulate the charge; what she has not formulated is her own reflection in it.
+
+Keisha accuses Estelle of building secret help to avoid honest conversation — and names the ch. 14 asymmetry: *you told me what they did to you, and still not what you did about it.* The secret help was hidden inside an apparent moment of openness. *(Alternate, decidable at draft: keep Keisha's original line verbatim and let Estelle's defense name the asymmetry.)* Mid-tirade, Keisha hears herself — **this remains the scene's center; everything else in the chapter serves it.** Estelle's defense comes in two layers: "Hiding was the first way I ever felt safe," and beneath it, said once and with difficulty, the education wound — she never taught anyone because she was certain that the moment she said it out loud, someone with more schooling would find the flaw in her sentence and take it all away.
 
 If the scene earns it, she calls herself **Essie** exactly once, inside her own story, and never again.
 
@@ -614,11 +644,15 @@ Keisha: "That is an explanation. It is not an apology."
 
 **Turn:** Estelle is understood, not absolved.
 
-### 25. Names on Accounts
+### 25. The Ticket
 
-Emily has already opened her account. Sydney makes her priced choice: card paid down, one joyful purchase kept, the Premier Center ticket sold in front of everyone. Sofi opens a custodial account and asks the question no one can answer comfortably. Keisha signs alone.
+Sydney's chapter: the priced choice, staged in full. Card paid down, one joyful purchase kept without apology, and the Premier Center ticket sold in front of everyone. The sale should hurt; the book should mourn it a little.
 
-**Turn:** every character practices a different kind of courage.
+Keisha's stake is explicit: she watches someone pay a real price out loud, days before she must — the dress rehearsal she didn't ask for. The chapter's turn belongs to both: Sydney chooses with eyes open; Keisha runs out of models for hiding.
+
+*(Redistributed from the former "Names on Accounts": Emily's account is a discovered fact in ch. 23; Sofi's custodial account is a beat in ch. 27 (fallback: ch. 26); Keisha's standalone signing is cut — her signature scene is the ch. 26 loan. "Every character practices a different kind of courage" remains an Act III principle but is no longer staged as a single-chapter sequence.)*
+
+**Turn:** Sydney pays a real price with eyes open — in front of the one who's still hiding.
 
 ### 26. Full Price
 
@@ -634,7 +668,9 @@ Keisha and Max have a post-crash conversation. They split the cost of a date.
 
 Keisha tells her mother everything: hold notice, $2,800, deposit, bedding bag, float, months of silence.
 
-Denise admits she did not know what to ask — and the braid's middle strand surfaces: she was the daughter of the most financially capable woman in the neighborhood and nobody ever told her. One beat of anger at Estelle exists without resolving. The gap closes on the page: 529 slice, circulation-desk job, stand share, tiny margin.
+Denise admits she did not know what to ask — and the braid's middle strand surfaces: she was the daughter of the most financially capable woman in the neighborhood and nobody ever told her. One beat of anger at Estelle exists without resolving. A second beat lands inside it: Denise learns that Keisha heard the erasure story first — the daughter skipped, the granddaughter told. It deepens the wound without adding a scene. The gap closes on the page: 529 slice, circulation-desk job, stand share, tiny margin.
+
+In the chapter's orbit, Sofi's custodial account surfaces as a beat, not a scene — mentioned at or around the kitchen table, Lourdes present or referenced — and Sofi asks the question no one can answer comfortably. *(Fallback slot if ch. 27 runs full: ch. 26, after the loan signing — two documents in one chapter, an account and a loan, both with young women's names on them.)*
 
 The bedding comes out of the bag.
 
@@ -677,3 +713,4 @@ And the youngest one — three doors down, not blood, closer — is taking notes
 7. **Let the market witness.** The regulars, the church ladies, the concessionaire — the community's warmth is the pressure. Keep them recurring, specific, and kind.
 8. **Do not over-explain the 529.** The emotional meaning matters more than the mechanics — and Estelle explains money in one concrete sentence or not at all.
 9. **End with cost.** The gap closes, but adulthood begins.
+10. **Cast economy.** The cast is minimum-viable as designed — every secondary carries a function no one else can absorb (Emily's math cannot become Keisha's without breaking Keisha's avoidance of her own number; Lourdes keeps Sofi's plot generational rather than peer-level). The corollary: no secondary gets bigger. Every Sydney/Emily/Max/Sofi scene must also advance Keisha's lie, the stand, or the Estelle thread. Emily and Lourdes are beat-carriers, not arc-owners: Emily's interiority arrives inside stand and group scenes (her ch. 7 home moment stays a beat; the ch. 23 account stays discovered, not staged); Lourdes stays at one scene and one told story. Sydney's ch. 25 is the only standalone secondary showcase in the book. If a subplot beat can live inside an existing scene, it must.
