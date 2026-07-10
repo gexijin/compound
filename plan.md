@@ -12,7 +12,6 @@
 
 **Comps:** *Come and Get It*, *Black Cake*, *Margo's Got Money Troubles*; secondary: *Honey & Spice*, *Memphis*, *Banyan Moon*.
 
-**Category note:** Adult commercial fiction, decided. The category is not defended in pitch language; it is earned on the page — the intergenerational frame leads, and every marketing sentence foregrounds the three women and the secrets, not the summer job. The educational intent stays fully submerged; the reader-facing promise is story, voice, family, friendship, shame, romance, and secrets.
 
 ---
 
@@ -80,11 +79,6 @@ The market is the book's village. A small recurring cast circulates through the 
 
 Keisha's school is **SDSU in Brookings**, about an hour up I-29. Close enough that coming home for the summer needed no explanation. Far enough that the housing lie, the deposit, and the bedding bag are load-bearing — she cannot commute her way out of the gap, and the bursar exists only as hold music.
 
-*(Craft note: never let a character suggest "just live at home and commute" without an answer. Denise raises it once — ch. 11 — and Keisha has a real answer: her program, her aid package, her lab section. One line, then done.)*
-
-## The drink question
-
-Agua fresca is not exotic in Sioux Falls, but it is not universal either. The recurring market bit: customers asking "so is this juice?" — and each girl fielding it differently. Emily answers with a ratio. Sydney answers with a performance. Sofi answers correctly. Keisha answers with whatever sells. Light touch; retired by Act III.
 
 ---
 
