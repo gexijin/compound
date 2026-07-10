@@ -245,9 +245,9 @@ This makes her competence real. The stand survives partly because of her. That i
 
 ## Keisha Carter, 19 — narrator / protagonist
 
-Black. Born and raised near-north Sioux Falls; sophomore-to-be at SDSU in Brookings. **The first person in her family to enroll in college.** She studies **civil engineering — bridges**, a fascination that is entirely hers: she rates the I-29 overpasses on every drive to Brookings, has opinions about culverts, and spends market Saturdays within sight of the century-old quartzite spans at Falls Park without ever once saying anything thematic about it.
+Black. Born and raised near-north Sioux Falls; sophomore-to-be at SDSU in Brookings. **The first person in her family to enroll in college.** She studies **civil engineering — bridges**, a fascination that is entirely hers: she rates the I-29 overpasses on every drive to Brookings, has opinions about culverts, and spends market Saturdays within sight of the century-old quartzite spans at Falls Park.
 
-**Metaphor ban (firm; mirrored in `CLAUDE.md`):** no character may ever use "bridge" figuratively. The objects speak; the narrator never does. Her love of the field stays comic and specific, never noble. The major is also a hiding tool: "I'm studying load tolerances" is a great thing to say instead of answering a question about money.
+Her love of the field stays comic and specific, never noble. The major is also a hiding tool: "I'm studying load tolerances" is a great thing to say instead of answering a question about money.
 
 Keisha is funny because she turns panic into systems. She does not say she is terrified. She says archive is technically a filing system.
 

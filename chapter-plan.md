@@ -330,7 +330,7 @@ The gap closes on the page: 529 slice, circulation-desk job, stand share, tiny m
 
 ### 25. The Watched One
 
-Move-in weekend; the drive up I-29 to Brookings, the bedding finally out of its bag. Keisha rates the overpasses on the way, the way she always has, and says nothing thematic about any of them. The costs remain visible: circulation-desk shifts — wage work following her to Brookings, the fryer's successor, but now inside a gap she has named instead of one she was hiding — laptop-loan payments to Grandma Stell, spring payments, junior-year gap on the horizon.
+Move-in weekend; the drive up I-29 to Brookings, the bedding finally out of its bag. Keisha rates the overpasses on the way, the way she always has. The costs remain visible: circulation-desk shifts — wage work following her to Brookings, the fryer's successor, but now inside a gap she has named instead of one she was hiding — laptop-loan payments to Grandma Stell, spring payments, junior-year gap on the horizon.
 
 The stand's future is left open — the concessionaire has hinted he'd rent them the good corner next June. The amended agreement remains in the ledger, Sofi's royalty line and all.
 
