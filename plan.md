@@ -1,6 +1,6 @@
 # Grandma Stell's Secrets — A Novel
 
-## Book Plan — Final
+## Book Plan — V15
 
 **Title:** *Grandma Stell's Secrets* (working title; alternates on file: *Grandma Stell*, *Full Price*; re-test against drafted voice — watch for cozy drift, the book is tarter than this title's shelf-neighbors)
 **Category:** Adult commercial fiction with book-club appeal — **fixed; not revisited.**
