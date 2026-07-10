@@ -2,14 +2,14 @@
 
 ## Project overview
 
-*Full Price* is an adult commercial/book-club novel narrated by Keisha Carter, 19, in first-person present tense with no hindsight. In Sioux Falls, Keisha hides a $2,800 college gap while helping run a summer agua fresca stand and uncovering her grandmother Estelle's secret wealth. The book is about money shame, family secrecy, work, ownership, and learning to say the number out loud. The goal is to tell a funny and entertaining story while quietly encouraging young women to learn about money and finance.
+*Full Price* is an adult commercial/book-club novel narrated by Keisha Carter, 19, in first-person present tense with no hindsight, plus five short interstitials — the Essie strand — in close-third past tense (rules in the bible). In Sioux Falls, Keisha hides a $2,800 college gap while helping run a summer agua fresca stand and uncovering her grandmother Estelle's secret wealth. The book is about money shame, family secrecy, work, ownership, and learning to say the number out loud. The goal is to tell a funny and entertaining story while quietly encouraging young women to learn about money and finance.
 
 ## Folder structure
 
 - `story-bible.md` is canon: cast, setting, money logic, emotional architecture.
-- `chapter-plan.md` is sequence only: 25 chapters, scene beats, POV, Keisha pressure, and chapter turns. Do not infer extra drafting rules from it.
+- `chapter-plan.md` is sequence only: 25 chapters plus the five interstitial placements, scene beats, POV, Keisha pressure, turns, and hooks. Do not infer extra drafting rules from it.
 - `pitch.md` is the sales artifact: logline and pitch. Not a drafting reference; if it conflicts with the bible, the bible wins.
-- `manuscript/` holds the draft, one file per chapter (`ch01.md` … `ch25.md`), prose only.
+- `manuscript/` holds the draft, one file per chapter (`ch01.md` … `ch25.md`) and per interstitial (`int-1965.md` … `int-2021.md`), prose only.
 - `notes/continuity.md` (create on first draft) records facts invented during drafting that the bible doesn't fix: minor names, prices, dates, running jokes.
 - `math/` holds the scripts that derive and regression-test the bible's money numbers, with its own CLAUDE.md. If a script and the bible disagree, raise it — don't silently change either.
 
@@ -46,7 +46,7 @@ The register is contemporary book-club prose: clean, warm, concrete, scene-drive
 
 ## POV
 
-- Strict limited first person: Keisha narrates only scenes she is in and only what she can perceive. Other arcs arrive through what crosses her view.
+- Strict limited first person: Keisha narrates only scenes she is in and only what she can perceive. Other arcs arrive through what crosses her view. The Essie interstitials are the one exception — close-third past tense, governed by the bible's strand rules, and equally without hindsight or lessons.
 - The reader should sometimes see past her — dramatic irony through details she reports but doesn't process.
 - When the truth gets close, she changes the subject on the page. The style performs the theme; the narrator never announces it.
 
@@ -81,7 +81,7 @@ The register is contemporary book-club prose: clean, warm, concrete, scene-drive
 ## Workflow
 
 - **Length:** 78,000–85,000 words total; typical chapter 2,800–3,600. Single-beat chapters (2, 17) may run short; the set pieces (21, 24) may run long. Never pad.
-- **Draft in order, one chapter per pass.** First reread the plan entry, the bible sections it touches, continuity notes, and the previous chapter's ending.
+- **Draft in order, one chapter or interstitial per pass** (interstitials in their plan slots). First reread the plan entry, the bible sections it touches, continuity notes, and the previous chapter's ending.
 - **Plan beats are obligations, not an outline to transcribe.** Hit every beat, in whatever order and proportion serves the scene.
-- **Before finishing a chapter, check:** the turn landed in scene; Keisha wanted, hid, and paid; no banned prose; no canon drift.
+- **Before finishing a chapter, check:** the turn landed in scene; Keisha wanted, hid, and paid; no banned prose; no canon drift. (Interstitials check the bible's strand rules instead: one artifact, ends on an act, no lesson.)
 - **Revisions touch prose, not beats or canon.** If a revision seems to require changing those, say so first.
