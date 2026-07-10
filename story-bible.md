@@ -1,11 +1,12 @@
-# Grandma Stell's Secrets — A Novel
+# Full Price — A Novel
 
 > **File set:** `story-bible.md` (canon: pitch, setting, money & emotional architecture, cast) · `chapter-plan.md` (the 28 chapters; scene-level craft notes live inline there) · `craft-rules.md` (global drafting rules and devices).
 > **Convention:** every fact or rule lives in exactly one file; the others reference it. If files appear to conflict, `story-bible.md` wins on canon, `craft-rules.md` wins on rules, `chapter-plan.md` wins on scene order.
+> **Pending `craft-rules.md` entry:** the bridge-metaphor ban (see Keisha's cast entry) belongs there; log it on the next touch.
 
-## Book Plan 
+## Book Plan
 
-**Title:** *Grandma Stell's Secrets* (working title; alternates on file: *Grandma Stell*, *Full Price*; re-test against drafted voice — watch for cozy drift, the book is tarter than this title's shelf-neighbors)
+**Title:** *Full Price* (working title, promoted from the alternates list; formerly *Grandma Stell's Secrets*. The title is Estelle's arc, the theme, and the right dry snap — re-test against drafted voice as before, but the cozy-drift risk is now resolved in the right direction.)
 **Category:** Adult commercial fiction with book-club appeal — **fixed; not revisited.**
 **Primary readership:** the adult book-club core, women 25–55, with natural crossover to younger readers. The three-generation braid is the book's center of gravity and its claim to the shelf: Estelle and Denise carry narrative mass equal to the summer-stand plot.
 **Target length:** 78,000–85,000 words
@@ -21,15 +22,15 @@
 
 **Core promise:** A funny, big-hearted novel about three broke young women, one summer business, and the grandmother whose secret fortune forces every woman around the kitchen table to stop hiding.
 
-Keisha Carter, nineteen, is $2,800 short of returning to college in the fall. The number is small enough that one honest conversation might solve it, which is exactly why she cannot say it out loud. Instead, she builds a careful little machine of lies: archived emails, forwarded old paperwork, a housing deposit she cannot afford, and a bag of dorm bedding for a room she may never occupy.
+Keisha Carter, nineteen, is $2,800 short of returning to college in the fall — and that's the number *after* the work. She already flips chicken tenders twenty hours a week; the wages ground a much bigger gap down to one shame-sized remainder that hours alone cannot finish. The number is small enough that one honest conversation might solve it, which is exactly why she cannot say it out loud. Instead, she builds a careful little machine of lies: archived emails, forwarded old paperwork, a housing deposit she cannot afford, and a bag of dorm bedding for a room she may never occupy.
 
-To hide from the problem, Keisha spends the summer in Sioux Falls helping her grandmother Estelle clear out decades of receipts and boxes. Then Estelle stakes Keisha and her friends in an agua fresca stand at the Falls Park farmers market: thirty dollars for thirty percent. What begins as a joke business becomes real enough to expose everyone. Sydney wants money to make life bigger now. Emily can calculate anything except her own fear. Sofi, sixteen, the neighbor girl who supplied the family recipe, wants it recognized as hers. Max, Sydney's brother, wants to hit it big and retire by thirty-five. And Estelle — Grandma Stell, the most feared haggler at the market, a woman with an eighth-grade education who taught herself everything from library books — has been quietly wealthy for years.
+To hide from the problem, Keisha spends her non-shift hours in Sioux Falls helping her grandmother Estelle clear out decades of receipts and boxes. Then Estelle stakes Keisha and her friends in an agua fresca stand at the Falls Park farmers market: thirty dollars for thirty percent. What begins as a joke business becomes real enough to expose everyone. Sydney wants money to make life bigger now. Emily can calculate anything except her own fear. Sofi, sixteen, the neighbor girl who supplied the family recipe, wants it recognized as hers. Max, Sydney's brother, wants to hit it big and retire by thirty-five. And Estelle — Grandma Stell, the most feared haggler at the market, a woman with an eighth-grade education who taught herself everything from library books — has been quietly wealthy for years.
 
 By August, the stand has taught the girls profit, ownership, labor, risk, and the danger of fast money. But the deeper lesson is not financial. It is emotional: every woman around Keisha's kitchen table has been hiding something. Estelle hid a fortune — and the self-taught woman underneath it. Keisha's mother hid what she was never taught. Keisha hid $2,800. And Sofi, three doors down, is watching all of them.
 
 The ending is hopeful but not tidy. Keisha returns to school at a visible cost: a campus job, loan payments, and next year's gap already named. The family pattern has not vanished, but it has been interrupted — in front of the one who's watching.
 
-**Logline:** Keisha, nineteen, is $2,800 short of returning to college and has built an entire architecture of lies to avoid saying so — to her mother, her friends, and herself. When her grandmother Estelle stakes Keisha and her friends in an agua fresca stand for thirty dollars and thirty percent, the summer becomes a crash course in friendship, ownership, desire, and the family talent for hiding. Because Keisha is not the first woman in this family to disappear inside a secret. She is the third. And the girl three doors down is watching.
+**Logline:** Keisha, nineteen, works twenty hours a week and is still $2,800 short of returning to college — and has built an entire architecture of lies to avoid saying so, to her mother, her friends, and herself. When her grandmother Estelle stakes Keisha and her friends in an agua fresca stand for thirty dollars and thirty percent, the summer becomes a crash course in friendship, ownership, desire, and the family talent for hiding. Because Keisha is not the first woman in this family to disappear inside a secret. She is the third. And the girl three doors down is watching.
 
 ---
 
@@ -40,7 +41,7 @@ The reader should feel they are reading:
 * an intergenerational family-secret novel — the frame that holds everything else
 * a funny college-money crisis story
 * a friendship/business summer plot
-* a light slow-burn romance
+* a light slow-burn romance *(its single genuine warm beat is ch. 18; if that beat is ever cut, downgrade this promise the same day)*
 * a story about shame, pride, and asking for help
 
 The money education should arrive through scenes, not explanations. The reader should learn almost accidentally.
@@ -57,6 +58,8 @@ Keisha's family lives in a working-class neighborhood on the near-north side —
 
 The tone of the setting is **warm**. This is not a novel about a struggling city. It is a novel about people who know each other's cars, casseroles, and business.
 
+**The map-less neighborhood (rule):** nobody around Keisha is against college — nobody has a *map* of it. It is a foreign country everyone waves her toward and no one can navigate. Support without navigation: Denise funds the SCHOOL envelope, the church ladies count the weeks to Brookings with pride, and not one adult in Keisha's life can read an aid letter. Ambient comic skepticism about college is licensed to exactly two voices — Max and Sydney — and never to family, never to the church ladies, never with cruelty. The pain is the missing map, not missing faith.
+
 ## The stand's calendar
 
 The stand runs three days a week:
@@ -64,7 +67,7 @@ The stand runs three days a week:
 * **Saturdays:** Falls Park farmers market. The revenue engine and the social engine. Regular vendors, regular customers, regular gossip.
 * **Thursday and Friday evenings:** Levitt concerts downtown. Bigger crowds, younger crowds, weather-dependent. The rain washout (ch. 18) is a Levitt night.
 
-Weekdays belong to family scenes, supply runs, Estelle's garage, and the slow accumulation of the lie.
+Weekdays belong to Keisha's lunch shifts, family scenes, supply runs, Estelle's garage, and the slow accumulation of the lie.
 
 ## The market regulars — a device
 
@@ -72,7 +75,7 @@ The market is the book's village. A small recurring cast circulates through the 
 
 * **The produce vendor two stalls down** — a Sudanese family; a teenage son Sydney flirts with unproductively.
 * **Two church ladies from Estelle and Denise's congregation** who buy one cup each, split a third, and track Keisha's countdown to Brookings out loud: *"What is it now, three weeks?"* The church community gives the Carters a social world of their own; the family is never representationally alone in the book.
-* **The concessionaire** — a food-truck owner, friendly, appraising. He becomes the $600 vendor offer in ch. 15. He should be liked before he is a threat.
+* **The concessionaire** — a food-truck owner, friendly, appraising. He becomes the $600 vendor offer, which now **lands at the close of ch. 13** — minutes after the fairness amendment is signed, before anyone knows that paper is a poison pill — **sits unanswered through ch. 14, and deflates in ch. 15.** He should be liked before the offer, and the offer should be allowed to sit predatory-adjacent for one full chapter: a friendly man pricing three girls' summer at scrap value is capital doing what capital does, smiling. The girls feel the insult *before* the recipe clause defuses it; his later good-corner hint (ch. 28) lands as forgiveness earned, not innocence retained.
 * **Miss Estelle's market reputation.** The vendors all know her. She has haggled with every one of them and won. When she takes her thirty percent in cash at the stand (ch. 7), at least one vendor visibly finds this hilarious.
 
 **Rule:** the regulars ask questions Keisha doesn't want asked. The community's warmth *is* the pressure. Nobody suspicious, nobody cruel — just people who pay attention.
@@ -81,7 +84,7 @@ The market is the book's village. A small recurring cast circulates through the 
 
 Keisha's school is **SDSU in Brookings**, about an hour up I-29. Close enough that coming home for the summer needed no explanation. Far enough that the housing lie, the deposit, and the bedding bag are load-bearing — she cannot commute her way out of the gap, and the bursar exists only as hold music.
 
-*(Craft note: never let a character suggest "just live at home and commute" without an answer. Denise raises it once — ch. 11 — and Keisha has a real answer: her program, her aid package, her lab section. One line, then done.)*
+*(Craft note: never let a character suggest "just live at home and commute" without an answer. Denise raises it once — ch. 11 — and Keisha has a real answer, now airtight: her program is civil engineering, and Augustana doesn't offer it; her aid package; her lab section. One line, then done.)*
 
 ## The drink question
 
@@ -91,13 +94,23 @@ Agua fresca is not exotic in Sioux Falls, but it is not universal either. The re
 
 # The money architecture
 
-## The $2,800 gap
+## The job (background texture — firm cap)
 
-The gap remains **$2,800**.
+Keisha works **twenty hours a week at a fast-food place** — fixed weekday lunch shifts, never market days, established in one sentence in ch. 1 and mentioned only a handful of times after. The job runs at Sydney's-retail-job altitude: no manager character, no coworker cast, no staged shifts beyond its budgeted beats (skepticism voiced chs. 3–4; the per-hour seed ch. 12; the payday-timing line ch. 16; the triptych scene ch. 17; its successor named ch. 28). It is weather, not plot.
 
-It is shame-sized: small enough that one honest conversation could change everything, large enough to feel impossible alone. The tragedy is not that the number is huge. The tragedy is that Keisha lets a small number grow teeth.
+What the job *is*, is worldview: hours-for-dollars is the only money physics Keisha has ever seen operate. It is also camouflage — see "Keisha's active cover-up."
 
-The number should not be widened for melodrama.
+## The gap: $5,500 gross, $2,800 net
+
+The *gross* shortfall for sophomore year is roughly **$5,500**. Twelve weeks of summer shifts at Sioux Falls fast-food wages net Keisha about **$2,700**. **The gap that remains — the number she hides — is $2,800.**
+
+The sacrosanct figure is the **net**. It is shame-sized: small enough that one honest conversation could change everything, large enough to feel impossible alone. The tragedy is not that the number is huge. The tragedy is that Keisha ground a big number down with her own hands, over hot oil, and *still* could not say the remainder out loud. Work shrank the number. Only speech can finish it.
+
+The net number should not be widened for melodrama.
+
+## The summer clock (rule)
+
+SDSU does not bill over the summer; tuition is not due until two weeks after the fall semester begins. **No institutional deadline pursues Keisha through the book.** The clock is social and self-imposed: move-in weekend, the church ladies' countdown, the lie's own maintenance costs. This is deliberate and thematically load-bearing — nothing external forces the confession. Institutional red tape (hold music, portals, forms) remains the book's faceless historical antagonist, but it is indifferent, not hunting.
 
 ## The 529
 
@@ -119,7 +132,7 @@ Then the story moves on.
 
 ## How the gap closes
 
-The ending closes the gap through Keisha's actions plus old help already in motion:
+Wages live *upstream* of this table — they are inside the gap's definition, not a closing source. That is the point: the work was already maximal. The ending closes the **net** gap through Keisha's actions plus old help already in motion:
 
 | Source                        | Approximate role                                                                                              |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -130,11 +143,21 @@ The ending closes the gap through Keisha's actions plus old help already in moti
 
 There is **no tuition rescue from Estelle**.
 
-The replicable lesson is: small early help matters, asking again matters, work matters, and naming the number matters.
+The replicable lesson is: small early help matters, asking again matters, work matters — and work has a ceiling — and naming the number matters.
+
+## The three physics of money (education spine)
+
+The book stages all three ways money moves, in one person's summer:
+
+1. **Wages** — Keisha's fryer: hours for dollars, linear, capped, the only physics she has ever seen.
+2. **Ownership** — the stand: equity, risk, value created rather than clocked.
+3. **Capital** — Estelle's slow compounding versus Max's fast speculation: money moving without hours attached, patient versus predatory.
+
+The teaching scene is **Emily's triptych (ch. 17)**: three columns on one table — Keisha's per-hour at the register, per-hour at the stand, and Max's screenshot — the week Max peaks. Its seed is planted in ch. 12 (the stand quietly out-earns the fryer per hour). Keisha's arc through the physics: wages are physics → equity is pretend money → equity is real → capital was a *hidden category*, revealed in ch. 24 — her grandmother solved, forty years ago, with an instrument Keisha didn't know a person like them could hold, the problem Keisha spent a summer frying at.
 
 ## Laptop loan
 
-Estelle does not pay Keisha's tuition gap. But she does later make Keisha a small formal loan for a laptop: real terms, token interest, negotiated by Keisha, signed by both.
+Estelle does not pay Keisha's tuition gap. But she does later make Keisha a small formal loan for a laptop — her program needs CAD software; the machine is a tool, not a treat. Real terms, token interest, negotiated by Keisha, signed by both.
 
 This preserves the signing ritual without turning Estelle into a rescuer — and it is the first time in the book Estelle teaches money *out loud*, terms explained across a table instead of left in an envelope. The scene should register that this costs her something.
 
@@ -175,7 +198,7 @@ Estelle's history is told in two installments. The **ch. 14 telling** ends at th
 
 The fund slip must not be named or handled in ch. 14; it is the physical hinge between the two installments and appears in ch. 24 only.
 
-## Three key Estelle-Keisha beats
+## Four key Estelle-Keisha beats
 
 **Early:** Estelle asks, "You have your housing?" Keisha lies. Estelle never asks again.
 
@@ -183,11 +206,13 @@ The fund slip must not be named or handled in ch. 14; it is the physical hinge b
 
 **Late:** Keisha begins, "Can I ask you something about money?" Estelle almost offers. Both retreat. Keisha sees Estelle watching her leave.
 
-The theme performs itself: two women trained by secrecy miss each other by inches.
+**Latest — the reciprocity (ch. 24):** after Estelle's full story and defense, after "that is an explanation, it is not an apology," Keisha says the number out loud, to Estelle, for the first time to anyone: *twenty-eight hundred dollars.* Not a request; a matching disclosure. Estelle gave 1976; Keisha gives $2,800. Estelle does not offer to pay it, and the scene lets that refusal stand without cruelty. This beat arms the ch. 26 loan and converts ch. 27 into a second, harder telling.
 
-## The Denise–Keisha near-miss (the braid's missing rung)
+The theme performs itself: two women trained by secrecy miss each other by inches — until each hands the other one true thing.
 
-The Estelle–Keisha near-misses have a mother-daughter sibling, staged in ch. 11: at the housing portal, Denise performs certainty — nods at screens, signs where pointed, asks nothing. Keisha, fluent in bluffing, recognizes the performance instantly and says nothing, because correcting her mother's bluff would mean opening her own. Mother and daughter, each hiding a different ignorance, protect each other's cover without knowing it. This is the middle strand doing what the outer strands do, and it must exist on the page before ch. 27 can pay it off.
+## The Denise-Keisha near-miss (the braid's missing rung)
+
+The Estelle-Keisha near-misses have a mother-daughter sibling, staged in ch. 11: at the housing portal, Denise performs certainty — nods at screens, signs where pointed, asks nothing. Keisha, fluent in bluffing, recognizes the performance instantly and says nothing, because correcting her mother's bluff would mean opening her own. Mother and daughter, each hiding a different ignorance, protect each other's cover without knowing it. This is the middle strand doing what the outer strands do, and it must exist on the page before ch. 27 can pay it off.
 
 ## The envelope as inherited technology
 
@@ -198,6 +223,7 @@ Estelle's pattern is *help without conversation — envelopes without explanatio
 The ending should be warm but not tidy. It does not cure anyone. It interrupts a transmission:
 
 * Estelle teaches out loud once (the loan terms) and pays full price once. She is not absolved; she is understood.
+* **Disclosure protocol (firm):** in ch. 27, when the closing math reaches the 529 line, Keisha stops — it is not hers to explain — and **Estelle names the fortune and the 529 to Denise herself**: the second time in her life she teaches money out loud, and harder than the first, because the first was terms across a table and this is fifty years across a kitchen. The secret stays hers to break.
 * Denise learns what system she was looking at, and that not-knowing was done *to* her. She is not magically educated; she is awake to what she was never taught — and she does the one thing her whole adaptation was built to avoid: she asks a question out loud, and waits to be answered.
 * Keisha says the number — and returns to school at visible cost.
 * Sydney is not a perfect saver; she has made one real trade. Emily is not fearless; she was brave earlier than Keisha knew. Max is not a financial saint; he is back at work and beginning again.
@@ -215,14 +241,18 @@ And the youngest one — three doors down, not blood, closer — is taking notes
 
 Keisha's avoidance must stay active. She is not waiting around. She is maintaining a lie.
 
+## The camouflage (pre-existing)
+
+Before the lie had architecture, it had cover: **"she's working, she's fine."** The fast-food job predates the book and is what makes the whole machine feasible — visible industriousness reads as a handled life. Keisha hides behind virtue: nobody interrogates the finances of a girl who smells like the fryer at six p.m. The job is not an escalation of the cover-up; it is the terrain the cover-up was built on. And for most of the book Keisha believes it is the *only* lever she has — see her cast entry.
+
 ## The lie escalates
 
 1. **Archive:** she archives the school hold notice.
 2. **Failed attempt:** she calls the SDSU bursar, gets trapped in hold music and forms, and gives up.
 3. **Fabrication:** she forwards her mother an old housing email as if current.
-4. **Costly lie:** she pays a real housing deposit she cannot afford to keep the lie alive.
+4. **Costly lie:** she pays a real housing deposit she cannot afford — her savings plus accumulated wages, scraped to zero — to keep the lie alive.
 5. **Visible prop:** she lets her mother buy dorm bedding for a room she may never occupy.
-6. **Float borrowing:** short after the deposit, she borrows $60 from the stand cash box, intending to replace it.
+6. **Float borrowing:** emptied by the deposit, with her current paycheck already spoken for and the next one nine days out, she borrows $60 from the stand cash box the day the ice supplier must be paid, intending to replace it. *(The timing armor is canonical: steady paychecks must never make the $60 look like cash-flow management. It is a line crossed by a girl at zero.)*
 7. **Drafts folder:** the follow-up email to student employment sits in drafts for much of the book.
 
 The final confession is not admitting a number. It is dismantling a structure.
@@ -239,15 +269,20 @@ This makes her competence real. The stand survives partly because of her. That i
 
 ## Keisha Carter, 19 — narrator / protagonist
 
-Black. Born and raised near-north Sioux Falls; sophomore-to-be at SDSU in Brookings.
+Black. Born and raised near-north Sioux Falls; sophomore-to-be at SDSU in Brookings. **The first person in her family to enroll in college.** She studies **civil engineering — bridges**, a fascination that is entirely hers: she rates the I-29 overpasses on every drive to Brookings, has opinions about culverts, and spends market Saturdays within sight of the century-old quartzite spans at Falls Park without ever once saying anything thematic about it.
+
+**Metaphor ban (firm; log in `craft-rules.md`):** no character may ever use "bridge" figuratively. The objects speak; the narrator never does. Her love of the field stays comic and specific, never noble. The major is also a hiding tool: "I'm studying load tolerances" is a great thing to say instead of answering a question about money.
 
 Keisha is funny because she turns panic into systems. She does not say she is terrified. She says archive is technically a filing system.
 
+**Her money physics (worldview, arcs across the book):** Keisha works twenty hours a week at a fast-food place — weekday lunch shifts, never market days; background texture per the money architecture. Hours-for-dollars is the only lever she has ever seen pulled: Denise trades shifts for envelopes, so wage work isn't a choice, it's physics. For most of the book she believes it is the only thing a person like her can do about a money problem. She is skeptical of the stand at first — equity feels like pretend money, "thirty dollars of someone else's money" — and investing is not a rejected option but an *invisible category*, a hidden physics, until ch. 24 reveals her grandmother has been living inside it for fifty years.
+
 **Money wound:** needing help feels like failure.
-**Comic behavior:** deadpan denial and over-practical avoidance; wry documentation of her own cover-up.
+**Comic behavior:** deadpan denial and over-practical avoidance; wry documentation of her own cover-up; engineering-brain applied to everything except the truth.
 **Contradiction:** she thinks she is low-maintenance, but her silence forces everyone else to live around a problem they cannot see.
-**What she is right about:** asking for help can cost dignity.
-**Arc:** from hiding the number to saying it out loud.
+**What she is right about:** asking for help can cost dignity — and work does have value.
+**What she is wrong about:** that work is the only lever, and that grinding is a substitute for speaking.
+**Arc:** from hiding the number to saying it out loud — and from one money physics to three.
 
 Her victory is not that school gets paid for. Her victory is that she stops disappearing from her own life.
 
@@ -278,11 +313,13 @@ Her late spending beat should be small: one beautiful item at full price, one re
 
 *(The refused-name payoff and the two-installment telling of the timeline above are governed by "The refused name" and "The two tellings" under Emotional architecture.)*
 
-## Denise Carter, ~45 — Keisha's mother / the middle strand
+## Denise Carter, ~52 — Keisha's mother / the middle strand
 
-Black. Estelle's daughter. Shift supervisor at a grocery store — schedules, coverage, moods, shrink. Practical, perceptive, institutionally under-informed — and, on her own terrain, flatly excellent.
+Black. Estelle's daughter, born before the mid-1970s widowhood. Shift supervisor at a grocery store — schedules, coverage, moods, shrink. Practical, perceptive, institutionally under-informed — and, on her own terrain, flatly excellent.
 
 **Her competence comes first, and it is real.** Denise runs the household on labeled cash envelopes — GROCERIES, LIGHTS, CAR, SCHOOL — and can stretch a week further than anyone else in the book. She is genuinely good with money at the scale she was allowed to learn it; what she lacks is not sense but systems literacy — bursars, portals, aid letters, anything with a login. The book honors her dialect before it names her gap. She is never the butt of the not-knowing.
+
+**She is a first-generation college parent**, and the book knows what that means even though she doesn't have the phrase: the portals, the bursar, the aid letters are systems that first-gen families famously cannot decode, and nobody at the institution tells them so. Her bluffing is not a personal quirk; it is a structural condition wearing a brave face.
 
 The envelope system is the inherited technology (see Emotional architecture): Estelle left envelopes instead of explanations, and Denise built a life inside the method with the knowledge stripped out. Neither woman has noticed they use the same container.
 
@@ -297,13 +334,15 @@ She does not know how to decode college finance systems — and the reason is up
 **What she is wrong about:** that bluffing protects her. It only protects the people who never taught her.
 **Arc:** from bluffing comprehension to asking out loud.
 
-She should have at least one earlier moment of almost-knowing: a look at the bedding bag, a hesitation over the forwarded email, watching Keisha answer the commuter question a beat too fast (ch. 11). She is not blind. She simply does not know what system she is looking at.
+She should have at least one earlier moment of almost-knowing — the plan stages three: the forwarded-email hesitation (ch. 6), the commuter answer a beat too fast (ch. 11), and the bedding-bag look (ch. 18). She is not blind. She simply does not know what system she is looking at.
 
 **Beat map (spine-level; the cast-economy cap does not apply to her):**
 
 * **Ch. 1 region:** the envelope system lands as household texture with a punchline in Keisha's narration — established as normal long before it means anything.
-* **Ch. 11:** the SCHOOL envelope pays for the bedding; the portal bluff; the Denise–Keisha near-miss (see Emotional architecture).
+* **Ch. 6:** almost-knowing #1 — the forwarded email read a beat too long.
+* **Ch. 11:** the SCHOOL envelope pays for the bedding; the portal bluff; the Denise-Keisha near-miss (see Emotional architecture); almost-knowing #2.
 * **Ch. 16:** the counterweight scene — Denise negotiates the car-repair payment plan at the kitchen table, envelopes re-dealt, total command, while Keisha stands there carrying sixty stolen dollars.
+* **Ch. 18:** almost-knowing #3 — the bedding bag, one beat too long, goodnight.
 * **Ch. 27:** she receives everything — and then asks her first question out loud.
 
 ## Sofía "Sofi" Ortiz, 16 — the watched one
@@ -346,6 +385,8 @@ She spends because pleasure feels like proof she exists — and she spends *out 
 
 Sydney's ending is not "I am not ready." It is a priced choice: she pays down the card, keeps one joyful purchase without apology, and sells the concert ticket — a show at the Premier Center, specific and local — in front of everyone. The ticket sale should hurt. The book should mourn it a little.
 
+*(Licensed voice: Sydney may carry one line of ambient college skepticism — she made shift lead in two years without a loan — per the map-less-neighborhood rule. Never cruel, never repeated.)*
+
 ## Max Ellis, 24 — Sydney's brother / fast-money foil / light love interest
 
 White. Works a warehouse/fulfillment job he hates. Dreams of hitting it big, retiring by thirty-five, and never answering to anyone again.
@@ -360,6 +401,8 @@ He is not stupid. He is smart, scared, charming, and seduced by speed. The crypt
 
 Max is a subplot, not the spine. His crash happens on the page and for his own reasons. He does not reform for Keisha. The romance with Keisha needs and gets zero commentary — in this neighborhood it is not a topic.
 
+*(Licensed voice: Max carries the other line of ambient college skepticism — "college is the slowest-vesting bad investment I've ever seen" — type-accurate, half-meant, per the map-less-neighborhood rule.)*
+
 ## Emily Larsen, 18 — math brain
 
 White; Norwegian-Lutheran stock, fourth-generation Sioux Falls. Her home is kind and solvent-seeming and no one has ever once discussed money out loud — concern is expressed in hotdish. Sydney's opposite number: where the Ellises are loudly broke, the Larsens are silently fine, or silently not. Her cracked phone holds the banking app she refuses to open.
@@ -371,3 +414,5 @@ White; Norwegian-Lutheran stock, fourth-generation Sioux Falls. Her home is kind
 **Arc:** from studying the door to opening it.
 
 Emily opens her account before Keisha knows — discovered as a fact in ch. 23, never staged as a scene. That proves Keisha's limited POV has missed other people's courage: the door opens quietly.
+
+Emily also owns the book's teaching instrument: the **ch. 17 triptych** (register / stand / screenshot, per-hour, one table) and its ch. 12 seed — see "The three physics of money."
