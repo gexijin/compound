@@ -97,28 +97,38 @@ The net number should not be widened for melodrama.
 
 ## The 529: $20,000, built from $400 a year
 
-Estelle opened a 529 when Keisha was two — 2009 — and put in **$400 a year, every January, for sixteen years**. Thirty-three dollars a month; less than she haggles off an estate-sale table. Low-cost index funds through the long bull market, then shifted to safety at the end of 2021 — Keisha was fourteen, college had become real — which happened to dodge the 2022 crash. Nobody knew the account existed, so nobody knew it dodged anything.
+Estelle opened a 529 when Keisha was two — 2009 — and put in **$400 a year, every January, for sixteen years**. Low-cost index funds through the long bull market, then shifted to safety at the end of 2021 — Keisha was fourteen, college had become real — which happened to dodge the 2022 crash. Nobody knew the account existed, so nobody knew it dodged anything.
 
-Against actual S&P returns the arithmetic lands at about **$20,600: $6,400 deposited, $14,200 of growth**. The market put in more than twice what Estelle did. That ratio is the point — she didn't give Keisha twenty thousand dollars; she gave her $33 a month and time, and patient capital did the rest.
+Against actual S&P returns the arithmetic lands at about **$20,600: $6,400 deposited, $14,200 of growth**. The market put in more than twice what Estelle did — that ratio is the point. 
 
-She keeps one for **every grandchild, identically** — a system, not a favorite. The whole apparatus costs her about $2,400 a year, sustainable for decades without anyone noticing a thing. Disbursement is engineered to her taste: **$5,000 a year for four years, paid by the plan directly to the bursar**, landing on the student account days before each deadline, unlabeled and unexplained. Help that is real, insufficient, and invisible, in equal measure for everyone.
+She keeps one for **every grandchild, identically** — a system, not a favorite; about $2,400 a year, all accounts together. Disbursement is engineered to her taste: **$5,000 a year for four years, paid by the plan directly to the bursar**, landing days before each deadline, unlabeled and unexplained. Help that is real, insufficient, and invisible, in equal measure for everyone.
 
-The reveal should feel like emotional archaeology, not rescue. The money was already there, already helping, already incomplete — and at $5,000 a year, rescue was never arithmetically possible.
-
-Never quote a rate of return on the page. Deposits and totals only; Emily's triptych carries the physics.
 
 ## What Keisha knows: the two maths
 
-Freshman year closed without a crisis, and Keisha misread why. Year one carried a **one-time freshman award (~$2,000)** plus her high-school savings, alongside the first two unlabeled 529 payments. Some of the freshman help genuinely *was* one-time; she pattern-matched the mystery credit into the same dying category. She never itemized the credit line on the bursar portal — the girl who will file the 529 envelope unread does not audit good news.
+Freshman year closed without a crisis, and Keisha misread why. Year one carried a **one-time freshman award (~$2,000)** plus her high-school savings, alongside the first two unlabeled 529 payments — so she filed the mystery credit under the same dying category: help that came with year one. She never itemized the credit line on the bursar portal. The girl who will file the 529 envelope unread does not audit good news.
 
-Planning sophomore year in April, she runs the math both ways. If the mystery money comes back: **$2,800 short** — hideable, grindable, survivable-shaped. If it doesn't: **$7,800** — three summers of fryer work, the take-a-year-off number. She plans on the small number because the big one ends college, and she hides $2,800 all summer while the $7,800 hums underneath it. The one act that would settle which math is true — asking someone — is the one she cannot perform. Avoidance as load-bearing architecture.
+Planning sophomore year in April, she runs the math both ways. If the mystery money comes back: **$2,800 short** — hideable, grindable, survivable-shaped. If it doesn't: **$7,800** — three summers of fryer work, the take-a-year-off number. She plans on the small number because the big one ends college, and hides $2,800 all summer while the $7,800 hums underneath it. The one act that would settle which math is true — asking — is the one she cannot perform.
 
 Ch. 24 therefore hands her no money at all. The fall slice was already in motion. What Estelle gives her is the name and the guarantee — certainty, not cash.
 
 
-## Estelle's wealth plausibility
+## Estelle's fortune: $900,000, earned the slow way
 
-Estelle is quietly secure, not mansion-rich. The money is boring, old, patient, and administratively plausible: early small deposits, low costs, long holding in a retirement account (Roth IRA). Keisha and Denise never had reason to know. The fortune is emotionally explosive because it was hidden, not because it is flashy. Make it $900,000. The grandchildren's 529 system — $2,400 a year, all accounts together — is a rounding error inside it, which is exactly how she could run it unnoticed.
+Estelle is quietly secure, not mansion-rich. The fortune is emotionally explosive because it was hidden, not because it is flashy. **Make it $900,000**, in two piles: about **$675,000** of index funds inside her IRAs — shifted to bonds and CDs when she retired in 2013, the same move she later makes with the 529s — and about **$230,000 of Deere & Co.**, bought once and never sold. Keisha and Denise never had reason to know; the grandchildren's 529 system is a rounding error inside it.
+
+The arithmetic checks against actual market history (S&P 500 total returns, 1976–2025):
+
+**What she put in: $76,600, never a missed year.** $600 a year into the 1976 fund account; $2,000 a year — the IRA maximum — from 1982; $3,000 a year from 2002 until she retired in 2013. Through the 1987 Morrell strike the deposits continued out of fill-in work: they were non-negotiable in a way food sometimes wasn't.
+
+**The two mistakes, with price tags.** She lost money exactly twice, never to a stock pick — to fees and to fear, the way self-taught small investors actually lose.
+
+* *The tuition (1976–1987):* her first fund was a salesman's fund — 8.5% front load, fat expenses, the standard predation on people the banks wouldn't serve. Years of library reading later, she found the no-loads. Cost in 2026 dollars: about **$144,000** — the price of "nobody ever taught Estelle anything."
+* *The capitulation (October 1987):* Black Monday fell five months into the strike, on a fill-in paycheck. She sold the fund near the bottom — locking in a loss of about **a third** of everything she had built since 1976 — sat a year in CDs, watched the market come back without her, re-entered in 1989, and never sold again. Cost: about **$263,000**. The panic is class condition, not character flaw — rich people ride out crashes; a woman with no cushion cannot. Her 1987 sale and Keisha's $60 float borrow are the same event at different scales. And the lesson held: she witnessed every downturn after — 1990, the dot-com bust (−49%), 2008 (−57%), 2020, 2022 — and never sold into one again. The statements show the drops; they never show a sale.
+
+Without the mistakes: about $1.25 million. Keep it to **one** panic, both mistakes era-shaped — bad products and no cushion, never greed — or her foil position against Max collapses. She held through 2000–02 and 2008 because 1987 had already taught her the price of selling.
+
+**The Deere certificate (1985).** One transaction, no new money: she moved **$1,000** — about seven percent of the account — into Deere at the bottom of the farm crisis, the year they were giving it away. She had been a lowballed asset herself; she recognized one. The shares came as a paper certificate in the deposit box, and in October 1987 the fund had a phone number while the certificate needed a signature guarantee and a stamp — the slow money survived *because it was slow*. Dividends reinvested for forty-one years: about **$230,000** by the summer of the book. Deere is the one company farmers never haggle with — green paint at full price, held by the market's most feared haggler. And $1,000 is exactly one stand share; ch. 24's porch math can sit beside that fact unspoken.
 
 ## How the gap closes
 
@@ -263,8 +273,12 @@ Her names — Grandma Stell, Miss Estelle, the reserved "Essie" — are governed
 * **~1962:** finishes eighth grade; starts work.
 * **1965:** the pay envelope — John Morrell plant, age 17, already a veteran of two paychecks a month.
 * **Mid-1970s:** widowed young. Banks would not deal with her — as a widow, legally, until 1974; as a Black woman with an eighth-grade education, in practice, longer. This is the erasure.
-* **1976:** first fund account in her own name, opened within two years of the law changing, filled out in careful handwriting she'd practiced first on scrap paper. This is the fund slip — not a prop but the hinge of her life.
+* **1976:** first fund account in her own name, opened within two years of the law changing, filled out in careful handwriting she'd practiced first on scrap paper. This is the fund slip — not a prop but the hinge of her life. (The fund was a salesman's load fund — see "Estelle's fortune.")
+* **1982:** IRAs open to every worker; she reads it in the business pages and maxes hers — $2,000 a year, twenty years running.
+* **1985:** moves $1,000 into Deere & Co. at the bottom of the farm crisis — one transaction, a paper certificate in the deposit box. Never sold.
+* **1987:** the Morrell strike; the deposits continue on fill-in work. In October, Black Monday — she sells the fund near the bottom, her one panic. She re-enters in 1989, in a no-load index fund this time, and never sells anything again.
 * **2009:** opens Keisha's 529 when she is two — one of the identical accounts she keeps for every grandchild, $400 every January; shifted to safety at the end of 2021, just ahead of the crash. See "The 529."
+* **2013:** retires at 65; shifts the funds to safety. The certificate stays.
 
 She shops thrift, reuses bags, saves jars, negotiates over tiny amounts, refuses to replace broken things, and treats comfort as suspicious. At the market this is legend; at home it is starting to look like something else.
 
