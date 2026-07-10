@@ -6,7 +6,7 @@
 **Category:** Adult commercial fiction with book-club appeal — **fixed; not revisited.**
 **Primary readership:** the adult book-club core, women 25–55, with natural crossover to younger readers. Although Keisha is nineteen, the book is adult fiction because the emotional frame belongs equally to Keisha, Denise, and Estelle. The three-generation braid is the book's center of gravity and its claim to the shelf: Estelle and Denise carry narrative mass equal to the summer-stand plot.
 **Target length:** 78,000–85,000 words
-**Structure:** approximately 28 short chapters in three acts
+**Structure:** approximately 25 chapters in three acts; chapter length varies by design — single-beat chapters stay short, the two set pieces (chs. 21 and 24) may run long
 **Narration:** first-person Keisha, present tense, comic, no hindsight
 **Setting:** Sioux Falls, South Dakota — present day
 
@@ -37,7 +37,7 @@ The tone of the setting is **warm**. This is not a novel about a struggling city
 The stand runs three days a week:
 
 * **Saturdays:** Falls Park farmers market. The revenue engine and the social engine. Regular vendors, regular customers, regular gossip.
-* **Thursday and Friday evenings:** Levitt concerts downtown. Bigger crowds, younger crowds, weather-dependent. The rain washout (ch. 18) is a Levitt night.
+* **Thursday and Friday evenings:** Levitt concerts downtown. Bigger crowds, younger crowds, weather-dependent. The rain washout (ch. 16) is a Levitt night.
 
 Weekdays belong to Keisha's lunch shifts, family scenes, supply runs, Estelle's garage, and the slow accumulation of the lie. 
 
@@ -47,7 +47,7 @@ The market is the book's village. A small recurring cast circulates through the 
 
 * **The produce vendor two stalls down** — a Sudanese family; a teenage son Sydney flirts with unproductively.
 * **Two church ladies from Estelle and Denise's congregation** who buy one cup each, split a third, and track Keisha's countdown to Brookings out loud: *"What is it now, three weeks?"* The church community gives the Carters a social world of their own; the family is never representationally alone in the book.
-* **The concessionaire** — a food-truck owner, friendly, appraising. He becomes the $600 vendor offer (sequenced across chs. 13–15 in the plan). He should be liked before the offer, and the offer allowed to sit predatory-adjacent for one full chapter: a friendly man pricing three girls' summer at scrap value is capital doing what capital does, smiling. His later good-corner hint lands as forgiveness earned, not innocence retained.
+* **The concessionaire** — a food-truck owner, friendly, appraising. He becomes the $600 vendor offer (sequenced across chs. 11–13 in the plan). He should be liked before the offer, and the offer allowed to sit predatory-adjacent for one full chapter: a friendly man pricing three girls' summer at scrap value is capital doing what capital does, smiling. His later good-corner hint lands as forgiveness earned, not innocence retained.
 * **Miss Estelle's market reputation.** The vendors all know her. She has haggled with every one of them and won.
 * The girls would learn from these vendors. For example, they learned how to process credit card payments and/or do a little bookkeeping. 
 
@@ -110,7 +110,7 @@ Freshman year closed without a crisis, and Keisha misread why. Year one carried 
 
 Planning sophomore year in April, she runs the math both ways. If the mystery money comes back: **$2,800 short** — hideable, grindable, survivable-shaped. If it doesn't: **$7,800** — three summers of fryer work, the take-a-year-off number. She plans on the small number because the big one ends college, and hides $2,800 all summer while the $7,800 hums underneath it. The one act that would settle which math is true — asking — is the one she cannot perform.
 
-Ch. 24 therefore hands her no money at all. The fall slice was already in motion. What Estelle gives her is the name and the guarantee — certainty, not cash.
+Ch. 21 therefore hands her no money at all. The fall slice was already in motion. What Estelle gives her is the name and the guarantee — certainty, not cash.
 
 
 ## Estelle's fortune: $900,000, earned the slow way
@@ -128,7 +128,7 @@ The arithmetic checks against actual market history (S&P 500 total returns, 1976
 
 Without the mistakes: about $1.25 million. Keep it to **one** panic, both mistakes era-shaped — bad products and no cushion, never greed — or her foil position against Max collapses. She held through 2000–02 and 2008 because 1987 had already taught her the price of selling.
 
-**The Deere certificate (1985).** One transaction, no new money: she moved **$1,000** — about seven percent of the account — into Deere at the bottom of the farm crisis, the year they were giving it away. She had been a lowballed asset herself; she recognized one. The shares came as a paper certificate in the deposit box, and in October 1987 the fund had a phone number while the certificate needed a signature guarantee and a stamp — the slow money survived *because it was slow*. Dividends reinvested for forty-one years: about **$230,000** by the summer of the book. Deere is the one company farmers never haggle with — green paint at full price, held by the market's most feared haggler. And $1,000 is exactly one stand share; ch. 24's porch math can sit beside that fact unspoken.
+**The Deere certificate (1985).** One transaction, no new money: she moved **$1,000** — about seven percent of the account — into Deere at the bottom of the farm crisis, the year they were giving it away. She had been a lowballed asset herself; she recognized one. The shares came as a paper certificate in the deposit box, and in October 1987 the fund had a phone number while the certificate needed a signature guarantee and a stamp — the slow money survived *because it was slow*. Dividends reinvested for forty-one years: about **$230,000** by the summer of the book. Deere is the one company farmers never haggle with — green paint at full price, held by the market's most feared haggler. And $1,000 is exactly one stand share; ch. 21's porch math can sit beside that fact unspoken.
 
 ## How the gap closes
 
@@ -153,7 +153,7 @@ The book stages all three ways money moves, in one person's summer:
 2. **Ownership** — the stand: equity, risk, value created rather than clocked.
 3. **Capital** — Estelle's slow compounding versus Max's fast speculation: money moving without hours attached, patient versus predatory.
 
-The teaching instrument is **Emily's triptych** — all three physics, per-hour, on one table (seeded ch. 12, staged ch. 17). Keisha's arc through the physics: wages are the only physics → equity is pretend money → equity is real → capital was a *hidden category*, revealed in ch. 24 to have been her grandmother's for fifty years.
+The teaching instrument is **Emily's triptych** — all three physics, per-hour, on one table (seeded ch. 10, staged ch. 15). Keisha's arc through the physics: wages are the only physics → equity is pretend money → equity is real → capital was a *hidden category*, revealed in ch. 21 to have been her grandmother's for fifty years.
 
 ## Laptop loan
 
@@ -189,22 +189,22 @@ Estelle refused "Grandma" decades ago — *grandmas were old women, and she was 
 The refusal is comic on page one and legible as armor by Act III: the woman who wouldn't accept the soft name is the same woman who wouldn't accept help, comfort, or full price. It is the hiding pattern wearing a joke.
 
 **Seed:** established early, in Keisha's narration, as a family fact with a punchline (ch. 1–3 region).
-**Payoff:** at the laptop-loan signing (ch. 26), Keisha calls her "Grandma" — unadorned. Neither comments on it. It should land like a door opening.
-**Reserve:** "Essie" is spent only if ch. 24 earns it — Estelle referring to herself by the name from before the armor, one time, in her own story.
+**Payoff:** at the laptop-loan signing (ch. 23), Keisha calls her "Grandma" — unadorned. Neither comments on it. It should land like a door opening.
+**Reserve:** "Essie" is spent only if ch. 21 earns it — Estelle referring to herself by the name from before the armor, one time, in her own story.
 
 ## The two tellings (craft rule)
 
-Estelle's history is told in two installments, staged in chs. 14 and 24: the first telling ends at the erasure — what was done to her; what she built afterward waits for the second. The incompleteness is characterization, not authorial withholding. The fund slip must not be named or handled in ch. 14; it is the physical hinge between the two installments and appears in ch. 24 only.
+Estelle's history is told in two installments, staged in chs. 12 and 21: the first telling ends at the erasure — what was done to her; what she built afterward waits for the second. The incompleteness is characterization, not authorial withholding. The fund slip must not be named or handled in ch. 12; it is the physical hinge between the two installments and appears in ch. 21 only.
 
 ## Four key Estelle-Keisha beats
 
-The spine runs in four beats, staged in full in the chapter plan: the housing lie (ch. 3), the first telling and the unread 529 envelope (ch. 14), the near-miss (ch. 19), and the reciprocity (ch. 24) — Estelle gives 1976; Keisha gives $2,800, a matching disclosure, not a request.
+The spine runs in four beats, staged in full in the chapter plan: the housing lie (ch. 3), the first telling and the unread 529 envelope (ch. 12), the near-miss (ch. 17), and the reciprocity (ch. 21) — Estelle gives 1976; Keisha gives $2,800, a matching disclosure, not a request.
 
 The theme performs itself: two women trained by secrecy miss each other by inches — until each hands the other one true thing.
 
 ## The Denise-Keisha near-miss (the braid's missing rung)
 
-The Estelle-Keisha near-misses have a mother-daughter sibling, staged in full in ch. 11: two bluffers protecting each other's cover without knowing it. It is the middle strand doing what the outer strands do, and it must exist on the page before ch. 27 can pay it off.
+The Estelle-Keisha near-misses have a mother-daughter sibling, staged in full in ch. 9: two bluffers protecting each other's cover without knowing it. It is the middle strand doing what the outer strands do, and it must exist on the page before ch. 24 can pay it off.
 
 ## The envelope as inherited technology
 
@@ -212,9 +212,9 @@ Denise's household runs on labeled cash envelopes: GROCERIES, LIGHTS, CAR, SCHOO
 
 ## The pattern, interrupted (the ending)
 
-The ending should be warm but not tidy. It does not cure anyone. It interrupts a transmission — each woman's landing is staged in chs. 25–28 of the plan. Two rules govern it:
+The ending should be warm but not tidy. It does not cure anyone. It interrupts a transmission — each woman's landing is staged in chs. 22–25 of the plan. Two rules govern it:
 
-* **Disclosure protocol (firm):** in ch. 27, when the closing math reaches the 529 line, Keisha stops — it is not hers to explain — and Estelle names the fortune and the 529 to Denise herself. The secret stays hers to break.
+* **Disclosure protocol (firm):** in ch. 24, when the closing math reaches the 529 line, Keisha stops — it is not hers to explain — and Estelle names the fortune and the 529 to Denise herself. The secret stays hers to break.
 * **No cures:** Estelle is understood, not absolved. Denise is awake to what she was never taught, not magically educated. Sydney has made one real trade, not become a saver. Max is beginning again, not reformed. And the pattern is still transmitting — Sofi watches Keisha the way Keisha watched Estelle — but now someone sees it.
 
 ---
@@ -227,7 +227,7 @@ The lie's pre-existing camouflage is the fast-food job — see "The job" under t
 
 ## The lie escalates
 
-The lie is a ladder, each rung requiring the next: archive, failed bursar call, forwarded email, deposit, bedding, float borrowing, drafts folder — staged in chs. 1, 2, 6, 8, 11, 16, and 20 of the plan.
+The lie is a ladder, each rung requiring the next: archive, failed bursar call, forwarded email, deposit, bedding, float borrowing, drafts folder — staged in chs. 1, 2, 5, 7, 9, 14, and 18 of the plan.
 
 *(The timing armor on the $60 float is canonical: steady paychecks must never make it look like cash-flow management. It is a line crossed by a girl at zero.)*
 
@@ -303,7 +303,7 @@ Black. Estelle's daughter, born before the mid-1970s widowhood. Shift supervisor
 
 The envelope system is the inherited technology — see "The envelope as inherited technology" under Emotional architecture.
 
-The reason for her gap is upstream — Estelle never taught her, for the two braided reasons given in "The braid of secrets." That irony should hurt when it surfaces in ch. 27.
+The reason for her gap is upstream — Estelle never taught her, for the two braided reasons given in "The braid of secrets." That irony should hurt when it surfaces in ch. 24.
 
 Her active hiding — performed certainty on portals and in offices — is defined in "The braid of secrets."
 
@@ -314,15 +314,15 @@ Her active hiding — performed certainty on portals and in offices — is defin
 **What she is wrong about:** that bluffing protects her. It only protects the people who never taught her.
 **Arc:** from bluffing comprehension to asking out loud.
 
-She should have at least one earlier moment of almost-knowing — the plan stages three: the forwarded-email hesitation (ch. 6), the commuter answer a beat too fast (ch. 11), and the bedding-bag look (ch. 18). She is not blind. She simply does not know what system she is looking at.
+She should have at least one earlier moment of almost-knowing — the plan stages three: the forwarded-email hesitation (ch. 5), the commuter answer a beat too fast (ch. 9), and the bedding-bag look (ch. 16). She is not blind. She simply does not know what system she is looking at.
 
-**Beat map:** Denise is spine-level; the cast-economy cap does not apply to her. Her beats — the envelope system as ch. 1 texture, the three almost-knowing moments, the ch. 16 car-repair counterweight scene, and the ch. 27 payoff — are sequenced in the chapter plan.
+**Beat map:** Denise is spine-level; the cast-economy cap does not apply to her. Her beats — the envelope system as ch. 1 texture, the three almost-knowing moments, the ch. 14 car-repair counterweight scene, and the ch. 24 payoff — are sequenced in the chapter plan.
 
 ## Sofía "Sofi" Ortiz, 16 — the watched one
 
 Mexican-American. The neighbor girl — the Ortiz family has lived three doors down from the Carters since before Sofi was born. Not blood; close enough that the distinction has never mattered, until the invoice makes it matter.
 
-She supplies the family recipe, recognizes unpaid value faster than the older girls, and asks questions adults hate answering. Her major scenes are staged in chs. 13, 26, and 28 of the plan.
+She supplies the family recipe, recognizes unpaid value faster than the older girls, and asks questions adults hate answering. Her major scenes are staged in chs. 11, 23, and 25 of the plan.
 
 **Money wound:** family — and family-shaped — love expects unpaid contribution. She has translated, interpreted, and helped for free her whole life; the recipe is just the first contribution anyone tried to put a number on.
 **Comic behavior:** calm literal questions; over-serious learner's-permit studying she pretends is casual.
@@ -331,9 +331,9 @@ She supplies the family recipe, recognizes unpaid value faster than the older gi
 **What she is right about:** love does not erase value.
 **Arc:** from community asset to named contributor.
 
-**Ownership rule (firm):** the amendment gives Sofi a real stake — a per-batch recipe royalty plus a vote, not a gesture — and the recipe does not transfer with the business; it is hers. (Staged in chs. 13 and 15 of the plan.)
+**Ownership rule (firm):** the amendment gives Sofi a real stake — a per-batch recipe royalty plus a vote, not a gesture — and the recipe does not transfer with the business; it is hers. (Staged in chs. 11 and 13 of the plan.)
 
-**Thematic role:** Sofi is the fourth generation by proximity, not blood. The hiding pattern travels through community, not chromosomes. The final image (ch. 28) makes the claim: anyone's daughter is watching.
+**Thematic role:** Sofi is the fourth generation by proximity, not blood. The hiding pattern travels through community, not chromosomes. The final image (ch. 25) makes the claim: anyone's daughter is watching.
 
 ## Lourdes Ortiz, ~40s — Sofi's mother / counter-wisdom
 
@@ -355,7 +355,7 @@ She spends because pleasure feels like proof she exists — and she spends *out 
 **What she is right about:** joy has value.
 **Arc:** from spending to prove value to choosing joy with eyes open.
 
-Sydney's ending is not "I am not ready." It is a priced choice, staged in full in ch. 25 — and the ticket sale should hurt; the book should mourn it a little.
+Sydney's ending is not "I am not ready." It is a priced choice, staged in full in ch. 22 — and the ticket sale should hurt; the book should mourn it a little.
 
 *(Licensed voice: Sydney may carry one line of ambient college skepticism — she made shift lead in two years without a loan — per the map-less-neighborhood rule. Never cruel, never repeated.)*
 
@@ -371,7 +371,7 @@ He is not stupid. He is smart, scared, charming, and seduced by speed. The crypt
 **What he is right about:** young people are not crazy to want escape.
 **Arc:** from performance wealth to quiet ownership.
 
-Max is a subplot, not the spine; his crash is his own, staged in ch. 22. The romance with Keisha needs and gets zero commentary — in this neighborhood it is not a topic.
+Max is a subplot, not the spine; his crash is his own, staged in ch. 19. The romance with Keisha needs and gets zero commentary — in this neighborhood it is not a topic.
 
 *(Licensed voice: Max carries the other line of ambient college skepticism — "college is the slowest-vesting bad investment I've ever seen" — type-accurate, half-meant, per the map-less-neighborhood rule.)*
 
@@ -385,6 +385,6 @@ White; Norwegian-Lutheran stock, fourth-generation Sioux Falls. Her home is kind
 **What she is right about:** clarity is kindness, even when it hurts.
 **Arc:** from studying the door to opening it.
 
-Emily opens her account before Keisha knows (discovered ch. 23, never staged as a scene): the door opens quietly, and Keisha's limited POV missed someone's courage.
+Emily opens her account before Keisha knows (discovered ch. 20, never staged as a scene): the door opens quietly, and Keisha's limited POV missed someone's courage.
 
 Emily also owns the book's teaching instrument, the triptych — see "The three physics of money."

@@ -7,7 +7,7 @@
 ## Folder structure
 
 - `story-bible.md` is canon: cast, setting, money logic, emotional architecture.
-- `chapter-plan.md` is sequence only: 28 chapters, scene beats, POV, Keisha pressure, and chapter turns. Do not infer extra drafting rules from it.
+- `chapter-plan.md` is sequence only: 25 chapters, scene beats, POV, Keisha pressure, and chapter turns. Do not infer extra drafting rules from it.
 - `pitch.md` is the sales artifact: logline and pitch. Not a drafting reference; if it conflicts with the bible, the bible wins.
 
 ---
