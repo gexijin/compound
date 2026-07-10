@@ -1,14 +1,13 @@
 # Full Price — A Novel
 
-> **File set:** `story-bible.md` (canon: pitch, setting, money & emotional architecture, cast) · `chapter-plan.md` (the 28 chapters; scene-level craft notes live inline there) · `craft-rules.md` (global drafting rules and devices).
-> **Convention:** every fact or rule lives in exactly one file; the others reference it. If files appear to conflict, `story-bible.md` wins on canon, `craft-rules.md` wins on rules, `chapter-plan.md` wins on scene order.
-> **Pending `craft-rules.md` entry:** the bridge-metaphor ban (see Keisha's cast entry) belongs there; log it on the next touch.
+> **File set:** `story-bible.md` (canon: pitch, setting, money and emotional architecture, cast) · `chapter-plan.md` (the 28 chapters and scene order) · `CLAUDE.md` (AI drafting rules, style guardrails, and prohibitions).
+> **Convention:** every fact or rule lives in exactly one file; the others reference it. If files appear to conflict, `story-bible.md` wins on canon, `CLAUDE.md` wins on drafting rules, `chapter-plan.md` wins on scene order.
 
 ## Book Plan
 
 **Title:** *Full Price* (working title, promoted from the alternates list; formerly *Grandma Stell's Secrets*. The title is Estelle's arc, the theme, and the right dry snap — re-test against drafted voice as before, but the cozy-drift risk is now resolved in the right direction.)
 **Category:** Adult commercial fiction with book-club appeal — **fixed; not revisited.**
-**Primary readership:** the adult book-club core, women 25–55, with natural crossover to younger readers. The three-generation braid is the book's center of gravity and its claim to the shelf: Estelle and Denise carry narrative mass equal to the summer-stand plot.
+**Primary readership:** the adult book-club core, women 25–55, with natural crossover to younger readers. Although Keisha is nineteen, the book is adult fiction because the emotional frame belongs equally to Keisha, Denise, and Estelle. The three-generation braid is the book's center of gravity and its claim to the shelf: Estelle and Denise carry narrative mass equal to the summer-stand plot.
 **Target length:** 78,000–85,000 words
 **Structure:** approximately 28 short chapters in three acts
 **Narration:** first-person Keisha, present tense, comic, no hindsight
@@ -41,10 +40,10 @@ The reader should feel they are reading:
 * an intergenerational family-secret novel — the frame that holds everything else
 * a funny college-money crisis story
 * a friendship/business summer plot
-* a light slow-burn romance *(its single genuine warm beat is ch. 18; if that beat is ever cut, downgrade this promise the same day)*
+* a family/friendship novel with a light romantic thread
 * a story about shame, pride, and asking for help
 
-The money education should arrive through scenes, not explanations. The reader should learn almost accidentally.
+The money education should arrive through scenes, not explanations. The reader should learn almost accidentally. The book should feel like ordinary summer life before it feels like a money novel: jokes, fights, objects, timing, and choices first; lessons never.
 
 ---
 
@@ -129,6 +128,12 @@ Estelle only needs one clean explanation:
 Then the story moves on.
 
 *(Voice note: this is exactly how Estelle explains money when she must — one sentence, concrete, no vocabulary she didn't teach herself. She does not say "disbursement." The book should never make her sound like a brochure; her self-taught fluency is practical, not institutional. That contrast — flawless instincts, borrowed-nothing language — is the education thread made audible.)*
+
+## Estelle's wealth plausibility
+
+Estelle is quietly secure, not mansion-rich. The money is boring, old, patient, and administratively plausible: early small deposits, low costs, long holding, routine tax help, statements Keisha and Denise never had reason to see. Keisha never gets a full net-worth number. The fortune is emotionally explosive because it was hidden, not because it is flashy.
+
+Estelle does not pay Keisha's tuition gap. Money-as-rescue would repeat the family pattern; explanation, speech, and terms are the repair.
 
 ## How the gap closes
 
@@ -239,7 +244,7 @@ And the youngest one — three doors down, not blood, closer — is taking notes
 
 # Keisha's active cover-up
 
-Keisha's avoidance must stay active. She is not waiting around. She is maintaining a lie.
+Keisha's avoidance must stay active. She is not waiting around. She is maintaining a lie. She is not a camera for other people's arcs: in every major scene, she wants something, avoids something, misnames something, or makes a choice that increases pressure on the lie.
 
 ## The camouflage (pre-existing)
 
@@ -271,7 +276,7 @@ This makes her competence real. The stand survives partly because of her. That i
 
 Black. Born and raised near-north Sioux Falls; sophomore-to-be at SDSU in Brookings. **The first person in her family to enroll in college.** She studies **civil engineering — bridges**, a fascination that is entirely hers: she rates the I-29 overpasses on every drive to Brookings, has opinions about culverts, and spends market Saturdays within sight of the century-old quartzite spans at Falls Park without ever once saying anything thematic about it.
 
-**Metaphor ban (firm; log in `craft-rules.md`):** no character may ever use "bridge" figuratively. The objects speak; the narrator never does. Her love of the field stays comic and specific, never noble. The major is also a hiding tool: "I'm studying load tolerances" is a great thing to say instead of answering a question about money.
+**Metaphor ban (firm; mirrored in `CLAUDE.md`):** no character may ever use "bridge" figuratively. The objects speak; the narrator never does. Her love of the field stays comic and specific, never noble. The major is also a hiding tool: "I'm studying load tolerances" is a great thing to say instead of answering a question about money.
 
 Keisha is funny because she turns panic into systems. She does not say she is terrified. She says archive is technically a filing system.
 
@@ -352,7 +357,8 @@ Mexican-American. The neighbor girl — the Ortiz family has lived three doors d
 She supplies the family recipe, recognizes unpaid value faster than the older girls, and asks questions adults hate answering.
 
 **Money wound:** family — and family-shaped — love expects unpaid contribution. She has translated, interpreted, and helped for free her whole life; the recipe is just the first contribution anyone tried to put a number on.
-**Comic behavior:** calm literal questions.
+**Comic behavior:** calm literal questions; over-serious learner's-permit studying she pretends is casual.
+**Non-thematic want:** Sofi wants her learner's permit and the first legal right to leave and return on her own terms. This appears as comic texture, not a subplot.
 **Contradiction:** she seems younger, but understands ownership faster than everyone.
 **What she is right about:** love does not erase value.
 **Arc:** from community asset to named contributor.

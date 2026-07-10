@@ -7,7 +7,7 @@
 ## Companion files
 
 - `story-bible.md` is canon: pitch, cast, setting, money logic, emotional architecture.
-- `chapter-plan.md` is sequence: 28 chapters, scene beats, POV logic, chapter turns.
+- `chapter-plan.md` is sequence only: 28 chapters, scene beats, POV, Keisha pressure, and chapter turns. Do not infer extra drafting rules from it.
 - If files conflict: `story-bible.md` wins on canon, `chapter-plan.md` wins on order, this file wins on drafting rules.
 
 ---
