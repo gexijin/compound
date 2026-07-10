@@ -26,8 +26,6 @@ By August, the stand has taught the girls profit, ownership, labor, risk, and th
 
 The ending is hopeful but not tidy. Keisha returns to school at a visible cost: a campus job, loan payments, and next year's gap already named. The family pattern has not vanished, but it has been interrupted — in front of the one who's watching.
 
-**Logline:** Keisha, nineteen, works twenty hours a week and is still $2,800 short of returning to college — and has built an entire architecture of lies to avoid saying so, to her mother, her friends, and herself. When her grandmother Estelle stakes Keisha and her friends in an agua fresca stand for thirty dollars and thirty percent, the summer becomes a crash course in friendship, ownership, desire, and the family talent for hiding. Because Keisha is not the first woman in this family to disappear inside a secret. She is the third. And the girl three doors down is watching.
-
 ---
 
 # Reader experience
@@ -94,7 +92,7 @@ Agua fresca is not exotic in Sioux Falls, but it is not universal either. The re
 
 Keisha works **twenty hours a week at a fast-food place** — fixed weekday lunch shifts, never market days, established in one sentence in ch. 1 and mentioned only a handful of times after. The job runs at Sydney's-retail-job altitude: no manager character, no coworker cast, no staged shifts beyond its budgeted beats (skepticism voiced chs. 3–4; the per-hour seed ch. 12; the payday-timing line ch. 16; the triptych scene ch. 17; its successor named ch. 28). It is weather, not plot.
 
-What the job *is*, is worldview: hours-for-dollars is the only money physics Keisha has ever seen operate. It is also camouflage — see "Keisha's active cover-up."
+What the job *is*, is worldview: hours-for-dollars is the only money physics Keisha has ever seen operate. It is also camouflage — the lie's pre-existing cover: **"she's working, she's fine."** Visible industriousness reads as a handled life; nobody interrogates the finances of a girl who smells like the fryer at six p.m. The job is not an escalation of the cover-up; it is the terrain the cover-up was built on.
 
 ## The gap: $5,500 gross, $2,800 net
 
@@ -217,21 +215,13 @@ The ending should be warm but not tidy. It does not cure anyone. It interrupts a
 * Sydney is not a perfect saver; she has made one real trade. Emily is not fearless; she was brave earlier than Keisha knew. Max is not a financial saint; he is back at work and beginning again.
 * And Sofi — the fourth generation by proximity, not blood — watches Keisha the way Keisha watched Estelle. The pattern travels through community, not chromosomes. It is still transmitting. But now someone sees it, and the last woman in the chain just demonstrated, in front of the watched one, that the number can be said out loud.
 
-One woman planted money.
-One woman asks her first question out loud.
-One woman says the number out loud.
-One woman learns to pay full price, once.
-And the youngest one — three doors down, not blood, closer — is taking notes.
-
 ---
 
 # Keisha's active cover-up
 
 Keisha's avoidance must stay active. She is not waiting around. She is maintaining a lie. She is not a camera for other people's arcs: in every major scene, she wants something, avoids something, misnames something, or makes a choice that increases pressure on the lie.
 
-## The camouflage (pre-existing)
-
-Before the lie had architecture, it had cover: **"she's working, she's fine."** The fast-food job predates the book and is what makes the whole machine feasible — visible industriousness reads as a handled life. Keisha hides behind virtue: nobody interrogates the finances of a girl who smells like the fryer at six p.m. The job is not an escalation of the cover-up; it is the terrain the cover-up was built on. And for most of the book Keisha believes it is the *only* lever she has — see her cast entry.
+The lie's pre-existing camouflage is the fast-food job — see "The job" under the money architecture.
 
 ## The lie escalates
 
@@ -278,7 +268,7 @@ Her victory is not that school gets paid for. Her victory is that she stops disa
 
 Black. Born ~1948; family came up from Arkansas in the Great Migration for packing work. **Finished eighth grade, then went to work.** Everything she knows about money she taught herself — library books, newspaper business pages, fund prospectuses read at the kitchen table after shifts. Nobody ever taught Estelle anything. She has never fully forgiven the world for that, and she has never stopped being proud of it, and she has never noticed those are the same wound.
 
-Called **Grandma Stell** by the grandkids, **Miss Estelle** by the whole farmers market, and **Essie** by nobody still living — a name held in reserve for one late scene, if the book earns it. She refused "Grandma" decades ago: *grandmas were old women, and she was busy.*
+Her names — Grandma Stell, Miss Estelle, the reserved "Essie" — are governed by "The refused name" under Emotional architecture.
 
 **Her timeline (fixed, anchors the artifacts):**
 
@@ -299,7 +289,7 @@ She shops thrift, reuses bags, saves jars, negotiates over tiny amounts, refuses
 
 Her late spending beat should be small: one beautiful item at full price, one replaced broken thing, or one meal paid for without making the bill a courtroom proceeding.
 
-*(The refused-name payoff and the two-installment telling of the timeline above are governed by "The refused name" and "The two tellings" under Emotional architecture.)*
+*(The two-installment telling of the timeline above is governed by "The two tellings" under Emotional architecture.)*
 
 ## Denise Carter, ~52 — Keisha's mother / the middle strand
 
@@ -313,7 +303,7 @@ The envelope system is the inherited technology (see Emotional architecture): Es
 
 She does not know how to decode college finance systems — and the reason is upstream: Estelle never taught her, for two braided reasons the book eventually untangles: teaching would have exposed the fortune, and Estelle never believed her self-taught knowledge was hers to pass on out loud. Denise finished high school and did everything right and was somehow taught less than her mother learned alone. That irony should hurt when it surfaces in ch. 27.
 
-**Her hiding (the active layer):** Denise hides her not-knowing behind performed certainty. In offices and on portals she bluffs comprehension — nods, signs where pointed, never asks a question — because asking would reveal what she was never taught. This is the middle strand of the braid made active, not merely inherited.
+Her active hiding — performed certainty on portals and in offices — is defined in "The braid of secrets."
 
 **Money wound:** asking reveals what she was never taught.
 **Comic behavior:** practical bluntness; runs the house like a shift she's supervising; the envelope re-deal performed with full liturgy.
@@ -324,14 +314,7 @@ She does not know how to decode college finance systems — and the reason is up
 
 She should have at least one earlier moment of almost-knowing — the plan stages three: the forwarded-email hesitation (ch. 6), the commuter answer a beat too fast (ch. 11), and the bedding-bag look (ch. 18). She is not blind. She simply does not know what system she is looking at.
 
-**Beat map (spine-level; the cast-economy cap does not apply to her):**
-
-* **Ch. 1 region:** the envelope system lands as household texture with a punchline in Keisha's narration — established as normal long before it means anything.
-* **Ch. 6:** almost-knowing #1 — the forwarded email read a beat too long.
-* **Ch. 11:** the SCHOOL envelope pays for the bedding; the portal bluff; the Denise-Keisha near-miss (see Emotional architecture); almost-knowing #2.
-* **Ch. 16:** the counterweight scene — Denise negotiates the car-repair payment plan at the kitchen table, envelopes re-dealt, total command, while Keisha stands there carrying sixty stolen dollars.
-* **Ch. 18:** almost-knowing #3 — the bedding bag, one beat too long, goodnight.
-* **Ch. 27:** she receives everything — and then asks her first question out loud.
+**Beat map:** Denise is spine-level; the cast-economy cap does not apply to her. Her beats — the envelope system as ch. 1 texture, the three almost-knowing moments, the ch. 16 car-repair counterweight scene, and the ch. 27 payoff — are sequenced in the chapter plan.
 
 ## Sofía "Sofi" Ortiz, 16 — the watched one
 
