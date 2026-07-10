@@ -1,62 +1,47 @@
-# CLAUDE.md
+# Grandma Stell's Secrets — Craft Rules
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+> **File set:** `story-bible.md` (canon: pitch, setting, money & emotional architecture, cast) · `chapter-plan.md` (the 28 chapters; scene-level craft notes live inline there) · `craft-rules.md` (global drafting rules and devices).
+> **Convention:** every fact or rule lives in exactly one file; the others reference it. If files appear to conflict, `story-bible.md` wins on canon, `craft-rules.md` wins on rules, `chapter-plan.md` wins on scene order.
 
-## Project
+# Form and devices
 
-Compound — a story-driven, education-only web app teaching money and investing to teen girls (16–18). Pure client-side SPA (Vite + React 19 + TypeScript + Tailwind 4), no backend; deployed to GitHub Pages via `.github/workflows/deploy.yml`. See README.md for the full build brief (curriculum, characters, tone).
+## Keep
 
-## Commands
+* Keisha's first-person comic narration
+* group chat
+* the napkin deal
+* stand ledger
+* amended agreement (with Sofi's royalty line)
+* 1965 John Morrell pay envelope (seed: ch. 1, unexplained object at the garage sale → detonation: ch. 14, the first telling)
+* 1976 fund slip (ch. 24 only — never named or handled earlier)
+* drafts-folder email
+* bedding bag in the corner
+* the market regulars (recurring witness cast; see Setting)
+* Emily's one-page cheat sheet as an in-world artifact only
 
-- `npm run dev` — dev server
-- `npm run build` — typecheck (`tsc -b`) + production build
-- `npm run test` — run tests once (Vitest); single file: `npx vitest run src/lib/finance.test.ts`
-- `npm run lint` — oxlint
+## Cut from manuscript
 
-## Architecture
+No back-matter appendix. The expanded cheat sheet can become a website/newsletter extra.
 
-Lessons are **data, not code**. A reusable lesson engine renders a fixed loop: story → decision → consequence → teaching → quiz.
+An adult reader should not feel they have bought homework.
 
-- `src/content/schema.ts` — the content types (`Lesson`, `Beat` union: story/decision/teaching/quiz). Start here.
-- `src/content/lessons/` — one file per lesson, registered in `index.ts`. Unauthored lessons are stubs with `status: 'coming-soon'` and empty `beats`.
-- `src/content/characters.ts` — character registry (referenced by `CharacterId` for consistent portrayal).
-- `src/engine/` — `LessonPlayer.tsx` steps through beats, delegating to one view component per beat type.
-- `src/interactives/` — self-contained embeddable widgets, registered by `InteractiveId` in the schema and referenced from teaching beats.
-- `src/lib/finance.ts` — all money math. **Guardrail:** any number a lesson presents as fact must be computed here from labeled constants (or clearly marked illustrative), and tested in `finance.test.ts`.
-- `src/lib/progress.ts` — lesson progress in `localStorage`.
+## Artifact rule
 
-## GitHub Pages constraints
+Artifacts appear only when they create emotional or plot impact. No artifact-per-chapter rhythm.
 
-- `base: '/fined/'` in `vite.config.ts` must match the repo name.
-- Uses `HashRouter` (Pages has no SPA fallback) — keep routes hash-based.
+---
 
-## Content rules
+# Drafting priorities
 
-- User-facing copy calls the units **episodes** ("Episode 1", the `/episode/:slug` route) — code identifiers, file names, and storage keys keep their `lesson` naming.
-- Tone: smart, a little irreverent, never condescending or pink-washed; optimize for confidence over completeness.
-- All content original — no copyrighted lyrics, quotes, or third-party curriculum text.
-
-## Story canon (season 1)
-
-The season is modeled on the *Rich Dad Poor Dad* storytelling form — mentor parable, contrarian reframes, experience-before-explanation, a late wealth reveal — but never its substance (no get-rich promises, no contempt for jobs/school/savers; all numbers stay under the `finance.ts` guardrail).
-
-- **Two-layer structure: the girls are the subject, Elena is the mystery.** The A-plot is the girls' summer — the $100 Challenge, weekly on the porch, each girl carrying her own live problem (Keisha's tuition gap, Emily's avoidance, Maya's earn-vs-keep, Sofi's cash-only household). The B-plot is Elena's life, discovered through artifacts, one per episode, each surfacing exactly when the curriculum needs the concept it embodies: pay envelope + $20 (Ep 1), the $50 necklace + its 1975 receipt (Ep 2), the missing-fortune counterfactual (Ep 3), a planted object each for Eps 4–5 (the 1978 stock certificate; the 1974 crash clipping with her margin note) so the thread stays taut in the episodes Elena sits out, the slip's payoff + divorce (Ep 6). The girls live her timeline at compressed speed — tin box → understanding → own-name accounts in one summer instead of eleven years — converging in Ep 7, where the final artifact is from the present: accounts with *their* names on them, the "never invisible" lesson handed forward. Her story ends one episode before theirs begins; the finale belongs to the girls. If the season tips into being *about* Elena, it loses the audience's self-recognition.
-- **The Ep 6 reveal reframes, not impresses.** The point is not the ~$1.7M — it's that every strange thing Elena did all season (refusing the slip, making the $20 wait, "not for today", keeping every receipt since 1975) retroactively reads as a curriculum she'd been running since the garage: she was auditioning the heirs to the lesson. **The twist stays unspoiled everywhere:** no student-facing copy anywhere (Home hero, taglines, episode copy before Ep 6) may confirm Elena is rich — raise the question, never answer it. A $1,050 necklace and a median house don't confirm wealth; the ~$1.7M does.
-- **Elena is both dads in one lifetime.** Young Elena (19, 1965) is the "Poor Dad": tin box under the bed, then the passbook — the safe, rule-following philosophy that quietly loses. Her conversion is the 1976 brokerage slip (First Index Investment Trust — Vanguard's first index fund, launched that year and mocked as "Bogle's folly"): index funds plus a few Buffett-studied stocks, held through every crash, ~$1.7M by 2026.
-- **The 1976 conversion trigger (Episode 6's emotional payload):** divorce ~1975 forces Elena to look at the paperwork alone — and she discovers she was *financially invisible*: accounts, credit, house all in his name; her decade of passbook saving was the only thing that was hers, and 1974's ~11% inflation had been eating it in plain sight. The vow is "never invisible again," not "get rich." The Equal Credit Opportunity Act (1974) had just made it possible for her to open her own-name account without a husband's signature — something her mother literally couldn't have done — and she bought the mocked new fund in 1976 (it launched late August 1976 — don't put it on sale earlier), two years after the 1973–74 crash halved the market. The ex stays off-screen and un-villained (the villain is the arrangement, not the man); the telling is a few dry Elena lines in Episode 6, not a flashback episode. Ep 1's line "her decision, nobody else's — rarer than it sounds" and Ep 2's necklace ("the first pretty thing I ever bought that nobody co-signed"; the receipts start in 1975) are the planted runway.
-- **Elena never disowns the tin box.** Her authority with cash-only families comes from "I *was* your mom — the tin was step one." Each step of her arc (tin → passbook → index fund) was rational with the information she had.
-- **The forgotten $20 is the control group.** The one deposit that made neither journey. By Episode 6 the same $20 gets priced along all three paths — envelope (~90% of buying power gone), passbook (roughly treads water), index fund (the big number) — computed in `finance.ts`. In Episode 7 Sofi finally deposits it, her mother beside her.
-- **Contrast without contempt.** Conventional "keep it safe" wisdom is voiced by a chorus of off-screen home voices (Sofi's mom foregrounded), quoted with love, never argued with directly, and occasionally right. The porch answers the idea, never the person. No parent or girl is ever the villain or the fool.
-- **The lesson arrives in Elena's mouth.** Teaching beats set `voicedBy` (schema) so the teaching is delivered as a character's speech, not narrator prose — Elena in the episodes she's in (1, 2, 3, 6, 7); Nadia may voice as the near-peer (e.g. Ep 4). When Elena is off-stage (Eps 4–5, visiting Beto), her voice arrives in *writing* on the planted artifact. Narrator-voiced teaching is the exception, not the default.
-- **Porch Rules — one numbered maxim per episode**, the RDPD "Lesson #N" device. At each episode's close the girls distill the lesson to one line and write it on the back of the 1965 pay envelope (Keisha keeps the ledger; the Poor Dad artifact becomes the club's rulebook). Each rule lives in the lesson's `porchRule` field (schema) and renders on the completion screen; when authoring an episode, weave the rule-writing into the closing story beat, and open episodes by reciting the rules so far. The season's seven: #1 Money sitting still is money shrinking. #2 Real things hold what paper drops. #3 Small and early beats big and late. #4 Buy the slice, not the ticket. #5 All the eggs, never one basket. #6 Boring wins — own everything, hold on. #7 Your name goes on your money (the "never invisible" vow handed forward).
-- **Maya carries the separate "earn a lot, keep nothing" thread** (peer-level, self-inflicted, funny) — her Ep 1 flex ("I make that in a weekend") gets audited in a later episode, and her genuinely getting it is the season's proof the porch works. She is never labeled the poor one.
-
-## Episode teaching plans (2–6)
-
-Number conventions across episodes: forward-looking growth uses `ILLUSTRATIVE_RETURN = 0.07` — long-run US stocks (~10% nominal) minus ~3% inflation, so figures are in **today's buying power**; this also keeps Ep 2's counterfactual (~$222k) safely below Elena's ~$1.7M so the twist stays unspoiled. Elena's historical math uses `INDEX_RETURN_1976_2026 = 0.105` (nominal; conservative round-down of S&P 500 total return over the span). Every number presented as fact is computed in `finance.ts` and tested.
-
-- **Ep 2 — Grandma's Missing Fortune (compound interest, hope).** Teaching: interest earning interest; growth starts insultingly slow then explodes (the curve bends); time is the lever a 16-year-old owns most of; small+early beats big+late; it's Ep 1's pickpocket pointed the other way. Numbers (`futureValueMonthly`, `futureValueLump`, coast-vs-late comparison): $20/mo × 60y ≈ $222k vs $14,400 deposited; single $20 ≈ $1,150; $100/mo from 16 ≈ $545k vs from 26 ≈ $262k; ten early years then stop beats forty late years; $25/mo × 50y beats $100/mo × 30y. Decision: Maya's $200 resale profit — wait-and-go-big / $25 monthly now / one $200 drop. Flagship interactive `snowball`: stacked contributions-vs-growth curve, start-age race, crossover marker where growth out-earns deposits, Grandma preset while Elena watches unsurprised. Quiz: why the curve bends; head-start tie; which lever a teen controls. Kicks off the $100 Challenge.
-- **Ep 3 — A Slice, Not a Ticket (stocks, vehicle).** Teaching (Nadia-voiced): a share = legal part-ownership of a real business; returns come from profits/dividends, not from someone else losing (lottery contrast — every jackpot needs losers); she already funds these companies as a customer; price wiggles daily, the business changes slowly (ticker = mood ring). Minimal math: `sliceOfProfit` (Maya's shop split into 100 slices, illustrative), Powerball odds constant (~1 in 292M) as fact. Artifact: paper stock certificate in the passbook, Elena's handwriting on the back ("a slice of a bakery I never had to sweep") — she's off-stage (visiting Beto), mystery tightens, no amounts visible. Decision: Maya's $60 profit — meme-stock tip / slice of a brand she resells / lottery tickets. Quiz: what a share is; where long-run returns come from; slice-vs-ticket transfer test.
-- **Ep 4 — All the Eggs, One Basket (risk, catch).** Teaching: risk is the admission price of growth; one company can go to zero, the whole market never has; basket arithmetic (1 of 10 dies → −10%, one basket → −100%); down 50% needs up 100% back (`gainToRecover`); a crash is a price not a verdict — only selling (or bankruptcy) locks it in; the teen superpower is horizon, but tuition-in-August money is not investing money. Numbers: `SP500_PEAK_JAN_1973 = 120.24`, `SP500_TROUGH_OCT_1974 = 62.28` (≈ −48%), trough→~6000 today ≈ 96× (price-only, labeled). Artifact: 1974 crash clipping in the ledger, Elena's margin note dated Oct '74: everyone selling; prices only look scary if you're leaving (Ep 5 re-reads it as *she was shopping*). Maya's audit lands here: ~$900 summer profit, ~$0 left, one-hustle income is itself one basket — funny, never shaming. Decision: Keisha's tuition-gap money vs a classmate's hyped stock — all-in / basket / savings; savings is correct (horizon decides). Cliffhanger: how do you own everything without being an expert?
-- **Ep 5 — Own Everything, Quietly (index funds, fix + reveal).** Teaching (Elena-voiced): an index fund = hundreds of companies in one purchase; instant diversification (answers Ep 4); most pros lose to the boring index (fees + wrong guesses compound too); you don't have to be smart, just consistent; the name on the account is the point. Numbers: `elenaPortfolio2026()` — labeled tiers rising with wages ($50/mo 1976–85, $150 '86–95, $300 '96–05, $400 '06–10, then growth only) at 10.5% ⇒ ≈ $1.68M from $84k contributed (tested 1.6–1.75M). The $20 three ways (all nominal 2026): envelope $20 (buys ~$2 of 1965 stuff), passbook ~$210 (treads water), riding Elena's 1976 buy ≈ $2,900. Decision (before the reveal): 1976 Elena, divorce papers signed, everything was in his name — tin box / passbook / the mocked new fund. Reveal sequencing: slip resurfaces → dry lines (invisible on paper; the vow; ex un-villained) → girls do the math, Elena unsurprised → guardrails: "someone showed me the game; nobody showed your mom", and the check Keisha never asks for is refused before it's asked. Quiz: what you own in an index fund; why boring beats pickers; match envelope/passbook/index to their numbers.
-- **Ep 6 — Where the Money Lives (accounts, action/finale).** Add `sofi`+`emily` to the stub's characters array. Teaching: account = container, fund = contents (backpack ≠ books); custodial brokerage (teen + adult, legally hers); Roth IRA needs *earned income* (wages, reported resale profit — not allowance), contribute up to min(earnings, limit), tax-free growth at her horizon; contributions retrievable — patience rewarded, not jailed; the parent conversation + where-to-start close (app points, never executes). Numbers: `futureValueLump(1000, 49y, 7%)` ≈ $27.5k (a summer's $1,000 at 16 → 65, hypothetical); `ROTH_LIMIT_2026 = 7500` labeled check-current-year; `maxRothContribution(earned)` = min rule; the $20's future ≈ $550. Decision: Keisha's ~$2,400 summer earnings vs ~$3,000 gap — all at the gap / all Roth / gap first + $200 Roth + buffer (c is hers; Elena's gift is the ledger, not a check). Finale, one beat each: rules recited → Sofi deposits the 1965 $20 with her mom (tin respected) → Keisha's split → Maya's Roth ("keeping has a container now") → Emily slides her printed confirmation over, already done → four confirmations taped opposite the 1976 slip → Rule #6 → Elena hands the envelope forward. Final image: old slip, new names, one page apart.
+1. **Voice first.** Keisha must be funny, specific, and emotionally avoidant on page one.
+2. **Story before education.** If a scene feels like a lesson, rewrite it as a fight, joke, temptation, or secret.
+3. **Protect Estelle's ambiguity.** She is loving, wounded, wrong, and not easily forgiven. Her self-taught brilliance and her refusal to teach are the same wound; never resolve one without the other.
+4. **Honor Denise's dialect.** Denise is spine, not secondary — the cast-economy cap does not apply to her. Her competence (envelopes, weeks, logistics, the payment plan) is demonstrated before her gap is ever named, and she is never the butt of the not-knowing. Her arc — from bluffing comprehension to asking out loud — runs through ch. 11, ch. 16, and ch. 27, and pays off in one sentence.
+5. **Keep Max secondary.** He sharpens Keisha's temptation; he does not replace the family spine. Romance guardrails: the romance never rescues Keisha; Keisha never fixes Max; his crash and his shift toward the boring account happen for his own reasons. Hard cap on Act I Max-presence: the ch. 3 flicker (with the green screenshot) and the ch. 6 pattern-appearance, nothing further — the beats escalate from ch. 9 onward, as staged in the chapter plan.
+6. **Respect Sydney's joy.** The book is not anti-spending. It is anti-hiding, anti-denial, and anti-speed-as-salvation.
+7. **Let objects accumulate.** The bedding bag, drafts folder, envelope, Denise's labeled envelopes, float, and receipts should gain meaning naturally, not announce themselves.
+8. **Let the market witness.** The regulars, the church ladies, the concessionaire — the community's warmth is the pressure. Keep them recurring, specific, and kind.
+9. **Do not over-explain the 529.** The emotional meaning matters more than the mechanics — and Estelle explains money in one concrete sentence or not at all.
+10. **End with cost.** The gap closes, but adulthood begins.
+11. **Cast economy.** *(Applies to secondaries only; Denise is spine and exempt — see priority 4.)* The cast is minimum-viable as designed — every secondary carries a function no one else can absorb (Emily's math cannot become Keisha's without breaking Keisha's avoidance of her own number; Lourdes keeps Sofi's plot generational rather than peer-level). The corollary: no secondary gets bigger. Every Sydney/Emily/Max/Sofi scene must also advance Keisha's lie, the stand, or the Estelle thread. Emily and Lourdes are beat-carriers, not arc-owners: Emily's interiority arrives inside stand and group scenes (her ch. 7 home moment stays a beat; the ch. 23 account stays discovered, not staged); Lourdes stays at one scene and one told story. Sydney's ch. 25 is the only standalone secondary showcase in the book. If a subplot beat can live inside an existing scene, it must.
+12. **Comedy from character.** The humor is character-driven, not gag-driven — each character's comic behavior (see cast sheets) is their money wound performed. The book should be funny on every page because the people are funny, not because the plot becomes slapstick.
