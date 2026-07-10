@@ -137,7 +137,7 @@ Wages live *upstream* of this table — they are inside the gap's definition, no
 | Source                        | Approximate role                                                                                                                             |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 529 annual slice              | $5,000, already in motion before the reveal, misunderstood by Keisha — inside the gross gap's definition, like the wages                     |
-| Campus job / circulation desk | ~$1,720 across fall shifts against a bursar payment plan — comes from Keisha asking again after the spring rejection; a Brookings job, arranged remotely, which is why the drafts-folder email matters |
+| Campus job / circulation desk | ~$1,880 across fall shifts against a bursar payment plan — comes from Keisha asking again after the spring rejection; a Brookings job, arranged remotely, which is why the drafts-folder email matters |
 | Stand share                   | ~$1,000, earned through a Sioux Falls summer: market Saturdays and Levitt nights                                                             |
 | Margin                        | very small, roughly $80; no triumphant surplus                                                                                               |
 
