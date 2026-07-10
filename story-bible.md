@@ -1,11 +1,8 @@
 # Full Price — A Novel
 
-> **File set:** `story-bible.md` (canon: pitch, setting, money and emotional architecture, cast) · `chapter-plan.md` (the 28 chapters and scene order) · `CLAUDE.md` (AI drafting rules, style guardrails, and prohibitions).
-> **Convention:** every fact or rule lives in exactly one file; the others reference it. If files appear to conflict, `story-bible.md` wins on canon, `CLAUDE.md` wins on drafting rules, `chapter-plan.md` wins on scene order.
-
 ## Book Plan
 
-**Title:** *Full Price* (working title, promoted from the alternates list; formerly *Grandma Stell's Secrets*. The title is Estelle's arc, the theme, and the right dry snap — re-test against drafted voice as before, but the cozy-drift risk is now resolved in the right direction.)
+**Title:** *Full Price* (working title, formerly *Grandma Stell's Secrets*. )
 **Category:** Adult commercial fiction with book-club appeal — **fixed; not revisited.**
 **Primary readership:** the adult book-club core, women 25–55, with natural crossover to younger readers. Although Keisha is nineteen, the book is adult fiction because the emotional frame belongs equally to Keisha, Denise, and Estelle. The three-generation braid is the book's center of gravity and its claim to the shelf: Estelle and Denise carry narrative mass equal to the summer-stand plot.
 **Target length:** 78,000–85,000 words
@@ -19,9 +16,9 @@
 
 # Pitch
 
-**Core promise:** A funny, big-hearted novel about three broke young women, one summer business, and the grandmother whose secret fortune forces every woman around the kitchen table to stop hiding.
+**Core promise:** A funny, big-hearted novel about three broke young women from a working-class neighborhood, one summer business, and the grandmother whose secret fortune forces every woman around the kitchen table to stop hiding.
 
-Keisha Carter, nineteen, is $2,800 short of returning to college in the fall — and that's the number *after* the work. She already flips chicken tenders twenty hours a week; the wages ground a much bigger gap down to one shame-sized remainder that hours alone cannot finish. The number is small enough that one honest conversation might solve it, which is exactly why she cannot say it out loud. Instead, she builds a careful little machine of lies: archived emails, forwarded old paperwork, a housing deposit she cannot afford, and a bag of dorm bedding for a room she may never occupy.
+Keisha Carter, 19, is $2,800 short of returning to college in the fall — and that's the number *after* the work. She already flips chicken tenders twenty hours a week; the wages ground a much bigger gap down to one shame-sized remainder that hours alone cannot finish. The number is small enough that one honest conversation might solve it, which is exactly why she cannot say it out loud. Instead, she builds a careful little machine of lies: archived emails, forwarded old paperwork, a housing deposit she cannot afford, and a bag of dorm bedding for a room she may never occupy.
 
 To hide from the problem, Keisha spends her non-shift hours in Sioux Falls helping her grandmother Estelle clear out decades of receipts and boxes. Then Estelle stakes Keisha and her friends in an agua fresca stand at the Falls Park farmers market: thirty dollars for thirty percent. What begins as a joke business becomes real enough to expose everyone. Sydney wants money to make life bigger now. Emily can calculate anything except her own fear. Sofi, sixteen, the neighbor girl who supplied the family recipe, wants it recognized as hers. Max, Sydney's brother, wants to hit it big and retire by thirty-five. And Estelle — Grandma Stell, the most feared haggler at the market, a woman with an eighth-grade education who taught herself everything from library books — has been quietly wealthy for years.
 
@@ -66,7 +63,7 @@ The stand runs three days a week:
 * **Saturdays:** Falls Park farmers market. The revenue engine and the social engine. Regular vendors, regular customers, regular gossip.
 * **Thursday and Friday evenings:** Levitt concerts downtown. Bigger crowds, younger crowds, weather-dependent. The rain washout (ch. 18) is a Levitt night.
 
-Weekdays belong to Keisha's lunch shifts, family scenes, supply runs, Estelle's garage, and the slow accumulation of the lie.
+Weekdays belong to Keisha's lunch shifts, family scenes, supply runs, Estelle's garage, and the slow accumulation of the lie. 
 
 ## The market regulars — a device
 
@@ -76,6 +73,7 @@ The market is the book's village. A small recurring cast circulates through the 
 * **Two church ladies from Estelle and Denise's congregation** who buy one cup each, split a third, and track Keisha's countdown to Brookings out loud: *"What is it now, three weeks?"* The church community gives the Carters a social world of their own; the family is never representationally alone in the book.
 * **The concessionaire** — a food-truck owner, friendly, appraising. He becomes the $600 vendor offer, which now **lands at the close of ch. 13** — minutes after the fairness amendment is signed, before anyone knows that paper is a poison pill — **sits unanswered through ch. 14, and deflates in ch. 15.** He should be liked before the offer, and the offer should be allowed to sit predatory-adjacent for one full chapter: a friendly man pricing three girls' summer at scrap value is capital doing what capital does, smiling. The girls feel the insult *before* the recipe clause defuses it; his later good-corner hint (ch. 28) lands as forgiveness earned, not innocence retained.
 * **Miss Estelle's market reputation.** The vendors all know her. She has haggled with every one of them and won. When she takes her thirty percent in cash at the stand (ch. 7), at least one vendor visibly finds this hilarious.
+* The girls would learn from these vendors. For example, they learned how to process credit card payments and/or do a little bookkeeping. 
 
 **Rule:** the regulars ask questions Keisha doesn't want asked. The community's warmth *is* the pressure. Nobody suspicious, nobody cruel — just people who pay attention.
 
@@ -83,17 +81,16 @@ The market is the book's village. A small recurring cast circulates through the 
 
 Keisha's school is **SDSU in Brookings**, about an hour up I-29. Close enough that coming home for the summer needed no explanation. Far enough that the housing lie, the deposit, and the bedding bag are load-bearing — she cannot commute her way out of the gap, and the bursar exists only as hold music.
 
-*(Craft note: never let a character suggest "just live at home and commute" without an answer. Denise raises it once — ch. 11 — and Keisha has a real answer, now airtight: her program is civil engineering, and Augustana doesn't offer it; her aid package; her lab section. One line, then done.)*
 
-## The drink question
+## The drink 
 
-Agua fresca is not exotic in Sioux Falls, but it is not universal either. The recurring market bit: customers asking "so is this juice?" — and each girl fielding it differently. Emily answers with a ratio. Sydney answers with a performance. Sofi answers correctly. Keisha answers with whatever sells. Light touch; retired by Act III.
+Agua fresca is not exotic in Sioux Falls, but it is not universal either. The recurring market bit: customers asking "so is this juice?" — and each girl fielding it differently. Emily answers with a ratio. Sydney answers with a performance. Sofi answers correctly. Keisha answers with whatever sells. Light touch; retired by Act III. It is healthy but delicious.
 
 ---
 
 # The money architecture
 
-## The job (background texture — firm cap)
+## The job
 
 Keisha works **twenty hours a week at a fast-food place** — fixed weekday lunch shifts, never market days, established in one sentence in ch. 1 and mentioned only a handful of times after. The job runs at Sydney's-retail-job altitude: no manager character, no coworker cast, no staged shifts beyond its budgeted beats (skepticism voiced chs. 3–4; the per-hour seed ch. 12; the payday-timing line ch. 16; the triptych scene ch. 17; its successor named ch. 28). It is weather, not plot.
 
@@ -107,44 +104,30 @@ The sacrosanct figure is the **net**. It is shame-sized: small enough that one h
 
 The net number should not be widened for melodrama.
 
-## The summer clock (rule)
-
-SDSU does not bill over the summer; tuition is not due until two weeks after the fall semester begins. **No institutional deadline pursues Keisha through the book.** The clock is social and self-imposed: move-in weekend, the church ladies' countdown, the lie's own maintenance costs. This is deliberate and thematically load-bearing — nothing external forces the confession. Institutional red tape (hold music, portals, forms) remains the book's faceless historical antagonist, but it is indifferent, not hunting.
 
 ## The 529
 
-Estelle opened a 529 when Keisha was two — around 2009. She made small monthly deposits for years, then shifted the money toward safety as college approached.
+Estelle opened a 529 when Keisha was two — around 2009. She made small yearly deposits for years, invested in broad index funds, then shifted the money toward safety as college approached. Total amounts to $50,000.  Estelle wisely planned to disburse this over 4 years.
 
-The 529 disburses a fixed amount each year.
-
-Freshman year, that annual slice quietly helped cover Keisha's costs at SDSU. Keisha never understood it clearly; she assumed it was folded into "aid." Sophomore year, costs rise and the fixed amount no longer covers the gap.
+Freshman year, that annual slice partially helped cover Keisha's costs at SDSU. Keisha never understood that there is the same amount from the 529 for all 4 years. She assumed it was all. Sophomore year, she only have some support from her mom, the student loan, and thus a big gap.
 
 The reveal should feel like emotional archaeology, not rescue. The money was already there, already helping, already incomplete.
 
-Estelle only needs one clean explanation:
-
-> "It pays the same every year. The world doesn't charge the same every year."
-
-Then the story moves on.
-
-*(Voice note: this is exactly how Estelle explains money when she must — one sentence, concrete, no vocabulary she didn't teach herself. She does not say "disbursement." The book should never make her sound like a brochure; her self-taught fluency is practical, not institutional. That contrast — flawless instincts, borrowed-nothing language — is the education thread made audible.)*
 
 ## Estelle's wealth plausibility
 
-Estelle is quietly secure, not mansion-rich. The money is boring, old, patient, and administratively plausible: early small deposits, low costs, long holding, routine tax help, statements Keisha and Denise never had reason to see. Keisha never gets a full net-worth number. The fortune is emotionally explosive because it was hidden, not because it is flashy.
-
-Estelle does not pay Keisha's tuition gap. Money-as-rescue would repeat the family pattern; explanation, speech, and terms are the repair.
+Estelle is quietly secure, not mansion-rich. The money is boring, old, patient, and administratively plausible: early small deposits, low costs, long holding in a retirement account (Roth IRA). Keisha and Denise never had reason to know. The fortune is emotionally explosive because it was hidden, not because it is flashy. Make it $900,000.
 
 ## How the gap closes
 
 Wages live *upstream* of this table — they are inside the gap's definition, not a closing source. That is the point: the work was already maximal. The ending closes the **net** gap through Keisha's actions plus old help already in motion:
 
-| Source                        | Approximate role                                                                                              |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 529 annual slice              | already disbursed, misunderstood by Keisha                                                                     |
+| Source                        | Approximate role                                                                                                                             |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 529 annual slice              | already disbursed, misunderstood by Keisha                                                                                                   |
 | Campus job / circulation desk | comes from Keisha asking again after the spring rejection — a Brookings job, arranged remotely, which is why the drafts-folder email matters |
-| Stand share                   | earned through a Sioux Falls summer: market Saturdays and Levitt nights                                        |
-| Margin                        | very small, roughly $80; no triumphant surplus                                                                 |
+| Stand share                   | earned through a Sioux Falls summer: market Saturdays and Levitt nights                                                                      |
+| Margin                        | very small, roughly $80; no triumphant surplus                                                                                               |
 
 There is **no tuition rescue from Estelle**.
 

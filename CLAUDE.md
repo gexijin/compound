@@ -1,14 +1,13 @@
-# Full Price — AI Drafting Instructions
+# Full Price 
 
 ## Project overview
 
-*Full Price* is an adult commercial/book-club novel narrated by Keisha Carter, 19, in first-person present tense with no hindsight. In Sioux Falls, Keisha hides a $2,800 college gap while helping run a summer agua fresca stand and uncovering her grandmother Estelle's secret wealth. The book is about money shame, family secrecy, work, ownership, and learning to say the number out loud.
+*Full Price* is an adult commercial/book-club novel narrated by Keisha Carter, 19, in first-person present tense with no hindsight. In Sioux Falls, Keisha hides a $2,800 college gap while helping run a summer agua fresca stand and uncovering her grandmother Estelle's secret wealth. The book is about money shame, family secrecy, work, ownership, and learning to say the number out loud. The goal is to tell a funny and entertaining story while quietly encouraging young women to learn about money and finance. 
 
-## Companion files
+## Folder structure
 
 - `story-bible.md` is canon: pitch, cast, setting, money logic, emotional architecture.
 - `chapter-plan.md` is sequence only: 28 chapters, scene beats, POV, Keisha pressure, and chapter turns. Do not infer extra drafting rules from it.
-- If files conflict: `story-bible.md` wins on canon, `chapter-plan.md` wins on order, this file wins on drafting rules.
 
 ---
 
@@ -17,7 +16,7 @@
 - Keisha narrates in first person, present tense, comic and avoidant.
 - Adult family/friendship novel with a light romantic thread; not YA, not romance-led.
 - Artifacts appear only for emotional or plot impact. No artifact-per-chapter rhythm.
-- Never use bridges as metaphor. Keisha's civil-engineering interest stays specific, comic, and literal.
+- Keisha's civil-engineering interest stays specific, comic, and literal.
 
 ---
 
