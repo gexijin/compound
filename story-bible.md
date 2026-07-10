@@ -30,15 +30,7 @@ The ending is hopeful but not tidy. Keisha returns to school at a visible cost: 
 
 # Reader experience
 
-The reader should feel they are reading:
-
-* an intergenerational family-secret novel — the frame that holds everything else
-* a funny college-money crisis story
-* a friendship/business summer plot
-* a family/friendship novel with a light romantic thread
-* a story about shame, pride, and asking for help
-
-The money education should arrive through scenes, not explanations. The reader should learn almost accidentally. The book should feel like ordinary summer life before it feels like a money novel: jokes, fights, objects, timing, and choices first; lessons never.
+An intergenerational family-secret novel first — the frame that holds everything else — then a funny college-money crisis, a friendship/business summer plot, a light romantic thread, and a story about shame, pride, and asking for help. The book should feel like ordinary summer life before it feels like a money novel.
 
 ---
 
@@ -69,7 +61,7 @@ The market is the book's village. A small recurring cast circulates through the 
 
 * **The produce vendor two stalls down** — a Sudanese family; a teenage son Sydney flirts with unproductively.
 * **Two church ladies from Estelle and Denise's congregation** who buy one cup each, split a third, and track Keisha's countdown to Brookings out loud: *"What is it now, three weeks?"* The church community gives the Carters a social world of their own; the family is never representationally alone in the book.
-* **The concessionaire** — a food-truck owner, friendly, appraising. He becomes the $600 vendor offer, which now **lands at the close of ch. 13** — minutes after the fairness amendment is signed, before anyone knows that paper is a poison pill — **sits unanswered through ch. 14, and deflates in ch. 15.** He should be liked before the offer, and the offer should be allowed to sit predatory-adjacent for one full chapter: a friendly man pricing three girls' summer at scrap value is capital doing what capital does, smiling. The girls feel the insult *before* the recipe clause defuses it; his later good-corner hint (ch. 28) lands as forgiveness earned, not innocence retained.
+* **The concessionaire** — a food-truck owner, friendly, appraising. He becomes the $600 vendor offer (sequenced across chs. 13–15 in the plan). He should be liked before the offer, and the offer allowed to sit predatory-adjacent for one full chapter: a friendly man pricing three girls' summer at scrap value is capital doing what capital does, smiling. His later good-corner hint lands as forgiveness earned, not innocence retained.
 * **Miss Estelle's market reputation.** The vendors all know her. She has haggled with every one of them and won. When she takes her thirty percent in cash at the stand (ch. 7), at least one vendor visibly finds this hilarious.
 * The girls would learn from these vendors. For example, they learned how to process credit card payments and/or do a little bookkeeping. 
 
@@ -129,7 +121,7 @@ Wages live *upstream* of this table — they are inside the gap's definition, no
 
 There is **no tuition rescue from Estelle**.
 
-The replicable lesson is: small early help matters, asking again matters, work matters — and work has a ceiling — and naming the number matters.
+The replicable lesson is: small early help matters, asking again matters, and naming the number matters.
 
 ## The three physics of money (education spine)
 
@@ -186,13 +178,7 @@ The fund slip must not be named or handled in ch. 14; it is the physical hinge b
 
 ## Four key Estelle-Keisha beats
 
-**Early:** Estelle asks, "You have your housing?" Keisha lies. Estelle never asks again.
-
-**Middle:** While filing Estelle's papers, Keisha hears the first telling — the erasure story, triggered by the 1965 pay envelope — and handles an envelope from the 529 institution in the same session. She does not read it. Keisha hears what was done to Estelle while holding the envelope that contains its sequel, and reads neither.
-
-**Late:** Keisha begins, "Can I ask you something about money?" Estelle almost offers. Both retreat. Keisha sees Estelle watching her leave.
-
-**Latest — the reciprocity (ch. 24):** after Estelle's full story and defense, after "that is an explanation, it is not an apology," Keisha says the number out loud, to Estelle, for the first time to anyone: *twenty-eight hundred dollars.* Not a request; a matching disclosure. Estelle gave 1976; Keisha gives $2,800. Estelle does not offer to pay it, and the scene lets that refusal stand without cruelty. This beat arms the ch. 26 loan and converts ch. 27 into a second, harder telling.
+The spine runs in four beats, staged in full in the chapter plan: the housing lie (ch. 3), the first telling and the unread 529 envelope (ch. 14), the near-miss (ch. 19), and the reciprocity (ch. 24) — Estelle gives 1976; Keisha gives $2,800, a matching disclosure, not a request.
 
 The theme performs itself: two women trained by secrecy miss each other by inches — until each hands the other one true thing.
 
@@ -299,7 +285,7 @@ Black. Estelle's daughter, born before the mid-1970s widowhood. Shift supervisor
 
 **She is a first-generation college parent**, and the book knows what that means even though she doesn't have the phrase: the portals, the bursar, the aid letters are systems that first-gen families famously cannot decode, and nobody at the institution tells them so. Her bluffing is not a personal quirk; it is a structural condition wearing a brave face.
 
-The envelope system is the inherited technology (see Emotional architecture): Estelle left envelopes instead of explanations, and Denise built a life inside the method with the knowledge stripped out. Neither woman has noticed they use the same container.
+The envelope system is the inherited technology — see "The envelope as inherited technology" under Emotional architecture.
 
 She does not know how to decode college finance systems — and the reason is upstream: Estelle never taught her, for two braided reasons the book eventually untangles: teaching would have exposed the fortune, and Estelle never believed her self-taught knowledge was hers to pass on out loud. Denise finished high school and did everything right and was somehow taught less than her mother learned alone. That irony should hurt when it surfaces in ch. 27.
 
@@ -331,7 +317,7 @@ She supplies the family recipe, recognizes unpaid value faster than the older gi
 
 Her major scenes are the recipe invoice, the custodial-account scene, and the final watching image.
 
-**Ownership rule (firm):** the ch. 13 amendment gives Sofi a real stake — a per-batch recipe royalty plus a vote, not a gesture. The ch. 15 vendor scene pays it off: asked whether the recipe transfers, the answer is no — it is hers — and that reshapes the deal.
+**Ownership rule (firm):** the amendment gives Sofi a real stake — a per-batch recipe royalty plus a vote, not a gesture — and the recipe does not transfer with the business; it is hers. (Staged in chs. 13 and 15 of the plan.)
 
 **Thematic role:** Sofi is the fourth generation by proximity, not blood. The hiding pattern travels through community, not chromosomes. The final image (ch. 28) makes the claim: anyone's daughter is watching.
 
@@ -387,4 +373,4 @@ White; Norwegian-Lutheran stock, fourth-generation Sioux Falls. Her home is kind
 
 Emily opens her account before Keisha knows — discovered as a fact in ch. 23, never staged as a scene. That proves Keisha's limited POV has missed other people's courage: the door opens quietly.
 
-Emily also owns the book's teaching instrument: the **ch. 17 triptych** (register / stand / screenshot, per-hour, one table) and its ch. 12 seed — see "The three physics of money."
+Emily also owns the book's teaching instrument, the triptych — see "The three physics of money."
