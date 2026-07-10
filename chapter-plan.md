@@ -59,7 +59,7 @@ For Keisha the flop confirms the physics she already believes: a shift pays whet
 
 The same morning, before the market, a classmate posts RA-training photos from Brookings — and the spring RA rejection is revealed: the memory arrives in Keisha's register, dated and done. "I already tried" becomes her alibi.
 
-Then, in the flop's aftermath, the cash-box handover happens live at the stand: Keisha takes charge of the money because being trusted with money feels like competence — trusted with the cash box on the same day she remembered being refused a job and stood behind a stand that made nothing.
+Then, in the flop's aftermath, the cash-box handover happens live at the stand: Keisha takes charge of the money because being trusted with money feels like competence — trusted with the cash box on the same day she remembered being refused a job and stood behind a stand that made nothing. That evening, one beat at home: Denise teaches her the cash-drawer liturgy — count it twice, band the twenties, the way she closes the store every night (armed for ch. 14; bounds per the bible's Denise entry).
 
 **POV:** the memory via a post on the page; in-scene behind the stand for the full humiliation; the handover in-scene.
 **Keisha pressure:** Keisha wants public effort to count as proof she is fine; the flop makes her failure visible to people who know her countdown, and the cash box lets responsibility feel like safety.
@@ -201,7 +201,7 @@ The offer gets its meeting. The insult is felt first and fully — the concessio
 
 ### 14. The Float
 
-Shortly after the deposit, because the deposit emptied her and the float is what empty does next. Her current paycheck is already spoken for, the next one is nine days out, and the ice supplier must be paid today. Keisha borrows $60 from the stand float, meaning to replace it. She calls it internal cash timing.
+Shortly after the deposit, because the deposit emptied her and the float is what empty does next. Her current paycheck is already spoken for, the next one is nine days out, and the ice supplier must be paid today. Keisha borrows $60 from the stand float, meaning to replace it. She calls it internal cash timing. The borrow breaks the cash-drawer liturgy Denise taught her in ch. 4 — the one money thing her mother ever explicitly taught her; no narration names this, the drawer count just comes up short of ritual.
 
 The same week, at the kitchen table: the car needs a repair, and Denise handles it — payment plan negotiated by phone with total command, envelopes re-dealt like a shift schedule, nothing hidden, nothing bluffed, because this is her terrain. Keisha watches her mother manage honest money in the open while carrying sixty stolen dollars.
 
@@ -297,13 +297,15 @@ His crash remains his own: no reforming for Keisha, no scene where she saves him
 
 ### 20. The Ledger and the Envelope
 
-Season winding down. Stand shares total about $1,000 each. Keisha is still short. She decides to stop hiding, starting with Estelle.
+Season winding down. Stand shares total about $1,000 each. And the employment email comes back — a plain yes shaped like a schedule: circulation desk, fall shifts, a per-hour, a start date. Her first outward ask worked. She runs the new column and it dies against the number she believes: job plus stand share against $7,800 is a rounding error, not a plan. The reader, holding the strand, can run the other math — against the true gap, the yes just closed it; she is already saved and cannot see it. The ask worked and it is not enough: that is what decides her. She stops hiding, starting with Estelle.
+
+At one of the last stand days, the never-visits runner pays off: Denise finally makes it — the supervisor who covered everyone else's Friday all summer — buys one cup, and pays full price. One beat, unremarked.
 
 During the final ledger session, a stray detail — a transfer notation, the app on the cracked phone finally opened — reveals that Emily opened her account **weeks ago** and never said. One beat, no scene. Keisha's limited POV missed someone's courage entirely, discovered the night she decides to stop hiding: evidence that the door opens quietly.
 
-**POV:** in-scene at the ledger session; the notation crosses the table in front of her.
-**Keisha pressure:** Keisha wants the ledger to tell her confession can still be avoided; the numbers prove it cannot.
-**Turn:** the numbers force the first honest conversation.
+**POV:** the yes arrives on her own phone; in-scene at the ledger session; the notation crosses the table in front of her.
+**Keisha pressure:** Keisha wants the answered ask to make confession avoidable; the numbers prove that even asking-that-works cannot out-math the lie.
+**Turn:** the ask worked and it is not enough — the numbers force the first honest conversation.
 **Hook:** the confession is decided and not yet spoken.
 
 ### 21. Estelle's Story

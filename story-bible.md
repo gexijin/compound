@@ -4,7 +4,7 @@
 
 **Title:** *Full Price* (working title, formerly *Grandma Stell's Secrets*. )
 **Category:** Adult commercial fiction with book-club appeal — **fixed; not revisited.**
-**Primary readership:** the adult book-club core, women 25–55, with natural crossover to younger readers. Although Keisha is nineteen, the book is adult fiction because the emotional frame belongs equally to Keisha, Denise, and Estelle. The three-generation braid is the book's center of gravity and its claim to the shelf: Estelle and Denise carry narrative mass equal to the summer-stand plot.
+**Primary readership:** the adult book-club core, women 25–55, with natural crossover to younger readers. Although Keisha is nineteen, the book is adult fiction because the emotional frame spans three generations. Its center of gravity is the girls' summer and the Keisha–Estelle braid: Estelle carries narrative mass equal to the summer-stand plot. Denise is the braid's hinge — essential, complete, and small by design.
 **Target length:** 78,000–85,000 words
 **Structure:** approximately 25 chapters in three acts, plus five titled interstitials — the **Essie strand** (page order: 1965, 1976, 2009, 1987, 2021); chapter length varies by design — single-beat chapters stay short, the two set pieces (chs. 21 and 24) may run long
 **Narration:** first-person Keisha, present tense, comic, no hindsight — plus the Essie strand: five interstitials in close-third past tense, each a single scene anchored on one canonical artifact, 3–6 pages, unnumbered, titled by year. Rules in "The Essie strand" under Emotional architecture.
@@ -143,7 +143,7 @@ Wages live *upstream* of this table — they are inside the gap's definition, no
 | Source                        | Approximate role                                                                                                                             |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 529 annual slice              | $5,000, already in motion before the reveal, misunderstood by Keisha — inside the gross gap's definition, like the wages                     |
-| Campus job / circulation desk | ~$1,880 across fall shifts against a bursar payment plan — comes from Keisha asking again after the spring rejection; a Brookings job, arranged remotely, which is why the drafts-folder email matters |
+| Campus job / circulation desk | ~$1,880 across fall shifts against a bursar payment plan — comes from Keisha asking again after the spring rejection; a Brookings job, arranged remotely, which is why the drafts-folder email matters. The yes is staged in ch. 20, where it lands as not-enough against the number she believes — and, for the reader, as the true gap quietly closing |
 | Stand share                   | ~$1,000, earned through a Sioux Falls summer: market Saturdays and Levitt nights                                                             |
 | Margin                        | very small, roughly $80; no triumphant surplus                                                                                               |
 
@@ -333,6 +333,10 @@ Black. Estelle's daughter, born before the mid-1970s widowhood. Shift supervisor
 
 **Her competence comes first, and it is real.** Denise runs the household on labeled cash envelopes — GROCERIES, LIGHTS, CAR, SCHOOL — and can stretch a week further than anyone else in the book. She is genuinely good with money at the scale she was allowed to learn it; what she lacks is not sense but systems literacy — bursars, portals, aid letters, anything with a login. The book honors her dialect before it names her gap. She is never the butt of the not-knowing.
 
+**The stand's kitchen-table consultant (bounded).** Denise helps the stand, and only in her physics: stock, perishables, staffing, cash hygiene. She eyeballs the cup order, knows what melts first in what weather, and — at the ch. 4 cash-box handover — taught Keisha the cash-drawer liturgy: count it twice, band the twenties, the way she closes the store every night. (The ch. 14 float borrow violates the one money thing her mother explicitly taught her; the same chapter shows Denise handling honest money in the open.) Two firm limits: she never touches the ownership questions — the split, the royalty, the $600 offer belong to the girls and Estelle, and her silence during those fights maps the physics she was never taught — and she never fixes a failure on the page. Her advice arrives at the kitchen table and is carried to the stand and executed by Keisha; the girls' mistakes stay theirs.
+
+**The runner (her want):** she keeps meaning to come see the stand and never does — she is the supervisor who covers everyone else's Friday. It costs one line of texture per act, never commented on. Payoff: one late-season stop (ch. 20 region) where she buys one cup and pays full price. Her whole want, one beat, unremarked.
+
 **She is a first-generation college parent**, and the book knows what that means even though she doesn't have the phrase: these are systems first-gen families famously cannot decode, and nobody at the institution tells them so. Her bluffing is not a personal quirk; it is a structural condition wearing a brave face.
 
 The envelope system is the inherited technology — see "The envelope as inherited technology" under Emotional architecture.
@@ -350,7 +354,7 @@ Her active hiding — performed certainty on portals and in offices — is defin
 
 She should have at least one earlier moment of almost-knowing — the plan stages three: the forwarded-email hesitation (ch. 5), the commuter answer a beat too fast (ch. 9), and the bedding-bag look (ch. 16). She is not blind. She simply does not know what system she is looking at.
 
-**Beat map:** Denise is spine-level; the cast-economy cap does not apply to her. Her beats — the envelope system as ch. 1 texture, the three almost-knowing moments, the ch. 14 car-repair counterweight scene, and the ch. 24 payoff — are sequenced in the chapter plan.
+**Beat map:** Denise is the braid's hinge — essential, complete, and small by design; her role does not grow in draft. Her beats — the envelope system as ch. 1 texture, the cash-drawer liturgy at the ch. 4 handover, the three almost-knowing moments, the ch. 14 car-repair counterweight scene, the never-visits runner with its ch. 20-region full-price cup, and the ch. 24 payoff — are sequenced in the chapter plan.
 
 ## Sofía "Sofi" Ortiz, 16 — the watched one
 
