@@ -74,25 +74,51 @@ What the job *is*, is worldview: hours-for-dollars is the only money physics Kei
 
 ## The gap: $5,500 gross, $2,800 net
 
-The *gross* shortfall for sophomore year is roughly **$5,500**. Twelve weeks of summer shifts at Sioux Falls fast-food wages net Keisha about **$2,700**. **The gap that remains — the number she hides — is $2,800.**
+The real annual cost is smaller than the sticker. SDSU publishes a cost of attendance around **$26,000** for a resident living on campus, but roughly **$8,000** of it comes back every year as grants and scholarships — partial Pell on Denise's income, state and institutional aid. That aid renews; it is weather, not plot. **Keisha's true annual cost is about $18,000.**
+
+The sophomore-year ledger, in full:
+
+| Line                    | Amount      | Note                                                                                          |
+| ----------------------- | ----------- | --------------------------------------------------------------------------------------------- |
+| Real annual cost        | $18,000     | $26,000 sticker minus ~$8,000 renewing aid                                                    |
+| Federal student loan    | −$6,500     | the legal maximum for a dependent sophomore — she has already borrowed everything the law allows |
+| 529 annual slice        | −$5,000     | paid by the plan directly to the bursar; see "The 529"                                        |
+| Denise                  | −$1,000     | the SCHOOL envelope, about $85 a month — on top of the unpriced things: summer bed, food, phone |
+| **Gross shortfall**     | **$5,500**  | |
+| Summer fryer wages      | −$2,700     | twelve weeks, twenty hours, hot oil                                                           |
+| **Net gap — the hidden number** | **$2,800** | |
+
+The loan cap matters: the work was already maximal, and so was the borrowing. There is no lever left that isn't speech.
 
 The sacrosanct figure is the **net**. It is shame-sized: small enough that one honest conversation could change everything, large enough to feel impossible alone. The tragedy is not that the number is huge. The tragedy is that Keisha ground a big number down with her own hands, over hot oil, and *still* could not say the remainder out loud. Work shrank the number. Only speech can finish it.
 
 The net number should not be widened for melodrama.
 
 
-## The 529
+## The 529: $20,000, built from $400 a year
 
-Estelle opened a 529 when Keisha was two — around 2009. She made small yearly deposits for years, invested in broad index funds, then shifted the money toward safety as college approached. Total amounts to $50,000.  Estelle wisely planned to disburse this over 4 years.
+Estelle opened a 529 when Keisha was two — 2009 — and put in **$400 a year, every January, for sixteen years**. Thirty-three dollars a month; less than she haggles off an estate-sale table. Low-cost index funds through the long bull market, then shifted to safety at the end of 2021 — Keisha was fourteen, college had become real — which happened to dodge the 2022 crash. Nobody knew the account existed, so nobody knew it dodged anything.
 
-Freshman year, that annual slice partially helped cover Keisha's costs at SDSU. Keisha never understood that there is the same amount from the 529 for all 4 years. She assumed it was all. Sophomore year, she only have some support from her mom, the student loan, and thus a big gap.
+Against actual S&P returns the arithmetic lands at about **$20,600: $6,400 deposited, $14,200 of growth**. The market put in more than twice what Estelle did. That ratio is the point — she didn't give Keisha twenty thousand dollars; she gave her $33 a month and time, and patient capital did the rest.
 
-The reveal should feel like emotional archaeology, not rescue. The money was already there, already helping, already incomplete.
+She keeps one for **every grandchild, identically** — a system, not a favorite. The whole apparatus costs her about $2,400 a year, sustainable for decades without anyone noticing a thing. Disbursement is engineered to her taste: **$5,000 a year for four years, paid by the plan directly to the bursar**, landing on the student account days before each deadline, unlabeled and unexplained. Help that is real, insufficient, and invisible, in equal measure for everyone.
+
+The reveal should feel like emotional archaeology, not rescue. The money was already there, already helping, already incomplete — and at $5,000 a year, rescue was never arithmetically possible.
+
+Never quote a rate of return on the page. Deposits and totals only; Emily's triptych carries the physics.
+
+## What Keisha knows: the two maths
+
+Freshman year closed without a crisis, and Keisha misread why. Year one carried a **one-time freshman award (~$2,000)** plus her high-school savings, alongside the first two unlabeled 529 payments. Some of the freshman help genuinely *was* one-time; she pattern-matched the mystery credit into the same dying category. She never itemized the credit line on the bursar portal — the girl who will file the 529 envelope unread does not audit good news.
+
+Planning sophomore year in April, she runs the math both ways. If the mystery money comes back: **$2,800 short** — hideable, grindable, survivable-shaped. If it doesn't: **$7,800** — three summers of fryer work, the take-a-year-off number. She plans on the small number because the big one ends college, and she hides $2,800 all summer while the $7,800 hums underneath it. The one act that would settle which math is true — asking someone — is the one she cannot perform. Avoidance as load-bearing architecture.
+
+Ch. 24 therefore hands her no money at all. The fall slice was already in motion. What Estelle gives her is the name and the guarantee — certainty, not cash.
 
 
 ## Estelle's wealth plausibility
 
-Estelle is quietly secure, not mansion-rich. The money is boring, old, patient, and administratively plausible: early small deposits, low costs, long holding in a retirement account (Roth IRA). Keisha and Denise never had reason to know. The fortune is emotionally explosive because it was hidden, not because it is flashy. Make it $900,000.
+Estelle is quietly secure, not mansion-rich. The money is boring, old, patient, and administratively plausible: early small deposits, low costs, long holding in a retirement account (Roth IRA). Keisha and Denise never had reason to know. The fortune is emotionally explosive because it was hidden, not because it is flashy. Make it $900,000. The grandchildren's 529 system — $2,400 a year, all accounts together — is a rounding error inside it, which is exactly how she could run it unnoticed.
 
 ## How the gap closes
 
@@ -100,9 +126,9 @@ Wages live *upstream* of this table — they are inside the gap's definition, no
 
 | Source                        | Approximate role                                                                                                                             |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 529 annual slice              | already disbursed, misunderstood by Keisha                                                                                                   |
-| Campus job / circulation desk | comes from Keisha asking again after the spring rejection — a Brookings job, arranged remotely, which is why the drafts-folder email matters |
-| Stand share                   | earned through a Sioux Falls summer: market Saturdays and Levitt nights                                                                      |
+| 529 annual slice              | $5,000, already in motion before the reveal, misunderstood by Keisha — inside the gross gap's definition, like the wages                     |
+| Campus job / circulation desk | ~$1,720 across fall shifts against a bursar payment plan — comes from Keisha asking again after the spring rejection; a Brookings job, arranged remotely, which is why the drafts-folder email matters |
+| Stand share                   | ~$1,000, earned through a Sioux Falls summer: market Saturdays and Levitt nights                                                             |
 | Margin                        | very small, roughly $80; no triumphant surplus                                                                                               |
 
 There is **no tuition rescue from Estelle**.
@@ -238,7 +264,7 @@ Her names — Grandma Stell, Miss Estelle, the reserved "Essie" — are governed
 * **1965:** the pay envelope — John Morrell plant, age 17, already a veteran of two paychecks a month.
 * **Mid-1970s:** widowed young. Banks would not deal with her — as a widow, legally, until 1974; as a Black woman with an eighth-grade education, in practice, longer. This is the erasure.
 * **1976:** first fund account in her own name, opened within two years of the law changing, filled out in careful handwriting she'd practiced first on scrap paper. This is the fund slip — not a prop but the hinge of her life.
-* **~2009:** opens the 529 when Keisha is two.
+* **2009:** opens Keisha's 529 when she is two — one of the identical accounts she keeps for every grandchild, $400 every January; shifted to safety at the end of 2021, just ahead of the crash. See "The 529."
 
 She shops thrift, reuses bags, saves jars, negotiates over tiny amounts, refuses to replace broken things, and treats comfort as suspicious. At the market this is legend; at home it is starting to look like something else.
 
