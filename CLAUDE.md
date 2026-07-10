@@ -1,7 +1,5 @@
 # Grandma Stell's Secrets — Craft Rules
 
-> **File set:** `story-bible.md` (canon: pitch, setting, money & emotional architecture, cast) · `chapter-plan.md` (the 28 chapters; scene-level craft notes live inline there) · `craft-rules.md` (global drafting rules and devices).
-> **Convention:** every fact or rule lives in exactly one file; the others reference it. If files appear to conflict, `story-bible.md` wins on canon, `craft-rules.md` wins on rules, `chapter-plan.md` wins on scene order.
 
 # Form and devices
 
@@ -19,11 +17,6 @@
 * the market regulars (recurring witness cast; see Setting)
 * Emily's one-page cheat sheet as an in-world artifact only
 
-## Cut from manuscript
-
-No back-matter appendix. The expanded cheat sheet can become a website/newsletter extra.
-
-An adult reader should not feel they have bought homework.
 
 ## Artifact rule
 
