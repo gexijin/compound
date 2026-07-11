@@ -57,6 +57,7 @@ Omit any optional field when it doesn't apply — don't set it to `""`, `0`, or 
 | `title` | One-line description of the beat (shows in tooltip and scene grid). |
 | `intensity` | 0–10 (number): how much is overtly at stake *on the page*. |
 | `suspense` | 0–10 (number): pressure of the cards the reader currently holds. |
+| `comedy` | 0–2 (integer): comic weight on the page — `0` none (omit it), `1` comic texture/voice, `2` a comic set piece. The book's second release valve (design rules #1 and #3). |
 | `hard_out` | `true` if a chapter ends here mid-crisis (the red dots); omit otherwise. |
 | `essie` | Year of the Essie detonation triggered here (`"1965"`, `"1976"`, …); omit if none. |
 | `denise` | Denise strand page (`"D1"`, `"D2"`, `"D3"`); omit if none. |
@@ -134,11 +135,12 @@ side too; the scores only mean anything relative to their neighbors.
 
 ## What the linter checks (advisory, never blocking)
 
-- **Back-to-back sirens** — adjacent beats both ≥ 8, or consecutive hard outs (design rule #1: every bang buys a breath). The climax beat is exempt.
+- **Every bang buys a release** — the reframed design rule #1. A *bang* is a crisis-level beat (intensity ≥ 8); it must be followed, in the same beat or the next two, by a *release* — a quieter beat (intensity ≤ 4), a laugh (comedy = 2), or a card cashing. This book breathes through comedy and resolution, not only lulls, so the check credits all three valves. The climax is exempt. Consecutive hard outs are reported as a note (fine when one of them releases).
 - **Rising floor** — each act's quietest pre-climax beat, measured on *felt tension* `max(intensity, suspense)`, must not sit below the previous act's.
 - **Irony gap dips** — suspense below intensity between the first card deal and the climax (excluding cash-in beats). A single-beat dip at a hard out is normal; a sustained run means the reader has run out of cards.
 - **Card bookkeeping** — every `card_dealt` matches a `cards.json` entry and beat number; every `cashed_beat` lands on a `cards_cashed` beat; open cards and cards held under ~5 beats are reported.
 - **Strand starvation** — the longest stretch with no strand event, card, or near-miss (flagged at ≥ 6 beats).
+- **Comedy quota** — the longest laugh desert (consecutive beats with `comedy` 0) is flagged at ≥ 4 beats (design rule #3: funny is the delivery mechanism). Comedy set pieces (`comedy` 2) and per-act comedy weight are reported so the quota can be eyeballed act by act.
 - **Cast-to-curriculum** — every money physics (`wages`, `ownership`, `compounding`, `speed`) has an owner; exactly the three expected rescues are flagged; every strand the beats run has a character who owns it. Unowned supporting lessons and the counterfeit `speed` carrier are reported as notes.
 - **Lesson coverage** — every `teaches` tag a character owns is actually delivered by some lesson; every substantial beat (hard out or intensity ≥ 7) delivers at least one lesson (design rule #4: every set piece pays tuition); physics taught only once, and the counterfeit `speed`, are reported as notes, plus a per-act delivery count.
 - **Money reconciliation** — the bill bridge re-computes ($18,000 → net gap → margin) and must match its stated subtotals/margin; the fixed figures ($7,800 / $5,000 / $2,800) must still appear; the feared number must split exactly into its parts; redundant ("bought nothing") rescues and provisional rows are reported, along with the standing spine-vs-`math/` note on how the $2,800 closes.
@@ -152,6 +154,6 @@ unknown ledger `kind`/`op`/`actor`, a lesson beat out of range, an unknown
 The linter intentionally flags several things in the current design — keep or fix
 consciously:
 
-- **Pacing:** beats 30–31 stack two sirens/hard outs at the end of Act 4; Act 5's pre-climax breath (beat 33) sits below Act 4's floor; the "sell slip" card has no cash-in beat yet (tracked in the spine's open items).
+- **Pacing:** the crash (beat 25) is an *unreleased bang* — down 80% with no quieter beat, laugh, or card cashing in the following two beats; and beats 24–27 are a *laugh desert* (no comedy at all across the top of Act 4). These two are the sharp form of "Act 4 has no breath." Act 5's pre-climax breath (beat 33) still trips the falling-floor check — but that is a *symptom* of Act 4's high floor, not an independent problem: give Act 4 a trough and it resolves. The 30–31 hard-out pair is now only a note (beat 30 releases by cashing cards). The "sell slip" card still has no cash-in beat (tracked in the spine's open items).
 - **Curriculum:** beats 2, 5, and 31 are substantial (hard out or intensity ≥ 7) but deliver no catalogued lesson — they're turn/setup beats (the pocketed twenty, the bill lands, Estelle's price). Confirm each earns its place under rule #4, or note it as a deliberate pure-plot beat. Act 1 carries only one delivery: it's front-loaded with setup, not teaching.
 - **Money:** four ledger rows are provisional (the trading peak, advance, and trough, plus Denise's watch) — unpriced until the `math/` fact-check pass. Denise's watch is a *redundant* rescue by design (it "buys nothing"). And there is a standing spine-vs-`math/` discrepancy the lint surfaces every run: `tuition_gap.py` closes the $2,800 with stand share + circulation desk ($1,000 + $1,880 = $2,880), while the spine's Act 5 prose also names "the liquidated remainder" among the closers — decide whether the trading detour contributes to the close or nets out. (Separately, the `math/` scripts still reference a `story-bible.md`; the design doc is now `full-price-spine.md`.)
