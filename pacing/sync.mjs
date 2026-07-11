@@ -406,9 +406,9 @@ if (feared && parts.length) {
   if (sum !== +feared.amount) warn.push(`fear split — the feared $${feared.amount} ≠ $${sum} (${parts.map(p => '$' + p.amount).join(' + ')})`);
   else ok.push(`the feared $${feared.amount.toLocaleString()} splits exactly into ${parts.map(p => '$' + p.amount.toLocaleString() + (p.actor ? ' ' + p.actor : '')).join(' + ')}`);
 }
-// redundant rescues (the "bought nothing" beat) and provisional (unpriced) rows
+// redundant rescues and provisional (unpriced) rows
 ledger.filter(e => e.kind === 'rescue' && e.applied === false)
-  .forEach(e => info.push(`redundant rescue — ${e.actor}'s "${e.label}" raises money that doesn't reduce the bill (the "season of silence that bought nothing"); keep intentional`));
+  .forEach(e => info.push(`redundant rescue — ${e.actor}'s "${e.label}" raises money that doesn't reduce the bill; keep the proceeds and nonfinancial cost accounted for`));
 const prov = ledger.filter(e => e.provisional).length;
 if (prov) info.push(`${prov} ledger rows are provisional (the unpriced trading detour + the watch) — amounts await the math/ fact-check pass`);
 // standing discrepancy between the spine prose and the math/ scripts
