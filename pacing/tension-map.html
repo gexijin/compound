@@ -1,0 +1,444 @@
+<title>Full Price — Tension Map</title>
+<style>
+  :root {
+    --page: #f9f9f7;
+    --surface: #fcfcfb;
+    --ink: #0b0b0b;
+    --ink-2: #52514e;
+    --muted: #898781;
+    --grid: #e1e0d9;
+    --baseline: #c3c2b7;
+    --border: rgba(11,11,11,0.10);
+    --band: rgba(11,11,11,0.026);
+    --intensity: #e34948;   /* red — on-page intensity */
+    --suspense: #2a78d6;    /* blue — reader suspense */
+    --essie: #4a3aa7;       /* violet — Essie strand */
+    --denise: #1baf7a;      /* aqua — Denise strand */
+    --nearmiss: #eda100;    /* yellow — near-misses */
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --page: #0d0d0d;
+      --surface: #1a1a19;
+      --ink: #ffffff;
+      --ink-2: #c3c2b7;
+      --muted: #898781;
+      --grid: #2c2c2a;
+      --baseline: #383835;
+      --border: rgba(255,255,255,0.10);
+      --band: rgba(255,255,255,0.035);
+      --intensity: #e66767;
+      --suspense: #3987e5;
+      --essie: #9085e9;
+      --denise: #199e70;
+      --nearmiss: #c98500;
+    }
+  }
+  :root[data-theme="dark"] {
+    --page: #0d0d0d; --surface: #1a1a19; --ink: #ffffff; --ink-2: #c3c2b7;
+    --muted: #898781; --grid: #2c2c2a; --baseline: #383835;
+    --border: rgba(255,255,255,0.10); --band: rgba(255,255,255,0.035);
+    --intensity: #e66767; --suspense: #3987e5; --essie: #9085e9;
+    --denise: #199e70; --nearmiss: #c98500;
+  }
+  :root[data-theme="light"] {
+    --page: #f9f9f7; --surface: #fcfcfb; --ink: #0b0b0b; --ink-2: #52514e;
+    --muted: #898781; --grid: #e1e0d9; --baseline: #c3c2b7;
+    --border: rgba(11,11,11,0.10); --band: rgba(11,11,11,0.026);
+    --intensity: #e34948; --suspense: #2a78d6; --essie: #4a3aa7;
+    --denise: #1baf7a; --nearmiss: #eda100;
+  }
+
+  body {
+    background: var(--page);
+    color: var(--ink);
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    line-height: 1.55;
+    margin: 0;
+    padding: 2.5rem 1.25rem 4rem;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; }
+  .prose { max-width: 66ch; }
+
+  .eyebrow {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 0.72rem; font-weight: 600; letter-spacing: 0.14em;
+    text-transform: uppercase; color: var(--muted); margin: 0 0 0.6rem;
+  }
+  h1 {
+    font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 600;
+    letter-spacing: -0.01em; margin: 0 0 0.75rem; text-wrap: balance;
+  }
+  h2 {
+    font-size: 1.25rem; font-weight: 600; margin: 3rem 0 0.5rem;
+    text-wrap: balance;
+  }
+  p { margin: 0 0 1rem; color: var(--ink-2); }
+  p strong, li strong { color: var(--ink); }
+  .dek { font-size: 1.06rem; }
+
+  /* legend */
+  .legend {
+    display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem;
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 0.8rem; color: var(--ink-2);
+    margin: 1.5rem 0 0.5rem; align-items: center;
+  }
+  .legend .key { display: inline-flex; align-items: center; gap: 0.45rem; }
+  .key .line { width: 22px; height: 0; border-top: 2.5px solid; border-radius: 2px; }
+  .key .dot { width: 9px; height: 9px; border-radius: 50%; box-shadow: 0 0 0 2px var(--surface); }
+  .key .diamond { width: 9px; height: 9px; transform: rotate(45deg); border-radius: 1px; }
+  .key .square { width: 9px; height: 9px; border-radius: 2px; }
+  .key .tri { width: 0; height: 0; border-left: 5.5px solid transparent; border-right: 5.5px solid transparent; border-bottom: 9px solid var(--ink); }
+
+  figure { margin: 0; }
+  .chart-frame {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 10px 8px;
+    overflow-x: auto;
+    position: relative;
+  }
+  .chart-frame svg { display: block; min-width: 980px; width: 100%; height: auto; }
+  svg text {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+
+  .tooltip {
+    position: absolute; top: 0; left: 0; visibility: hidden;
+    pointer-events: none; z-index: 3;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; box-shadow: 0 6px 24px rgba(0,0,0,0.14);
+    padding: 0.55rem 0.7rem; max-width: 260px;
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 0.76rem; line-height: 1.45; color: var(--ink-2);
+    opacity: 0; transition: opacity 120ms ease;
+  }
+  @media (prefers-reduced-motion: reduce) { .tooltip { transition: none; } }
+  .tooltip.on { opacity: 1; visibility: visible; }
+  .tooltip .tt-beat { color: var(--muted); font-size: 0.68rem; letter-spacing: 0.06em; text-transform: uppercase; }
+  .tooltip .tt-title { color: var(--ink); font-weight: 600; margin: 2px 0 5px; }
+  .tooltip .tt-row { display: flex; align-items: center; gap: 0.45rem; }
+  .tooltip .sw { width: 8px; height: 8px; border-radius: 50%; flex: none; }
+  .tooltip .val { margin-left: auto; font-variant-numeric: tabular-nums; color: var(--ink); font-weight: 600; }
+  .tooltip .tt-ev { margin-top: 5px; color: var(--muted); }
+  .tooltip .chip {
+    display: inline-block; border: 1px solid var(--border); border-radius: 99px;
+    padding: 0 0.45rem; font-size: 0.66rem; margin-top: 5px; color: var(--ink-2);
+  }
+
+  /* tables */
+  .tbl-frame {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; overflow: auto; max-height: 480px;
+  }
+  table {
+    border-collapse: collapse; width: 100%; min-width: 640px;
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 0.8rem;
+  }
+  th {
+    text-align: left; font-weight: 600; font-size: 0.68rem;
+    letter-spacing: 0.09em; text-transform: uppercase; color: var(--muted);
+    padding: 0.6rem 0.8rem; border-bottom: 1px solid var(--grid);
+    position: sticky; top: 0; background: var(--surface);
+  }
+  td {
+    padding: 0.45rem 0.8rem; border-bottom: 1px solid var(--grid);
+    color: var(--ink-2); vertical-align: top;
+  }
+  td.num { font-variant-numeric: tabular-nums; text-align: right; color: var(--ink); }
+  td .b { color: var(--ink); font-weight: 600; }
+  tr:last-child td { border-bottom: none; }
+  .mark { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: baseline; }
+
+  ul.notes { max-width: 66ch; color: var(--ink-2); padding-left: 1.2rem; }
+  ul.notes li { margin-bottom: 0.6rem; }
+  dl.tools { max-width: 66ch; }
+  dl.tools dt { font-weight: 600; margin-top: 0.9rem; }
+  dl.tools dd { margin: 0.15rem 0 0 0; color: var(--ink-2); }
+  .fineprint {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 0.74rem; color: var(--muted); max-width: 66ch; margin-top: 2.5rem;
+  }
+</style>
+
+<div class="wrap">
+  <p class="eyebrow">Full Price · Design phase · Pacing instrument</p>
+  <h1>The Tension Map</h1>
+  <div class="prose">
+    <p class="dek">Two lines, one engine. The <strong>red line</strong> scores what is happening on the page — the sirens. The <strong>blue line</strong> scores what the reader is feeling — the pressure of the cards she holds that Keisha doesn't. The Sheldon effect lives in the <strong>gap between them</strong>: for most of the book, suspense runs above intensity, because the reader knows about Estelle's counting, Denise's portal login, and the 529 long before Keisha does. The lines cross exactly once — at the kitchen table, where every card gets cashed and suspense collapses while intensity peaks.</p>
+  </div>
+
+  <div class="legend" aria-hidden="true">
+    <span class="key"><span class="line" style="border-color:var(--intensity)"></span>On-page intensity</span>
+    <span class="key"><span class="line" style="border-color:var(--suspense)"></span>Reader suspense</span>
+    <span class="key"><span class="dot" style="background:var(--intensity)"></span>Hard out (chapter cliff)</span>
+    <span class="key"><span class="tri"></span>Card dealt / cashed</span>
+    <span class="key"><span class="diamond" style="background:var(--essie)"></span>Essie strand</span>
+    <span class="key"><span class="square" style="background:var(--denise)"></span>Denise strand</span>
+    <span class="key"><span class="dot" style="background:var(--nearmiss)"></span>Near-miss</span>
+  </div>
+
+  <figure>
+    <div class="chart-frame" id="frame">
+      <svg id="chart" viewBox="0 0 1180 478" role="img" aria-label="Tension map of Full Price: on-page intensity and reader suspense across 36 beats and five acts, with strand event lanes. Full data in the scene grid table below."></svg>
+      <div class="tooltip" id="tip"></div>
+    </div>
+    <figcaption class="fineprint">Hover any beat for its scores and events. Scores are 0–10, provisional — re-score them at the chapter-plan stage; the shape is the point, not the digits.</figcaption>
+  </figure>
+
+  <h2>How to read it</h2>
+  <ul class="notes">
+    <li><strong>The sawtooth is the Sheldon signature.</strong> Every hard out is a local spike; every spike is followed by a valley one to two points lower, never a plateau — that's design rule #1 ("every bang buys a breath") made visible. If two adjacent peaks touch, a breath is missing.</li>
+    <li><strong>The gap is the irony engine.</strong> Wherever blue rides above red, the reader is doing the work — the supper table (beat 21) is the extreme case: intensity 2, suspense 10, the quietest scene in the book and the most unbearable. If the gap ever closes to zero mid-book, the reader has run out of cards and the book is coasting.</li>
+    <li><strong>The floor rises.</strong> Each act's valleys sit higher than the last act's. If a late valley dips below an early one, momentum is leaking.</li>
+    <li><strong>The crossover is the climax.</strong> Blue collapses at beat 34 because confession converts suspense into event. Everything after it is denouement and should stay under the Act 1 ceiling.</li>
+  </ul>
+
+  <h2>The irony ledger</h2>
+  <div class="prose"><p>The dramatic-irony bookkeeping: every card the reader holds, when it's dealt, and when it's cashed. A card held too briefly wastes the device; a card that never cashes is a broken promise.</p></div>
+  <div class="tbl-frame">
+    <table>
+      <thead><tr><th>Card the reader holds</th><th>Dealt at</th><th>Cashed at</th><th style="text-align:right">Beats held</th></tr></thead>
+      <tbody>
+        <!-- CARDS:BEGIN (generated by sync.mjs from cards.csv) -->
+        <tr><td><span class="b">Estelle knows the twenty is gone</span> — she counted the envelope light and said nothing</td><td>3 · Essie 1965</td><td>30 · “you owe a cash box twenty dollars”</td><td class="num">27</td></tr>
+        <tr><td><span class="b">Denise has read the portal email</span> — she's known the number since June</td><td>6 · Denise strand 1</td><td>34 · the pawn ticket at the table</td><td class="num">28</td></tr>
+        <tr><td><span class="b">The anonymous “sell” slip was Keisha's</span></td><td>16 · the paper-slip vote</td><td>open item — candidate: the shame visit</td><td class="num">—</td></tr>
+        <tr><td><span class="b">The credit line is Estelle's 529</span> — the reader holds the answer Keisha just handled</td><td>19 · Essie 2009</td><td>30 · the shame visit</td><td class="num">11</td></tr>
+        <tr><td><span class="b">The garage sale was Gary's idea</span> — Denise never won the argument</td><td>28 · the Sunrise folder</td><td>34 · exhibit A on the table</td><td class="num">6</td></tr>
+        <!-- CARDS:END -->
+      </tbody>
+    </table>
+  </div>
+
+  <h2>The scene grid</h2>
+  <div class="prose"><p>The same data as a working spreadsheet — the Rowling-style grid you'll expand into the chapter plan. One row per beat; strand columns show the interleave cadence at a glance.</p></div>
+  <div class="tbl-frame">
+    <table id="grid">
+      <thead><tr><th>#</th><th>Act</th><th>Beat</th><th style="text-align:right">Intensity</th><th style="text-align:right">Suspense</th><th>Strand / events</th><th>Out</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <h2>The rest of the toolbox</h2>
+  <dl class="tools">
+    <dt>Beat-sheet timeline (Save the Cat / Story Grid)</dt>
+    <dd>Structural beats pinned to page-count percentages. Useful here as a proportion check: Acts 1–3 currently carry ~64% of the beats, which is right for a thriller — the bust and the table should feel fast.</dd>
+    <dt>Corkboard / scene cards (Scrivener)</dt>
+    <dd>One card per scene, color-coded by strand. The tactile version of the lane strip above — best once you're drafting and reordering.</dd>
+    <dt>Chapter-length rhythm bar</dt>
+    <dd>A bar chart of word counts per chapter. Sheldon's chapters shorten as tension rises; worth plotting once drafts exist to confirm the outs arrive faster in Acts 4–5.</dd>
+    <dt>Story circle / W-plot</dt>
+    <dd>Character-arc shapes rather than pacing shapes — less useful for this book than the map above, since Keisha's arc is already carried by the confession structure.</dd>
+  </dl>
+
+  <p class="fineprint">Companion to full-price-spine.md. Generated from pacing/beats.csv and pacing/cards.csv by sync.mjs — edit the CSVs, then run <code>node pacing/sync.mjs</code>. The "sell slip" cash-in is tracked in the spine's open items.</p>
+</div>
+
+<script>
+(function () {
+  // DATA:BEGIN (generated by sync.mjs from beats.csv + cards.csv — edit the CSVs, not this block)
+  // beat fields: t title, a act, i intensity, s suspense, out hard-out,
+  // e Essie year, d Denise page, n near-miss, c card dealt, x cards cashed
+  const B = [
+    {"t":"Sorting week: provenance comedy, un-donated boxes","a":1,"i":2,"s":1},
+    {"t":"The pay envelope: the twenty pocketed — “that's not for sale”","a":1,"i":5,"s":3,"out":1},
+    {"t":"Essie 1965 · she counts the envelope light, says nothing","a":1,"i":4,"s":6,"e":"1965","c":"Estelle knows the twenty is gone"},
+    {"t":"The pitcher: the stand born in one collective gulp","a":1,"i":3,"s":5},
+    {"t":"The bill: $7,800, due late August — the vow forms","a":1,"i":7,"s":6,"out":1},
+    {"t":"Denise reads the portal email; the Friday shifts begin","a":1,"i":4,"s":8,"d":"D1","c":"Denise has read the portal email"},
+    {"t":"The stake: $30 for 30% — three rescues running blind","a":1,"i":5,"s":8,"out":1},
+    {"t":"Turned away: no permit; the ice melts; the $30 dies","a":2,"i":6,"s":7},
+    {"t":"Ordinance week: city hall says yes","a":2,"i":4,"s":6},
+    {"t":"Near-miss #1: “everything's handled, Mom”","a":2,"i":6,"s":9,"n":"#1"},
+    {"t":"The legal debut flops; the drawer liturgy","a":2,"i":3,"s":6},
+    {"t":"Sydney finds the Levitt crowds; the stand takes off","a":2,"i":5,"s":6},
+    {"t":"Estelle buys back her own piece at a markup","a":2,"i":4,"s":7},
+    {"t":"The number told to Max: the valve opens","a":2,"i":5,"s":7},
+    {"t":"The account opens: green glow under everything","a":2,"i":6,"s":8,"out":1},
+    {"t":"The concessionaire's $600; the secret “sell” slip","a":3,"i":5,"s":7,"c":"The anonymous “sell” slip was Keisha's"},
+    {"t":"Sofi's invoice; Lourdes reads every line; Essie 1976","a":3,"i":4,"s":6,"e":"1976"},
+    {"t":"The liquidity trap: the deposit, the $60 float borrow","a":3,"i":6,"s":8},
+    {"t":"The mail errand; Essie 2009 — the reader holds the answer","a":3,"i":4,"s":9,"e":"2009","c":"The credit line is Estelle's 529"},
+    {"t":"JazzFest: the box vanishes; the $60 confessed; the sell window closes","a":3,"i":9,"s":9,"out":1},
+    {"t":"The supper table: hotdish, weather, near-misses #2 and #3","a":3,"i":2,"s":10,"n":"#2 #3"},
+    {"t":"Denise's math falls short; the watch goes to the appraiser","a":3,"i":5,"s":9,"d":"D2"},
+    {"t":"Emily's triptych; Sydney's warning mid-winning-streak","a":3,"i":6,"s":8,"out":1},
+    {"t":"She presses: the advance goes in, eyes open, twice warned","a":4,"i":7,"s":9},
+    {"t":"One red morning: down 80%; Essie 1987","a":4,"i":9,"s":9,"out":1,"e":"1987"},
+    {"t":"The ice-out: Max blamed, the pressure valve closed","a":4,"i":5,"s":8},
+    {"t":"The watch sells on a Tuesday; the pawn ticket","a":4,"i":6,"s":9,"d":"D3"},
+    {"t":"The paperwork box: certificate, letterhead, Sunrise folder","a":4,"i":8,"s":9,"c":"The garage sale was Gary's idea"},
+    {"t":"Gary observed; the contract borrowed and read overnight","a":4,"i":7,"s":9},
+    {"t":"The shame visit: Essie, $900,000 — “you owe a cash box twenty dollars”","a":4,"i":9,"s":7,"out":1,"x":1},
+    {"t":"The price: keep all of it from Denise","a":4,"i":8,"s":8,"out":1},
+    {"t":"The negotiation won with her own arithmetic; Essie 2021","a":5,"i":7,"s":7,"e":"2021"},
+    {"t":"Two rehearsals: Sydney's ticket, Emily's quiet account","a":5,"i":4,"s":6},
+    {"t":"The table: three collapses, one pawn ticket","a":5,"i":10,"s":3,"out":1,"x":1},
+    {"t":"Gary's appointment: a sentence, not a showdown","a":5,"i":5,"s":2},
+    {"t":"Coda: the family ledger; I-29 north; Sofi at the fence","a":5,"i":2,"s":1}
+  ];
+  const ACTS = [
+    {"n":"Act 1 · The Garage","from":0,"to":6},
+    {"n":"Act 2 · The Stand","from":7,"to":14},
+    {"n":"Act 3 · The Boom","from":15,"to":22},
+    {"n":"Act 4 · The Bust","from":23,"to":30},
+    {"n":"Act 5 · The Table","from":31,"to":35}
+  ];
+  // DATA:END
+
+  const W = 1180, PT = 34, PL = 104, PR = 14, PH = 288;
+  const AXIS = 22, LANE = 30, LANES = 4;
+  const H = PT + PH + AXIS + LANES * LANE + 10;
+  const n = B.length, step = (W - PL - PR) / n;
+  const X = i => PL + (i + 0.5) * step;
+  const Y = v => PT + (10 - v) / 10 * PH;
+  const css = v => "var(--" + v + ")";
+  const svg = document.getElementById("chart");
+  svg.setAttribute("viewBox", "0 0 " + W + " " + H);
+  const NS = "http://www.w3.org/2000/svg";
+  function el(name, attrs, parent) {
+    const e = document.createElementNS(NS, name);
+    for (const k in attrs) e.setAttribute(k, attrs[k]);
+    (parent || svg).appendChild(e);
+    return e;
+  }
+  function txt(x, y, s, attrs, parent) {
+    const e = el("text", Object.assign({x:x, y:y, fill:css("muted"), "font-size":11}, attrs), parent);
+    e.textContent = s;
+    return e;
+  }
+
+  // act bands + labels
+  ACTS.forEach((a, k) => {
+    const x0 = PL + a.from * step, x1 = PL + (a.to + 1) * step;
+    if (k % 2 === 1) el("rect", {x:x0, y:PT - 18, width:x1 - x0, height:PH + 18 + AXIS + LANES * LANE, fill:css("band")});
+    if (k > 0) el("line", {x1:x0, y1:PT - 18, x2:x0, y2:PT + PH + AXIS + LANES * LANE, stroke:css("grid"), "stroke-width":1});
+    txt(x0 + 6, PT - 9, a.n.toUpperCase(), {"font-size":9.5, "letter-spacing":"0.1em", "font-weight":600});
+  });
+
+  // gridlines + y ticks
+  for (let v = 0; v <= 10; v += 2) {
+    el("line", {x1:PL, y1:Y(v), x2:W - PR, y2:Y(v), stroke: v === 0 ? css("baseline") : css("grid"), "stroke-width":1});
+    txt(PL - 7, Y(v) + 3.5, String(v), {"text-anchor":"end", "font-size":10});
+  }
+
+  // the gap wash between the two lines where suspense > intensity
+  let gap = "";
+  B.forEach((b, i) => { gap += (i ? " L" : "M") + X(i).toFixed(1) + " " + Y(Math.max(b.s, b.i)).toFixed(1); });
+  for (let i = n - 1; i >= 0; i--) gap += " L" + X(i).toFixed(1) + " " + Y(Math.min(B[i].s, B[i].i)).toFixed(1);
+  el("path", {d:gap + " Z", fill:css("suspense"), opacity:0.07});
+
+  // lines
+  const pts = key => B.map((b, i) => X(i).toFixed(1) + "," + Y(b[key]).toFixed(1)).join(" ");
+  el("polyline", {points:pts("s"), fill:"none", stroke:css("suspense"), "stroke-width":2.25, "stroke-linejoin":"round", "stroke-linecap":"round"});
+  el("polyline", {points:pts("i"), fill:"none", stroke:css("intensity"), "stroke-width":2.25, "stroke-linejoin":"round", "stroke-linecap":"round"});
+
+  // hard-out dots on the intensity line (surface ring)
+  B.forEach((b, i) => {
+    if (b.out) el("circle", {cx:X(i), cy:Y(b.i), r:4.5, fill:css("intensity"), stroke:css("surface"), "stroke-width":2});
+  });
+
+  // two selective annotations with leader lines, dropped into empty plot space
+  function note(i, v, lines, dx, dy, anchor) {
+    const ax = X(i), ay = Y(v);
+    el("line", {x1:ax, y1:ay + 7, x2:ax + dx, y2:ay + dy - 14, stroke:css("baseline"), "stroke-width":1});
+    lines.forEach((s, k) => txt(ax + dx + (anchor === "end" ? -4 : 4), ay + dy + k * 13, s,
+      {"text-anchor":anchor, "font-size":10.5, fill:css("ink-2"), "font-weight": k === 0 ? 600 : 400}));
+  }
+  note(20, 2, ["The supper table", "quietest scene, max suspense"], -26, 31, "end");
+  note(33, 3, ["The crossover", "cards cash, suspense collapses"], -26, 70, "end");
+
+  // x axis: beat numbers every 5
+  el("line", {x1:PL, y1:PT + PH, x2:W - PR, y2:PT + PH, stroke:css("baseline"), "stroke-width":1});
+  for (let i = 0; i < n; i++) {
+    if ((i + 1) % 5 === 0 || i === 0) txt(X(i), PT + PH + 15, String(i + 1), {"text-anchor":"middle", "font-size":10});
+  }
+
+  // lanes
+  const laneY = r => PT + PH + AXIS + r * LANE + LANE / 2;
+  const laneDefs = [
+    {label:"Reader's cards"},
+    {label:"Essie strand"},
+    {label:"Denise strand"},
+    {label:"Near-misses"}
+  ];
+  laneDefs.forEach((L, r) => {
+    txt(PL - 7, laneY(r) + 3.5, L.label, {"text-anchor":"end", "font-size":9.5, "letter-spacing":"0.04em"});
+    el("line", {x1:PL, y1:laneY(r), x2:W - PR, y2:laneY(r), stroke:css("grid"), "stroke-width":1});
+  });
+  B.forEach((b, i) => {
+    const x = X(i);
+    if (b.c) el("path", {d:"M" + x + " " + (laneY(0) - 5.5) + " l5 9 h-10 Z", fill:css("ink")});
+    if (b.x) el("path", {d:"M" + x + " " + (laneY(0) + 5.5) + " l5 -9 h-10 Z", fill:"none", stroke:css("ink"), "stroke-width":1.5});
+    if (b.e) {
+      el("rect", {x:x - 4.5, y:laneY(1) - 4.5, width:9, height:9, rx:1.5, fill:css("essie"),
+        transform:"rotate(45 " + x + " " + laneY(1) + ")", stroke:css("surface"), "stroke-width":2});
+      txt(x, laneY(1) + 17, b.e, {"text-anchor":"middle", "font-size":9});
+    }
+    if (b.d) {
+      el("rect", {x:x - 4.5, y:laneY(2) - 4.5, width:9, height:9, rx:2, fill:css("denise"), stroke:css("surface"), "stroke-width":2});
+      txt(x, laneY(2) + 17, b.d, {"text-anchor":"middle", "font-size":9});
+    }
+    if (b.n) el("circle", {cx:x, cy:laneY(3), r:4.5, fill:css("nearmiss"), stroke:css("surface"), "stroke-width":2});
+  });
+
+  // hover layer
+  const guide = el("line", {x1:0, y1:PT - 12, x2:0, y2:PT + PH + AXIS + LANES * LANE, stroke:css("baseline"), "stroke-width":1, opacity:0});
+  const tip = document.getElementById("tip");
+  const frame = document.getElementById("frame");
+  B.forEach((b, i) => {
+    const hit = el("rect", {x:PL + i * step, y:PT - 18, width:step, height:PH + 18 + AXIS + LANES * LANE, fill:"transparent"});
+    hit.addEventListener("mouseenter", () => {
+      guide.setAttribute("x1", X(i)); guide.setAttribute("x2", X(i)); guide.setAttribute("opacity", 0.8);
+      const ev = [];
+      if (b.e) ev.push("Essie " + b.e);
+      if (b.d) ev.push("Denise strand " + b.d.slice(1));
+      if (b.n) ev.push("Near-miss " + b.n);
+      if (b.c) ev.push("Card dealt: " + b.c);
+      if (b.x) ev.push("Cards cashed");
+      tip.innerHTML =
+        '<div class="tt-beat">Beat ' + (i + 1) + " · " + ACTS[b.a - 1].n + "</div>" +
+        '<div class="tt-title">' + b.t + "</div>" +
+        '<div class="tt-row"><span class="sw" style="background:var(--intensity)"></span>Intensity<span class="val">' + b.i + "</span></div>" +
+        '<div class="tt-row"><span class="sw" style="background:var(--suspense)"></span>Suspense<span class="val">' + b.s + "</span></div>" +
+        (ev.length ? '<div class="tt-ev">' + ev.join(" · ") + "</div>" : "") +
+        (b.out ? '<span class="chip">hard out</span>' : "");
+      tip.classList.add("on");
+      // position within frame, clamped
+      const sr = svg.getBoundingClientRect(), fr = frame.getBoundingClientRect();
+      const px = sr.left - fr.left + X(i) / W * sr.width;
+      tip.style.top = (sr.top - fr.top + 30) + "px";
+      const tw = tip.offsetWidth;
+      let left = px + 14;
+      if (left + tw > frame.clientWidth + frame.scrollLeft - 8) left = px - tw - 14;
+      tip.style.left = left + "px";
+    });
+    hit.addEventListener("mouseleave", () => { guide.setAttribute("opacity", 0); tip.classList.remove("on"); });
+  });
+
+  // scene grid table
+  const tbody = document.querySelector("#grid tbody");
+  B.forEach((b, i) => {
+    const ev = [];
+    if (b.e) ev.push('<span class="mark" style="background:var(--essie)"></span>Essie ' + b.e);
+    if (b.d) ev.push('<span class="mark" style="background:var(--denise)"></span>Denise ' + b.d.slice(1));
+    if (b.n) ev.push('<span class="mark" style="background:var(--nearmiss)"></span>Near-miss ' + b.n);
+    if (b.c) ev.push("▲ card dealt");
+    if (b.x) ev.push("▽ cards cashed");
+    const tr = document.createElement("tr");
+    tr.innerHTML =
+      '<td class="num">' + (i + 1) + "</td>" +
+      "<td>" + b.a + "</td>" +
+      "<td>" + b.t + "</td>" +
+      '<td class="num">' + b.i + "</td>" +
+      '<td class="num">' + b.s + "</td>" +
+      "<td>" + (ev.join(" · ") || "—") + "</td>" +
+      "<td>" + (b.out ? "hard out" : "") + "</td>";
+    tbody.appendChild(tr);
+  });
+})();
+</script>
