@@ -133,6 +133,7 @@
     background: var(--surface); border: 1px solid var(--border);
     border-radius: 10px; overflow: auto; max-height: 480px;
   }
+  .tbl-frame.full { max-height: none; overflow-x: auto; overflow-y: visible; }
   table {
     border-collapse: collapse; width: 100%; min-width: 640px;
     font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -162,14 +163,84 @@
     font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
     font-size: 0.74rem; color: var(--muted); max-width: 66ch; margin-top: 2.5rem;
   }
+
+  /* info button + hover popover — tucks explanatory prose behind a title button */
+  .info { position: relative; display: inline-flex; vertical-align: middle; margin-left: 0.5rem; }
+  .info-btn {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 0.72rem; font-weight: 700; line-height: 1;
+    width: 1.3rem; height: 1.3rem; border-radius: 50%;
+    border: 1px solid var(--border); background: var(--surface); color: var(--muted);
+    display: inline-flex; align-items: center; justify-content: center;
+    cursor: help; padding: 0;
+  }
+  .info-btn:hover, .info:focus-within .info-btn { color: var(--ink); border-color: var(--ink-2); }
+  .info-pop {
+    position: absolute; top: calc(100% + 9px); left: 0; z-index: 6;
+    width: max-content; max-width: min(60ch, 88vw);
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.16);
+    padding: 1rem 1.2rem; text-align: left;
+    visibility: hidden; opacity: 0; transform: translateY(-4px);
+    transition: opacity 130ms ease, transform 130ms ease;
+  }
+  .info-pop::before { content: ""; position: absolute; top: -11px; left: 0; right: 0; height: 11px; }
+  .info:hover .info-pop, .info:focus-within .info-pop {
+    visibility: visible; opacity: 1; transform: translateY(0);
+  }
+  @media (prefers-reduced-motion: reduce) { .info-pop { transition: none; } }
+  .info-pop > :first-child { margin-top: 0; }
+  .info-pop > :last-child { margin-bottom: 0; }
+  .info-pop .dek { font-size: 1rem; }
+  .info-pop ul.notes { max-width: none; margin: 0.6rem 0 0; }
+  .info-pop ul.notes li:last-child { margin-bottom: 0; }
+  h1 .info-btn { font-size: 0.8rem; width: 1.5rem; height: 1.5rem; }
+
+  /* cast table — chips, strand markers, and the per-row hover popover */
+  #cast td { vertical-align: middle; }
+  #cast td .who { display: block; color: var(--muted); font-size: 0.72rem; margin-top: 1px; }
+  #cast .s-muted { color: var(--muted); }
+  .tag {
+    display: inline-block; border: 1px solid var(--border); border-radius: 99px;
+    padding: 0.05rem 0.5rem; font-size: 0.68rem; color: var(--ink-2);
+    background: var(--band); white-space: nowrap;
+  }
+  .strand-chip { display: inline-flex; align-items: center; gap: 0.35rem; white-space: nowrap; color: var(--ink-2); }
+  .strand-chip .sdot { width: 8px; height: 8px; border-radius: 50%; flex: none; }
+  .rowtip {
+    position: fixed; z-index: 20; left: 0; top: 0;
+    width: max-content; max-width: min(42ch, 90vw);
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.18);
+    padding: 0.75rem 0.9rem;
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 0.8rem; line-height: 1.5; color: var(--ink-2);
+    visibility: hidden; opacity: 0; transition: opacity 120ms ease; pointer-events: none;
+  }
+  .rowtip.on { visibility: visible; opacity: 1; }
+  .rowtip .tt-title { color: var(--ink); font-weight: 600; margin-bottom: 1px; }
+  .rowtip .tt-sub { color: var(--muted); font-size: 0.72rem; margin-bottom: 6px; }
+  .rowtip .rt-row { margin-top: 5px; }
+  .rowtip .rt-k { display: block; color: var(--muted); font-size: 0.64rem; text-transform: uppercase; letter-spacing: 0.06em; }
+  .rowtip .rt-tags { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 4px; align-items: center; }
+  .rowtip .chip {
+    display: inline-block; border: 1px solid var(--border); border-radius: 99px;
+    padding: 0.05rem 0.5rem; font-size: 0.68rem; color: var(--ink-2);
+  }
+  @media (prefers-reduced-motion: reduce) { .rowtip { transition: none; } }
 </style>
 
 <div class="wrap">
   <p class="eyebrow">Full Price · Design phase · Pacing instrument</p>
-  <h1>The Tension Map</h1>
-  <div class="prose">
+  <h1>The Tension Map<span class="info"><button type="button" class="info-btn" aria-label="About this chart — how to read it">i</button><span class="info-pop" role="tooltip">
     <p class="dek">Two lines, one engine. The <strong>red line</strong> scores what is happening on the page — the sirens. The <strong>blue line</strong> scores what the reader is feeling — the pressure of the cards she holds that Keisha doesn't. The Sheldon effect lives in the <strong>gap between them</strong>: for most of the book, suspense runs above intensity, because the reader knows about Estelle's counting, Denise's portal login, and the 529 long before Keisha does. The lines cross exactly once — at the kitchen table, where every card gets cashed and suspense collapses while intensity peaks.</p>
-  </div>
+    <ul class="notes">
+      <li><strong>The sawtooth is the Sheldon signature.</strong> Every hard out is a local spike; every spike is followed by a valley one to two points lower, never a plateau — that's design rule #1 ("every bang buys a breath") made visible. If two adjacent peaks touch, a breath is missing.</li>
+      <li><strong>The gap is the irony engine.</strong> Wherever blue rides above red, the reader is doing the work — the supper table (beat 21) is the extreme case: intensity 2, suspense 10, the quietest scene in the book and the most unbearable. If the gap ever closes to zero mid-book, the reader has run out of cards and the book is coasting.</li>
+      <li><strong>The floor rises.</strong> Each act's valleys sit higher than the last act's. If a late valley dips below an early one, momentum is leaking.</li>
+      <li><strong>The crossover is the climax.</strong> Blue collapses at beat 34 because confession converts suspense into event. Everything after it is denouement and should stay under the Act 1 ceiling.</li>
+    </ul>
+  </span></span></h1>
 
   <div class="legend" aria-hidden="true">
     <span class="key"><span class="line" style="border-color:var(--intensity)"></span>On-page intensity</span>
@@ -189,21 +260,25 @@
     <figcaption class="fineprint">Hover any beat for its scores and events. Scores are 0–10, provisional — re-score them at the chapter-plan stage; the shape is the point, not the digits.</figcaption>
   </figure>
 
-  <h2>How to read it</h2>
-  <ul class="notes">
-    <li><strong>The sawtooth is the Sheldon signature.</strong> Every hard out is a local spike; every spike is followed by a valley one to two points lower, never a plateau — that's design rule #1 ("every bang buys a breath") made visible. If two adjacent peaks touch, a breath is missing.</li>
-    <li><strong>The gap is the irony engine.</strong> Wherever blue rides above red, the reader is doing the work — the supper table (beat 21) is the extreme case: intensity 2, suspense 10, the quietest scene in the book and the most unbearable. If the gap ever closes to zero mid-book, the reader has run out of cards and the book is coasting.</li>
-    <li><strong>The floor rises.</strong> Each act's valleys sit higher than the last act's. If a late valley dips below an early one, momentum is leaking.</li>
-    <li><strong>The crossover is the climax.</strong> Blue collapses at beat 34 because confession converts suspense into event. Everything after it is denouement and should stay under the Act 1 ceiling.</li>
-  </ul>
+  <h2>The cast<span class="info"><button type="button" class="info-btn" aria-label="About the cast table">i</button><span class="info-pop" role="tooltip">
+    <p>The lesson ledger: who embodies which money lesson. Where <em>the irony ledger</em> tracks what the reader knows, this tracks what the book <em>teaches</em> — every character carries a piece of the design rule #4 curriculum (the three physics of money — <strong>wages, ownership, compounding</strong> — plus <strong>speed</strong>, the counterfeit fourth, and the supporting lessons). The three flagged rescues are the "three rescues, one number" spine. Hover a row for that character's money wound and arc.</p>
+  </span></span></h2>
+  <div class="tbl-frame full">
+    <table id="cast">
+      <thead><tr><th>Character</th><th style="text-align:right">Age</th><th>Role</th><th>Family</th><th>Strand</th><th>Teaches</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <div class="rowtip" id="rowtip"></div>
 
-  <h2>The irony ledger</h2>
-  <div class="prose"><p>The dramatic-irony bookkeeping: every card the reader holds, when it's dealt, and when it's cashed. A card held too briefly wastes the device; a card that never cashes is a broken promise.</p></div>
+  <h2>The irony ledger<span class="info"><button type="button" class="info-btn" aria-label="About the irony ledger">i</button><span class="info-pop" role="tooltip">
+    <p>The dramatic-irony bookkeeping: every card the reader holds, when it's dealt, and when it's cashed. A card held too briefly wastes the device; a card that never cashes is a broken promise.</p>
+  </span></span></h2>
   <div class="tbl-frame">
     <table>
       <thead><tr><th>Card the reader holds</th><th>Dealt at</th><th>Cashed at</th><th style="text-align:right">Beats held</th></tr></thead>
       <tbody>
-        <!-- CARDS:BEGIN (generated by sync.mjs from cards.csv) -->
+        <!-- CARDS:BEGIN (generated by sync.mjs from cards.json) -->
         <tr><td><span class="b">Estelle knows the twenty is gone</span> — she counted the envelope light and said nothing</td><td>3 · Essie 1965</td><td>30 · “you owe a cash box twenty dollars”</td><td class="num">27</td></tr>
         <tr><td><span class="b">Denise has read the portal email</span> — she's known the number since June</td><td>6 · Denise strand 1</td><td>34 · the pawn ticket at the table</td><td class="num">28</td></tr>
         <tr><td><span class="b">The anonymous “sell” slip was Keisha's</span></td><td>16 · the paper-slip vote</td><td>open item — candidate: the shame visit</td><td class="num">—</td></tr>
@@ -214,9 +289,10 @@
     </table>
   </div>
 
-  <h2>The scene grid</h2>
-  <div class="prose"><p>The same data as a working spreadsheet — the Rowling-style grid you'll expand into the chapter plan. One row per beat; strand columns show the interleave cadence at a glance.</p></div>
-  <div class="tbl-frame">
+  <h2>The scene grid<span class="info"><button type="button" class="info-btn" aria-label="About the scene grid">i</button><span class="info-pop" role="tooltip">
+    <p>The same data as a working spreadsheet — the Rowling-style grid you'll expand into the chapter plan. One row per beat; strand columns show the interleave cadence at a glance.</p>
+  </span></span></h2>
+  <div class="tbl-frame full">
     <table id="grid">
       <thead><tr><th>#</th><th>Act</th><th>Beat</th><th style="text-align:right">Intensity</th><th style="text-align:right">Suspense</th><th>Strand / events</th><th>Out</th></tr></thead>
       <tbody></tbody>
@@ -235,12 +311,12 @@
     <dd>Character-arc shapes rather than pacing shapes — less useful for this book than the map above, since Keisha's arc is already carried by the confession structure.</dd>
   </dl>
 
-  <p class="fineprint">Companion to full-price-spine.md. Generated from pacing/beats.csv and pacing/cards.csv by sync.mjs — edit the CSVs, then run <code>node pacing/sync.mjs</code>. The "sell slip" cash-in is tracked in the spine's open items.</p>
+  <p class="fineprint">Companion to full-price-spine.md. Generated from pacing/beats.json and pacing/cards.json by sync.mjs — edit the JSON, then run <code>node pacing/sync.mjs</code>. The "sell slip" cash-in is tracked in the spine's open items.</p>
 </div>
 
 <script>
 (function () {
-  // DATA:BEGIN (generated by sync.mjs from beats.csv + cards.csv — edit the CSVs, not this block)
+  // DATA:BEGIN (generated by sync.mjs from beats.json + cards.json — edit the JSON, not this block)
   // beat fields: t title, a act, i intensity, s suspense, out hard-out,
   // e Essie year, d Denise page, n near-miss, c card dealt, x cards cashed
   const B = [
@@ -289,6 +365,20 @@
     {"n":"Act 5 · The Table","from":31,"to":35}
   ];
   // DATA:END
+
+  // CHARS:BEGIN (generated by sync.mjs from characters.json — edit the JSON, not this block)
+  const CH = [
+    {"short":"Keisha","name":"Keisha Carter","age":19,"family":"Carter","role":"narrator","background":"Black · near-north Sioux Falls","strand":"narrator","rescue":"keisha","teaches":["wages"],"wound":"needing help feels like failure","arc":"from carrying the number alone to saying it out loud"},
+    {"short":"Estelle","name":"Estelle Carter","age":78,"family":"Carter","role":"grandmother · hidden investor · collector","background":"Black · Arkansas Great Migration","strand":"essie","rescue":"estelle","teaches":["compounding","ownership"],"wound":"once erased, built a life around never needing anyone again","arc":"from hiding as safety to teaching money out loud"},
+    {"short":"Denise","name":"Denise Carter","age":52,"age_approx":true,"family":"Carter","role":"mother · shift supervisor","background":"Black","strand":"denise","rescue":"denise","teaches":["budgeting"],"wound":"not-asking; performed certainty is her camouflage","arc":"from not-asking to one concrete question, out loud"},
+    {"short":"Sofi","name":"Sofía \"Sofi\" Ortiz","age":16,"family":"Ortiz","role":"the watched one","background":"Mexican-American","strand":"none","teaches":["pricing"],"wound":"a lifetime of help given free, never priced","arc":"from helping free to pricing her own work — and keeping it"},
+    {"short":"Lourdes","name":"Lourdes Ortiz","family":"Ortiz","role":"counter-wisdom","background":"Mexican-American","strand":"none","teaches":["liquidity"],"wound":"one frozen account taught her the system isn't safe","arc":"from love's terms to reading every line, then signing"},
+    {"short":"Sydney","name":"Sydney Ellis","age":21,"family":"Ellis","role":"chaos engine","background":"White","strand":"none","teaches":["spending"],"wound":"spends out loud because pleasure feels like proof she exists","arc":"from spending to prove worth to choosing joy with eyes open"},
+    {"short":"Max","name":"Max Ellis","age":24,"family":"Ellis","role":"fast-money foil · light love interest","background":"White","strand":"none","teaches":["speed"],"wound":"speed feels like the only exit from a job that runs without him","arc":"consequences without wisdom — crashes, crawls back, doesn't really learn"},
+    {"short":"Emily","name":"Emily Larsen","age":18,"family":"Larsen","role":"math brain","background":"White · Norwegian-Lutheran, 4th-gen","strand":"none","teaches":["precision"],"wound":"exact truth feels more dangerous than guessing — trusts every number but her own","arc":"from trusting every number but her own to quietly opening the app"},
+    {"short":"Gary","name":"Gary","family":"outsider","role":"the advisor · Sunrise Retirement Solutions","strand":"none","teaches":["predation"],"arc":"doesn't arc — defeated by being read, exits politely"}
+  ];
+  // CHARS:END
 
   const W = 1180, PT = 34, PL = 104, PR = 14, PH = 288;
   const AXIS = 22, LANE = 30, LANES = 4;
@@ -439,6 +529,48 @@
       "<td>" + (ev.join(" · ") || "—") + "</td>" +
       "<td>" + (b.out ? "hard out" : "") + "</td>";
     tbody.appendChild(tr);
+  });
+
+  // cast table + per-row hover popover (wound + arc)
+  const cast = document.querySelector("#cast tbody");
+  const rowtip = document.getElementById("rowtip");
+  const strandColor = {narrator:"ink", essie:"essie", denise:"denise"};
+  const strandLabel = {narrator:"narrator", essie:"Essie", denise:"Denise"};
+  CH.forEach(p => {
+    const age = ("age" in p) ? (p.age_approx ? "~" + p.age : String(p.age)) : "—";
+    const teach = p.teaches.map(t => '<span class="tag">' + t + '</span>').join(" ");
+    const strand = strandColor[p.strand]
+      ? '<span class="strand-chip"><span class="sdot" style="background:var(--' + strandColor[p.strand] + ')"></span>' + strandLabel[p.strand] + '</span>'
+      : '<span class="s-muted">—</span>';
+    const tr = document.createElement("tr");
+    tr.innerHTML =
+      '<td><span class="b">' + p.short + '</span><span class="who">' + p.name + '</span></td>' +
+      '<td class="num">' + age + '</td>' +
+      '<td>' + p.role + '</td>' +
+      '<td>' + p.family + '</td>' +
+      '<td>' + strand + '</td>' +
+      '<td>' + teach + '</td>';
+    const rescue = p.rescue ? '<span class="chip">rescue: ' + p.rescue + '</span>' : '';
+    const html =
+      '<div class="tt-title">' + p.name + '</div>' +
+      '<div class="tt-sub">' + p.role + (p.background ? ' · ' + p.background : '') + '</div>' +
+      (p.wound ? '<div class="rt-row"><span class="rt-k">Money wound</span>' + p.wound + '</div>' : '') +
+      (p.arc ? '<div class="rt-row"><span class="rt-k">Arc</span>' + p.arc + '</div>' : '') +
+      '<div class="rt-tags">' + teach + (rescue ? ' ' + rescue : '') + '</div>';
+    tr.addEventListener("mouseenter", () => {
+      rowtip.innerHTML = html;
+      const r = tr.getBoundingClientRect();
+      const tw = rowtip.offsetWidth, th = rowtip.offsetHeight;
+      let left = r.right + 12;
+      if (left + tw > window.innerWidth - 8) left = r.left - tw - 12;
+      left = Math.max(8, left);
+      const top = Math.max(8, Math.min(r.top + r.height / 2 - th / 2, window.innerHeight - th - 8));
+      rowtip.style.left = left + "px";
+      rowtip.style.top = top + "px";
+      rowtip.classList.add("on");
+    });
+    tr.addEventListener("mouseleave", () => rowtip.classList.remove("on"));
+    cast.appendChild(tr);
   });
 })();
 </script>

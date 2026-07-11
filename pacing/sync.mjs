@@ -1,8 +1,8 @@
 #!/usr/bin/env node
-// Regenerates tension-map.html from beats.csv + cards.csv, then lints the
+// Regenerates tension-map.html from beats.json + cards.json, then lints the
 // spine against the pacing design rules. Run from anywhere:
 //   node pacing/sync.mjs
-// The CSVs are the source of truth; the marked blocks in tension-map.html
+// The JSON files are the source of truth; the marked blocks in tension-map.html
 // are overwritten on every run.
 
 import { readFileSync, writeFileSync } from 'node:fs';
@@ -20,36 +20,36 @@ const ACT_NAMES = {
   5: 'Act 5 · The Table',
 };
 
-// ---------- CSV ----------
-function parseCSV(text) {
-  const rows = [];
-  let row = [], field = '', quoted = false;
-  text = text.replace(/\r\n?/g, '\n');
-  for (let i = 0; i < text.length; i++) {
-    const ch = text[i];
-    if (quoted) {
-      if (ch === '"') {
-        if (text[i + 1] === '"') { field += '"'; i++; } else quoted = false;
-      } else field += ch;
-    } else if (ch === '"') quoted = true;
-    else if (ch === ',') { row.push(field); field = ''; }
-    else if (ch === '\n') { row.push(field); rows.push(row); row = []; field = ''; }
-    else field += ch;
+// Character controlled vocabularies — extend when the cast or curriculum changes.
+const FAMILIES = ['Carter', 'Ortiz', 'Ellis', 'Larsen', 'outsider'];
+const STRANDS = ['narrator', 'essie', 'denise', 'none'];
+const RESCUES = ['keisha', 'estelle', 'denise']; // the three parallel rescues
+// The money curriculum (design rule #4). The first four are the "physics";
+// `speed` is the counterfeit fourth. The rest are the supporting lessons.
+const PHYSICS = ['wages', 'ownership', 'compounding', 'speed'];
+const COUNTERFEIT = 'speed';
+const TEACHES = [...PHYSICS, 'budgeting', 'pricing', 'liquidity', 'spending', 'precision', 'predation'];
+
+// ---------- load ----------
+function loadJSON(name) {
+  try {
+    const data = JSON.parse(readFileSync(join(DIR, name), 'utf8'));
+    if (!Array.isArray(data)) throw new Error('top level is not an array');
+    return data;
+  } catch (e) {
+    console.error(`✗ ${name}: ${e.message} — fix the JSON before running sync`);
+    process.exit(1);
   }
-  if (field !== '' || row.length) { row.push(field); rows.push(row); }
-  const head = rows.shift();
-  return rows
-    .filter(r => r.some(v => v.trim() !== ''))
-    .map(r => Object.fromEntries(head.map((h, k) => [h.trim(), (r[k] ?? '').trim()])));
 }
 
-const beats = parseCSV(readFileSync(join(DIR, 'beats.csv'), 'utf8'));
-const cards = parseCSV(readFileSync(join(DIR, 'cards.csv'), 'utf8'));
+const beats = loadJSON('beats.json');
+const cards = loadJSON('cards.json');
+const characters = loadJSON('characters.json');
 
 // ---------- validation (hard errors) ----------
 const errors = [];
 beats.forEach((b, k) => {
-  if (+b.beat !== k + 1) errors.push(`beats.csv row ${k + 2}: beat "${b.beat}" — numbering must be contiguous from 1 (expected ${k + 1})`);
+  if (+b.beat !== k + 1) errors.push(`beats.json entry ${k + 1}: beat "${b.beat}" — numbering must be contiguous from 1 (expected ${k + 1})`);
   for (const col of ['intensity', 'suspense']) {
     const v = Number(b[col]);
     if (!Number.isFinite(v) || v < 0 || v > 10) errors.push(`beat ${b.beat}: ${col} "${b[col]}" is not a number in 0–10`);
@@ -58,8 +58,19 @@ beats.forEach((b, k) => {
   if (k > 0 && +b.act < +beats[k - 1].act) errors.push(`beat ${b.beat}: act number decreases`);
 });
 cards.forEach(c => {
-  if (!c.card) errors.push('cards.csv: a row has an empty card name');
+  if (!c.card) errors.push('cards.json: an entry has an empty card name');
   if (!c.dealt_beat) errors.push(`card "${c.card}": missing dealt_beat`);
+});
+characters.forEach((p, k) => {
+  const who = p.short || p.name || `entry ${k + 1}`;
+  if (!p.short) errors.push(`characters.json entry ${k + 1}: missing "short" (display name)`);
+  if (!p.name) errors.push(`character "${who}": missing "name"`);
+  if ('age' in p && !Number.isFinite(Number(p.age))) errors.push(`character "${who}": age "${p.age}" is not a number (omit it if unknown)`);
+  if (!FAMILIES.includes(p.family)) errors.push(`character "${who}": family "${p.family}" unknown — add it to FAMILIES in sync.mjs`);
+  if (!STRANDS.includes(p.strand)) errors.push(`character "${who}": strand "${p.strand}" unknown — one of ${STRANDS.join(', ')}`);
+  if ('rescue' in p && !RESCUES.includes(p.rescue)) errors.push(`character "${who}": rescue "${p.rescue}" unknown — one of ${RESCUES.join(', ')}`);
+  if (!Array.isArray(p.teaches) || !p.teaches.length) errors.push(`character "${who}": teaches must be a non-empty array`);
+  else for (const t of p.teaches) if (!TEACHES.includes(t)) errors.push(`character "${who}": teaches "${t}" is not in the curriculum — add it to TEACHES in sync.mjs`);
 });
 if (errors.length) {
   console.error('✗ data errors — nothing regenerated:\n  ' + errors.join('\n  '));
@@ -86,7 +97,7 @@ const ACTS = Object.keys(ACT_NAMES).map(Number)
   }));
 
 const dataBlock =
-`// DATA:BEGIN (generated by sync.mjs from beats.csv + cards.csv — edit the CSVs, not this block)
+`// DATA:BEGIN (generated by sync.mjs from beats.json + cards.json — edit the JSON, not this block)
   // beat fields: t title, a act, i intensity, s suspense, out hard-out,
   // e Essie year, d Denise page, n near-miss, c card dealt, x cards cashed
   const B = [
@@ -97,7 +108,7 @@ ${ACTS.map(o => '    ' + JSON.stringify(o)).join(',\n')}
   ];
   // DATA:END`;
 
-const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+const esc = s => (s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const cardRows = cards.map(c => {
   const dealt = `${c.dealt_beat} · ${esc(c.dealt_label)}`;
   const cashed = c.cashed_beat ? `${c.cashed_beat} · ${esc(c.cashed_label)}` : esc(c.cashed_label);
@@ -106,22 +117,34 @@ const cardRows = cards.map(c => {
   return `        <tr><td><span class="b">${esc(c.card)}</span>${detail}</td><td>${dealt}</td><td>${cashed}</td><td class="num">${held}</td></tr>`;
 }).join('\n');
 const cardsBlock =
-`<!-- CARDS:BEGIN (generated by sync.mjs from cards.csv) -->
+`<!-- CARDS:BEGIN (generated by sync.mjs from cards.json) -->
 ${cardRows}
         <!-- CARDS:END -->`;
+
+// the cast passes through verbatim — the page script renders the table and hovers
+const charsBlock =
+`// CHARS:BEGIN (generated by sync.mjs from characters.json — edit the JSON, not this block)
+  const CH = [
+${characters.map(o => '    ' + JSON.stringify(o)).join(',\n')}
+  ];
+  // CHARS:END`;
 
 // ---------- rewrite the HTML ----------
 const htmlPath = join(DIR, 'tension-map.html');
 const before = readFileSync(htmlPath, 'utf8');
-if (!/\/\/ DATA:BEGIN[\s\S]*?\/\/ DATA:END/.test(before) || !/<!-- CARDS:BEGIN[\s\S]*?<!-- CARDS:END -->/.test(before)) {
-  console.error('✗ tension-map.html is missing its DATA/CARDS markers — restore them before running sync');
+const markers = [
+  [/\/\/ DATA:BEGIN[\s\S]*?\/\/ DATA:END/, dataBlock, 'DATA'],
+  [/<!-- CARDS:BEGIN[\s\S]*?<!-- CARDS:END -->/, cardsBlock, 'CARDS'],
+  [/\/\/ CHARS:BEGIN[\s\S]*?\/\/ CHARS:END/, charsBlock, 'CHARS'],
+];
+const missing = markers.filter(([re]) => !re.test(before)).map(([, , name]) => name);
+if (missing.length) {
+  console.error(`✗ tension-map.html is missing its ${missing.join('/')} marker(s) — restore them before running sync`);
   process.exit(1);
 }
-const html = before
-  .replace(/\/\/ DATA:BEGIN[\s\S]*?\/\/ DATA:END/, () => dataBlock)
-  .replace(/<!-- CARDS:BEGIN[\s\S]*?<!-- CARDS:END -->/, () => cardsBlock);
+const html = markers.reduce((acc, [re, block]) => acc.replace(re, () => block), before);
 if (html !== before) writeFileSync(htmlPath, html);
-console.log(`✓ tension-map.html: ${B.length} beats, ${ACTS.length} acts, ${cards.length} cards${html === before ? ' (already up to date)' : ' regenerated'}`);
+console.log(`✓ tension-map.html: ${B.length} beats, ${ACTS.length} acts, ${cards.length} cards, ${characters.length} characters${html === before ? ' (already up to date)' : ' regenerated'}`);
 
 // ---------- pacing lint (advisory — judgment stays with the author) ----------
 const warn = [], info = [], ok = [];
@@ -181,17 +204,17 @@ if (dips.length) {
   }
 } else ok.push('suspense never falls below intensity between the first deal and the climax');
 
-// 4. card bookkeeping — cross-check cards.csv against beats.csv
+// 4. card bookkeeping — cross-check cards.json against beats.json
 const cardErrs = [];
 const dealtInBeats = new Map(); // card name -> beat number
 beats.forEach(b => { if (b.card_dealt) dealtInBeats.set(b.card_dealt, +b.beat); });
 for (const c of cards) {
   const at = dealtInBeats.get(c.card);
-  if (at === undefined) cardErrs.push(`"${c.card}" is in cards.csv but no beat deals it (card_dealt must match the card name exactly)`);
-  else if (at !== +c.dealt_beat) cardErrs.push(`"${c.card}": cards.csv says dealt at ${c.dealt_beat}, beats.csv deals it at ${at}`);
+  if (at === undefined) cardErrs.push(`"${c.card}" is in cards.json but no beat deals it (card_dealt must match the card name exactly)`);
+  else if (at !== +c.dealt_beat) cardErrs.push(`"${c.card}": cards.json says dealt at ${c.dealt_beat}, beats.json deals it at ${at}`);
   if (c.cashed_beat) {
     const bb = beats[+c.cashed_beat - 1];
-    if (!bb || !bb.cards_cashed) cardErrs.push(`"${c.card}": cashes at beat ${c.cashed_beat}, but that beat is not flagged cards_cashed in beats.csv`);
+    if (!bb || !bb.cards_cashed) cardErrs.push(`"${c.card}": cashes at beat ${c.cashed_beat}, but that beat is not flagged cards_cashed in beats.json`);
     const held = +c.cashed_beat - +c.dealt_beat;
     if (held < 5) warn.push(`short-held card — "${c.card}" held only ${held} beats (dealt ${c.dealt_beat}, cashed ${c.cashed_beat}); a card needs time to generate pressure`);
   } else {
@@ -199,10 +222,10 @@ for (const c of cards) {
   }
 }
 for (const [name, at] of dealtInBeats) {
-  if (!cards.some(c => c.card === name)) cardErrs.push(`beat ${at} deals "${name}" but it has no row in cards.csv`);
+  if (!cards.some(c => c.card === name)) cardErrs.push(`beat ${at} deals "${name}" but it has no entry in cards.json`);
 }
 if (cardErrs.length) cardErrs.forEach(e => warn.push(`card mismatch — ${e}`));
-else ok.push('cards.csv and beats.csv agree on every deal and cash-in');
+else ok.push('cards.json and beats.json agree on every deal and cash-in');
 
 // 5. strand starvation — longest stretch with no strand event, card, or near-miss
 const hasEvent = b => b.e || b.d || b.n || b.c || b.x;
@@ -215,6 +238,35 @@ B.forEach((b, i) => {
 });
 if (longest.len >= 6) warn.push(`strand starvation — beats ${beatNo(longest.from)}–${beatNo(longest.to)} (${longest.len} beats) pass with no strand event, card, or near-miss`);
 else info.push(`longest quiet stretch (no strand event, card, or near-miss): beats ${beatNo(longest.from)}–${beatNo(longest.to)} (${longest.len} beats)`);
+
+// 6. cast-to-curriculum — does every money lesson have an owner, and do the
+//    three rescues and the strands line up with the beat grid?
+const owners = new Map(); // teach tag -> [names]
+for (const p of characters) for (const t of p.teaches) {
+  if (!owners.has(t)) owners.set(t, []);
+  owners.get(t).push(p.short);
+}
+const orphanPhysics = PHYSICS.filter(t => !owners.has(t));
+if (orphanPhysics.length) warn.push(`orphaned physics — no character teaches ${orphanPhysics.join(', ')} (design rule #4 wants each of ${PHYSICS.join(', ')} embodied)`);
+else ok.push(`every money physics has an owner (${PHYSICS.map(t => `${t}: ${owners.get(t).join('/')}`).join(', ')})`);
+const orphanLessons = TEACHES.filter(t => !PHYSICS.includes(t) && !owners.has(t));
+if (orphanLessons.length) info.push(`unowned supporting lessons: ${orphanLessons.join(', ')} (in the curriculum but no character carries them)`);
+if (owners.has(COUNTERFEIT)) info.push(`the counterfeit fourth physics (${COUNTERFEIT}) is carried by ${owners.get(COUNTERFEIT).join('/')} — should read as a trap, not a lesson`);
+
+const rescuers = characters.filter(p => p.rescue);
+const rescueTags = new Set(rescuers.map(p => p.rescue));
+if (rescuers.length !== 3 || RESCUES.some(r => !rescueTags.has(r))) {
+  warn.push(`rescue count off — the spine is "three rescues, one number"; found ${rescuers.length} flagged (${rescuers.map(p => `${p.short}:${p.rescue}`).join(', ') || 'none'})`);
+} else ok.push(`three parallel rescues flagged — ${rescuers.map(p => p.short).join(', ')}`);
+
+// strands used by characters must cover the strands the beats actually run
+const beatStrands = new Set();
+if (beats.some(b => b.essie)) beatStrands.add('essie');
+if (beats.some(b => b.denise)) beatStrands.add('denise');
+const charStrands = new Set(characters.map(p => p.strand));
+const strandGaps = [...beatStrands].filter(s => !charStrands.has(s));
+if (strandGaps.length) warn.push(`strand owner missing — beats run the ${strandGaps.join(', ')} strand but no character is tagged with it`);
+else ok.push('every strand the beats run has a character who owns it');
 
 // ---------- report ----------
 console.log(`\nPacing lint — climax at beat ${beatNo(climax)} ("${B[climax].t}")`);
