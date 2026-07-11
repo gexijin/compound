@@ -228,6 +228,44 @@
     padding: 0.05rem 0.5rem; font-size: 0.68rem; color: var(--ink-2);
   }
   @media (prefers-reduced-motion: reduce) { .rowtip { transition: none; } }
+
+  /* lesson-delivery matrix — one row per lesson, one column per beat */
+  #matrix { min-width: 960px; border-collapse: separate; border-spacing: 0; }
+  #matrix th, #matrix td { border-bottom: 1px solid var(--band); }
+  #matrix th.beatcol { width: 20px; padding: 0.2rem 0 0.45rem; font-size: 0.6rem; color: var(--muted); text-align: center; position: static; background: none; }
+  #matrix th.lname, #matrix td.lname {
+    position: sticky; left: 0; z-index: 2; background: var(--surface);
+    text-align: left; white-space: nowrap; border-right: 1px solid var(--grid);
+    padding: 0.35rem 0.8rem 0.35rem 0.8rem;
+  }
+  #matrix th.lname { z-index: 3; top: 0; }
+  #matrix td.lname .ln { color: var(--ink); font-weight: 600; }
+  #matrix td.lname .cr { color: var(--muted); font-size: 0.68rem; }
+  #matrix td.lname .ct { color: var(--muted); font-variant-numeric: tabular-nums; margin-left: 0.4rem; }
+  #matrix td.cell { width: 20px; height: 24px; text-align: center; padding: 0; cursor: default; }
+  #matrix td.actband { background: var(--band); }
+  #matrix td.actedge, #matrix th.actedge { border-left: 1px solid var(--grid); }
+  #matrix .dot-m { display: inline-block; width: 10px; height: 10px; border-radius: 50%; vertical-align: middle; }
+  #matrix .dot-m:hover { outline: 2px solid var(--ink); outline-offset: 1px; }
+  .cat-physics { background: var(--suspense); }
+  .cat-counterfeit { background: var(--intensity); }
+  .cat-supporting { background: var(--essie); }
+
+  /* money ledger */
+  .subhead {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--muted); margin: 1.7rem 0 0.55rem;
+  }
+  td.money { font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+  #bridge tr.subtotal td, #bridge tr.margin td { font-weight: 700; color: var(--ink); background: var(--band); }
+  .amt-minus { color: var(--intensity); }
+  .amt-plus { color: var(--denise); }
+  .pill {
+    display: inline-block; border: 1px solid var(--border); border-radius: 99px;
+    padding: 0.02rem 0.45rem; font-size: 0.64rem; color: var(--ink-2); white-space: nowrap;
+  }
+  .pill.prov { color: var(--nearmiss); border-color: var(--nearmiss); }
 </style>
 
 <div class="wrap">
@@ -299,6 +337,45 @@
   </div>
   <div class="rowtip" id="rowtip"></div>
 
+  <h2>The lesson-delivery matrix<span class="info"><button type="button" class="info-btn" aria-label="About the lesson-delivery matrix">i</button><span class="info-pop" role="tooltip">
+    <p class="dek">Design rule #4 says <strong>every set piece pays tuition</strong> — no drama-only scenes. The cast table names <em>who</em> owns each money lesson; this grid asks <em>where each one actually gets taught</em>. One row per lesson in the design-rule curriculum, one column per beat; a dot means the lesson is delivered there.</p>
+    <ul class="notes">
+      <li><strong>Read down a column</strong> to check a set piece pays its way — an empty column at a hard out or a high-intensity beat is a scene doing drama without teaching.</li>
+      <li><strong>Read across a row</strong> to see a lesson's rhythm — the three real physics (<span style="color:var(--suspense)">blue</span>: wages, ownership, compounding) should recur, not fire once. <span style="color:var(--intensity)">Red</span> is <em>speed</em>, the counterfeit fourth — it must read as a trap, never a lesson. <span style="color:var(--essie)">Violet</span> is the supporting curriculum.</li>
+      <li><strong>The spine lesson — "say the number out loud" — lands late</strong> (beats 30/32/34) on purpose: the whole book withholds it until the table.</li>
+    </ul>
+  </span></span></h2>
+  <div class="legend" aria-hidden="true">
+    <span class="key"><span class="dot" style="background:var(--suspense)"></span>Money physics (real)</span>
+    <span class="key"><span class="dot" style="background:var(--intensity)"></span>Speed (counterfeit)</span>
+    <span class="key"><span class="dot" style="background:var(--essie)"></span>Supporting lesson</span>
+  </div>
+  <div class="tbl-frame full">
+    <table id="matrix"><thead></thead><tbody></tbody></table>
+  </div>
+
+  <h2>The money ledger<span class="info"><button type="button" class="info-btn" aria-label="About the money ledger">i</button><span class="info-pop" role="tooltip">
+    <p class="dek">The plot as cash flow: three parallel rescues converging on one bill. The number Keisha carries in her head is <strong>$7,800</strong> — but the real hidden gap is <strong>$2,800</strong>. The difference is exactly the $5,000 her grandmother's 529 pays every August, the credit she never knew to count.</p>
+    <ul class="notes">
+      <li><strong>The bill bridge</strong> is the canon arithmetic, regression-tested by <code>math/tuition_gap.py</code>: $18,000 real cost down to a $2,800 net gap, closed by a summer's labor with $80 to spare — no triumphant surplus. Estelle's $5,000 529 slice and Denise's SCHOOL envelope sit inside it as line items.</li>
+      <li><strong>The trading detour is provisional</strong> — its peak and trough are unpriced until the <code>math/</code> fact-check pass. Only the $60 float borrow is fixed.</li>
+    </ul>
+  </span></span></h2>
+  <p class="subhead">The bill bridge <span class="pill">canon · math/tuition_gap.py</span></p>
+  <div class="tbl-frame">
+    <table id="bridge">
+      <thead><tr><th>Step</th><th style="text-align:right">Amount</th><th style="text-align:right">Running</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <p class="subhead">The trading detour <span class="pill prov">provisional</span></p>
+  <div class="tbl-frame full">
+    <table id="trades">
+      <thead><tr><th>Beat</th><th>Event</th><th style="text-align:right">Amount</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
   <h2>The rest of the toolbox</h2>
   <dl class="tools">
     <dt>Beat-sheet timeline (Save the Cat / Story Grid)</dt>
@@ -311,7 +388,7 @@
     <dd>Character-arc shapes rather than pacing shapes — less useful for this book than the map above, since Keisha's arc is already carried by the confession structure.</dd>
   </dl>
 
-  <p class="fineprint">Companion to full-price-spine.md. Generated from pacing/beats.json and pacing/cards.json by sync.mjs — edit the JSON, then run <code>node pacing/sync.mjs</code>. The "sell slip" cash-in is tracked in the spine's open items.</p>
+  <p class="fineprint">Companion to full-price-spine.md. Generated from pacing/beats.json, cards.json, characters.json, lessons.json, and ledger.json by sync.mjs — edit the JSON, then run <code>node pacing/sync.mjs</code>. Canon money figures are regression-tested by the scripts in math/. The "sell slip" cash-in is tracked in the spine's open items.</p>
 </div>
 
 <script>
@@ -379,6 +456,61 @@
     {"short":"Gary","name":"Gary","family":"outsider","role":"the advisor · Sunrise Retirement Solutions","strand":"none","teaches":["predation"],"arc":"doesn't arc — defeated by being read, exits politely"}
   ];
   // CHARS:END
+
+  // LESSONS:BEGIN (generated by sync.mjs from lessons.json — edit the JSON, not this block)
+  const LSN = [
+    {"id":"say-number","label":"Say the number out loud","carrier":"Keisha","beats":[30,32,34],"note":"the book's thesis — three women say their numbers at one table; the cure for solitary rescue"},
+    {"id":"wages","tag":"wages","carrier":"Keisha","beats":[11,18,23],"note":"hours-for-dollars — the only lever Keisha grew up watching anyone pull"},
+    {"id":"ownership","tag":"ownership","carrier":"Estelle","beats":[7,28],"note":"equity — a share of a thing, not a wage; the $30 for 30% and the Deere certificate"},
+    {"id":"compounding","tag":"compounding","carrier":"Estelle","beats":[19,30],"note":"$400 a year for sixteen years becomes the answer Keisha just handled unread"},
+    {"id":"speed","tag":"speed","carrier":"Max","beats":[15,24,25],"counterfeit":true,"note":"the counterfeit fourth physics — must read as a trap, never a lesson"},
+    {"id":"read-before-sign","label":"Read before you sign","carrier":"Lourdes","beats":[9,17,29,35],"note":"Keisha's planted superpower — she reads boring documents; the vending ordinance rehearses the annuity contract"},
+    {"id":"cant-lose","label":"Never risk money you can't lose","carrier":"Sydney","beats":[23,24,25],"note":"the loudest spender in the book is the one who says don't, mid-winning-streak"},
+    {"id":"paper-gains","label":"Paper gains aren't money","carrier":"Keisha","beats":[20,25],"note":"the position peaks — 'weeks, not years' — then a red morning proves it was never real"},
+    {"id":"liquidity","tag":"liquidity","carrier":"Lourdes","beats":[18],"note":"money in the market isn't money on Tuesday — the deposit springs the trap"},
+    {"id":"price-work","tag":"pricing","carrier":"Sofi","beats":[17],"note":"the recipe is the first contribution anyone tried to put a number on"},
+    {"id":"float-sacred","label":"The float is sacred","carrier":"Keisha","beats":[18,20,36],"note":"the one money rule Denise ever explicitly taught; the $60 borrow breaks it, the coda repays it"},
+    {"id":"small-confessions","label":"Small confessions are survivable","carrier":"Keisha","beats":[20],"note":"the $60 confessed in front of everyone at JazzFest — the dress rehearsal for the table"},
+    {"id":"asking-is-skill","label":"Asking is a financial skill","carrier":"Denise","beats":[9,34],"note":"city hall says yes because she asked precisely; Denise asks one concrete question out loud"},
+    {"id":"disclosure-armor","label":"Isolation is what predators target — disclosure is armor","carrier":"Estelle","beats":[30,35],"note":"Gary built the pitch for a woman alone; three women and a marked-up contract defeat him"},
+    {"id":"slow-boring-survives","label":"Slow and boring survives","carrier":"Estelle","beats":[25,28],"note":"the certificate old enough to be furniture survived because it was slow"},
+    {"id":"consequences-not-wisdom","label":"Consequences don't automatically produce wisdom","carrier":"Max","beats":[26,36],"note":"the crash teaches Max nothing — by the coda he's 'diversified' into a new conviction ticker"},
+    {"id":"help-with-terms","label":"Help with terms is care, not rescue","carrier":"Estelle","beats":[17,36],"note":"terms turn rescue into care — Sofi's royalty, the laptop loan at real interest, the $30 for 30%"},
+    {"id":"budgeting","tag":"budgeting","carrier":"Denise","beats":[11],"note":"count it twice, band the twenties — flawless at every dollar she can hold in her hand"},
+    {"id":"spending","tag":"spending","carrier":"Sydney","beats":[33],"note":"the book is not anti-spending — Sydney sells the ticket, pays the card, mourns a little: joy with eyes open"},
+    {"id":"precision","tag":"precision","carrier":"Emily","beats":[23,33],"note":"trusts every number but her own — the triptych, then quietly opening the app"},
+    {"id":"predation","tag":"predation","carrier":"Gary","beats":[16,28,29,35],"note":"real predation is boring and patient — the concessionaire, then Gary, the ladder's top rung"}
+  ];
+  // LESSONS:END
+
+  // LEDGER:BEGIN (generated by sync.mjs from ledger.json — edit the JSON, not this block)
+  const LDG = [
+    {"kind":"bridge","order":1,"label":"Published cost of attendance","amount":26000,"op":"start","canon":true,"note":"SDSU resident on campus, 2026–27"},
+    {"kind":"bridge","order":2,"label":"Renewing aid (Pell + state/institutional)","amount":8000,"op":"minus","canon":true,"note":"partial, but it renews every year"},
+    {"kind":"bridge","order":3,"label":"Real annual cost","amount":18000,"op":"subtotal","canon":true},
+    {"kind":"bridge","order":4,"label":"Federal Direct Loan","amount":6500,"op":"minus","actor":"loan","canon":true,"note":"sophomore cap — why $6,500 is not adjustable"},
+    {"kind":"bridge","order":5,"label":"Estelle's 529 slice, paid to the bursar","amount":5000,"op":"minus","actor":"estelle","canon":true,"note":"the credit line nobody audits; Keisha filed it as one-time help"},
+    {"kind":"bridge","order":6,"label":"Denise's SCHOOL envelope","amount":1000,"op":"minus","actor":"denise","canon":true,"note":"~$85/month — the dollar she can hold"},
+    {"kind":"bridge","order":7,"label":"Keisha's summer wages (fryer)","amount":2700,"op":"minus","actor":"keisha","canon":true,"note":"12 weeks × 20 hrs at Sioux Falls fast-food wages, net"},
+    {"kind":"bridge","order":8,"label":"Net gap — the hidden number","amount":2800,"op":"subtotal","canon":true,"beat":5,"note":"what Keisha actually owes; $7,800 is the feared version if the 529 credit never returns"},
+    {"kind":"bridge","order":9,"label":"Stand share (market Saturdays + Levitt nights)","amount":1000,"op":"plus","actor":"keisha","canon":true},
+    {"kind":"bridge","order":10,"label":"Circulation-desk fall shifts","amount":1880,"op":"plus","actor":"keisha","canon":true,"note":"against a bursar payment plan"},
+    {"kind":"bridge","order":11,"label":"Margin — no triumphant surplus","amount":80,"op":"margin","canon":true},
+    {"kind":"fear","seq":1,"label":"The feared gap Keisha carries","amount":7800,"canon":true,"note":"real cost − loan − Denise − wages, if the 529 credit does not return"},
+    {"kind":"fear","seq":2,"label":"Covered silently by the 529","amount":5000,"actor":"estelle","canon":true},
+    {"kind":"fear","seq":3,"label":"Truly hers","amount":2800,"actor":"keisha","canon":true},
+    {"kind":"rescue","actor":"estelle","label":"The 529 transfer","amount":5000,"applied":true,"canon":true,"beat":32,"source":"a $20,645 fund — $6,400 deposited, $14,245 growth — itself a sliver of the $900,000","note":"the largest and quietest rescue; unclaimed, unaudited, posted every late summer"},
+    {"kind":"rescue","actor":"denise","label":"SCHOOL envelope","amount":1000,"applied":true,"canon":true,"source":"the labeled cash drawer, all year","note":"the one contribution she can hold in her hand"},
+    {"kind":"rescue","actor":"denise","label":"Friday shifts + her father's watch","applied":false,"provisional":true,"beat":27,"source":"the watch, pawned on a Tuesday","note":"the parallel rescue that bought nothing — the gap was already covered by Estelle + Keisha; the watch amount awaits the fact-check pass"},
+    {"kind":"rescue","actor":"keisha","label":"Wages + stand share + fall shifts","amount":5580,"applied":true,"canon":true,"source":"$2,700 + $1,000 + $1,880","note":"closes the $2,800 that was hers, with $80 to spare — the job, the stand, the desk"},
+    {"kind":"trade","beat":15,"label":"Brokerage account opens","note":"her money, her thumb — no handover, mirroring Max's trades"},
+    {"kind":"trade","beat":18,"label":"$60 borrowed from the stand float","amount":60,"canon":true,"note":"breaks the one rule Denise ever taught; the first bad decision quietly causes the second"},
+    {"kind":"trade","beat":20,"label":"Paper peak at JazzFest — 'weeks, not years'","provisional":true,"note":"the sell window opens and closes in the same crush; unpriced pending the math/ fact-check"},
+    {"kind":"trade","beat":24,"label":"Presses: the approved stand-share advance goes in","provisional":true,"note":"eyes open, twice warned — hope, then greed, then desperation, each locally rational"},
+    {"kind":"trade","beat":25,"label":"Down 80% in one red morning","provisional":true,"note":"savings and advance gone together; her account, her thumb, her loss — trough unpriced"},
+    {"kind":"trade","beat":36,"label":"The lost advance repaid to the stand","note":"from circulation-desk shifts — the float made whole, the way costs get papered"}
+  ];
+  // LEDGER:END
 
   const W = 1180, PT = 34, PL = 104, PR = 14, PH = 288;
   const AXIS = 22, LANE = 30, LANES = 4;
@@ -571,6 +703,93 @@
     });
     tr.addEventListener("mouseleave", () => rowtip.classList.remove("on"));
     cast.appendChild(tr);
+  });
+
+  // ---------- lesson-delivery matrix ----------
+  const PHYS = ["wages", "ownership", "compounding"];
+  const catOf = L => L.counterfeit ? "counterfeit" : (PHYS.includes(L.tag) ? "physics" : "supporting");
+  const actEdge = i => i === 0 || B[i].a !== B[i - 1].a;
+  const bandAct = i => B[i].a % 2 === 0; // subtle band on even acts, echoing the chart
+  const mHead = document.querySelector("#matrix thead");
+  const mBody = document.querySelector("#matrix tbody");
+  const hr = document.createElement("tr");
+  hr.innerHTML = '<th class="lname">Lesson</th>';
+  B.forEach((b, i) => {
+    hr.innerHTML += '<th class="beatcol' + (actEdge(i) ? " actedge" : "") + '">' + (i + 1) + '</th>';
+  });
+  mHead.appendChild(hr);
+  LSN.forEach(L => {
+    const cat = catOf(L);
+    const tr = document.createElement("tr");
+    let cells = '<td class="lname"><span class="ln">' + (L.label || L.tag) + '</span>' +
+      (L.carrier ? ' <span class="cr">· ' + L.carrier + '</span>' : '') +
+      '<span class="ct">×' + L.beats.length + '</span></td>';
+    B.forEach((b, i) => {
+      const on = L.beats.includes(i + 1);
+      const cls = "cell" + (bandAct(i) ? " actband" : "") + (actEdge(i) ? " actedge" : "");
+      cells += '<td class="' + cls + '"' +
+        (on ? ' data-lesson="' + (L.label || L.tag) + '" data-beat="' + (i + 1) + '"' : '') +
+        '>' + (on ? '<span class="dot-m cat-' + cat + '"></span>' : '') + '</td>';
+    });
+    tr.innerHTML = cells;
+    mBody.appendChild(tr);
+  });
+  // hover a filled cell for the lesson + which beat it lands on
+  mBody.querySelectorAll("td[data-lesson]").forEach(td => {
+    td.addEventListener("mouseenter", () => {
+      const bi = +td.dataset.beat - 1;
+      rowtip.innerHTML =
+        '<div class="tt-title">' + td.dataset.lesson + '</div>' +
+        '<div class="tt-sub">Beat ' + (bi + 1) + ' · ' + ACTS[B[bi].a - 1].n + '</div>' +
+        B[bi].t;
+      const r = td.getBoundingClientRect();
+      const tw = rowtip.offsetWidth, th = rowtip.offsetHeight;
+      let left = r.right + 12;
+      if (left + tw > window.innerWidth - 8) left = r.left - tw - 12;
+      rowtip.style.left = Math.max(8, left) + "px";
+      rowtip.style.top = Math.max(8, Math.min(r.top + r.height / 2 - th / 2, window.innerHeight - th - 8)) + "px";
+      rowtip.classList.add("on");
+    });
+    td.addEventListener("mouseleave", () => rowtip.classList.remove("on"));
+  });
+
+  // ---------- money ledger ----------
+  const money = n => "$" + Math.abs(n).toLocaleString();
+
+  // the bill bridge — running arithmetic, phase A (cost) then phase B (closing)
+  const bridge = LDG.filter(e => e.kind === "bridge").sort((a, b) => a.order - b.order);
+  const bBody = document.querySelector("#bridge tbody");
+  let running = 0, remaining = null, phaseB = false;
+  bridge.forEach(e => {
+    let show, amtHtml = "", cls = "";
+    if (e.op === "start") { running = e.amount; show = running; }
+    else if (e.op === "minus" && !phaseB) { running -= e.amount; show = running; amtHtml = '<span class="amt-minus">−' + money(e.amount) + '</span>'; }
+    else if (e.op === "subtotal") { running = e.amount; remaining = e.amount; show = running; cls = "subtotal"; }
+    else if (e.op === "plus") { phaseB = true; remaining -= e.amount; show = remaining; amtHtml = '<span class="amt-plus">+' + money(e.amount) + '</span>'; }
+    else if (e.op === "margin") { show = -remaining; cls = "margin"; amtHtml = '<span class="amt-plus">+' + money(e.amount) + '</span>'; }
+    const runHtml = e.op === "margin"
+      ? money(show) + " over"
+      : (show < 0 ? "−" + money(show) : money(show));
+    const tr = document.createElement("tr");
+    if (cls) tr.className = cls;
+    tr.innerHTML =
+      "<td>" + e.label + (e.actor ? ' <span class="pill">' + e.actor + '</span>' : "") +
+        (e.note ? '<span class="who" style="display:block;color:var(--muted);font-size:0.72rem">' + e.note + "</span>" : "") + "</td>" +
+      '<td class="money">' + amtHtml + "</td>" +
+      '<td class="money">' + runHtml + "</td>";
+    bBody.appendChild(tr);
+  });
+
+  // the trading detour — provisional, mostly unpriced
+  const tBody = document.querySelector("#trades tbody");
+  LDG.filter(e => e.kind === "trade").sort((a, b) => a.beat - b.beat).forEach(e => {
+    const tr = document.createElement("tr");
+    const amt = e.amount != null ? money(e.amount) : '<span class="pill prov">unpriced</span>';
+    tr.innerHTML =
+      '<td class="num">' + e.beat + "</td>" +
+      "<td>" + e.label + (e.note ? '<span class="who" style="display:block;color:var(--muted);font-size:0.72rem">' + e.note + "</span>" : "") + "</td>" +
+      '<td class="money">' + amt + "</td>";
+    tBody.appendChild(tr);
   });
 })();
 </script>

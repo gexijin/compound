@@ -11,9 +11,11 @@ the prose.
 |---|---|
 | `beats.json` | **Source of truth.** The scene grid: one object per beat, in story order (array order = beat order). |
 | `cards.json` | The irony ledger: every fact the reader holds before Keisha does. |
-| `characters.json` | The lesson ledger: the cast, and which money lesson each embodies. |
-| `tension-map.html` | The interactive chart. Self-contained — just open it in a browser. The blocks between the `DATA:BEGIN/END`, `CARDS:BEGIN/END`, and `CHARS:BEGIN/END` markers are generated; edit the JSON instead. |
-| `sync.mjs` | Regenerates the marked blocks in `tension-map.html` from the JSON, then runs the pacing + cast lint. |
+| `characters.json` | The cast-to-curriculum map: the cast, and which money lesson each embodies. |
+| `lessons.json` | The lesson-delivery ledger: each design-rule #4 money lesson and the beats where it's taught (feeds the beat×lesson matrix). |
+| `ledger.json` | The money ledger: the three rescues as cash flow — the canon bill bridge, the feared-$7,800 split, and the provisional trading detour. |
+| `tension-map.html` | The interactive charts. Self-contained — just open it in a browser. The blocks between the `DATA:`, `CARDS:`, `CHARS:`, `LESSONS:`, and `LEDGER:` `BEGIN/END` markers are generated; edit the JSON instead. |
+| `sync.mjs` | Regenerates the marked blocks in `tension-map.html` from the JSON, then runs the pacing + curriculum + money lint. |
 
 Each file is a JSON array of objects, one object per line. Named keys mean field
 order doesn't matter and **empty fields are simply omitted** — a beat with no
@@ -95,6 +97,31 @@ field that doesn't apply.
 | `wound` | The character's money wound; optional, shown on row hover. |
 | `arc` | One-line arc; optional, shown on row hover. |
 
+## lessons.json fields
+
+The design-rule #4 curriculum, one object per lesson, cross-referencing `beats.json` by number. Where `characters.json` says *who* owns a lesson, this says *where it's delivered* — the two reconcile in the lint.
+
+| Field | Meaning |
+|---|---|
+| `id` | Unique kebab-case slug (e.g. `say-number`, `float-sacred`). |
+| `label` | The lesson as stated in design rule #4; omit only when `tag` alone names it. |
+| `tag` | Optional link to a `characters.json` `teaches` tag (`wages`, `liquidity`, …) when the lesson is one of the controlled-vocabulary lessons. Must be in `TEACHES`. |
+| `carrier` | Optional character `short` who embodies it (cross-checked against `characters.json`). |
+| `counterfeit` | `true` for `speed` — the trap that must never read as a lesson; omit otherwise. |
+| `beats` | Non-empty array of beat numbers where the lesson is delivered (the matrix dots). |
+| `note` | Optional gloss shown on cell hover. |
+
+## ledger.json fields
+
+The money as cash flow. One array, four `kind`s (a discriminator), so an entry only carries the fields its kind needs. Amounts are whole dollars; `canon: true` marks a figure regression-tested in `math/`, `provisional: true` marks one awaiting the fact-check pass. Any `beat` cross-references `beats.json`.
+
+| `kind` | Fields | Role |
+|---|---|---|
+| `bridge` | `order`, `label`, `amount`, `op` (`start`/`minus`/`plus`/`subtotal`/`margin`) | The canon waterfall: $18,000 real cost → $2,800 net gap → closed. Rendered as the bill-bridge table; the lint re-runs the arithmetic. |
+| `trade` | `beat`, `label`, `amount` | The trading-detour timeline; mostly `provisional` (unpriced). Rendered as the trading table. |
+| `fear` | `seq`, `label`, `amount`, `actor` | The feared $7,800 (`seq:1`) and the parts it splits into (`seq>1`). Model-only — feeds the reconciliation lint and holds the $7,800 canon anchor; not charted. |
+| `rescue` | `actor`, `label`, `amount`, `applied`, `source` | One row per rescue contribution; `applied:false` is the "bought nothing" watch. Model-only — feeds the redundant-rescue lint; not charted. |
+
 ## Scoring rubric (ordinal — the shape is the data, not the digits)
 
 Both scales are one-rater expert ratings. Anchors:
@@ -113,13 +140,18 @@ side too; the scores only mean anything relative to their neighbors.
 - **Card bookkeeping** — every `card_dealt` matches a `cards.json` entry and beat number; every `cashed_beat` lands on a `cards_cashed` beat; open cards and cards held under ~5 beats are reported.
 - **Strand starvation** — the longest stretch with no strand event, card, or near-miss (flagged at ≥ 6 beats).
 - **Cast-to-curriculum** — every money physics (`wages`, `ownership`, `compounding`, `speed`) has an owner; exactly the three expected rescues are flagged; every strand the beats run has a character who owns it. Unowned supporting lessons and the counterfeit `speed` carrier are reported as notes.
+- **Lesson coverage** — every `teaches` tag a character owns is actually delivered by some lesson; every substantial beat (hard out or intensity ≥ 7) delivers at least one lesson (design rule #4: every set piece pays tuition); physics taught only once, and the counterfeit `speed`, are reported as notes, plus a per-act delivery count.
+- **Money reconciliation** — the bill bridge re-computes ($18,000 → net gap → margin) and must match its stated subtotals/margin; the fixed figures ($7,800 / $5,000 / $2,800) must still appear; the feared number must split exactly into its parts; redundant ("bought nothing") rescues and provisional rows are reported, along with the standing spine-vs-`math/` note on how the $2,800 closes.
 
 Hard errors (non-contiguous numbering, scores outside 0–10, unknown act,
-missing markers in the HTML) stop the script before it writes anything.
+unknown ledger `kind`/`op`/`actor`, a lesson beat out of range, an unknown
+`carrier`, missing markers in the HTML) stop the script before it writes anything.
 
 ## Current known findings (as of the July 2026 spine)
 
-The linter intentionally flags three things in the current design — keep or fix
-consciously: beats 30–31 stack two sirens/hard outs at the end of Act 4; Act 5's
-pre-climax breath (beat 33) sits below Act 4's floor; and the "sell slip" card
-has no cash-in beat yet (tracked in the spine's open items).
+The linter intentionally flags several things in the current design — keep or fix
+consciously:
+
+- **Pacing:** beats 30–31 stack two sirens/hard outs at the end of Act 4; Act 5's pre-climax breath (beat 33) sits below Act 4's floor; the "sell slip" card has no cash-in beat yet (tracked in the spine's open items).
+- **Curriculum:** beats 2, 5, and 31 are substantial (hard out or intensity ≥ 7) but deliver no catalogued lesson — they're turn/setup beats (the pocketed twenty, the bill lands, Estelle's price). Confirm each earns its place under rule #4, or note it as a deliberate pure-plot beat. Act 1 carries only one delivery: it's front-loaded with setup, not teaching.
+- **Money:** four ledger rows are provisional (the trading peak, advance, and trough, plus Denise's watch) — unpriced until the `math/` fact-check pass. Denise's watch is a *redundant* rescue by design (it "buys nothing"). And there is a standing spine-vs-`math/` discrepancy the lint surfaces every run: `tuition_gap.py` closes the $2,800 with stand share + circulation desk ($1,000 + $1,880 = $2,880), while the spine's Act 5 prose also names "the liquidated remainder" among the closers — decide whether the trading detour contributes to the close or nets out. (Separately, the `math/` scripts still reference a `story-bible.md`; the design doc is now `full-price-spine.md`.)

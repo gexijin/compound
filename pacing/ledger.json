@@ -1,0 +1,29 @@
+[
+  {"kind":"bridge","order":1,"label":"Published cost of attendance","amount":26000,"op":"start","canon":true,"note":"SDSU resident on campus, 2026–27"},
+  {"kind":"bridge","order":2,"label":"Renewing aid (Pell + state/institutional)","amount":8000,"op":"minus","canon":true,"note":"partial, but it renews every year"},
+  {"kind":"bridge","order":3,"label":"Real annual cost","amount":18000,"op":"subtotal","canon":true},
+  {"kind":"bridge","order":4,"label":"Federal Direct Loan","amount":6500,"op":"minus","actor":"loan","canon":true,"note":"sophomore cap — why $6,500 is not adjustable"},
+  {"kind":"bridge","order":5,"label":"Estelle's 529 slice, paid to the bursar","amount":5000,"op":"minus","actor":"estelle","canon":true,"note":"the credit line nobody audits; Keisha filed it as one-time help"},
+  {"kind":"bridge","order":6,"label":"Denise's SCHOOL envelope","amount":1000,"op":"minus","actor":"denise","canon":true,"note":"~$85/month — the dollar she can hold"},
+  {"kind":"bridge","order":7,"label":"Keisha's summer wages (fryer)","amount":2700,"op":"minus","actor":"keisha","canon":true,"note":"12 weeks × 20 hrs at Sioux Falls fast-food wages, net"},
+  {"kind":"bridge","order":8,"label":"Net gap — the hidden number","amount":2800,"op":"subtotal","canon":true,"beat":5,"note":"what Keisha actually owes; $7,800 is the feared version if the 529 credit never returns"},
+  {"kind":"bridge","order":9,"label":"Stand share (market Saturdays + Levitt nights)","amount":1000,"op":"plus","actor":"keisha","canon":true},
+  {"kind":"bridge","order":10,"label":"Circulation-desk fall shifts","amount":1880,"op":"plus","actor":"keisha","canon":true,"note":"against a bursar payment plan"},
+  {"kind":"bridge","order":11,"label":"Margin — no triumphant surplus","amount":80,"op":"margin","canon":true},
+
+  {"kind":"fear","seq":1,"label":"The feared gap Keisha carries","amount":7800,"canon":true,"note":"real cost − loan − Denise − wages, if the 529 credit does not return"},
+  {"kind":"fear","seq":2,"label":"Covered silently by the 529","amount":5000,"actor":"estelle","canon":true},
+  {"kind":"fear","seq":3,"label":"Truly hers","amount":2800,"actor":"keisha","canon":true},
+
+  {"kind":"rescue","actor":"estelle","label":"The 529 transfer","amount":5000,"applied":true,"canon":true,"beat":32,"source":"a $20,645 fund — $6,400 deposited, $14,245 growth — itself a sliver of the $900,000","note":"the largest and quietest rescue; unclaimed, unaudited, posted every late summer"},
+  {"kind":"rescue","actor":"denise","label":"SCHOOL envelope","amount":1000,"applied":true,"canon":true,"source":"the labeled cash drawer, all year","note":"the one contribution she can hold in her hand"},
+  {"kind":"rescue","actor":"denise","label":"Friday shifts + her father's watch","applied":false,"provisional":true,"beat":27,"source":"the watch, pawned on a Tuesday","note":"the parallel rescue that bought nothing — the gap was already covered by Estelle + Keisha; the watch amount awaits the fact-check pass"},
+  {"kind":"rescue","actor":"keisha","label":"Wages + stand share + fall shifts","amount":5580,"applied":true,"canon":true,"source":"$2,700 + $1,000 + $1,880","note":"closes the $2,800 that was hers, with $80 to spare — the job, the stand, the desk"},
+
+  {"kind":"trade","beat":15,"label":"Brokerage account opens","note":"her money, her thumb — no handover, mirroring Max's trades"},
+  {"kind":"trade","beat":18,"label":"$60 borrowed from the stand float","amount":60,"canon":true,"note":"breaks the one rule Denise ever taught; the first bad decision quietly causes the second"},
+  {"kind":"trade","beat":20,"label":"Paper peak at JazzFest — 'weeks, not years'","provisional":true,"note":"the sell window opens and closes in the same crush; unpriced pending the math/ fact-check"},
+  {"kind":"trade","beat":24,"label":"Presses: the approved stand-share advance goes in","provisional":true,"note":"eyes open, twice warned — hope, then greed, then desperation, each locally rational"},
+  {"kind":"trade","beat":25,"label":"Down 80% in one red morning","provisional":true,"note":"savings and advance gone together; her account, her thumb, her loss — trough unpriced"},
+  {"kind":"trade","beat":36,"label":"The lost advance repaid to the stand","note":"from circulation-desk shifts — the float made whole, the way costs get papered"}
+]
