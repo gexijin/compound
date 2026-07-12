@@ -1,5 +1,5 @@
 
-## Design rules
+## Design guidelines
 
 1. **Every bang buys a release** — no crisis beat may stand without relief within a beat or two, but the relief need not be quiet: a lull, a structural reversal, a collision, a laugh, or a card cashing all count. The book breathes through comedy and resolution, not only stillness, and no character is required to insert a joke to make that happen. The supper chapter is the model (highest suspense in the book, released through hotdish and weather); the crash must not stand alone.
 2. **Villains stay Tuesday-sized** — Gary never raises his voice; the concessionaire stays liked and unproven; real predation is boring and patient, and depicting it accurately is the lesson.

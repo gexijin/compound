@@ -12,4 +12,4 @@
 
 ## Working notes
 
-- Money figures are canon-sensitive: the fixed ones are $7,800 / $5,000 / $2,800, $30 for 30%, and $900,000. Don't invent or alter money numbers casually.
+- Money figures are canon-sensitive: the fixed ones are $7,800 / $5,000 / $2,800,  and $900,000. Don't invent or alter money numbers casually.
