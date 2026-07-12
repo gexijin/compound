@@ -184,15 +184,53 @@ Mexican-American; three doors down; married to a contented Smithfield man, mothe
 - **Dyads:** *Denise* — two money-culture matriarchs, envelopes versus liquidity, mutual respect at three doors' distance. *Sofi* — watched over first, auditing now; the pen scene is the whole relationship settling its terms. *Estelle* — deliberately none.
 - **Guardrails:** never backward, never folklore, never a lesson — her system works on the page, visibly, all summer, and the one time it's priced (the coda's custodial account) it's priced by her own hand. Warm to the girls, exact with everyone.
 
-### Gary — the advisor
+### Gary Tollefson, ~60 — the advisor
 
-*Sunrise Retirement Solutions.* Pleasant, patient, remembers Nate's name, laughs at Estelle's jokes; found her through the senior-center channel and planted the "simplify your estate" idea behind the garage sale Denise thinks she won.
+*Sunrise Retirement Solutions.* Licensed, compliant, legal — that is the lesson. Not a scammer:
+a commission salesman for a bad-but-lawful product, working a channel. Pleasant, patient,
+unhurried; remembers Nate's name (it's in his notes). Found Estelle in February through the
+senior-center Lunch-and-Learn circuit — referred, warmly, by a satisfied customer. By June he
+has been inside for months: the garage sale that opens the book was his play ("simplifying
+your estate"), planted so gently that Denise believes her year of nagging finally won.
 
-- **What he knows:** not the number — he's a volume fisherman working the senior-center channel, and a homeowning widow with fifty years of tenure is simply the standard profile he nets. That ignorance is what keeps him Tuesday-sized.
-- **The contract:** surrender charges, a 7% commission dressed in jargon, a signing "incentive" expiring on a circled date — legitimate advice never comes with a countdown.
-- **Screen time:** three scenes total, no raised voice; defeated by being *read*, and leaves politely, because his species always does.
-- **The ladder:** fourth rung of the predator ladder — the 1975 settlement man, the 1976 fund salesman, the concessionaire, Gary: four men across six decades pricing women's work and money at scrap value.
-- **Scale:** Tuesday-sized, always — real financial predation is boring and patient, and depicting it accurately is the lesson.
+- **The mechanism — listening as product:** he sells nothing for the first three visits; he
+  asks about the plant, about Nate, and asks the follow-up question no one in Estelle's family
+  has asked about money in fifty years. The family disease is his business model. He didn't
+  create the silence; he knows what it's worth.
+- **What he knows / doesn't:** not the number — a volume fisherman; a homeowning widow with
+  fifty years of tenure is simply the standard profile he nets. He never learns the total, the
+  529s, or that his contract died at the hands of a nineteen-year-old who reads definitions.
+  That ignorance keeps him Tuesday-sized.
+- **The contract:** an equity-indexed annuity — surrender charges years deep, a 7% commission
+  dressed as "no cost to you," a signing incentive expiring on a circled date. Every sentence
+  he says about it is true; only the sum is false. He never pressures — *no rush at all,
+  Estelle* — the countdown is outsourced to the paperwork.
+- **Register — seminar-warm, played dead straight (per guide):** first names, weather, the
+  Canaries, a joke on his own golf game; jargon lives in the documents, never his mouth. He
+  reads as the nicest man in the book; the drafting rule is to let him.
+- **Body and props:** golf-shirt neat; a sedan the church ladies can describe; swag that
+  colonizes a kitchen before he does — the Sunrise magnet on Estelle's fridge, a glossy pen in
+  the junk drawer, the folder. His fingerprint is a tidy hand in other people's paperwork:
+  "simplifying your estate," and the circled date.
+- **Verna Iverson, ~75 (sub-entry — one scene, one citation, never a subplot):** senior-center
+  widow, warm; signed two years ago and refers Gary the way you'd refer a good roofer —
+  predation travels through friendship; that is the channel. On-page once (praising her "nice
+  advisor"); cited once: she wanted to help her son with a down payment, the surrender charge
+  was $4,000, she paid it and told no one. The product's price, demonstrated on a person.
+  **Guardrail:** never pathetic, never rescued; her deal stays done — some prices stay paid.
+- **Right about:** Estelle is lonely, and listening is worth money. **Wrong about:** that a
+  woman alone stays alone — the same unlistened-to years that made her his standard profile
+  built the granddaughter who reads contracts the way he reads intake sheets.
+- **The ladder:** fourth rung — the 1975 settlement man, the 1976 fund salesman, the
+  concessionaire, Gary: four men across six decades pricing women's money at scrap. He is the
+  rung that meets resistance, and the resistance is disclosure, not cleverness.
+- **Boundaries (hard):** no interiority, no POV, no scene without a Carter present — he exists
+  only in Keisha's blind narration and the reader's dread. Three scenes total (placed in the
+  spine), no raised voice, no crime, no comeuppance; defeated by being read, he leaves
+  politely, genuinely unbothered — a closed door is volume business. He never meets Max or the
+  girls. **Coda, one line:** the church bulletin still runs his Lunch-and-Learn ad.
+- **Arc: none, structurally.** People don't change; channels do. The book defeats the profile,
+  not the man — what changes is Estelle's visibility.
 
 ### The concessionaire
 
