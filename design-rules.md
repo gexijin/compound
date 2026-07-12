@@ -1,0 +1,20 @@
+
+## Design rules
+
+1. **Every bang buys a release** — no crisis beat may stand without relief within a beat or two, but the relief need not be quiet: a lull, a structural reversal, a collision, a laugh, or a card cashing all count. The book breathes through comedy and resolution, not only stillness, and no character is required to insert a joke to make that happen. The supper chapter is the model (highest suspense in the book, released through hotdish and weather); the crash must not stand alone.
+2. **Villains stay Tuesday-sized** — Gary never raises his voice; the concessionaire stays liked and unproven; real predation is boring and patient, and depicting it accurately is the lesson.
+3. **The comedy quota is architectural, not cast-wide** — stand failures, market politics, family silence, group chat, church ladies, wrong interpretations, reader-held information, find-story provenance, the returned cash box. Funny is the delivery mechanism: the reader finishes because she was laughing and discovers she can explain surrender charges at brunch. Serious characters are allowed to remain serious; the story machinery and the people around them can supply the laugh.
+4. **Entertain first, then educate** — no drama-only scenes. The lesson ledger: say the number out loud; three physics of money (wages, ownership, compounding) plus speed, the counterfeit fourth; read before you sign; never risk money you can't lose; paper gains aren't money; liquidity — money in the market isn't money on Tuesday; price your work; the float is sacred; small confessions are survivable; asking is a financial skill; isolation is what predators target — disclosure is armor; slow and boring survives; consequences don't automatically produce wisdom (Max); help with terms is care, not rescue.
+5. **The collection is never the piggy bank**, and Max never touches the family plot.
+6. **Keisha's mistakes stay locally rational** — hope, then greed, then desperation; the book is anti-hiding, never anti-mistake.
+7. **The bridge metaphor stays structural, never spoken** — no building bridges, carrying loads, or strong foundations in dialogue or narration. Keisha's engineering remains technical, funny, material, and allowed to be wrong outside its domain.
+8. **Campus life is a pressure line, not a subplot** — three summer touches and one coda payoff; no named teammate arc, competition flashback chapter, or fall-contest plot. The team assumes continuity. Keisha is the only person entertaining her disappearance.
+
+### Comedy architecture — adopted
+
+- **Structure first:** humor comes from people pursuing incompatible goals sincerely — three rescues running blind, a stand whose competence keeps meeting small-business chaos, market logistics and vendor politics, family members interpreting the same silence differently, and the reader holding cards the characters do not. Sioux Falls passive aggression is environmental comedy, not a dialect every character must perform.
+- **Three verbal-comedy owners:** Keisha is the funny narrative lens, with quantification as armor; Sydney performs socially and justifies arithmetically; Estelle owns provenance storytelling and the needle, used selectively.
+- **Sincere sources of comedy:** Max believes the bro-quant language and is a comic object, not a joke writer. Sofi is sunny and may be funny, but does not carry scenes as a comedian. Denise and Emily are serious fixed points; situations and other people supply the laughter.
+- **Played straight:** Lourdes, Gary, and the concessionaire do not receive comic registers. Their exactness, patience, or banality may create an effect, but they do not perform it.
+- **Runners require restraint:** avoid too many. Recurrence, escalation, and payoff machinery must earn its space; not every character needs a runner, and recurring material may work better as texture, motif, structural irony, a warm thread, or a personal want. A runner's final beat may reveal character, complete an arc, or remain lightly funny; it does not have to turn devastating.
+

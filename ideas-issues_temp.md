@@ -1,3 +1,39 @@
+## Open items and ideas for iteration
+
+- Whether the garage sale itself gets a full scene or stays mostly off-page after prep week.
+- Where the "sell" slip surfaces (candidate: Estelle guesses it during the shame visit).
+- Optional two-chapter mammogram joke (agreed as a draft-time decision, default off).
+- Chapter count and hard outs — the next document.
+- Not enough comedy in Act 4.
+- Make the watch that Denise sold as a gold necklace, which was discovered in Estelle's garage, and give it to Denise. With the gold necklace, Estelle tells them that some assets hold value better, and gold has been money for thousands of years. Money exists so strangers can trade favors. 
+- Keisha worked a max of 30 hrs a week at McDonald's. In early summer, her attention is on finding another part-time job. That's all she and her mod Denise can think of to solve money problems. 
+- When Max's stock crashed and he wanted a job, Keisha helped him. Their relationship thaws after the crash, and they eventually fall in love.
+- All characters need an entire picture of the social structure. Keish's siblings, dad. Estelle's other children and grandchildren. They do not need to play any roles, but all main characters need complete profiles so that their logic and speech can be seeded into reality. 
+- Estelle is frugal, but she needs some odd behavior to hint at her wealth. Like expensive Christmas gifts for all grandkids.
+- All the threads in this story need to be logical and evolve over time
+	- Keisha's tuition due balance
+	- The revenue of the drink stand
+	- Her stock performance
+	- Her relationship with Max
+	- Her knowledge of the 529
+	- Her knowledge of Estelle's investments
+	- Estelle's investments and the 529
+	- Estelle's knowledge of the tuition situation
+	- Max's investment, job
+	- Denise's knowledge of the tuition
+	- Her efforts to help quietly
+- Add timeline: from Week 1 of the summer to Week 12. Set this story in the summer of 2025.
+- Make Estelle the victim of a cyber scam, losing $200k? 
+- Make the girls reject the stand offer in the middle of summer, but negotiate a deal at the end of summer? Probably won't work. 
+- Nothing in this book is structrally funny: plot inventory is three secret rescues, a car breakdown, a stock crash, an elder-fraud con, and a dead man's watch sold in grief. Possible fixes:
+	- Use the stand as a sitcom engine: failed flavors, vendor micro-politics (kettle-corn couples territorial cone placement, passive-agressive honey guy. Small business comedy.
+	- Assign each character a distinct comic register. Assign each character a distinct comic register — right now everyone's humor is "quirky specificity." Keisha: deadpan quantifier. Sydney: chaos narrated with total confidence. Max: delusional optimism played straight (his comedy is that he never learns — the coda's $85 boring account is the punchline; seed more). Emily: lethal literalism, and make the spreadsheet filenames an escalating runner we actually read — five of them across the book, each worse (agua_v3_FINAL_realfinal_JULY.xlsx). Estelle: the provenance stories are stand-up sets — every object gets what she paid and one withering line about the fool who sold it. Lourdes: dry, receipts-based comedy. And the region itself: Sioux Falls passive-aggression ("must be nice," "oh, how fun for you") is an entire comic dialect the book should mine — Midwest niceness as a rival silence system to the Carters'.
+	- Use runners, because runners are how novels are funny. Comedy in a book this shape comes from bits that recur and escalate: Estelle pulling items back out of the donation boxes (already in Act 1 — extend it: things quietly reappear in the garage all summer); the bridge-team chat as interstitial found-comedy, increasingly unhinged about the whereabouts of the binder — which makes her final "I have it" land as both joke-payoff and arc-payoff; the heron war; Sofi's permit. Rule of thumb: every runner is funny until its last beat, which is allowed to be devastating. That's the Sheldon trick — the reader laughs at the donation-box bit four times and then realizes it was the thesis: she cannot let go of what she holds.
+
+
+
+
+
 # Full Price — Unresolved Editorial Issues
 
 Working notes for future sessions. These are the remaining issues from the initial editorial and publishing review. Denise's expansion, Keisha's campus life, and the stolen-twenty beat are not included because those revisions have already been addressed in the spine.
