@@ -219,18 +219,6 @@ Before the scene ends, Denise asks Estelle one small, concrete question about th
 - Sofi gets a custodial investment account, with the learner's-permit errand next on the list; the concessionaire hints the stand can have the good corner next June.
 - Move-in day — the day Denise blocked off in June: Keisha drives the repaired car to Brookings with Denise beside her, bedding and the bridge-team rules binder packed, rating the I-29 overpasses as they go. Next year's tuition gap and Estelle's planned $5,000 contribution are written on the family ledger where everyone can see them, instead of hidden in separate heads. The bridge chat asks who has the binder; *I have it*, she answers, and nobody makes a fuss, because they never imagined she'd left. Sofi watches the car go the way Keisha once watched Estelle — the family pattern still passes down, but now it talks.
 
----
-
-## Design rules
-
-1. **Every bang buys a release** — no crisis beat may stand without relief within a beat or two, but the relief need not be quiet: a lull, a laugh, or a card cashing all count. The book breathes through comedy and resolution, not only stillness. The supper chapter is the model (highest suspense in the book, released through hotdish and weather); the crash must not stand alone.
-2. **Villains stay Tuesday-sized** — Gary never raises his voice; the concessionaire stays liked and unproven; real predation is boring and patient, and depicting it accurately is the lesson.
-3. **The comedy quota is non-negotiable** — group chat, church ladies, find-story provenance, the returned cash box. Funny is the delivery mechanism: the reader finishes because she was laughing and discovers she can explain surrender charges at brunch.
-4. **Entertain first, then educate** — no drama-only scenes. The lesson ledger: say the number out loud; three physics of money (wages, ownership, compounding) plus speed, the counterfeit fourth; read before you sign; never risk money you can't lose; paper gains aren't money; liquidity — money in the market isn't money on Tuesday; price your work; the float is sacred; small confessions are survivable; asking is a financial skill; isolation is what predators target — disclosure is armor; slow and boring survives; consequences don't automatically produce wisdom (Max); help with terms is care, not rescue.
-5. **The collection is never the piggy bank**, and Max never touches the family plot.
-6. **Keisha's mistakes stay locally rational** — hope, then greed, then desperation; the book is anti-hiding, never anti-mistake.
-7. **The bridge metaphor stays structural, never spoken** — no building bridges, carrying loads, or strong foundations in dialogue or narration. Keisha's engineering remains technical, funny, material, and allowed to be wrong outside its domain.
-8. **Campus life is a pressure line, not a subplot** — three summer touches and one coda payoff; no named teammate arc, competition flashback chapter, or fall-contest plot. The team assumes continuity. Keisha is the only person entertaining her disappearance.
 
 
 - 
