@@ -1,6 +1,6 @@
 ## Cast
 
-**Note** NOT all details and related people need to be in this novel. These profiles are complete textures so that we know how each one behaves and talks. 
+**Note** NOT all details and related people need to be in this novel. These profiles have complete profiles and textures so that we know how each one behaves and talks. 
 
 ### Keisha Carter, 19 — narrator
 
