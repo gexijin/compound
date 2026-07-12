@@ -88,21 +88,6 @@ Black; youngest of Estelle's three; a toddler when Nate died — she has no memo
 - **Her timeline:** 1973, born. 1975, Nate dies. 1991, bagger at eighteen. 2003, marries Terry. 2006, Keisha. 2015, the collision — divorce, promotion, the chain, and the labeled envelopes appearing in the kitchen drawer that fall. 2024, child support ends. June 2025, the portal (spine business from here).
 - **Arc:** from anticipating in silence to asking and staying in the answer. The small, concrete 529 question at the climax demonstrates that asking can be survived; her anger at Estelle demonstrates that speaking does not require instant forgiveness.
 
-### Sofía "Sofi" Ortiz, 16 — the watched one
-
-Mexican-American; the neighbor girl — the Ortiz family has lived three doors down since before she was born, family in everything but blood. Supplies the agua fresca recipe (page one: a pitcher carried over for the sweating sorting crew — the stand is born in one collective gulp).
-
-- **The invoice:** she has translated, interpreted, and helped for free her whole life; the recipe is the first contribution anyone tried to put a number on. She recognizes unpaid value faster than the older girls, invoices the recipe, and the amendment gives her a real per-batch royalty plus a vote — and the recipe never transfers with the business; it is hers.
-- **Non-thematic want:** her learner's permit, over-seriously studied and casually denied — comic texture, not subplot.
-- **Function:** the fourth generation by proximity, not blood — the pattern travels through anyone who's paying attention. The final image is hers.
-
-### Lourdes Ortiz, ~40s — Sofi's mother, counter-wisdom
-
-Mexican-American; cash, caution, liquidity, family obligation.
-
-- **Not backward, not folklore:** her distrust has receipts — one bank account frozen years ago over a mismatched middle name; three weeks, four trips, one fee, zero apologies; told once, never as a lesson.
-- **The invoice scene:** argues love's terms over the invoice (in this family you do not bill the people you love), then, handed the guardian pen, reads every line before signing.
-- **JazzFest:** she's the one who grabbed the cash box when the crowd surged — the false alarm with real consequences.
 
 
 
@@ -165,6 +150,24 @@ White; Norwegian-Lutheran, fourth-generation Sioux Falls; only child; class of 2
 - **Dyads:** *Keisha* — the branch-library bond; the person Keisha texts first, and the one friendship where both silences understand each other without approving. *Sydney* — opposite numbers, front-of-house and back-of-house: one money culture performs, one never speaks; each privately thinks the other is the brave one. *Max* — his post-crash "CFO," reluctantly; she audits, he orbits. *Denise* — recognition across a generation, register tape to spreadsheet: the two disciplines in the book that trust a second count.
 - **Arc:** from guarding the number to knowing it — the door opens quietly, unannounced, on her own terms. Where Keisha's cure is saying the number out loud at a table, Emily's is allowed to stop at *looking* at it: the same disease, cured at a volume true to the patient.
 - **Guardrails:** the Larsen parents stay kind and offstage; *solvent-seeming* remains genuinely ambiguous forever — the inheritance is the silence, not a hidden crisis. The overheard figure is never identified, amount or cause. Her Augustana bill never gets a scene — the stray transfer is its only surface — so her thread never competes with Keisha's. And nobody ever diagnoses Emily on the page: the cracked phone, the filenames, and two lines of backstory are the entire case file.
+
+
+# Sofía "Sofi" Ortiz, 16 — the watched one
+
+Mexican-American; the Ortiz family has lived three doors down since before she was born, family in everything but blood; a junior-to-be at Washington. Her mother is Lourdes; her father works the Smithfield floor — the same plant, two generations after Estelle's forty-eight years, a fact no character ever remarks on — and is the book's one contented working man seen at his own table: warm, present, minor. Her brother is **Diego, 10**. Sofi has translated, interpreted, and helped for free her whole life — forms, phone calls, front desks — and supplies the agua fresca recipe (jamaica, plus a rotating second flavor that is her call, weekly, hers alone): page one is her pitcher, carried over for the sweating sorting crew, and the stand is born in one collective gulp.
+
+- **The calibrating event (shared with Lourdes):** the frozen account — three weeks, four trips, one fee, zero apologies — with Sofi, nine, doing the talking, because the bank listened to the child in English before the woman with the documents. Two lessons took at once: institutions must be read word by word, and the work she did in those rooms was real work nobody counted. Lourdes got her receipts; Sofi got her meter.
+- **Money wound (soft, already healing):** the family-obligation economy — help that's expected is help that's invisible; labor-as-love keeps no ledger. Hers is the one wound in the book caught early: the invoice is the cure in progress, and it costs her real nerve — billing the people you love, at sixteen, in a house where you don't — which is what keeps her the book's hope instead of its prodigy.
+- **The invoice (canon, and the whole character in one act):** she recognizes unpaid value faster than the older girls because she has been unpaid value her whole life. The recipe is the first contribution anyone tried to put a number on; she puts the number on it herself. The amendment gives her a per-batch royalty and a vote, and the recipe never transfers with the business — it is hers. (Rate lives in the money fact-sheet.)
+- **Comic register — cheerful out-loud pricing:** she names the value of labor as she performs it, sunnily, no resentment attached — *that's a four-dollar favor; the good-neighbor rate is two; translating for the cable guy is eight but Mom gets the family plan.* **The tell:** she quotes constantly and has never once collected — the invoice is the first quote she enforces, which is why it lands serious in a comic register. **Lane markers:** Keisha reads systems' fine print; Emily prices concepts, when asked; Sofi prices labor, unprompted — including her own, which is the part nobody taught her.
+- **Secret ledger: none.** In a book of secret ledgers, hers is the only open book. That is not a gap; it is the point.
+- **Body and prop:** always has a pen — nobody registers why until the invoice. Otherwise: the pitcher, the condensation, the permit manual studied soft at the spine, a girl who stands like she's next in line for something.
+- **Right about:** love and labor can share a ledger — naming a price is not a betrayal, and the book's youngest character is the first to prove it. **Wrong about (small, age-true):** she thinks everything valuable can be priced. The permit denial is just the joke of a girl who prices everything meeting a mother who won't name a price — friction, not lesson.
+- **Non-thematic want (comic runner):** the learner's permit — the manual studied like scripture, practice tests perfect, the request denied casually and without reasons (*when you're ready*, from a woman who won't say ready for what). **Guardrail:** the denial is never about money. Last beat already placed in the coda: the errand, next on the list.
+- **Diego, 10:** hers to tutor at the same kitchen table where Keisha once taught her long division — the pattern traveling one more step. He runs a trading-card economy of genuine sophistication that no adult audits. **The unstated observation:** at the age Sofi was translating in bank lobbies, Diego is trading cards at a profit — nobody has ever expected his help, so nobody has ever failed to pay for it. No character says this. **Guardrails:** offstage-to-light, never plot.
+- **Dyads:** *Keisha* — long division then, invoices now; the reversal is the point, and Sofi keeps it light because Keisha is the one who feels it. *Lourdes* — the invoice is their negotiation of love's terms, settled the moment the guardian pen makes her mother read every line: watched by the person she watched over first. *Diego* — the table, one generation on.
+- **Arc (the smallest in the book, on purpose):** from watched to watcher. She doesn't heal — she was never fully broken; she absorbs. A royalty, a vote, a custodial account, the pattern learned by proximity — and the final image is hers: watching the car go the way Keisha once watched Estelle. The family disease passes down still, but the strain she inherits already talks.
+- **Guardrails:** never precocious-cute — her competence is earned in specified rooms, not innate. Her function is the fourth generation by proximity, not blood — the book's pattern travels through anyone paying attention.
 
 
 ### Gary — the advisor
