@@ -1,5 +1,7 @@
 ## Cast
 
+**Note** NOT all details and related people need to be in this novel. These profiles are complete textures so that we know how each one behaves and talks. 
+
 ### Keisha Carter, 19 — narrator
 
 Black; born and raised near-north Sioux Falls; only child of Denise Carter and Terrence "Terry" Boyd — a Carter, not a Boyd, a fact nobody in the family has ever explained out loud. Sophomore-to-be in civil engineering at SDSU in Brookings — ordinary infrastructure under stress, a fascination entirely hers and comic in its specificity. She rates the I-29 overpasses on expansion joints, drainage, sightlines, and the quality of ugly repairs; has opinions about culverts; and rejects on principle the claim that bridges are interesting because they *bring people together*. **First person in her family to enroll in college.** Her dream job is not the famous bridge; it's county engineer — public works, drainage, the person who signs off on the ugly repairs. Her dream is *maintenance*, in a family that only knows *rescue*.
