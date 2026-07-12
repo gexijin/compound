@@ -137,9 +137,9 @@ Denise has finally talked Estelle into holding her first-ever garage sale. For a
 - **Max arrives.** Max shows up at the sale with nothing to do, showing everyone a screenshot of a winning stock trade on his phone. Keisha finds him annoying, and notices him anyway.
 - **The bill.** Keisha's tuition bill arrives: **$7,800, due late August**. Estelle paid $5,000 freshman year, but never said there would be more; Keisha assumes the gift was one-time money from a poor woman and will not ask again. She decides on the spot to cover the new bill herself — her mother's cash envelopes are already stretched thin, and she won't add to that load. In the same hour, her college bridge-team group chat is planning the fall season and assuming she'll be back. She doesn't reply.
 - **→ Denise strand 1: the portal.** Interlude (Denise's point of view): Denise already saw the $7,800 bill in a parent-portal email in June. She too assumes Estelle's freshman-year $5,000 was a one-time gift. Denise makes one ordinary opening; Keisha says she is handling school, and Denise lets the answer stand because these women do not ask second questions about money. Then she quietly starts her own rescue: she picks up the unwanted Friday supervisor shifts at the grocery store and blocks off Keisha's move-in day on the work calendar.
-- **The stake.** Estelle invests $30 in the stand for a 30% share. Her thirty dollars are the stand's starting cash.
+- **The stake.** Estelle invests $100 in the stand for a 30% share. Her $100 is the stand's starting cash.
 
-**Act out:** the deal is signed. Keisha and Denise each believe the full $7,800 is uncovered; Estelle knows her next $5,000 payment is coming but not that the other two are separately panicking over the whole bill. Three rescues are now running blind.
+**Act out:** the deal is agreed upon orally. Keisha and Denise each believe the full $7,800 is uncovered; Estelle knows her next $5,000 payment is coming but not that the other two are separately panicking over the whole bill. Three rescues are now running blind.
 
 ### Act 2 — The Stand
 
@@ -240,4 +240,20 @@ Before the scene ends, Denise asks Estelle one small, concrete question about th
 - Where the "sell" slip surfaces (candidate: Estelle guesses it during the shame visit).
 - Optional two-chapter mammogram joke (agreed as a draft-time decision, default off).
 - Chapter count and hard outs — the next document.
-- Not enough comedy in act 4.
+- Not enough comedy in Act 4.
+- Make the watch that Denise sold as a gold necklace, which was discovered in Estelle's garage, and give it to Denise. With the gold necklace, Estelle tells them that some assets holds value better and gold has been money for thousands of years. Money exists so strangers can trade favors. 
+- Keisha worked a max of 30 hrs a week at McDonald's. In early summer, her attention is on finding another part-time job. That's all she and her mod Denise can think of to solve money problems. 
+- When Max's stock crashed and he wanted a job, Keisha helped him. Their relationship thaws after the crash, and they eventually fall in love.
+- All characters need an entire picture of the social structure. Keish's siblings, dad. Estelle's other children and grandchildren. They do not need to be playing any roles, but all main characters need complete profiles so that their logic and speech can be seeded in reality. 
+- Estelle is frugal, but she needs some odd behavior to hint at her wealth. Like expensive Christmas gifts for all grandkids.
+- All the threads in this story need to be logical and evolve over time
+	- Keisha's tuition due balance
+	- The revenue of the drink stand
+	- Her stock performance
+	- Her relationship with Max
+	- Her knowledge of the 529
+	- Estelle's investments and the 529
+	- Estelle's knowledge of the tuition situation
+	- Max's investment, job
+	- Denise's knowledge of the tuition
+	- Her efforts to help quietly
