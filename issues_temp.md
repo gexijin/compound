@@ -2,29 +2,8 @@
 
 Working notes for future sessions. These are the remaining issues from the initial editorial and publishing review. Denise's expansion, Keisha's campus life, and the stolen-twenty beat are not included because those revisions have already been addressed in the spine.
 
-## 1. Reconcile the tuition, portal, and 529 mechanics
 
-### The concern
-
-Keisha is a sophomore-to-be who saw an unexplained $5,000 credit appear on her account the previous year, yet she treats the entire $7,800 as a problem she must solve alone. Estelle makes the same $5,000 transfer every late summer, while Denise has access to the parent portal and also reads the $7,800. The current design needs a precise account of what each woman sees, when she sees it, and why none of them can safely assume the credit will recur.
-
-Without that clarity, readers may decide that Keisha is ignoring an obvious precedent or that the bursar portal is withholding information solely to preserve the plot.
-
-### Questions to settle
-
-- Is $7,800 the balance before Estelle's anticipated transfer, or the true balance after all posted aid?
-- Did the prior $5,000 appear without Estelle's name or any indication that it came from a 529?
-- Why did Keisha classify last year's credit as one-time help rather than something likely to recur?
-- Does Denise see exactly the same portal screen as Keisha?
-- When does Estelle initiate the transfer, and how long does it take to post?
-- Does Estelle know the exact balance, or does she simply make her habitual $5,000 distribution?
-- What becomes of Denise's SCHOOL envelope and watch-sale proceeds once the bill is already covered by Estelle and Keisha?
-
-### Desired outcome
-
-Create a date-by-date money timeline showing the published cost, aid, loan, Denise's known contribution, prior and current 529 credits, Keisha's feared balance, the actual $2,800 gap, and the final transfer. The portal behavior and dialogue should then be derived from that timeline rather than invented scene by scene.
-
-## 2. Calibrate Estelle's morality around the $900,000
+## 1. Calibrate Estelle's morality around the $900,000
 
 ### The concern
 
@@ -46,7 +25,7 @@ The novel currently says she is understood but not absolved. The draft must make
 
 Preserve the shocking $900,000 scale while making Estelle's fear of depletion, dependence, and erasure materially understandable. Allow Denise's accusation to stand without forcing immediate forgiveness or giving Estelle an eloquent apology she would not plausibly make.
 
-## 3. Reduce the sense of thematic over-engineering
+## 2. Reduce the sense of thematic over-engineering
 
 ### The concern
 
@@ -67,7 +46,7 @@ The revised design rule, “Entertain first, then educate,” helps, but the cha
 
 Retain money as the novel's governing social texture while allowing characters to surprise the design. The reader should absorb the financial lessons retrospectively, not feel them arriving on schedule.
 
-## 4. Rebalance Act 4
+## 3. Rebalance Act 4
 
 ### The concern
 
@@ -88,7 +67,7 @@ The act also remains the least comic section of the book. The bridge-team messag
 
 Preserve the accelerating detective energy while creating at least one genuine trough and preventing the shame visit from competing with the final table. Comedy should arise from character or ordinary life, not from undercutting the crash or watch loss.
 
-## 5. Reconsider the two pre-climax rehearsals
+## 4. Reconsider the two pre-climax rehearsals
 
 ### The concern
 
@@ -108,7 +87,7 @@ They also interrupt the direct line from Estelle's demand for secrecy to the fam
 
 Let the climax feel forced by the Carter women's choices rather than authorized by two supporting-character examples. Preserve whichever supporting beat has the strongest independent emotional value.
 
-## 6. Give Max and Keisha genuine nonfinancial intimacy
+## 5. Give Max and Keisha genuine nonfinancial intimacy
 
 ### The concern
 
@@ -129,7 +108,7 @@ Without that intimacy, forgiving him can look like the plot preserving a romanti
 
 Add at least one memorable scene of mutual enjoyment or vulnerability unrelated to trading. The ending should feel warm because the relationship contained something real, while the split check and undefined status preserve Keisha's revised valuation of him.
 
-## 7. Deepen Sofi and Lourdes beyond their thematic functions
+## 6. Deepen Sofi and Lourdes beyond their thematic functions
 
 ### The concern
 
@@ -151,7 +130,7 @@ This risk is heightened because a Black protagonist's business is built around a
 
 Make Sofi and Lourdes capable of surprising Keisha and the reader for reasons unrelated to the lesson ledger. Their relationship to the stand should feel like lived neighborhood interdependence, not cultural extraction corrected by a contract.
 
-## 8. Make the kitchen-table scene less perfectly sequenced
+## 7. Make the kitchen-table scene less perfectly sequenced
 
 ### The concern
 
@@ -172,7 +151,7 @@ Real family disclosures produce interruption, misinterpretation, irrelevant grie
 
 Keep the causal order needed for the revelations while making the emotional experience disorderly. The table should feel like three women losing control of a conversation, not the author triggering three prepared charges.
 
-## 9. Complicate Gary and the “predator ladder”
+## 8. Complicate Gary and the “predator ladder”
 
 ### The concern
 
@@ -193,7 +172,7 @@ The 1976 load-fund salesman may have sold an expensive product while also giving
 
 Maintain the recurring experience of women's labor and money being undervalued without turning three different commercial relationships into one repeated moral. Gary should remain dangerous because he is patient, personable, and structurally advantaged—not because the book labels his species.
 
-## 10. Complete the financial, legal, and local fact-check
+## 9. Complete the financial, legal, and local fact-check
 
 ### The concern
 
@@ -216,7 +195,7 @@ Several plot turns depend on real financial products, college billing, brokerage
 
 Build a fact-check ledger that separates fixed story canon from provisional figures. Change the mechanics where necessary before prose makes an inaccurate detail expensive to remove.
 
-## 11. Resolve adult versus YA positioning
+## 10. Resolve adult versus YA positioning
 
 ### The concern
 
@@ -236,7 +215,7 @@ If the balance is unclear, agents, editors, booksellers, and readers may not kno
 
 Draft and pitch it as adult book-club fiction centered on a nineteen-year-old, not as a financial-literacy YA novel. The multigenerational structure and moral complexity must be substantial enough to make that classification obvious on the page.
 
-## 12. Decide the scope of the opening garage sale
+## 11. Decide the scope of the opening garage sale
 
 ### The concern
 
@@ -256,7 +235,7 @@ At the same time, forcing every inciting element into one extended scene could m
 
 Give the garage sale enough page space to establish voice, family, objects, neighborhood, and comic register. Spread the inciting material across several short chapters if necessary rather than reducing the event to summary or overloading a single chapter.
 
-## 13. Refine the pitch and comparison language
+## 12. Refine the pitch and comparison language
 
 ### The concern
 
