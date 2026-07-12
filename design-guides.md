@@ -2,13 +2,18 @@
 ## Design guidelines
 
 1. **Every bang buys a release** — no crisis beat may stand without relief within a beat or two, but the relief need not be quiet: a lull, a structural reversal, a collision, a laugh, or a card cashing all count. The book breathes through comedy and resolution, not only stillness, and no character is required to insert a joke to make that happen. The supper chapter is the model (highest suspense in the book, released through hotdish and weather); the crash must not stand alone.
-2. **Villains stay Tuesday-sized** — Gary never raises his voice; the concessionaire stays liked and unproven; real predation is boring and patient, and depicting it accurately is the lesson.
+2. **Villains stay Tuesday-sized** — Gary never raises his voice; the concessionaire stays liked and unproven; real predation is boring and patient, and depicting it accurately is the lesson. Gary is drafted as the nicest man in the book — seminar-warm, never oily, jargon confined to documents. The reader must distrust him from the seeding while no character does; if a draft makes a character suspicious of Gary before Keisha finds the folder, or makes a reader like him after, the seeding has failed. He is defeated by disclosure, not cleverness, and receives no comeuppance: the coda bulletin still runs his ad.
 3. **The comedy quota is architectural, not cast-wide** — stand failures, market politics, family silence, group chat, church ladies, wrong interpretations, reader-held information, find-story provenance, the returned cash box. Funny is the delivery mechanism: the reader finishes because she was laughing and discovers she can explain surrender charges at brunch. Serious characters are allowed to remain serious; the story machinery and the people around them can supply the laugh.
 4. **Entertain first, then educate** — no drama-only scenes. The lesson ledger: say the number out loud; three physics of money (wages, ownership, compounding) plus speed, the counterfeit fourth; read before you sign; never risk money you can't lose; paper gains aren't money; liquidity — money in the market isn't money on Tuesday; price your work; the float is sacred; small confessions are survivable; asking is a financial skill; isolation is what predators target — disclosure is armor; slow and boring survives; consequences don't automatically produce wisdom (Max); help with terms is care, not rescue.
 5. **The collection is never the piggy bank**, and Max never touches the family plot.
 6. **Keisha's mistakes stay locally rational** — hope, then greed, then desperation; the book is anti-hiding, never anti-mistake.
 7. **The bridge metaphor stays structural, never spoken** — no building bridges, carrying loads, or strong foundations in dialogue or narration. Keisha's engineering remains technical, funny, material, and allowed to be wrong outside its domain.
 8. **Campus life is a pressure line, not a subplot** — three summer touches and one coda payoff; no named teammate arc, competition flashback chapter, or fall-contest plot. The team assumes continuity. Keisha is the only person entertaining her disappearance.
+9. **The reader runs ahead by design** — three held cards (the 529, Max's round trip, Gary's
+presence) mean major discoveries are drafted as convergence, not revelation: the scene's
+engine is dread-release (the character catching up to the reader), never surprise. Beats
+that arm reader knowledge (the 2009 flashback, the Tuesday runner, the supper sentence)
+must immediately endanger something; irony that merely resolves a question is a leak.
 
 ### Comedy architecture — adopted
 
@@ -16,5 +21,10 @@
 - **Three verbal-comedy owners:** Keisha is the funny narrative lens, with quantification as armor; Sydney performs socially and justifies arithmetically; Estelle owns provenance storytelling and the needle, used selectively.
 - **Sincere sources of comedy:** Max believes the bro-quant language and is a comic object, not a joke writer. Sofi is sunny and may be funny, but does not carry scenes as a comedian. Denise and Emily are serious fixed points; situations and other people supply the laughter.
 - **Played straight:** Lourdes, Gary, and the concessionaire do not receive comic registers. Their exactness, patience, or banality may create an effect, but they do not perform it.
-- **Runners require restraint:** avoid too many. Recurrence, escalation, and payoff machinery must earn its space; not every character needs a runner, and recurring material may work better as texture, motif, structural irony, a warm thread, or a personal want. A runner's final beat may reveal character, complete an arc, or remain lightly funny; it does not have to turn devastating.
+- **Runners require restraint:** avoid too many. Recurrence, escalation, and payoff machinery must earn its space; not every character needs a runner, and recurring material may work better as texture, motif, structural irony, a warm thread, or a personal want. A runner's final beat may reveal character, complete an arc, or remain lightly funny; it does not have to turn devastating. One species is new and load-bearing: the **runner that converts** — planted and played as
+pure comedy, then curdled by later knowledge (the Tuesday gentleman is the model: a sweet
+late-romance tease that Act 4 reveals as a pipeline). Conversion runners are rationed to one
+per book; the curdle is never winked at in the planting scenes — the comedy must be played
+honestly or the detonation is spoiled — and the runner's comic surface must be true (Estelle
+really does enjoy being listened to; that truth is what makes the reveal hurt).
 
