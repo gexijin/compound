@@ -214,10 +214,8 @@ your estate"), planted so gently that Denise believes her year of nagging finall
   "simplifying your estate," and the circled date.
 - **Verna Iverson, ~75 (sub-entry — one scene, one citation, never a subplot):** senior-center
   widow, warm; signed two years ago and refers Gary the way you'd refer a good roofer —
-  predation travels through friendship; that is the channel. On-page once (praising her "nice
-  advisor"); cited once: she wanted to help her son with a down payment, the surrender charge
-  was $4,000, she paid it and told no one. The product's price, demonstrated on a person.
-  **Guardrail:** never pathetic, never rescued; her deal stays done — some prices stay paid.
+  predation travels through friendship; that is the channel. On-page once (praising her "nice advisor," including the unwitting tell: he "even handled that fee business" when she helped her son with a down payment); decoded by Keisha in Act 4 against the contract's surrender schedule — about $4,000 to reach her own money — and cited in Act 5. Verna never learns what the fee was; she tells it as a grievance about paperwork. The product's price, demonstrated on a person. **Guardrail:** never pathetic, never rescued;
+  her deal stays done — some prices stay paid.
 - **Right about:** Estelle is lonely, and listening is worth money. **Wrong about:** that a
   woman alone stays alone — the same unlistened-to years that made her his standard profile
   built the granddaughter who reads contracts the way he reads intake sheets.
