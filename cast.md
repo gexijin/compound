@@ -169,6 +169,18 @@ Mexican-American; the Ortiz family has lived three doors down since before she w
 - **Arc (the smallest in the book, on purpose):** from watched to watcher. She doesn't heal — she was never fully broken; she absorbs. A royalty, a vote, a custodial account, the pattern learned by proximity — and the final image is hers: watching the car go the way Keisha once watched Estelle. The family disease passes down still, but the strain she inherits already talks.
 - **Guardrails:** never precocious-cute — her competence is earned in specified rooms, not innate. Her function is the fourth generation by proximity, not blood — the book's pattern travels through anyone paying attention.
 
+# Lourdes Ortiz, ~40s — Sofi's mother, counter-wisdom
+
+Mexican-American; three doors down; married to a contented Smithfield man, mother of Sofi and Diego. Cash, caution, liquidity, family obligation — a money culture with receipts, not folklore. One account for what requires an account; cash for everything that doesn't; and a favor economy she runs the way Estelle runs a portfolio, because it *is* her portfolio: help placed with the right families, compounding for decades, redeemable in kind.
+
+- **The calibrating event (shared with Sofi, told once, never as a lesson):** the frozen account — a mismatched middle name, three weeks, four trips, one fee, zero apologies — with her nine-year-old doing the talking, because the bank listened to the child in English before the woman with the documents. Her distrust has a paper trail.
+- **The Estelle rhyme (owned, never staged):** the book's two armored women took the same wound — being un-listened-to by institutions — and built opposite fortresses: Estelle hid *inside* the system, paper and funds and certificates; Lourdes stays *outside* it, cash and kin. They share no scene and never compare fortresses. The reader does.
+- **Money wound:** once charged a fee for being herself, she keeps her money where it can't be misspelled.
+- **Right about:** liquidity is real safety, institutions bill the unlucky, and an obligation network is wealth — hers has never frozen, never charged a fee, never asked for a middle name. **Wrong about:** a fortress outside the system is invisible to it — cash melts quietly and favors don't compound into a transcript. The book never corrects her on the page; her one concession is made on her own terms, pen in hand, every line read first.
+- **Voice register — the favor ledger:** she carries every favor ever traded, both directions, to the day, and repays in kind with exact interest — never money. Trade favors, never money; audit each other's daughters with mutual respect: the Denise treaty, in force for years, is her diplomacy in miniature.
+- **The two canon gestures:** the invoice — argues love's terms (*in this family you do not bill the people you love*), then, handed the guardian pen, reads every line before signing: both halves true at once, and the second is where Sofi comes from. JazzFest — she saw the surge and grabbed the box, pure competence; the consequence came from nobody passing the word: the family disease, demonstrated for one night in the counter-wisdom house too.
+- **Dyads:** *Denise* — two money-culture matriarchs, envelopes versus liquidity, mutual respect at three doors' distance. *Sofi* — watched over first, auditing now; the pen scene is the whole relationship settling its terms. *Estelle* — deliberately none.
+- **Guardrails:** never backward, never folklore, never a lesson — her system works on the page, visibly, all summer, and the one time it's priced (the coda's custodial account) it's priced by her own hand. Warm to the girls, exact with everyone.
 
 ### Gary — the advisor
 
