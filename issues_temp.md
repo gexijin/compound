@@ -20,8 +20,6 @@
 	- Max's investment, job
 	- Denise's knowledge of the tuition
 	- Her efforts to help quietly
-- Add timeline: from Week 1 of the summer to Week 12. Set this story in the summer of 2025.
-- Make Estelle the victim of a cyber scam, losing $200k? 
 - Make the girls reject the stand offer in the middle of summer, but negotiate a deal at the end of summer? Probably won't work. 
 - Nothing in this book is structrally funny: plot inventory is three secret rescues, a car breakdown, a stock crash, an elder-fraud con, and a dead man's watch sold in grief. Possible fixes:
 	- Use the stand as a sitcom engine: failed flavors, vendor micro-politics (kettle-corn couples territorial cone placement, passive-agressive honey guy. Small business comedy.
