@@ -1,6 +1,5 @@
 ## Open items and ideas for iteration
 
-- Whether the garage sale itself gets a full scene or stays mostly off-page after prep week.
 - Where the "sell" slip surfaces (candidate: Estelle guesses it during the shame visit).
 - Optional two-chapter mammogram joke (agreed as a draft-time decision, default off).
 - Chapter count and hard outs — the next document.
@@ -8,7 +7,6 @@
 - Make the watch that Denise sold as a gold necklace, which was discovered in Estelle's garage, and give it to Denise. With the gold necklace, Estelle tells them that some assets hold value better, and gold has been money for thousands of years. Money exists so strangers can trade favors. 
 - Keisha worked a max of 30 hrs a week at McDonald's. In early summer, her attention is on finding another part-time job. That's all she and her mod Denise can think of to solve money problems. 
 - When Max's stock crashed and he wanted a job, Keisha helped him. Their relationship thaws after the crash, and they eventually fall in love.
-- All characters need an entire picture of the social structure. Keish's siblings, dad. Estelle's other children and grandchildren. They do not need to play any roles, but all main characters need complete profiles so that their logic and speech can be seeded into reality. 
 - Estelle is frugal, but she needs some odd behavior to hint at her wealth. Like expensive Christmas gifts for all grandkids.
 - All the threads in this story need to be logical and evolve over time
 	- Keisha's tuition due balance
