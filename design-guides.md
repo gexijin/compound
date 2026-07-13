@@ -1,4 +1,6 @@
-## Design guidelines
+## Design guidelines 
+
+**NOTE** NOT hard rules. This document may be behind the spine document. 
 
 1. **Every bang buys a release** — no crisis beat may stand without relief within a beat or two, but the relief need not be quiet: a lull, a structural reversal, a collision, a laugh, or a card cashing all count. The book breathes through comedy and resolution, not only stillness, and no character is required to insert a joke to make that happen. The supper chapter is the model (highest suspense in the book, released through hotdish and weather); the rule starts on page one — the chase releases through the count duet — and the crash must not stand alone.
 2. **Villains stay Tuesday-sized** — Gary never raises his voice; the concessionaire stays liked and unproven; real predation is boring and patient, and depicting it accurately is the lesson. Gary is drafted as the nicest man in the book — seminar-warm, never oily, jargon confined to documents. The reader must distrust him from the seeding while no character does; if a draft makes a character suspicious of Gary before Keisha finds the folder, or makes a reader like him after, the seeding has failed. He is defeated by disclosure, not cleverness, and receives no comeuppance: the coda bulletin still runs his ad.
