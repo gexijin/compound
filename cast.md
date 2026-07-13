@@ -6,6 +6,8 @@
 
 **REVISION (Jul 2026, fifth pass — the coda cut):** Synced to the spine's removal of the omnibus fall coda. Retained aftermath: the melted chain, Max's narrow apology, and Keisha leaving for move-in after her own heron photograph. Removed payoffs no longer drive cast design: Estelle's laptop loan and “Grandma” button; Denise's 401(k) enrollment, ledger, *ahead*, and potluck buttons; Emily's Norwegian button; Max's job-introduction, new-ticker, Vibe-sale, cat, and split-check business; Sofi's custodial account, permit errand, and final-observer image; Lourdes's custodial-account concession; Gary's bulletin tag; and the concessionaire's next-year corner.
 
+**REVISION (Jul 2026, seventh pass — 2021 strand cut):** The special 2021 event in which Estelle shifts the college money just before a downturn is removed from her timeline. The current 529 confirmation now proves ongoing stewardship without a redundant flashback or implied market call.
+
 **Note** NOT all details and related people need to be in this novel. These profiles have complete profiles and textures so that we know how each one behaves and talks. 
 
 ### Keisha Carter, 19 — narrator
@@ -48,7 +50,6 @@ Black; family came up from Arkansas in the Great Migration for packing work; fin
 - **1998** — pays off the house: no rent, no debt, and two more decades of wages with nowhere to go but the funds.
 - **2009** — opens a 529 in two-year-old Keisha's name, $400 every January, and opens one for each grandchild born after; the standing rule (never spoken): the same four-year deal for any grandchild who enrolls. Keisha is simply the first to trigger it.
 - **2013** — retires.
-- **2021** — shifts the college money to safety just ahead of the crash.
 - **June 2026** — the chain nearly sells for $2 at her own garage sale (Keisha priced it: poor grandma, heavy gold, obviously fake); Estelle chases the buyer down several blocks and wins it back, then hands it to Denise the same hour — *somewhere I can see it* — no story attached. Protective, not confessional: the near-loss prompts the gift, the 1987 story stays untold, and a decade-old impulse finally lands (she mutters she should have given it over when Denise made supervisor). The family now knows the chain is real and worth a few thousand; nobody asks how a line worker came to own it.
 
 Total: **$900,000, built the slow way** — plus a **$5,000 transfer she makes herself every late summer** against Keisha's bill. Keisha and Denise know Estelle paid $5,000 freshman year, but Estelle never said it would recur; both filed it as a one-time gift, while Estelle privately planned the same payment for all four years. **Her own story about the silence — the curriculum:** hard work made her, and telling the girl the money was certain would make her soft. It is a rationalization, not the motive — the compulsion predates the philosophy by sixty years — and the book treats it that way: she offers it out loud at the dinner, once, and it collapses under the arithmetic (the "lesson" nearly cost the tuition itself, and did cost the chain).
