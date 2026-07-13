@@ -27,7 +27,7 @@
   {"beat":26,"act":3,"title":"The liquidity trap: deposit, $60 float borrow; the bridge team plans her fall","intensity":6,"suspense":8,"comedy":1},
   {"beat":27,"act":3,"title":"Essie 2009 — one gift becomes a four-year 529 plan","intensity":4,"suspense":9,"essie":"2009","card_dealt":"The one-time gift is a four-year 529 plan"},
   {"beat":28,"act":3,"title":"JazzFest: the box vanishes; the $60 confessed; the sell window closes","intensity":9,"suspense":9,"comedy":1,"hard_out":true},
-  {"beat":29,"act":3,"title":"The offer and the vote: the concessionaire's $600; the secret “sell” slip","intensity":5,"suspense":7,"comedy":1,"card_dealt":"The anonymous “sell” slip was Keisha's"},
+  {"beat":29,"act":3,"title":"The offer and the vote: the concessionaire's $600; the secret “sell” slip","intensity":5,"suspense":7,"comedy":1,"notes":"the slip is Keisha's secret from the girls, not from the reader — cast-facing irony, deliberately not a card"},
   {"beat":30,"act":3,"title":"Verna on the church sidewalk: the “fee business,” the annuity priced on a person","intensity":4,"suspense":8,"comedy":1,"card_dealt":"Verna's “fee business” is a surrender charge"},
   {"beat":31,"act":3,"title":"The supper table: hotdish, weather, everything except money","intensity":2,"suspense":10,"comedy":2,"notes":"the model scene"},
   {"beat":32,"act":3,"title":"Denise recalculates; the chain goes into her purse","intensity":5,"suspense":9,"denise":"D3"},
