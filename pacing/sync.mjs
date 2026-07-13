@@ -410,7 +410,7 @@ if (feared && parts.length) {
 ledger.filter(e => e.kind === 'rescue' && e.applied === false)
   .forEach(e => info.push(`redundant rescue — ${e.actor}'s "${e.label}" raises money that doesn't reduce the bill; keep the proceeds and nonfinancial cost accounted for`));
 const prov = ledger.filter(e => e.provisional).length;
-if (prov) info.push(`${prov} ledger rows are provisional (the unpriced trading detour + the watch) — amounts await the math/ fact-check pass`);
+if (prov) info.push(`${prov} ledger rows are provisional (the unpriced trading detour + the chain) — amounts await the math/ fact-check pass`);
 // standing discrepancy between the spine prose and the math/ scripts
 info.push('spine vs math/ — the bridge closes the $2,800 with stand share + circulation desk ($1,000 + $1,880); the spine also names "the liquidated remainder" among the closers. Confirm whether the trading detour contributes to the close or nets out.');
 
