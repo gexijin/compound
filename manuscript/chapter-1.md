@@ -96,7 +96,7 @@ My mother's next sweep turns up a shoebox of costume jewelry, and with my grandm
 
 Then, calling up the next customer, I catch it without meaning to: my grandmother, passing the workbench, picks the envelope up off the wood and slips it into her apron pocket. Not into the house. Not into a box. Onto her person. Then she's back out in the sun, holding the line on the Pyrex.
 
-I check the app once more. Holding steady, like a pot that knows it's being watched. We have an arrangement, that number and I. The details are between us. I make change. I band a twenty. I keep the thought exactly one second — store policy — and call out the next total.
+I check the banking app once more. Holding steady, like a bunny that knows it's being watched. I need to find a second job. It's actually not that easy to find one that fits in the schedule. But I am super organised. I started scrolling for jobs on my phone between customers. 
 
 ---
 
