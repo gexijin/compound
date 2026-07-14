@@ -66,7 +66,7 @@ It's a manila envelope, soft at the corners, with a window in the front gone clo
 
 "Oh," I say, and the whole table leans in.
 
-Sydney gets the stub read first. "*May 16 to 31, 1965.*" Her finger stops. "Net: $115.54."
+Sydney gets the stub read first. "Estelle Washington, May 16 to 31, 1965.*" Her finger stops. "Net: $115.54."
 
 "For two weeks?" I say.
 
