@@ -2,7 +2,7 @@ Here's v4 with the trim pass applied.
 
 ---
 
-# FULL PRICE — Ch 2 · The Chase (draft v4)
+# FULL PRICE — Ch 2 · The Chase
 
 ## 1
 
@@ -10,7 +10,7 @@ The woman in the sun visor is my favorite kind of customer. She buys three thing
 
 She has a good one for about ninety seconds.
 
-My grandmother surfaces from the garage with a box of Ball jars and stops halfway to the tables, watching the visor woman load her trunk at the curb. "What'd she find?" she asks me, friendly, over the box.
+My grandmother surfaces from the garage with a box of toasters and stops halfway to the tables, watching the visor woman load her trunk at the curb. "What'd she bought?" she asks me, friendly, over the box.
 
 "I emptied half the jewelry box on her. Beads, two brooches, the rope chain."
 
@@ -20,7 +20,7 @@ My grandmother surfaces from the garage with a box of Ball jars and stops halfwa
 
 My grandmother stands there. Her eyes go somewhere that isn't the lawn. Fifty years of Saturdays are in that garage and somewhere in there is a drawer, and I watch her open it from the outside.
 
-The drawer opens. The Ball jars hit the grass.
+The drawer opens. The box of toasters hits the grass. DING.
 
 Not toward me. Toward the car.
 
@@ -118,13 +118,15 @@ Just before the afternoon wave, my mother and I close out the morning at the car
 
 The early-afternoon wave brings the serious hagglers, the ones who came after lunch on purpose. Mid-rush, my phone goes off six times in a row, which is a group chat, not an emergency.
 
-It's the bridge team. Somebody posted the fall competition schedule. Somebody else is penciling names next to roles, and mine is already next to *rules compliance*, no question mark, and someone has typed *keisha has the binder anyway*, which is true. The whole chat is people assuming I'll be there, the way you assume the ground.
+It's the bridge team — engineering students who design a steel bridge all year, then race other schools to bolt it together on a stopwatch. Somebody posted the fall competition schedule. Somebody else is penciling names next to roles, and mine is already next to *rules compliance*, no question mark, and someone has typed *keisha has the binder anyway*, which is true. The whole chat is people assuming I'll be there, the way you assume the ground.
 
 Between customers I check the app. $1,503.72. Same as this morning, same as 9:40.
 
-Here's the rest of the number's file. The fall bill is $7,800, due the last week of August. The portal has a sentence about it in plain type: unpaid balances are dropped from registration on a stated date, and the housing assignment is released. *Released* is a gentle word for it. Against that: $1,503.72, which is what a school year of careful looks like. The fryer pays $14.50 an hour and the ceiling is 30 hours, in writing. Ten more weeks of that, saving every dollar that doesn't buy gas, lands the whole summer somewhere around $5,000. $5,000 is not $7,800. It is not close enough to round.
+Here's the rest of the number's file. The fall bill is $7,800, due the last week of August. The portal has a sentence about it in plain type: unpaid balances are dropped from registration on a stated date, and the housing assignment is released. *Released* is a gentle word for it. Against that: $1,503.72, which is what a school year of careful looks like. The fryer pays $14.50 an hour and the ceiling is 30 hours, in writing. Ten more weeks of that, saving every dollar that doesn't buy gas, lands the whole summer somewhere around $5,000. $5,000 is not $7,800. It is not close enough to round. 
 
-Last August my grandmother paid $5,000 toward my first year, once, the way she does things: an amount and a silence. Nobody said there would be more, so there isn't. You don't ask a woman on a line pension to repeat a miracle.
+School and the bridge team are fun. I need another job! And soon.
+
+Last August, my grandmother paid $5,000  toward the first college bill this family has ever had. You don't ask a woman on a line pension to repeat a miracle.
 
 My mother is ten feet away, re-taping the sign again. Eleven minutes ago we counted $487 without a word and got it right to the dollar. The phone is in my hand. It would take one tap.
 
@@ -136,23 +138,23 @@ I lock the screen. I don't answer the chat either — the binder's on my desk; t
 
 ---
 
-## Denise, Week 1
+### Denise, Week 1
 
-The number had been in her phone since June.
+The number had been in Denise's phone since June.
 
-It came as an email from the parent portal — the account she'd made at the kitchen table the winter Keisha applied, the two of them squinting at the aid letter. *Your fall statement is available.* Balance: $7,800, due August 28. She read it twice on her break and once more in the car.
+It came as an email from the parent portal. _Your fall statement is available._ Balance: $7,800, due August 28. Denise read it twice on her break and once more in the car, and by the time she pulled out of the lot she had it memorized, which was not the same as having it.
 
-Mama's $5,000 last year had been a one-time thing. You could tell because nobody said otherwise; you don't schedule a miracle.
+"Mama's $5,000 last year had been a one-time thing. That's a hole I needs to fill this year."
 
-She made one opening, by phone, that same week. "You set for school?"
+Denise made one opening, by phone, that same week. "You set for school?"
 
 "Handled," Keisha said.
 
-"Good," Denise said, and that was the conversation. Her daughter said *handled* the way Denise said *even*, and Denise knew what her own word was worth, and let it stand.
+"Good," Denise said, and that was the conversation. Keisha said _handled_ the way Denise said _even_, and Denise knew what her own word was worth, and let it stand.
 
-Since then she'd been taking the Friday shifts nobody wanted. The first Friday's extra was already at the back of the kitchen drawer, in a new envelope she hadn't labeled, because labeling it would make it a conversation. Friday nights paid time and a half and cost nothing but Fridays, and eleven of them sat between now and the bill. That was the whole plan, and it was a good one. On the store calendar, months out, she had blocked off the last Saturday of August in her own printing — OFF — boxed twice, because whatever else that week cost, she would be in the car when her daughter went back to Brookings.
+So: Fridays. The shifts nobody wanted, time and a half, eleven of them between now and the bill. Thirty-five years on that floor and her feet knew what a Friday cost before her head did; she took them anyway, the way she'd taken every shift since 1991 — first in, no fuss, nobody asked to cover for her, ever. The first Friday's extra was already home in the kitchen drawer, behind GROCERIES and LIGHTS and CAR and SCHOOL, in a new envelope with nothing written on it. The labeled ones were the household; the household was public record. This one she hadn't labeled, because a label made it a conversation, and there was nothing to discuss: a mother is supposed to see it coming. On the store calendar, months out, she had blocked off the last Saturday of August in her own printing — OFF — boxed twice. Whatever else that week cost, she would be in the car when Keisha went back to Brookings.
 
-Across the lawn her girl called out a total. Denise pressed the tape flat on the sign. Her hand went up once, on its own, to the new weight at her collarbone — warm from the sun, heavier than it looked. She didn't have a thought about it that she let finish.
+Across the lawn Keisha called out a total. Denise pressed the tape flat on the sign. Her hand went up once, on its own, to the new weight at her collarbone — warm from the sun, heavier than it looked. She didn't have a thought about it that she let finish.
 
 She squared her tables. The email could sit where it sat. $7,800, and eleven Fridays.
 
