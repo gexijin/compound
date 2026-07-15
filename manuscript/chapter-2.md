@@ -10,7 +10,7 @@ The woman in the sun visor is my favorite kind of customer. She buys three thing
 
 She has a good one for about ninety seconds.
 
-My grandmother surfaces from the garage with a box of toasters and stops halfway to the tables, watching the visor woman load her trunk at the curb. "What'd she bought?" she asks me, friendly, over the box.
+My grandmother surfaces from the garage with a box of toasters and stops halfway to the tables, watching the visor woman load her trunk at the curb. "What'd she find?" she asks me, friendly, over the box.
 
 "I emptied half the jewelry box on her. Beads, two brooches, the rope chain."
 
@@ -20,7 +20,7 @@ My grandmother surfaces from the garage with a box of toasters and stops halfway
 
 My grandmother stands there. Her eyes go somewhere that isn't the lawn. Fifty years of Saturdays are in that garage and somewhere in there is a drawer, and I watch her open it from the outside.
 
-The drawer opens. The box of toasters hits the grass. DING.
+The box of toasters hits the grass — somewhere inside, one dings.
 
 Not toward me. Toward the car.
 
@@ -124,8 +124,6 @@ Between customers I check the app. $1,503.72. Same as this morning, same as 9:40
 
 Here's the rest of the number's file. The fall bill is $7,800, due the last week of August. The portal has a sentence about it in plain type: unpaid balances are dropped from registration on a stated date, and the housing assignment is released. *Released* is a gentle word for it. Against that: $1,503.72, which is what a school year of careful looks like. The fryer pays $14.50 an hour and the ceiling is 30 hours, in writing. Ten more weeks of that, saving every dollar that doesn't buy gas, lands the whole summer somewhere around $5,000. $5,000 is not $7,800. It is not close enough to round. 
 
-School and the bridge team are fun. I need another job! And soon.
-
 Last August, my grandmother paid $5,000  toward the first college bill this family has ever had. You don't ask a woman on a line pension to repeat a miracle.
 
 My mother is ten feet away, re-taping the sign again. Eleven minutes ago we counted $487 without a word and got it right to the dollar. The phone is in my hand. It would take one tap.
@@ -138,13 +136,13 @@ I lock the screen. I don't answer the chat either — the binder's on my desk; t
 
 ---
 
-### Denise, Week 1
+## Denise, Week 1
 
 The number had been in Denise's phone since June.
 
 It came as an email from the parent portal. _Your fall statement is available._ Balance: $7,800, due August 28. Denise read it twice on her break and once more in the car, and by the time she pulled out of the lot she had it memorized, which was not the same as having it.
 
-"Mama's $5,000 last year had been a one-time thing. That's a hole I needs to fill this year."
+Estelle's $5,000 last year left a hole, and a hole on her watch got filled before anyone had to notice it.
 
 Denise made one opening, by phone, that same week. "You set for school?"
 
