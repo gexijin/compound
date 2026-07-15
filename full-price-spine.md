@@ -1,6 +1,6 @@
 # Full Price — Working Design Document
 
-**NOTE** This document more updated than the the design guide and the cast documents.  Earlier Acts can be updated more frequently. 
+**NOTE** This document is updated than the cast documents.  The finished chapter drafts can be updated more frequently than this document.  
 
 **The book:** an adult book-club novel, funny and fast, that quietly educates and encourages young women to handle money. Keisha Carter, 19, first in her family to enroll in college, spends one Sioux Falls summer (2026) trying to close a $7,800 tuition gap entirely alone — grinding fryer shifts, running an agua fresca stand, and copying a neighborhood friend's stock trades — while her mother and grandmother, unknown to her and to each other, are responding separately to the same bill. Three rescues, one number, three women paying separately for the same fear. The family disease is not lying; it is *solitary rescue* — loving people by carrying things alone, in a family that accepts money more easily than it discusses money — and the climax is three women saying their numbers out loud at one kitchen table — said in time, because the same silence that ran three blind rescues has also let a patient salesman spend months courting the family fortune.
 

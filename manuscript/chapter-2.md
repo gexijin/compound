@@ -1,4 +1,8 @@
-# FULL PRICE — Ch 2 · The Chase (draft v3)
+Here's v4 with the trim pass applied.
+
+---
+
+# FULL PRICE — Ch 2 · The Chase (draft v4)
 
 ## 1
 
@@ -14,7 +18,7 @@ My grandmother surfaces from the garage with a box of Ball jars and stops halfwa
 
 "The gold rope. The heavy one."
 
-My grandmother stands there. Her eyes go somewhere that isn't the lawn. Her lips move, once, like she's reading a label in a dark room. Fifty years of Saturdays are in that garage and somewhere in there is a drawer, and I watch her open it from the outside.
+My grandmother stands there. Her eyes go somewhere that isn't the lawn. Fifty years of Saturdays are in that garage and somewhere in there is a drawer, and I watch her open it from the outside.
 
 The drawer opens. The Ball jars hit the grass.
 
@@ -22,7 +26,7 @@ Not toward me. Toward the car.
 
 I have seen my grandmother move fast exactly twice in my life, both times involving a Pyrex lid, and neither time prepared me for this. The Buick pulls from the curb doing the gentle five miles an hour of a person still checking her mirrors, and my grandmother goes after it down the middle of the street — 78 years old, June heat, apron strings straight out behind her. She doesn't yell. She is saving her breath, which is the most alarming thing she has done yet. The car does not see her. The Buick has never seen anyone less.
 
-I'm moving before I've decided anything. "Emily — drawer," and the cash box is out of my hands and into hers, twenties under the clip. On the end of the third table there's a bike, a teal ten-speed, $15 on a string tag. I haven't ridden since seventh grade. Turns out it's true, what they say.
+I'm moving before I've decided anything. "Emily — drawer," and the cash box is out of my hands and into hers. On the end of the third table there's a bike, a teal ten-speed, $15 on a string tag. I haven't ridden since seventh grade. Turns out it's true, what they say.
 
 I pass my own grandmother on my own merchandise, tag snapping at the handlebars. She does not look at me. I do not look at her. We are colleagues now.
 
@@ -36,11 +40,9 @@ Behind us, feet. Sydney has left front-of-house at a dead sprint, sandals slappi
 
 Excellent question. I stand on the pedals to answer it and the answer is the chain comes off. Not the gold one. The bike's. The pedals spin free, the whole machine coasts into a philosophical state, and I am astride $15 of inventory going zero miles an hour in front of the Hendersons'.
 
-I get off. I look at my sneakers, which are white, and have been white since March, through eleven weeks of fryer shifts, because I wipe them down every night like a surgeon.
+I get off. I leave my sneakers — white since March, wiped down nightly like a surgeon — standing together in the Hendersons' grass, toes pointed at the crime, and I run.
 
-I leave them standing together in the Hendersons' grass, toes pointed at the crime, and I run.
-
-The street is hot the way asphalt in June is hot, which is to say educational. I run on my toes, then on the yellow line where it's cooler, past my grandmother — colleagues, still — and the Buick catches the stop sign at Duluth Avenue, and the stop sign is mine. I come up the driver's side with my hand raised and my lungs somewhere back by the bike.
+The street is hot the way asphalt in June is hot, which is to say educational. I run on my toes, then on the yellow line where it's cooler, past my grandmother, and the Buick catches the stop sign at Duluth Avenue, and the stop sign is mine. I come up the driver's side with my hand raised and my lungs somewhere back by the bike.
 
 The window comes down. The visor tilts out at a girl in socks, folded over her own knees, holding up one finger.
 
@@ -48,7 +50,7 @@ The window comes down. The visor tilts out at a girl in socks, folded over her o
 
 The woman looks at me. She looks in her rearview, where an old lady is arriving. She has the expression of a person whose Saturday has developed a plot.
 
-My grandmother reaches the car and does not speak. She puts one hand flat on the Buick's window frame and stands there, chest working, sweat on her temples, eyes closed for exactly one second — and the whole intersection waits for her. Me, the woman, the Buick idling politely. Nobody talks while a 78-year-old refuses to say her first word until she can say it level.
+My grandmother reaches the car and does not speak. She puts one hand flat on the Buick's window frame and stands there, chest working, sweat on her temples, eyes closed for exactly one second — and the whole intersection waits. Me, the woman, the idling Buick.
 
 She opens her eyes. She takes two dollars out of her apron pocket — past the corner of the manila envelope, which neither of us looks at — and holds the bills through the window flat, like a toll.
 
@@ -76,13 +78,13 @@ My grandmother stops at her own curb, looks at the bike, and says, "Tell your cu
 
 At the yard, Emily is still holding the cash drawer with both arms, like the baby fell asleep. The sale has been running itself on the honor system for six minutes. We appear to have made $4.
 
-Sydney is inside and back out in under a minute with the kitchen scale, the little white one that weighs flour, and she sets it on the card table and looks at my grandmother the way you look at a customer with a return and no receipt. My grandmother opens her hand. The chain pours off her palm onto the steel tray like something melted, and the scale settles.
+Sydney holds out her hand, and my grandmother, after a second, pours the chain into it — off her fist like something melted. Sydney bounces it once, twice, retail-floor face on.
 
-"Half an ounce," Sydney reads.
+"Half an ounce, easy, and it's real. Plate doesn't sit in your hand like that."
 
-Emily has her phone out. "Gold's $4,300 an ounce today. So — $2,150."
+Emily already has her phone out. "Gold's $4,300 an ounce today. So — $2,150."
 
-Nobody says anything. Next to the scale sits a margarine tub of clothespins, marked 50 cents.
+Nobody says anything. Next to us on the card table sits a margarine tub of clothespins, marked 50 cents.
 
 "Miss Estelle." Sydney, gently, like she's defusing it. "What'd you pay for it?"
 
@@ -90,17 +92,11 @@ My grandmother straightens the crock pots. There are 4 crock pots. They were str
 
 "Miss Estelle. What did you *pay*."
 
-"$150," she says. "Nineteen eighty-four."
-
-That's it. That's the whole file. I have heard this woman go four minutes on a butter dish. The chain gets six words and a year.
-
-Emily looks at her calculator once, and puts the two mornings side by side, the way she lined up the hamburgers. "The twenty in the envelope sat 61 years and it's still a twenty. This sat 42, and it's a hundred and seven twenties."
-
-The numbers just sit there in the sun, next to the clothespins.
+"$50," she says. "Nineteen eighty-four."
 
 I sold it for $2. Poor grandma, heavy chain, obviously fake — every step reasonable at the time. My sticker, my thumb, my drawer. I put the thought in the register where it belongs and band it.
 
-Then my grandmother does the thing nobody expects. She lifts the chain off the scale, shakes it straight, and is behind my mother before anyone processes it — my mother, who came over to see what the parade brought back, still holding a fistful of stickers — working the clasp at her neck with those knuckles, one try, two, done.
+Then my grandmother does the thing nobody expects. She takes the chain back off Sydney's palm, shakes it straight, and is behind my mother before anyone processes it — my mother, who came over to see what the parade brought back, still holding a fistful of stickers — working the clasp at her neck with those knuckles, one try, two, done.
 
 "Somewhere I can see it," she says, mid-clasp, to the clasp.
 
@@ -110,11 +106,11 @@ My mother stands there wearing $2,150 nobody asked her about. Her hand comes up 
 
 "The woman who gives socks for Christmas," Emily says, "owns actual gold."
 
-That's the one. That's the line that goes around the yard for the rest of the day, out to the tables, into the church-lady rotation by 2:00. Every grandchild in this family gets one pair of store-brand crew socks every December, individually wrapped, and the woman behind them had a half ounce of gold in a drawer. It's funny because it's a fluke. Everyone agrees it's a fluke. The clothespins are still 50 cents.
+That's the one. That's the line that goes around the yard for the rest of the day, out to the tables, into the church-lady rotation by 2:00. Every grandchild in this family gets one pair of store-brand crew socks every December, individually wrapped, and the woman behind them had a half ounce of gold in a drawer. Everyone agrees it's a fluke. The clothespins are still 50 cents.
 
-My grandmother takes the scale back to the kitchen herself. The bike sells within the hour, $15, full price. We do not volunteer its history. My sneakers come home from the Hendersons' lawn on their own two feet, carried by a nine-year-old who accepts a dollar.
+The bike sells within the hour, $15, full price. We do not volunteer its history. My sneakers come home from the Hendersons' lawn on their own two feet, carried by a nine-year-old who accepts a dollar.
 
-Just before the afternoon wave, my mother and I close out the morning at the card table. This is a thing we do without discussing it, have done since the milk crate: she counts a stack and slides it over; I count it back out loud and band it; twenties under the clip, ones fanned for speed. We don't talk during. We have never talked during. It is the one thing we do in perfect time, and it takes eleven minutes, and the morning comes to $487.
+Just before the afternoon wave, my mother and I close out the morning at the card table. This is a thing we do without discussing it, have done since the milk crate: she counts a stack and slides it over; I count it back out loud and band it; twenties under the clip, ones fanned for speed. We have never talked during. It takes eleven minutes, and the morning comes to $487.
 
 "$487," she says, and writes it on the flap of a grocery envelope. Above the envelope, at her collarbone, the chain catches the sun. $2,150, worn, unwritten.
 
@@ -144,7 +140,7 @@ I lock the screen. I don't answer the chat either — the binder's on my desk; t
 
 The number had been in her phone since June.
 
-It came the way school things came now, an email from the parent portal — the account she'd made at the kitchen table the winter Keisha applied, the two of them squinting at the aid letter. *Your fall statement is available.* Balance: $7,800, due August 28. She read it twice on her break and once more in the car.
+It came as an email from the parent portal — the account she'd made at the kitchen table the winter Keisha applied, the two of them squinting at the aid letter. *Your fall statement is available.* Balance: $7,800, due August 28. She read it twice on her break and once more in the car.
 
 Mama's $5,000 last year had been a one-time thing. You could tell because nobody said otherwise; you don't schedule a miracle.
 
@@ -160,14 +156,3 @@ Across the lawn her girl called out a total. Denise pressed the tape flat on the
 
 She squared her tables. The email could sit where it sat. $7,800, and eleven Fridays.
 
----
-
-**Notes on choices made:**
-
-- **The recall beat** runs three sentences, unexplained: reading a label in a dark room, the drawer opened from the outside. The pause is what gives the Buick its head start.
-- **Barefoot, via the sneakers:** she abandons the sacred white sneakers *deliberately* — "toes pointed at the crime" — so we get the barefoot visual *and* the character joke, plus the hot-asphalt beat ("educational") and a button later (the nine-year-old returns them for a dollar — the day's smallest transaction, full price).
-- **Sydney's blind sprint** enters on pure sound ("WHO ARE WE CHASING"), and the walk-back interrogation escalates to the wrong theory ("Is it from a *man*?") — Estelle answers none of it and instead files a warranty claim on the bike ("the chain slips in third"), which hands Sydney the dead bike and the reader the joke.
-- **Estelle's recovery** is a full stood-still beat — hand on the window frame, eyes closed one second, the intersection waiting — and "The chain" arrives *level*, which is the whole point of the wait.
-- **Seminar cut to five beats:** scale → $4,300/$2,150 → pay question twice → "$150. 1984." → one Emily lineup (107 twenties). Troy, 107½, fourteen-times, and same-drawer all cut; the working figure is $2,150 everywhere, so "worn, unwritten" and Denise's memory stay consistent with what was said aloud.
-- **The clasp is direct:** she's behind Denise before anyone processes it; "somewhere I can see it" lands mid-clasp; Denise's only agency is the flat touch after.
-- **Emily's homecoming image** kept ("like the baby fell asleep") plus one new honor-system joke ($4 in six minutes) to pay the abandoned register.
