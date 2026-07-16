@@ -1,8 +1,11 @@
-name: Deploy to GitHub Pages
+name: Deploy manuscript to GitHub Pages
 
 on:
   push:
     branches: [main]
+    paths:
+      - 'manuscript/**'
+      - '.github/workflows/deploy.yml'
   workflow_dispatch:
 
 permissions:
@@ -19,17 +22,69 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-      - run: npm ci
-      - run: npm test
-      - run: npm run build
+
+      - name: Install pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+
+      - name: Render manuscript to HTML
+        run: |
+          set -euo pipefail
+          mkdir -p _site
+
+          cat > _site/style.css <<'CSS'
+          :root { color-scheme: light dark; }
+          html { font-size: 18px; }
+          body {
+            font-family: Georgia, 'Iowan Old Style', 'Palatino Linotype', serif;
+            line-height: 1.7;
+            max-width: 40rem;
+            margin: 0 auto;
+            padding: 3rem 1.25rem 5rem;
+            color: #1c1c1c;
+            background: #fbfbf9;
+          }
+          h1 { font-size: 1.9rem; line-height: 1.2; margin: 0 0 0.25rem; }
+          h2 {
+            font-size: 1.1rem; font-weight: normal; letter-spacing: 0.08em;
+            text-transform: uppercase; color: #888; margin: 2.75rem 0 1rem;
+          }
+          p { margin: 0 0 1.1rem; }
+          em { color: #555; }
+          a { color: #7a2e2e; text-decoration: none; border-bottom: 1px solid #d8b4b4; }
+          a:hover { border-bottom-color: #7a2e2e; }
+          ol { padding-left: 1.4rem; }
+          ol li { margin: 0.4rem 0; }
+          hr { border: none; border-top: 1px solid #e2e2dc; margin: 2.5rem 0; }
+          .backlink { display: inline-block; margin-bottom: 2rem; font-size: 0.85rem; }
+          @media (prefers-color-scheme: dark) {
+            body { color: #d7d7d2; background: #17181a; }
+            h2 { color: #8b8b86; }
+            em { color: #a9a9a4; }
+            a { color: #e0a3a3; border-bottom-color: #6a4040; }
+            a:hover { border-bottom-color: #e0a3a3; }
+            hr { border-top-color: #2c2d30; }
+          }
+          CSS
+
+          for f in manuscript/*.md; do
+            name=$(basename "$f" .md)
+            body="--include-before-body=/dev/null"
+            if [ "$name" != "index" ]; then
+              printf '<a class="backlink" href="index.html">\xe2\x86\x90 All chapters</a>\n' > _site/_back.html
+              body="--include-before-body=_site/_back.html"
+            fi
+            pandoc "$f" -s --metadata pagetitle="Full Price" -c style.css \
+              $body -o "_site/$name.html"
+          done
+          rm -f _site/_back.html
+
+          # Point intra-site links at the rendered .html pages
+          sed -i -E 's/href="([^"]+)\.md"/href="\1.html"/g' _site/*.html
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: _site
 
   deploy:
     needs: build
