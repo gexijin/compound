@@ -11,7 +11,7 @@ The summer begins at Estelle’s enormous, chaotic garage sale in Sioux Falls. K
 
 The sale reveals that Estelle has spent a lifetime assigning value to things no one else understands. A forgotten pay envelope from 1965 still contains a twenty-dollar bill. A gold chain mistakenly placed in a two-dollar box turns out to be worth more than $2,000. Estelle gives the chain to Denise, saying she should have done so years ago.
 
-During the sale, Keisha receives her fall engineering-team schedule and confronts the full arithmetic: her fryer job cannot close the tuition gap. She tells no one. Moments later, the reader learns Denise has already accessed the parent portal and seen the same bill. Denise quietly begins taking every available Friday shift to pay it.
+During the sale, Keisha receives her fall engineering-team schedule and confronts the full arithmetic: her fryer job cannot close the tuition gap. She tells no one. Moments later, the reader learns Denise has already accessed the parent portal and seen the same bill. Denise quietly begins taking every available Sunday shift to pay it.
 
 Keisha and her friends also stumble into a business idea: selling Sofi’s agua fresca at Falls Park. Estelle invests $100 for a share. At the same time, Keisha notices Max, the overconfident older brother of her friend Sydney, celebrating a profitable stock trade. The summer now presents her with two possible solutions: a fragile small business and the seductive promise of fast money.
 
