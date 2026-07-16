@@ -36,11 +36,11 @@ Behind us, feet. Sydney has left front-of-house at a dead sprint, sandals slappi
 
 Excellent question. I stand on the pedals to answer it and the answer is the chain comes off. Not the gold one. The bike's. The pedals spin free, the whole machine coasts into a philosophical state, and I am astride $15 of inventory going zero miles an hour in front of the Hendersons'.
 
-I get off. I leave my sneakers — white since March, wiped down nightly like a surgeon — standing together in the Hendersons' grass, toes pointed at the crime, and I run.
+I get off and run. Three steps in I learn I'm wearing flip-flops — right shoe for a lawn, wrong shoe for a pursuit — and I kick them off mid-stride.
 
 The street is hot the way asphalt in June is hot, which is to say educational. I run on my toes, then on the yellow line where it's cooler, past my grandmother, and the Buick catches the stop sign at Duluth Avenue, and the stop sign is mine. I come up the driver's side with my hand raised and my lungs somewhere back by the bike.
 
-The window comes down. The visor tilts out at a girl in socks, folded over her own knees, holding up one finger.
+The window comes down. The visor tilts out at a barefoot girl, folded over her own knees, holding up one finger.
 
 "The gold chain," I manage. Gentle. Between installments of air. "It's — a family thing."
 
@@ -58,7 +58,7 @@ The woman looks at the money, then at the two of us, then at Sydney, now arrivin
 
 Nobody argues. It's the truest sentence anyone says all day. She takes her two dollars, keeps the pineapple, and drives off at the speed limit.
 
-The walk back is a parade: my grandmother in front with her fist closed, me in my socks carrying my own shoes, Sydney wheeling the dead bike and conducting the investigation nobody authorized.
+The walk back is a parade: my grandmother in front with her fist closed, me barefoot, Sydney wheeling the dead bike and conducting the investigation nobody authorized.
 
 "Okay, but Miss Estelle. Nobody runs like that for gold-tone."
 
@@ -108,7 +108,7 @@ My mother stands there wearing $2,150 nobody has explained, holding two skillets
 
 That's the one. That's the line that goes around the yard for the rest of the day, out to the tables, into the church-lady rotation by 2:00. Every grandchild in this family gets one pair of store-brand crew socks every December, individually wrapped, and the woman behind them had a half ounce of gold in a drawer. Everyone agrees it's a fluke. The clothespins are still fifty cents.
 
-The bike sells within the hour, $15, full price. We do not volunteer its history. My sneakers come home from the Hendersons' lawn on their own two feet, carried by a nine-year-old who accepts a dollar.
+The bike sells within the hour, $15, full price. We do not volunteer its history. My flip-flops come home from the middle of the street on their own two feet, carried by a nine-year-old who accepts a dollar.
 
 Just before the afternoon wave, my mother and I close out the morning at the card table. This is a thing we do without discussing it, have done since the milk crate: she counts a stack and slides it over; I count it back out loud and band it; twenties under the clip, ones fanned for speed. We have never talked during. It takes eleven minutes, and the morning comes to $487.
 
