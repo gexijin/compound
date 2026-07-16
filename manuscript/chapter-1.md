@@ -88,7 +88,7 @@ And my grandmother — who narrates the biography of every butter dish in that g
 
 "*Fifteen cents,*" Sydney repeats, like it's a dead language.
 
-Emily, my best friend since ninth grade, is already at my register calculator. "133 hamburgers then." A beat. "Ten now, at $2. It lost about ninety-two percent."
+Emily, my best friend since ninth grade, is already at my register calculator. "133 hamburgers then." A beat. "Ten now, at $2. Lost about ninety-two percent of its value."
 
 "Mm," says my grandmother, and carries the envelope to the workbench inside the garage, in the shade, where the sale isn't.
 
