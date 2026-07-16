@@ -44,15 +44,15 @@ A man circles the sewing cabinet and asks the price.
 
 "$75," says my grandmother.
 
-"$40?"
+"$20?"
 
 "$75."
 
-"$50, cash. I'll haul it right now."
+"$30, cash. I'll haul it right now."
 
 "$60 is the minimum."
 
-He walks. She goes inside with a box. He's opening his truck when my mother catches him at the curb — I can't hear the words, just the posture, the store voice — and two minutes later he's loading the cabinet. $20, cash, my grandmother nowhere in sight. My mother brings me the bill herself, then gathers me, Sydney, and Emily with one look, checking the garage door first.
+He walks. She goes inside with a box. He's opening his truck when my mother catches him at the curb — I can't hear the words, just the posture, the store voice — and two minutes later he's loading the cabinet. $30, cash, my grandmother nowhere in sight. My mother brings me the bills herself, then gathers me, Sydney, and Emily with one look, checking the garage door first.
 
 "Small stuff," she says, low. "Mark it down. All of it. These have to go."
 
