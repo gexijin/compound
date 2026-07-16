@@ -2,9 +2,9 @@
 
 ## 1
 
-Nine days ago I was taking a statistics final in Brookings. Today I'm running the cash box at my grandmother's first garage sale in 50 years — a sale that has annexed the Hendersons' driveway on one side, the Blooms' on the other, and every foot of lawn in between, and is still coming out of the garage. Nobody on this block was going to miss this. 
+Nine days ago I was taking a statistics final in Brookings. Today I'm running the cash box at my grandmother's first garage sale in fifty years — a sale that has annexed the Hendersons' driveway on one side, the Blooms' on the other, and every foot of lawn in between, and is still coming out of the garage. Nobody on this block was going to miss this. 
 
-Count it back out loud. Twenties under the clip, ones fanned for speed. The drawer is right or the drawer is wrong. My mother taught me that on a milk crate at her store when I was 7.
+Count it back out loud. Twenties under the clip, ones fanned for speed. The drawer is right or the drawer is wrong. My mother taught me that on a milk crate at her store when I was seven.
 
 It's June. I intend to be back in Brookings for sophomore year by the last week of August. Between now and then there's a number I'm keeping an eye on. It hasn't done anything wrong yet.
 
@@ -12,13 +12,13 @@ A neighbor slows his dog to take it all in — the tables, the racks, the lawn. 
 
 "A year of nagging finally worked," my mother tells him, pleasant and carrying, her *register 3 is open* voice.
 
-My grandmother — Estelle Carter — has spent 50 years of Saturdays at estate sales and thrift stores, and the garage is where it all lives. Kept like a museum and dusted like one. She has bought at every sale in the Sioux Empire. Nothing has ever gone the other direction. Until this morning.
+My grandmother — Estelle Carter — has spent fifty years of Saturdays at estate sales and thrift stores, and the garage is where it all lives. Kept like a museum and dusted like one. She has bought at every sale in the Sioux Empire. Nothing has ever gone the other direction. Until this morning.
 
-The campaign took my mother a year, and the yield is out on the lawn: 11 table lamps, 4 crock pots, 2 exercise bikes, a card table of margarine tubs, and 12 tables distributed across 3 properties, only 1 of them hers. And Estelle still isn't done. She keeps surfacing from the garage with one box and vanishing with another, gone for whole stretches. Every time she comes back out, she reads her tables left to right before she'll greet a customer.
+The campaign took my mother a year, and the yield is out on the lawn: eleven table lamps, four crock pots, two exercise bikes, a card table of margarine tubs, and twelve tables distributed across three properties, only one of them hers. And Estelle still isn't done. She keeps surfacing from the garage with one box and vanishing with another, gone for whole stretches. Every time she comes back out, she reads her tables left to right before she'll greet a customer.
 
-Emily is everywhere and nowhere: signs at both ends of the block, balloons on the mailbox, arrows angled to be read at 25 miles an hour.
+Emily is everywhere and nowhere: signs at both ends of the block, balloons on the mailbox, arrows angled to be read at twenty-five miles an hour.
 
-Sydney has the small stuff my mother wants gone, and she isn't so much pricing it as producing it — a lamp staged on a TV tray beside a folded afghan, like a room you could move into for $14. The big pieces she's photographing for Facebook Marketplace, one knee in the grass for the exercise bike's good side. Her first customer is maybe 30, cargo shorts, the energy of a man furnishing an apartment out of spite.
+Sydney has the small stuff my mother wants gone, and she isn't so much pricing it as producing it — a lamp staged on a TV tray beside a folded afghan, like a room you could move into for $14. The big pieces she's photographing for Facebook Marketplace, one knee in the grass for the exercise bike's good side. Her first customer is maybe thirty, cargo shorts, the energy of a man furnishing an apartment out of spite.
 
 "Lamps are very in right now," she tells him.
 
@@ -74,7 +74,7 @@ Sydney gets the stub read first. "Estelle Washington, May 16 to 31, 1965." Her f
 
 "Of full-time?" That's Emily.
 
-"As a $20 it's a 10," I say, holding the bill up to the light. "On velocity it's a 2. Sixty years parked in a handbag is the slowest money in town."
+"As a $20 it's a ten," I say, holding the bill up to the light. "On velocity it's a two. Sixty years parked in a handbag is the slowest money in town."
 
 My grandmother arrives from the garage. I never saw her start. She lifts the envelope out of the crowd of us, both hands, the way you take back a bird.
 
@@ -84,11 +84,11 @@ The buyer opens her mouth, looks at my grandmother's hands on the envelope — l
 
 "Miss Estelle," Sydney says. "Was that *yours*? Is that your actual *pay*?"
 
-And my grandmother — who narrates the biography of every butter dish in that garage — looks at the stub a long second, her thumb across the little window, and becomes, briefly, anybody's grandmother. "Mine, or somebody's just like mine. They paid you in envelopes then. Cash money, twice a month, at a window with a grille, and you stood in a line the length of the kill floor while a man said your name like he was charging you for it." She taps the purple figures. "That kept a family half a month, if the family behaved. Rent was $60. A hamburger was 15 cents — and you thought twice."
+And my grandmother — who narrates the biography of every butter dish in that garage — looks at the stub a long second, her thumb across the little window, and becomes, briefly, anybody's grandmother. "Mine, or somebody's just like mine. They paid you in envelopes then. Cash money, twice a month, at a window with a grille, and you stood in a line the length of the kill floor while a man said your name like he was charging you for it." She taps the purple figures. "That kept a family half a month, if the family behaved. Rent was $60. A hamburger was fifteen cents — and you thought twice."
 
 "*Fifteen cents,*" Sydney repeats, like it's a dead language.
 
-Emily, my best friend since ninth grade, is already at my register calculator. "133 hamburgers then." A beat. "10 now, at $2. It lost about 92%."
+Emily, my best friend since ninth grade, is already at my register calculator. "133 hamburgers then." A beat. "Ten now, at $2. It lost about ninety-two percent."
 
 "Mm," says my grandmother, and carries the envelope to the workbench inside the garage, in the shade, where the sale isn't.
 
@@ -104,7 +104,7 @@ I check the banking app once more. Same number as 9:40 — a number behaves bett
 
 ## Essie, 1965
 
-The envelope was heavier than it looked. Cash sat different than paper. Her name was typed in the little window, and the window had a shine to it; tilted in the light, it showed her back to herself, 17 and hatless, looking out of her own pay.
+The envelope was heavier than it looked. Cash sat different than paper. Her name was typed in the little window, and the window had a shine to it; tilted in the light, it showed her back to herself, seventeen and hatless, looking out of her own pay.
 
 Payday at John Morrell, the whole plant moved toward the pay window like water finding a drain. The paymaster said your name off the stub, slid the envelope under the grille, and was saying the next name before yours had finished landing in your hand.
 

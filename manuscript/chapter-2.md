@@ -1,5 +1,3 @@
----
-
 # FULL PRICE — Ch 2 · The Chase
 
 ## 1
@@ -22,7 +20,7 @@ The box of toasters hits the grass — somewhere inside, one dings.
 
 Not toward me. Toward the car.
 
-I have seen my grandmother move fast exactly twice in my life, both times involving a Pyrex lid, and neither time prepared me for this. The Buick pulls from the curb doing the gentle five miles an hour of a person still checking her mirrors, and my grandmother goes after it down the middle of the street — 78 years old, June heat, apron strings straight out behind her. She doesn't yell. She is saving her breath, which is the most alarming thing she has done yet. The car does not see her. The Buick has never seen anyone less.
+I have seen my grandmother move fast exactly twice in my life, both times involving a Pyrex lid, and neither time prepared me for this. The Buick pulls from the curb doing the gentle five miles an hour of a person still checking her mirrors, and my grandmother goes after it down the middle of the street — seventy-eight years old, June heat, apron strings straight out behind her. She doesn't yell. She is saving her breath, which is the most alarming thing she has done yet. The car does not see her. The Buick has never seen anyone less.
 
 I'm moving before I've decided anything. "Emily — drawer," and the cash box is out of my hands and into hers. On the end of the third table there's a bike, a teal ten-speed, $15 on a string tag. I haven't ridden since seventh grade. Turns out it's true, what they say.
 
@@ -82,11 +80,11 @@ Sydney holds out her hand, and my grandmother, after a second, pours the chain i
 
 Emily already has her phone out. "Gold's $4,300 an ounce today. So — $2,150."
 
-Nobody says anything. Next to us on the card table sits a margarine tub of clothespins, marked 50 cents.
+Nobody says anything. Next to us on the card table sits a margarine tub of clothespins, marked fifty cents.
 
 "Miss Estelle." Sydney, gently, like she's defusing it. "What'd you pay for it?"
 
-My grandmother straightens the crock pots. There are 4 crock pots. They were straight.
+My grandmother straightens the crock pots. There are four crock pots. They were straight.
 
 "Miss Estelle. What did you *pay*."
 
@@ -104,7 +102,7 @@ My mother stands there wearing $2,150 nobody asked her about. Her hand comes up 
 
 "The woman who gives socks for Christmas," Emily says, "owns actual gold."
 
-That's the one. That's the line that goes around the yard for the rest of the day, out to the tables, into the church-lady rotation by 2:00. Every grandchild in this family gets one pair of store-brand crew socks every December, individually wrapped, and the woman behind them had a half ounce of gold in a drawer. Everyone agrees it's a fluke. The clothespins are still 50 cents.
+That's the one. That's the line that goes around the yard for the rest of the day, out to the tables, into the church-lady rotation by 2:00. Every grandchild in this family gets one pair of store-brand crew socks every December, individually wrapped, and the woman behind them had a half ounce of gold in a drawer. Everyone agrees it's a fluke. The clothespins are still fifty cents.
 
 The bike sells within the hour, $15, full price. We do not volunteer its history. My sneakers come home from the Hendersons' lawn on their own two feet, carried by a nine-year-old who accepts a dollar.
 
@@ -120,7 +118,7 @@ It's the bridge team — engineering students who design a steel bridge all year
 
 Between customers I check the app. $1,503.72. Same as this morning, same as 9:40.
 
-Here's the rest of the number's file. The fall bill is $7,800, due the last week of August. The portal has a sentence about it in plain type: unpaid balances are dropped from registration on a stated date, and the housing assignment is released. *Released* is a gentle word for it. Against that: $1,503.72, which is what a school year of careful looks like. The fryer pays $14.50 an hour and the ceiling is 30 hours, in writing. Ten more weeks of that, saving every dollar that doesn't buy gas, lands the whole summer somewhere around $5,000. $5,000 is not $7,800. It is not close enough to round. 
+Here's the rest of the number's file. The fall bill is $7,800, due the last week of August. The portal has a sentence about it in plain type: unpaid balances are dropped from registration on a stated date, and the housing assignment is released. *Released* is a gentle word for it. Against that: $1,503.72, which is what a school year of careful looks like. The fryer pays $14.50 an hour and the ceiling is thirty hours, in writing. Ten more weeks of that, saving every dollar that doesn't buy gas, lands the whole summer somewhere around $5,000. $5,000 is not $7,800. It is not close enough to round. 
 
 Last August, my grandmother paid $5,000  toward the first college bill this family has ever had. You don't ask a woman on a line pension to repeat a miracle.
 

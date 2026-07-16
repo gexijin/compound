@@ -1,5 +1,3 @@
----
-
 # FULL PRICE — Ch 3 · The Leftovers
 
 ## 1
@@ -64,7 +62,7 @@ That's when Max shows up.
 
 "My brother," Sydney says, to the yard, as warning. "He's rich this week."
 
-Max is 22, has one AirPod in, and buys nothing. What he has is a screenshot: a green line going up, a number at the top with a plus sign on it, **+$1,140**. He holds it out to me first, and when I don't take the phone he pivots to the church ladies at the coat rack, who are trapped by politeness, and begins to explain.
+Max is twenty-two, has one AirPod in, and buys nothing. What he has is a screenshot: a green line going up, a number at the top with a plus sign on it, **+$1,140**. He holds it out to me first, and when I don't take the phone he pivots to the church ladies at the coat rack, who are trapped by politeness, and begins to explain.
 
 The explanation requires both arms. He draws the chart in the air — here's the ground, here's the rocket, here's where the rocket goes, which is up, which is the whole point. The whole sector is about to reprice, he says, because SpaceX is going public soon — *soon*, like it's a date instead of a word — and he is positioned.
 
@@ -104,7 +102,7 @@ My grandmother watches us sort for ten minutes from the garage doorway. Then she
 
 "You priced it at $5 Saturday."
 
-"Saturday it had comps." She sets it down and looks at the four of us the way she looked at the man who circled her sewing cabinet. "$100," she says. "For 30 percent."
+"Saturday it had comps." She sets it down and looks at the four of us the way she looked at the man who circled her sewing cabinet. "$100," she says. "For thirty percent."
 
 "Twenty-five," says Sydney, who has watched television.
 
@@ -114,7 +112,7 @@ My grandmother watches us sort for ten minutes from the garage doorway. Then she
 
 "I'll visit."
 
-We say yes because we were always going to say yes, and she knew it before she came out of the house, and everybody performed their part sincerely. Her hand goes into the apron pocket — past a corner of manila, the way you step over a sleeping cat — and comes out with five twenties, counted onto the card table out loud, slow, the way I'd count them. Then she shakes four hands in order of age, her grip landing like a stapler, and the deal exists. $100, 30 percent, no paper anywhere on the property.
+We say yes because we were always going to say yes, and she knew it before she came out of the house, and everybody performed their part sincerely. Her hand goes into the apron pocket — past a corner of manila, the way you step over a sleeping cat — and comes out with five twenties, counted onto the card table out loud, slow, the way I'd count them. Then she shakes four hands in order of age, her grip landing like a stapler, and the deal exists. $100, thirty percent, no paper anywhere on the property.
 
 ---
 
