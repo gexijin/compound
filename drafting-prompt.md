@@ -7,3 +7,15 @@
 - Estelle's register: Fluent about the era and its prices, silent about herself and her positions — deflection played straight ("mine, or somebody's just like mine").
 - Flashbacks: Dated header, close-third past, one scene, opens on a sensory echo of its trigger, ends on an act — no lesson, no hindsight, no sprawl.
 - Restraint budget: The rating tic fires once per chapter, on the beat the spine assigns it. Held cards stay held; a loaded gun (the mispricing) is deadpan-brief, mid-chapter, and never near the out.
+
+
+
+
+
+Logic gaps
+
+- Read chapter 2 to identify logic gaps from each character's perspective.
+
+
+
+Help me touch up the book at @manuscript/ folder. DO NOT read other files in this project unless I requested. We just make focused edits as editors and proof readers. First give me a summary of what happened in the first 3 chapters, very briefly.
