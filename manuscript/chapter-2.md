@@ -2,7 +2,7 @@
 
 ## 1
 
-The woman in the sun visor is my favorite kind of customer. She buys three things out of the $2 box — a string of red beads, a brooch shaped like a pineapple, and the gold rope chain — and pays with exact change. Six dollars, no haggling, no stories. "Thank you," I say. "Have a good one."
+The woman in the sun visor is my favorite kind of customer. She buys three things out of the $2 box — a string of red beads, a brooch shaped like a pineapple, and the gold rope chain — and pays with exact change. No haggling, no stories. "Thank you," I say. "Have a good one."
 
 She has a good one for about ninety seconds.
 
