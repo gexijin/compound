@@ -84,7 +84,7 @@ Nobody says anything. Next to us on the card table sits a margarine tub of cloth
 
 "Miss Estelle." Sydney, gently, like she's defusing it. "What'd you pay for it?"
 
-My grandmother straightens the crock pots. There are four crock pots. They were straight.
+My grandmother straightens the crock pots. They were straight.
 
 "Miss Estelle. What did you *pay*."
 
@@ -92,13 +92,17 @@ My grandmother straightens the crock pots. There are four crock pots. They were 
 
 I sold it for $2. Poor grandma, heavy chain, obviously fake — every step reasonable at the time. My sticker, my thumb, my drawer. I put the thought in the register where it belongs and band it.
 
-Then my grandmother does the thing nobody expects. She takes the chain back off Sydney's palm, shakes it straight, and is behind my mother before anyone processes it — my mother, who came over to see what the parade brought back, still holding a fistful of stickers — working the clasp at her neck with those knuckles, one try, two, done.
+That's when my mother surfaces from the garage, a cast-iron skillet in each hand, stickers turned inward.
+
+"Where have you girls been?"
+
+Nobody answers her. My grandmother takes the chain back off Sydney's palm, shakes it straight, and is behind my mother before anyone processes it, working the clasp at her neck with those knuckles, one try, two, done.
 
 "Somewhere I can see it," she says, mid-clasp, to the clasp.
 
 And quieter: "Should've given you this when you made supervisor."
 
-My mother stands there wearing $2,150 nobody asked her about. Her hand comes up and touches it once, flat, the way she touches a register tape that balanced. Nobody in my family has hugged in public since the Clinton administration.
+My mother stands there wearing $2,150 nobody has explained, holding two skillets she can't explain. My grandmother is already back at the Pyrex. The skillets go down at last, stickers to the coats. Only then does her hand come up and touch the chain once, flat, the way she touches a register tape that balanced. Nobody in my family has hugged in public since the Clinton administration.
 
 "The woman who gives socks for Christmas," Emily says, "owns actual gold."
 
