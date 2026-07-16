@@ -8,7 +8,7 @@ She has a good one for about ninety seconds.
 
 My grandmother surfaces from the garage with a box of toasters and stops halfway to the tables, watching the visor woman load her trunk at the curb. "What'd she find?" she asks me, friendly, over the box.
 
-"I emptied half the jewelry box on her. Beads, two brooches, the rope chain."
+"I emptied half the jewelry box on her. Beads, a brooch, the rope chain."
 
 "Which chain."
 
@@ -118,9 +118,9 @@ It's the bridge team — engineering students who design a steel bridge all year
 
 Between customers I check the app. $1,503.72. Same as this morning, same as 9:40.
 
-Here's the rest of the number's file. The fall bill is $7,800, due the last week of August. The portal has a sentence about it in plain type: unpaid balances are dropped from registration on a stated date, and the housing assignment is released. *Released* is a gentle word for it. Against that: $1,503.72, which is what a school year of careful looks like. The fryer pays $14.50 an hour and the ceiling is thirty hours, in writing. Ten more weeks of that, saving every dollar that doesn't buy gas, lands the whole summer somewhere around $5,000. $5,000 is not $7,800. It is not close enough to round. 
+Here's the rest of the number's file. The fall bill is $7,800, due the last week of August. The portal has a sentence about it in plain type: unpaid balances are dropped from registration on a stated date, and the housing assignment is released. *Released* is a gentle word for it. Against that: $1,503.72, which is what a school year of careful looks like. The fryer pays $14.50 an hour and the ceiling is thirty hours, in writing. Ten more weeks of that, saving every dollar that doesn't buy gas, lands the whole summer somewhere around $5,000. $5,000 is not $7,800. It is not close enough to round.
 
-Last August, my grandmother paid $5,000  toward the first college bill this family has ever had. You don't ask a woman on a line pension to repeat a miracle.
+Last August, my grandmother paid $5,000 toward the first college bill this family has ever had. You don't ask a woman on a line pension to repeat a miracle.
 
 My mother is ten feet away, re-taping the sign again. Eleven minutes ago we counted $487 without a word and got it right to the dollar. The phone is in my hand. It would take one tap.
 
@@ -134,9 +134,9 @@ I lock the screen. I don't answer the chat either — the binder's on my desk; t
 
 ## Denise, Week 1
 
-The number had been in Denise's phone since June.
+The number had been in Denise's phone since the first week of June.
 
-It came as an email from the parent portal. _Your fall statement is available._ Balance: $7,800, due August 28. Denise read it twice on her break and once more in the car, and by the time she pulled out of the lot she had it memorized, which was not the same as having it.
+It came as an email from the parent portal. *Your fall statement is available.* Balance: $7,800, due August 28. Denise read it twice on her break and once more in the car, and by the time she pulled out of the lot she had it memorized, which was not the same as having it.
 
 Estelle's $5,000 last year left a hole, and a hole on her watch got filled before anyone had to notice it.
 
@@ -144,11 +144,11 @@ Denise made one opening, by phone, that same week. "You set for school?"
 
 "Handled," Keisha said.
 
-"Good," Denise said, and that was the conversation. Keisha said _handled_ the way Denise said _even_, and Denise knew what her own word was worth, and let it stand.
+"Good," Denise said, and that was the conversation. Keisha said *handled* the way Denise said *even*, and Denise knew what her own word was worth, and let it stand.
 
-So: Fridays. The shifts nobody wanted, time and a half, eleven of them between now and the bill. Thirty-five years on that floor and her feet knew what a Friday cost before her head did; she took them anyway, the way she'd taken every shift since 1991 — first in, no fuss, nobody asked to cover for her, ever. The first Friday's extra was already home in the kitchen drawer, behind GROCERIES and LIGHTS and CAR and SCHOOL, in a new envelope with nothing written on it. The labeled ones were the household; the household was public record. This one she hadn't labeled, because a label made it a conversation, and there was nothing to discuss: a mother is supposed to see it coming. On the store calendar, months out, she had blocked off the last Saturday of August in her own printing — OFF — boxed twice. Whatever else that week cost, she would be in the car when Keisha went back to Brookings.
+So: Sundays. The shifts nobody wanted, time and a half, eleven of them between now and the bill. Thirty-five years on that floor and her feet knew what a Sunday cost before her head did; she took them anyway, the way she'd taken every shift since 1991 — first in, no fuss, never asked anyone to cover for her, ever. The first Sunday's extra was already home in the kitchen drawer, behind GROCERIES and LIGHTS and CAR and SCHOOL, in a new envelope with nothing written on it. The labeled ones were the household; the household was public record. This one she hadn't labeled, because a label made it a conversation, and there was nothing to discuss: a mother is supposed to see it coming. On the store calendar, months out, she had blocked off the last Saturday of August in her own printing — OFF — boxed twice. Whatever else that week cost, she would be in the car when Keisha went back to Brookings.
 
 Across the lawn Keisha called out a total. Denise pressed the tape flat on the sign. Her hand went up once, on its own, to the new weight at her collarbone — warm from the sun, heavier than it looked. She didn't have a thought about it that she let finish.
 
-She squared her tables. The email could sit where it sat. $7,800, and eleven Fridays.
+She squared her tables. The email could sit where it sat. $7,800, and eleven Sundays.
 
