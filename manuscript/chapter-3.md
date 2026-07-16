@@ -1,5 +1,3 @@
-Here's v2.
-
 ---
 
 # FULL PRICE — Ch 3 · The Leftovers

@@ -1,4 +1,4 @@
-# FULL PRICE — Ch 1 · The Twenty (draft v8)
+# FULL PRICE — Ch 1 · The Twenty
 
 ## 1
 
@@ -8,7 +8,7 @@ Count it back out loud. Twenties under the clip, ones fanned for speed. The draw
 
 It's June. I intend to be back in Brookings for sophomore year by the last week of August. Between now and then there's a number I'm keeping an eye on. It hasn't done anything wrong yet.
 
-A neighbor slows his dog to take it all in — the tables, the racks, the lawn. "Big sale, Denise." he says.
+A neighbor slows his dog to take it all in — the tables, the racks, the lawn. "Big sale, Denise," he says.
 
 "A year of nagging finally worked," my mother tells him, pleasant and carrying, her *register 3 is open* voice.
 
@@ -62,13 +62,13 @@ I file the order with the drawer rules, where everything my mother has ever told
 
 A little before noon, a woman about my mother's age holds up a stiff brown handbag from the purse table — brass clasp, the kind nobody's made since Kennedy. "How much?"
 
-"$3." She hands me a five, and while I make change I do the thing my mother drilled into me at the store's lost-and-found: check the pockets before it leaves. Main compartment, empty. Side pouch, empty. Then, flat against the back wall, a zip pocket I have to look for — and under the zipper, something stiff.
+"$3," I say. She hands me a five, and while I make change I do the thing my mother drilled into me at the store's lost-and-found: check the pockets before it leaves. Main compartment, empty. Side pouch, empty. Then, flat against the back wall, a zip pocket I have to look for — and under the zipper, something stiff.
 
 It's a manila envelope, soft at the corners, with a window in the front gone cloudy with age. Printed across the top: **JOHN MORRELL & CO., SIOUX FALLS, S.D.** Behind the window, a pay stub in purple type. And behind the stub, a $20 bill, folded down to the size of a stamp. Folded the way you fold something you mean.
 
 "Oh," I say, and the whole table leans in.
 
-Sydney gets the stub read first. "Estelle Washington, May 16 to 31, 1965.*" Her finger stops. "Net: $115.54."
+Sydney gets the stub read first. "Estelle Washington, May 16 to 31, 1965." Her finger stops. "Net: $115.54."
 
 "For two weeks?" I say.
 
@@ -92,7 +92,7 @@ Emily, my best friend since ninth grade, is already at my register calculator. "
 
 "Mm," says my grandmother, and carries the envelope to the workbench inside the garage, in the shade, where the sale isn't.
 
-Four minutes I've once heard her go on a butter dish. This story had the window, the line, the rent, the hamburger — everything in it except how a pay envelope with a twenty still inside ended up sewn into a purse. Nobody asks. I make change.
+Four minutes, I once heard her go on a butter dish. This story had the window, the line, the rent, the hamburger — everything in it except how a pay envelope with a twenty still inside ended up sewn into a purse. Nobody asks. I make change.
 
 My mother's next sweep turns up a shoebox of costume jewelry, and with my grandmother inside, pricing falls to me. I do the lot at $2 apiece: beads, clip-ons, brooches shaped like food, a heavy gold rope chain. Gold, on my grandmother's budget, is gold-tone. I sticker the box and move on to the records.
 

@@ -1,5 +1,3 @@
-Here's v4 with the trim pass applied.
-
 ---
 
 # FULL PRICE — Ch 2 · The Chase
