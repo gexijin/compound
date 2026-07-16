@@ -1,6 +1,9 @@
 # Full Price
 
-*A novel by Steven Ge*
+**A novel**
+
+*Work in progress. Comments welcome!*
+
 
 Keisha Carter, 19, hides a $7,800 tuition gap over one Sioux Falls summer — while her mother and grandmother, unknown to her and to each other, quietly solve the same problem.
 
