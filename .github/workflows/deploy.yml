@@ -2,7 +2,7 @@ name: Deploy manuscript to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, clean-design]
     paths:
       - 'manuscript/**'
       - '.github/workflows/deploy.yml'
