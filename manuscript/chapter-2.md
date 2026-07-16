@@ -120,7 +120,7 @@ The early-afternoon wave brings the serious hagglers, the ones who came after lu
 
 It's the bridge team — engineering students who design a steel bridge all year, then race other schools to bolt it together on a stopwatch. Somebody posted the fall competition schedule. Somebody else is penciling names next to roles, and mine is already next to *rules compliance*, no question mark, and someone has typed *keisha has the binder anyway*, which is true. The whole chat is people assuming I'll be there, the way you assume the ground.
 
-Between customers I check the app. $1,503.72. Same as this morning, same as 9:40.
+Between customers I check the app. $1,503.72. Same as 9:40.
 
 Here's the rest of the number's file. The fall bill is $7,800, due the last week of August. The portal has a sentence about it in plain type: unpaid balances are dropped from registration on a stated date, and the housing assignment is released. *Released* is a gentle word for it. Against that: $1,503.72, which is what a school year of careful looks like. The fryer pays $14.50 an hour and the ceiling is thirty hours, in writing. Ten more weeks of that, saving every dollar that doesn't buy gas, lands the whole summer somewhere around $5,000. $5,000 is not $7,800. It is not close enough to round.
 

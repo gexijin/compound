@@ -82,7 +82,7 @@ My grandmother arrives from the garage. I never saw her start. She lifts the env
 
 The buyer opens her mouth, looks at my grandmother's hands on the envelope — line worker's hands, knuckles like tree roots — and decides she loves the purse just as it is. The rest of us don't move.
 
-"Miss Estelle," Sydney says. "Was that *yours*? Is that your actual *pay*?"
+"Miss Estelle," Sydney says. "Was that *yours*? Is that your actual *pay*? And who's *Washington*?"
 
 And my grandmother — who narrates the biography of every butter dish in that garage — looks at the stub a long second, her thumb across the little window, and becomes, briefly, anybody's grandmother. "Mine, or somebody's just like mine. They paid you in envelopes then. Cash money, twice a month, at a window with a grille, and you stood in a line the length of the kill floor while a man said your name like he was charging you for it." She taps the purple figures. "That kept a family half a month, if the family behaved. Rent was $60. A hamburger was fifteen cents — and you thought twice."
 
