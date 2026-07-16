@@ -17,3 +17,6 @@ Keisha Carter, 19, hides a $7,800 tuition gap over one Sioux Falls summer — wh
 ⚠️ <strong>Spoiler alert</strong> — the following gives away the whole book.<br>
 <a href="summary.md" style="color:#9a9a9a;">Read the plot summary</a>
 </p>
+
+
+All rights reserved.
