@@ -2,17 +2,19 @@
 
 ## 1
 
-Nine days ago I was taking a fluid-mechanics final in Brookings. Today I'm running the cash box at my grandmother's first garage sale in 50 years, and between us, the cash box is the better exam. Count it back out loud. Twenties under the clip, ones fanned for speed. The drawer is right or the drawer is wrong. My mother taught me that on a milk crate at her store when I was 7.
+Nine days ago I was taking a statistics final in Brookings. Today I'm running the cash box at my grandmother's first garage sale in 50 years — a sale that has annexed the Hendersons' driveway on one side, the Blooms' on the other, and every foot of lawn in between, and is still coming out of the garage. Nobody on this block was going to miss this. 
 
-It's June. I like school more than I ever admit out loud — the labs, the bridge team, a town where people know me for what I can do — and I intend to be back in it by the last week of August. Between now and then, there's a number I'm keeping an eye on. It hasn't done anything wrong yet. I have a whole summer to fill with money, and I have plans.
+Count it back out loud. Twenties under the clip, ones fanned for speed. The drawer is right or the drawer is wrong. My mother taught me that on a milk crate at her store when I was 7.
 
-At 9, a neighbor slows his dog to take it all in — the tables, the racks, the lawn. "Big sale," he says.
+It's June. I intend to be back in Brookings for sophomore year by the last week of August. Between now and then there's a number I'm keeping an eye on. It hasn't done anything wrong yet.
+
+A neighbor slows his dog to take it all in — the tables, the racks, the lawn. "Big sale, Denise." he says.
 
 "A year of nagging finally worked," my mother tells him, pleasant and carrying, her *register 3 is open* voice.
 
-My grandmother — Estelle Carter — has spent 50 years of Saturdays at estate sales and thrift stores, and the garage is where it all lives: cast iron, records, sewing machines, boxes labeled in her hand, kept like a museum and dusted like one. She has bought at every sale in three counties. Nothing has ever gone the other direction. Until this morning.
+My grandmother — Estelle Carter — has spent 50 years of Saturdays at estate sales and thrift stores, and the garage is where it all lives. Kept like a museum and dusted like one. She has bought at every sale in the Sioux Empire. Nothing has ever gone the other direction. Until this morning.
 
-The campaign took my mother a year, and the yield is out on the lawn: 11 table lamps, 4 crock pots, 2 exercise bikes, a card table of margarine tubs, and 8 tables running to the property line. And Estelle still isn't done. She keeps surfacing from the garage with one box and vanishing with another, gone for whole stretches. Every time she comes back out, she reads her tables left to right before she'll greet a customer.
+The campaign took my mother a year, and the yield is out on the lawn: 11 table lamps, 4 crock pots, 2 exercise bikes, a card table of margarine tubs, and 12 tables distributed across 3 properties, only 1 of them hers. And Estelle still isn't done. She keeps surfacing from the garage with one box and vanishing with another, gone for whole stretches. Every time she comes back out, she reads her tables left to right before she'll greet a customer.
 
 Emily is everywhere and nowhere: signs at both ends of the block, balloons on the mailbox, arrows angled to be read at 25 miles an hour.
 
@@ -96,7 +98,7 @@ My mother's next sweep turns up a shoebox of costume jewelry, and with my grandm
 
 Then, calling up the next customer, I catch it without meaning to: my grandmother, passing the workbench, picks the envelope up off the wood and slips it into her apron pocket. Not into the house. Not into a box. Onto her person. Then she's back out in the sun, holding the line on the Pyrex.
 
-I check the banking app once more. Holding steady, like a bunny that knows it's being watched. I need to find a second job. It's actually not that easy to find one that fits in the schedule. But I am super organised. I started scrolling for jobs on my phone between customers. 
+I check the banking app once more. Same number as 9:40 — a number behaves better when it knows it's being watched. What I need is a second job that fits around the first one, and I am good at scheduling problems. Between customers I scroll listings. I star two, pocket the phone, and call up a woman holding six margarine tubs like they're rare. The drawer is right.
 
 ---
 
