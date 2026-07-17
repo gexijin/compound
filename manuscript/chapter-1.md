@@ -68,7 +68,7 @@ It's a manila envelope, soft at the corners, with a window in the front gone clo
 
 "Oh," I say, and the whole table leans in.
 
-Sydney gets the stub read first. "Estelle Washington, May 16 to 31, 1965." Her finger stops. "Net: $115.54."
+Sydney gets to the stub first. "Estelle Washington, May 16 to 31, 1965." Her finger stops. "Net: $115.54."
 
 "For two weeks?" I say.
 
@@ -92,7 +92,7 @@ Emily, my best friend since ninth grade, is already at my register calculator. "
 
 "Mm," says my grandmother, and carries the envelope to the workbench inside the garage, in the shade, where the sale isn't.
 
-Four minutes, I once heard her go on a butter dish. This story had the window, the line, the rent, the hamburger — everything in it except how a pay envelope with a twenty still inside ended up sewn into a purse. Nobody asks. I make change.
+I once heard her go four minutes on a butter dish. This story had the window, the line, the rent, the hamburger — everything in it except how a pay envelope with a twenty still inside ended up zipped into a purse. Nobody asks. I make change.
 
 My mother's next sweep turns up a shoebox of costume jewelry, and with my grandmother inside, pricing falls to me. I do the lot at $2 apiece: beads, clip-ons, brooches shaped like food, a heavy gold rope chain. Gold, on my grandmother's budget, is gold-tone. I sticker the box and move on to the records.
 
@@ -106,7 +106,7 @@ I check the banking app once more. Same number as 9:40 — a number behaves bett
 
 The envelope was heavier than it looked. Cash sat different than paper. Her name was typed in the little window, and the window had a shine to it; tilted in the light, it showed her back to herself, seventeen and hatless, looking out of her own pay.
 
-Payday at John Morrell, the whole plant moved toward the pay window like water finding a drain. The paymaster said your name off the stub, slid the envelope under the grille, and was saying the next name before yours had finished landing in your hand.
+On payday at John Morrell, the whole plant moved toward the pay window like water finding a drain. The paymaster said your name off the stub, slid the envelope under the grille, and was saying the next name before yours had finished landing in your hand.
 
 In the stairwell by the time clock there was a landing where the light had been out since spring. Estelle stopped there. She had no account anywhere. She had an envelope.
 
