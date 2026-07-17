@@ -32,7 +32,7 @@ Behind us, feet. Sydney has left front-of-house at a dead sprint, sandals slappi
 
 "WHY."
 
-Excellent question. I stand on the pedals to answer it and the answer is the chain comes off. Not the gold one. The bike's. The pedals spin free, the whole machine coasts into a philosophical state, and I am astride $15 of inventory going zero miles an hour in front of the Hendersons'. 
+Excellent question. I stand on the pedals to answer it and the answer is the chain comes off. Not the gold one. The bike's. The pedals spin free, the whole machine coasts into a philosophical state, and I am astride $15 of inventory going zero miles an hour in front of the Hendersons'.
 
 I get off and run. Three steps in I learn I'm wearing flip-flops — right shoe for a lawn, wrong shoe for a pursuit — and I kick them off mid-stride.
 

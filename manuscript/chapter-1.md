@@ -2,7 +2,7 @@
 
 ## 1
 
-Nine days ago I was taking a statistics final in Brookings. Today I'm running the cash box at my grandmother's first garage sale in fifty years — a sale that has annexed the Hendersons' driveway on one side, the Blooms' on the other, and every foot of lawn in between, and is still coming out of the garage. Nobody on this block was going to miss this. 
+Nine days ago I was taking a statistics final in Brookings. Today I'm running the cash box at my grandmother's first garage sale in fifty years — a sale that has annexed the Hendersons' driveway on one side, the Blooms' on the other, and every foot of lawn in between, and is still coming out of the garage. Nobody on this block was going to miss this.
 
 Count it back out loud. Twenties under the clip, ones fanned for speed. The drawer is right or the drawer is wrong. My mother taught me that on a milk crate at her store when I was seven.
 
