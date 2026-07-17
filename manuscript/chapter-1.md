@@ -6,7 +6,7 @@ Nine days ago I was taking a statistics final in Brookings. Today I'm running th
 
 Count it back out loud. Twenties under the clip, ones fanned for speed. The drawer is right or the drawer is wrong. My mother taught me that on a milk crate at her store when I was seven.
 
-It's June. I intend to be back in Brookings for sophomore year by the last week of August. Between now and then there's a number I'm keeping an eye on. It hasn't done anything wrong yet.
+It's June. I'll be back in Brookings for sophomore year by the last week of August. Between now and then, there's a number I'm keeping an eye on. It hasn't done anything wrong yet.
 
 A neighbor slows his dog to take it all in — the tables, the racks, the lawn. "Big sale, Denise," he says.
 
