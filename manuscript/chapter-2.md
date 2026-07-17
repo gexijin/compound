@@ -46,7 +46,7 @@ The woman looks at me. She looks in her rearview, where an old lady is arriving.
 
 My grandmother reaches the car and does not speak. She puts one hand flat on the Buick's window frame and stands there, chest working, sweat on her temples, eyes closed for exactly one second — and the whole intersection waits. Me, the woman, the idling Buick.
 
-She opens her eyes. She takes two dollars out of her apron pocket — past the corner of the manila envelope, which neither of us looks at — and holds the bills through the window flat, like a toll.
+She opens her eyes. She takes two dollars out of her apron pocket — past the corner of the manila envelope, which neither of us looks at — and holds the bills flat through the window, like a toll.
 
 "The chain," she says. Level.
 
@@ -100,13 +100,13 @@ Nobody answers her. My grandmother takes the chain back off Sydney's palm, shake
 
 And quieter: "Should've given you this when you made supervisor."
 
-My mother stands there wearing $2,150 nobody has explained, holding two skillets she can't explain. My grandmother is already back at the Pyrex. The skillets go down at last, stickers to the coats. Only then does her hand come up and touch the chain once, flat, the way she touches a register tape that balanced. Nobody in my family has hugged in public since the Clinton administration.
+My mother stands there wearing $2,150 nobody has explained, holding two skillets she can't explain. My grandmother is already back at the Pyrex. The skillets go down at last, stickers to the coats. Only then does my mother's hand come up and touch the chain once, flat, the way she touches a register tape that balanced. Nobody in my family has hugged in public since the Clinton administration.
 
 "The woman who gives socks for Christmas," Emily says, "owns actual gold."
 
 That's the one. That's the line that goes around the yard for the rest of the day, out to the tables, into the church-lady rotation by 2:00. Every grandchild in this family gets one pair of store-brand crew socks every December, individually wrapped, and the woman behind them had a half ounce of gold in a drawer. Everyone agrees it's a fluke. The clothespins are still fifty cents.
 
-The bike sells within the hour, $15, full price. We do not volunteer its history. My flip-flops come home from the middle of the street on their own two feet, carried by a nine-year-old who accepts a dollar.
+The bike sells within the hour, $15, full price. We do not volunteer its history. My flip-flops come home from the middle of the street on the feet of a nine-year-old who accepts a dollar.
 
 Just before the afternoon wave, my mother and I close out the morning at the card table. This is a thing we do without discussing it, have done since the milk crate: she counts a stack and slides it over; I count it back out loud and band it; twenties under the clip, ones fanned for speed. We have never talked during. It takes eleven minutes, and the morning comes to $487.
 
@@ -120,11 +120,11 @@ It's the bridge team — engineering students who design a steel bridge all year
 
 Between customers I check the app. $1,503.72. Same as 9:40.
 
-Here's the rest of the number's file. The fall bill is $7,800, due the last week of August. The portal has a sentence about it in plain type: unpaid balances are dropped from registration on a stated date, and the housing assignment is released. *Released* is a gentle word for it. Against that: $1,503.72, which is what a school year of careful looks like. The fryer pays $14.50 an hour and the ceiling is thirty hours, in writing. Ten more weeks of that, saving every dollar that doesn't buy gas, lands the whole summer somewhere around $5,000. $5,000 is not $7,800. It is not close enough to round.
+Here's the rest of the number's file. The fall bill is $7,800, due the last week of August. The portal has a sentence about it in plain type: students with unpaid balances are dropped from registration on a stated date, and the housing assignment is released. *Released* is a gentle word for it. Against that: $1,503.72, which is what a school year of careful looks like. The fryer pays $14.50 an hour and the ceiling is thirty hours, in writing. Ten more weeks of that, saving every dollar that doesn't buy gas, lands the whole summer somewhere around $5,000. $5,000 is not $7,800. It is not close enough to round.
 
 Last August, my grandmother paid $5,000 toward the first college bill this family has ever had. You don't ask a woman on a line pension to repeat a miracle.
 
-My mother is ten feet away, re-taping the sign again. Eleven minutes ago we counted $487 without a word and got it right to the dollar. The phone is in my hand. It would take one tap.
+My mother is ten feet away, re-taping the sign. Eleven minutes ago we counted $487 without a word and got it right to the dollar. The phone is in my hand. It would take one tap.
 
 The envelopes in our kitchen drawer are labeled in her printing — GROCERIES, LIGHTS, CAR, SCHOOL. I know what's in them the way you know a load limit: not the number, the margin. And it's June. I have a whole summer. That's the part that makes the quiet feel affordable: ten weeks is a long time to be a person with plans. Look what I made of a morning.
 
