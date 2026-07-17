@@ -34,13 +34,15 @@ Behind us, feet. Sydney has left front-of-house at a dead sprint, sandals slappi
 
 Excellent question. I stand on the pedals to answer it and the answer is the chain comes off. Not the gold one. The bike's. The pedals spin free, the whole machine coasts into a philosophical state, and I am astride $15 of inventory going zero miles an hour in front of the Hendersons'.
 
+Mr. Henderson is out with his hose. He takes in the Buick, my grandmother, the coasting bike, and moves the spray two feet to the left so nobody has to run through it, which in this neighborhood is a standing ovation.
+
 I get off and run. Three steps in I learn I'm wearing flip-flops — right shoe for a lawn, wrong shoe for a pursuit — and I kick them off mid-stride.
 
 The street is hot the way asphalt in June is hot, which is to say educational. I run on my toes, then on the yellow line where it's cooler, past my grandmother, and the Buick catches the stop sign at Duluth Avenue, and the stop sign is mine. I come up the driver's side with my hand raised and my lungs somewhere back by the bike.
 
 The window comes down. The visor tilts out at a barefoot girl, folded over her own knees, holding up one finger.
 
-"The gold chain," I manage. Gentle. Between installments of air. "It's — a family thing."
+"The gold chain," I manage. Gentle. Between installments of air. "Store error. My error. Full refund."
 
 The woman looks at me. She looks in her rearview, where an old lady is arriving. She has the expression of a person whose Saturday has developed a plot.
 
