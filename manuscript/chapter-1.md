@@ -4,15 +4,15 @@
 
 Nine days ago I was taking a statistics final in Brookings. Today I'm running the cash box at my grandmother's first garage sale in fifty years — a sale that has annexed the Hendersons' driveway on one side, the Blooms' on the other, and every foot of lawn in between, and is still coming out of the garage. Nobody on this block was going to miss this.
 
-I counted it all out loud. Twenties under the clip, ones fanned for speed. The drawer is right or the drawer is wrong. My mother taught me that when I was seven, standing on a milk crate at her store.
+I counted it all out loud. Twenties under the clip, ones fanned for speed. 
 
-It's June. I'll be back in Brookings for sophomore year by the last week of August. Between now and then, there's a number I'm keeping an eye on. It hasn't done anything wrong yet.
+It's June. I'll be back in Brookings for sophomore year by the last week of August. Between now and then, there's a number I'm keeping an eye on. It hasn't moved any closer yet.
 
 A neighbor slows his dog to take it all in — the tables, the racks, the lawn. "Big sale, Denise," he says.
 
-"A year of nagging finally worked," my mother tells him, pleasant and carrying, her *register 3 is open* voice.
+"A year of nagging finally worked," my mother tells him, pleasant and carrying, her customer service voice switched ons.
 
-My grandmother, Estelle Carter, has spent fifty years of Saturdays at estate sales and thrift stores, and the garage is where it all lives. Kept like a museum and dusted like one. She has bought at every sale in the Sioux Empire. Nothing has ever gone the other direction. Until this morning.
+My grandmother, Estelle Carter, has spent fifty years of Saturdays at estate sales and thrift stores, and the garage is where it all lives. Kept like a museum and dusted like one. She has bought at every sale in the Sioux Empire. Nothing has ever left the overstuffed garage. Until this morning.
 
 The campaign took my mother a year. The yield: eleven table lamps, four crock pots, two exercise bikes, a card table of margarine tubs, and twelve tables distributed across three properties, only one of them hers. And Estelle still isn't done. She keeps surfacing from the garage with one box and vanishing with another, gone for whole stretches. Every time she comes back out, she reads her tables left to right before she'll greet a customer.
 
