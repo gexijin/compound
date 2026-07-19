@@ -4,7 +4,7 @@
 
 Nine days ago I was taking a statistics final in Brookings. Today I'm running the cash box at my grandmother's first garage sale in fifty years — a sale that has annexed the Hendersons' driveway on one side, the Blooms' on the other, and every foot of lawn in between, and is still coming out of the garage. Nobody on this block was going to miss this.
 
-Count it back out loud. Twenties under the clip, ones fanned for speed. The drawer is right or the drawer is wrong. My mother taught me that on a milk crate at her store when I was seven.
+Count it back out loud. Twenties under the clip, ones fanned for speed. The drawer is right or the drawer is wrong. My mother taught me that when I was seven, standing on a milk crate at her store.
 
 It's June. I'll be back in Brookings for sophomore year by the last week of August. Between now and then, there's a number I'm keeping an eye on. It hasn't done anything wrong yet.
 
@@ -12,13 +12,13 @@ A neighbor slows his dog to take it all in — the tables, the racks, the lawn. 
 
 "A year of nagging finally worked," my mother tells him, pleasant and carrying, her *register 3 is open* voice.
 
-My grandmother — Estelle Carter — has spent fifty years of Saturdays at estate sales and thrift stores, and the garage is where it all lives. Kept like a museum and dusted like one. She has bought at every sale in the Sioux Empire. Nothing has ever gone the other direction. Until this morning.
+My grandmother, Estelle Carter, has spent fifty years of Saturdays at estate sales and thrift stores, and the garage is where it all lives. Kept like a museum and dusted like one. She has bought at every sale in the Sioux Empire. Nothing has ever gone the other direction. Until this morning.
 
-The campaign took my mother a year, and the yield is out on the lawn: eleven table lamps, four crock pots, two exercise bikes, a card table of margarine tubs, and twelve tables distributed across three properties, only one of them hers. And Estelle still isn't done. She keeps surfacing from the garage with one box and vanishing with another, gone for whole stretches. Every time she comes back out, she reads her tables left to right before she'll greet a customer.
+The campaign took my mother a year. The yield: eleven table lamps, four crock pots, two exercise bikes, a card table of margarine tubs, and twelve tables distributed across three properties, only one of them hers. And Estelle still isn't done. She keeps surfacing from the garage with one box and vanishing with another, gone for whole stretches. Every time she comes back out, she reads her tables left to right before she'll greet a customer.
 
-Emily is everywhere and nowhere: signs at both ends of the block, balloons on the mailbox, arrows angled to be read at twenty-five miles an hour.
+My best friend Emily is everywhere and nowhere: signs at both ends of the block, balloons on the mailbox, arrows angled to be read at twenty-five miles an hour.
 
-Sydney has the small stuff my mother wants gone, and she isn't so much pricing it as producing it — a lamp staged on a TV tray beside a folded afghan, like a room you could move into for $14. The big pieces she's photographing for Facebook Marketplace, one knee in the grass for the exercise bike's good side. Her first customer is maybe thirty, cargo shorts, the energy of a man furnishing an apartment out of spite.
+Sydney, a family friend from four blocks over, has the small stuff my mother wants gone, and she isn't so much pricing it as producing it — a lamp staged on a TV tray beside a folded afghan, like a room you could move into for $14. The big pieces she's photographing for Facebook Marketplace, one knee in the grass for the exercise bike's good side. Her first customer is maybe thirty, cargo shorts, the energy of a recently single man furnishing an apartment out of spite.
 
 "Lamps are very in right now," she tells him.
 

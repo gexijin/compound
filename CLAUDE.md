@@ -6,9 +6,7 @@
 
 - **`cast.md`** - a list of characters.
 - **`full-price-spine.md`** — the single source of truth right now: cast, five-act spine, design rules. Everything else defers to it during design.
-- **`design-rules-and-ideas.md`** - design rules and ideas for discussion and implementation. 
-- **`pacing/`** — the quantitative model of the spine. `beats.json` (scene grid), `cards.json` (irony ledger), and `characters.json` (lesson ledger: who teaches which money lesson) are the source of truth; `node pacing/sync.mjs` regenerates the interactive chart (`tension-map.html`) and runs an advisory pacing + cast lint. See `pacing/README.md` for fields, rubric, and workflow. When the spine changes, update the JSON and re-run sync. Only update files in this folder when I ask you to.
-- **`math/`** — scripts that derive and regression-test the money numbers; has its own CLAUDE.md. If a script and the design disagree, raise it — don't silently change either. Only update when asked. 
+- **`manuscript`** - drafts for each chapter
 
 ## Working notes
 

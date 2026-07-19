@@ -121,7 +121,6 @@ We say yes because we were always going to say yes, and she knew it before she c
 The salesman's pen was heavier than hers.
 
 He had come to the house twice before and sold nothing at all — just sat at her kitchen table with his coffee going cold and let her talk, all the way to the end of the answer, which no man with papers had ever done. He called her Mrs. Carter without being reminded, which put him ahead of the bank, the utility, and the county. The third Thursday, the papers came inside with him.
-
 A mutual fund. The form said the fund kept $8.50 of every hundred going in, and she asked why, and he said, "That's the load. It's how I get paid." It was the first straight answer a man with papers had ever given her — the cost sitting right there in type, where a person could read it.
 
 She had practiced the signature the night before, on the back of a grocery sack, eleven times. Not because she couldn't write her name. Because she had never once signed it under a printed line with a man watching, and she was not going to learn how in front of him.

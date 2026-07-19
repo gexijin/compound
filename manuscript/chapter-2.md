@@ -18,7 +18,7 @@ My grandmother stands there. Her eyes go somewhere that isn't the lawn. Fifty ye
 
 The box of toasters hits the grass — somewhere inside, one dings.
 
-I have seen my grandmother move fast exactly twice in my life, both times involving a Pyrex lid, and neither time prepared me for this. The Buick pulls from the curb doing the gentle five miles an hour of a person still checking her mirrors, and my grandmother goes after it down the middle of the street — seventy-eight years old, June heat, apron strings straight out behind her. She doesn't yell. She is saving her breath, which is the most alarming thing she has done yet. The car does not see her. The Buick has never seen anyone less.
+I have seen my grandmother move fast exactly twice in my life, both times involving a Pyrex lid, and neither time prepared me for this. The Buick pulls from the curb doing the gentle five miles an hour of a person still checking her mirrors, and my grandmother goes after it down the middle of the street — seventy-eight years old, June heat, apron strings straight out behind her. She doesn't. She is saving her breath, which is the most alarming thing she has done yet. The car does not see her. The Buick has never seen anyone less.
 
 I'm moving before I've decided anything. "Emily — drawer," and the cash box is out of my hands and into hers. On the end of the third table there's a bike, a teal ten-speed, $15 on a string tag. I haven't ridden since seventh grade. Turns out it's true, what they say.
 
@@ -37,6 +37,16 @@ Excellent question. I stand on the pedals to answer it and the answer is the cha
 Mr. Henderson is out with his hose. He takes in the Buick, my grandmother, the coasting bike, and moves the spray two feet to the left so nobody has to run through it, which in this neighborhood is a standing ovation.
 
 I get off and run. Three steps in I learn I'm wearing flip-flops — right shoe for a lawn, wrong shoe for a pursuit — and I kick them off mid-stride.
+
+The sandals draw level with the dead bike behind me. "DID SHE PAY?"
+
+"YES."
+
+Two ragged slaps while the objection is processed. "THEN IT'S A FINAL SALE."
+
+"I KNOW."
+
+She keeps coming anyway.
 
 The street is hot the way asphalt in June is hot, which is to say educational. I run on my toes, then on the yellow line where it's cooler, past my grandmother, and the Buick catches the stop sign at Duluth Avenue, and the stop sign is mine. I come up the driver's side with my hand raised and my lungs somewhere back by the bike.
 
