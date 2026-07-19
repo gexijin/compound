@@ -84,32 +84,32 @@ The buyer opens her mouth, looks at my grandmother's firm grip on the envelope, 
 
 "Miss Estelle," Sydney says. "Was that *yours*? Was that your actual *pay*? And who's *Washington*?"
 
-And my grandmother — who narrates the biography of every butter dish in that garage — looks at the stub a long second, her thumb across the little window, and becomes, briefly, anybody's grandmother. "Mine, or somebody's just like mine. They paid you in envelopes then. Cash money, twice a month, at a window with a grille, and you stood in a line the length of the kill floor while a man said your name like he was charging you for it." She taps the purple figures. "That kept a family half a month, if the family behaved. Rent was $60. A hamburger was fifteen cents — and you thought twice."
+And my grandmother — who knows the story of every item in that garage — looks at the stub a long second, her thumb across the little window, lost in thought. "Mine, or somebody's just like mine. They paid you in envelopes then. Cash, twice a month, and you stood in a line with every other employee, waiting to hear your name." She taps the blue figures. "That sustained a family half a month, if the family was careful. Rent was $60. A hamburger was fifteen cents — and that was a nice dinner."
 
-"*Fifteen cents,*" Sydney repeats, like it's a dead language.
+"*Fifteen cents,*" Sydney repeats, like she's never heard the words before.
 
-Emily, my best friend since ninth grade, is already at my register calculator. "133 hamburgers then." A beat. "Ten now, at $2. Lost about ninety-two percent of its value."
+Emily, my best friend since ninth grade, is already at my register calculator. "This twenty would cover 133 hamburgers then. 4 now, lost about ninety-seven percent of its value."
 
-"Mm," says my grandmother, and carries the envelope to the workbench inside the garage, in the shade, where the sale isn't.
+"Mm," says my grandmother, and carries the envelope to the workbench inside the garage, in the shade, away from the sale.
 
-I once heard her go four minutes on a butter dish. This story had the window, the line, the rent, the hamburger — everything in it except how a pay envelope with a twenty still inside ended up zipped into a purse. Nobody asks. I make change.
+I once heard her ramble on for ten minutes about a butter dish, but she goes quiet after this last comment this time. 
 
 My mother's next sweep turns up a shoebox of costume jewelry, and with my grandmother inside, pricing falls to me. I do the lot at $2 apiece: beads, clip-ons, brooches shaped like food, a heavy gold rope chain. Gold, on my grandmother's budget, is gold-tone. I sticker the box and move on to the records.
 
-Then, calling up the next customer, I catch it without meaning to: my grandmother, passing the workbench, picks the envelope up off the wood and slips it into her apron pocket. Not into the house. Not into a box. Onto her person. Then she's back out in the sun, holding the line on the Pyrex.
+Then, calling up the next customer, I catch her without meaning to: my grandmother, passing the workbench, picks the envelope up off the wood and slips it into her apron pocket. Not into the house or the cash box, but tucked quietly away and out of sight. Then she's back out in the sun, surveying the line.
 
-I check the banking app once more. Same number as 9:40 — a number behaves better when it knows it's being watched. What I need is a second job that fits around the first one, and I am good at scheduling problems. Between customers I scroll listings. I star two, pocket the phone, and call up a woman holding six margarine tubs like they're rare. The drawer is right.
+I check the banking app once more. It's the same as this morning, but a part of me keeps hoping that if I keep checking, it will magically go up. What I need is a second job that fits around the first one, and I can keep a strict schedule. Between customers I scroll listings. I star two, pocket the phone, and call up a woman holding six margarine tubs like they're rare. She hands me the cash and the drawer fills up a little more.
 
 ---
 
 ## Essie, 1965
 
-The envelope was heavier than it looked. Cash sat different than paper. Her name was typed in the little window, and the window had a shine to it; tilted in the light, it showed her back to herself, seventeen and hatless, looking out of her own pay.
+The envelope was heavier than it looked, thick wads of cash weighing it down in her palm.
 
-On payday at John Morrell, the whole plant moved toward the pay window like water finding a drain. The paymaster said your name off the stub, slid the envelope under the grille, and was saying the next name before yours had finished landing in your hand.
+On payday at John Morrell, the whole plant moved toward the pay line like moths to a light. The paymaster said your name off the stub, slid the envelope to them, and was saying the next name before you had reached out to touch the money.
 
-In the stairwell by the time clock there was a landing where the light had been out since spring. Estelle stopped there. She had no account anywhere. She had an envelope.
+In the stairwell by the time clock there was a landing where the light had been out since spring. Estelle stopped there. She had no bank account anywhere, but she had an envelope.
 
-She worked the flap loose without tearing it and slid the money out into her left coat pocket, for her mother's kitchen table — the twenties, the ten, the five, the corner-fold of coins. All but one. One $20 she folded in half, and in half again, and again, until it was the size of a stamp, and tucked it back behind the stub, where the window couldn't show it. She pressed the flap smooth.
+She worked the flap loose without tearing it and slid the money out into her left coat pocket, to place on her mother's kitchen table later. All the money had gone into her coat pocket - the twenties, the ten, the five, the coins, except one $20 bill, which she folded until it was the size of a stamp, and tucked it back into the envelope, then sealed it. 
 
 The pay went home in her left pocket. The envelope, with its $20, went home in her right.
