@@ -74,7 +74,7 @@ Sydney gets to the stub first. "Estelle Washington, May 16 to 31, 1965." Her fin
 
 "Of full-time?" That's Emily.
 
-"It's in pristine conditions," I say, holding the bill up to the light. "Money's supposed to move - this has been here for sixty years."
+"Condition, ten out of ten," I say, holding the bill up to the light. "Velocity, zero. Money's supposed to move — this twenty has been unemployed for sixty years."
 
 My grandmother arrives from the garage. She suddenly appears, snatching the envelope out of the crowd of us.
 
