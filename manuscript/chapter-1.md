@@ -14,7 +14,7 @@ A neighbor slows his dog to take it all in — the tables, the racks, the lawn. 
 
 My grandmother, Estelle Carter, has spent fifty years of Saturdays at estate sales and thrift stores, and the garage is where it all lives. Kept like a museum and dusted like one. She has bought at every sale in the Sioux Empire. Nothing has ever left the overstuffed garage until this morning.
 
-The campaign took my mother a year. The yield: eleven table lamps, four crock pots, two exercise bikes, a card table of margarine tubs, and twelve tables distributed across three properties, only one of them hers. And Estelle still isn't done. She keeps surfacing from the garage with one box and vanishing with another, gone for whole stretches. Every time she comes back out, she scans her tables left to right before she'll greet a customer.
+The campaign took my mother a year. The yield: eleven table lamps, four crock pots, two exercise bikes, a card table of margarine tubs, and twelve tables distributed across three properties. And Estelle still isn't done. She keeps surfacing from the garage with one box and vanishing with another, gone for whole stretches. Every time she comes back out, she scans her tables left to right before she'll greet a customer.
 
 My best friend Emily is everywhere and nowhere: placing signs at both ends of the block, hanging balloons on the mailbox next to arrows angled to be read at twenty-five miles an hour.
 
@@ -52,7 +52,7 @@ A man circles the sewing cabinet and asks the price.
 
 "$60 is the minimum."
 
-He walks away. She goes inside with a box. He's opening his truck when my mother catches him at the curb — I can't hear the words, just the posture,her sales clerk voice — and two minutes later he's loading the cabinet into his trunk. My mother brings me the bills herself, then gathers me, Sydney, and Emily with one look, checking the garage door first.
+He walks away. She goes inside with a box. He's opening his truck when my mother catches him at the curb — I can't hear the words, just the posture, her sales clerk voice — and two minutes later he's loading the cabinet into his trunk. My mother brings me $30 herself, then gathers me, Sydney, and Emily with one look, checking the garage door first.
 
 "These are small things," she says, low. "Mark all of it down. These have to go."
 
