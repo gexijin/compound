@@ -12,7 +12,7 @@ A neighbor slows his dog to take it all in — the tables, the racks, the lawn. 
 
 "A year of nagging finally worked," my mother tells him, pleasant and carrying, her customer service voice switched ons.
 
-My grandmother, Estelle Carter, has spent fifty years of Saturdays at estate sales and thrift stores, and the garage is where it all lives. Kept like a museum and dusted like one. She has bought at every sale in the Sioux Empire. Nothing has ever left the overstuffed garage. Until this morning.
+My grandmother, Estelle Carter, has spent fifty years of Saturdays at estate sales and thrift stores, and the garage is where it all lives. Kept like a museum and dusted like one. She has bought at every sale in the Sioux Empire. Nothing has ever left the overstuffed garage until this morning.
 
 The campaign took my mother a year. The yield: eleven table lamps, four crock pots, two exercise bikes, a card table of margarine tubs, and twelve tables distributed across three properties, only one of them hers. And Estelle still isn't done. She keeps surfacing from the garage with one box and vanishing with another, gone for whole stretches. Every time she comes back out, she reads her tables left to right before she'll greet a customer.
 
