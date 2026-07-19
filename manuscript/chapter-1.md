@@ -14,17 +14,17 @@ A neighbor slows his dog to take it all in — the tables, the racks, the lawn. 
 
 My grandmother, Estelle Carter, has spent fifty years of Saturdays at estate sales and thrift stores, and the garage is where it all lives. Kept like a museum and dusted like one. She has bought at every sale in the Sioux Empire. Nothing has ever left the overstuffed garage until this morning.
 
-The campaign took my mother a year. The yield: eleven table lamps, four crock pots, two exercise bikes, a card table of margarine tubs, and twelve tables distributed across three properties, only one of them hers. And Estelle still isn't done. She keeps surfacing from the garage with one box and vanishing with another, gone for whole stretches. Every time she comes back out, she reads her tables left to right before she'll greet a customer.
+The campaign took my mother a year. The yield: eleven table lamps, four crock pots, two exercise bikes, a card table of margarine tubs, and twelve tables distributed across three properties, only one of them hers. And Estelle still isn't done. She keeps surfacing from the garage with one box and vanishing with another, gone for whole stretches. Every time she comes back out, she scans her tables left to right before she'll greet a customer.
 
-My best friend Emily is everywhere and nowhere: signs at both ends of the block, balloons on the mailbox, arrows angled to be read at twenty-five miles an hour.
+My best friend Emily is everywhere and nowhere: placing signs at both ends of the block, hanging balloons on the mailbox next to arrows angled to be read at twenty-five miles an hour.
 
-Sydney, a family friend from four blocks over, has the small stuff my mother wants gone, and she isn't so much pricing it as producing it — a lamp staged on a TV tray beside a folded afghan, like a room you could move into for $14. The big pieces she's photographing for Facebook Marketplace, one knee in the grass for the exercise bike's good side. Her first customer is maybe thirty, cargo shorts, the energy of a recently single man furnishing an apartment out of spite.
+Sydney, a family friend from four blocks over, has the small stuff my mother wants gone, and she isn't so much pricing it as advertising it — a lamp staged on a TV tray, like a room you could move into for $14. The big pieces she's photographing for Facebook Marketplace, the exercise bike arranged carefully to capture its good side. Her first customer is maybe thirty, cargo shorts, the energy of a recently single man furnishing an apartment out of spite.
 
 "Lamps are very in right now," she tells him.
 
 "Are they."
 
-"Warm light. It's a whole thing. And this one's the best of the collection."
+"Warm light is shown to improve sleep quality. It's a whole thing. And this one's the best of the collection."
 
 He pays $10 and carries the lamp to his car like a rescue animal. Ten identical lamps remain. Sydney does not mention them.
 
@@ -32,13 +32,13 @@ Across the yard, a woman picks up the cast-iron skillet, marked $20.
 
 "Would you take $10?"
 
-"$15," my grandmother says. "That's the minimum."
+"$15," my grandmother says. "Final offer."
 
-The woman pays the $15, pleased with herself. My grandmother watches the skillet all the way to the car, one beat too long, then turns back to guard the Pyrex.
+The woman pays the $15, pleased with herself. My grandmother watches the skillet all the way to the car, one beat too long, then turns back to guard the cash box.
 
-Between customers I check my banking app. Same number as 9:40. Fine. Next customer.
+Between customers I check my banking app. Same number as before. Fine. Next customer.
 
-The next time the garage swallows my grandmother, my mother moves down the lamp table with a sheet of stickers. The ten survivors become $5 lamps in under a minute.
+The next time my grandmother disappears into the garage, my mother moves down the lamp table with a sheet of stickers. The ten survivors become $5 lamps in under a minute.
 
 A man circles the sewing cabinet and asks the price.
 
@@ -52,19 +52,19 @@ A man circles the sewing cabinet and asks the price.
 
 "$60 is the minimum."
 
-He walks. She goes inside with a box. He's opening his truck when my mother catches him at the curb — I can't hear the words, just the posture, the store voice — and two minutes later he's loading the cabinet. $30, cash, my grandmother nowhere in sight. My mother brings me the bills herself, then gathers me, Sydney, and Emily with one look, checking the garage door first.
+He walks away. She goes inside with a box. He's opening his truck when my mother catches him at the curb — I can't hear the words, just the posture,her sales clerk voice — and two minutes later he's loading the cabinet into his trunk. My mother brings me the bills herself, then gathers me, Sydney, and Emily with one look, checking the garage door first.
 
-"Small stuff," she says, low. "Mark it down. All of it. These have to go."
+"These are small things," she says, low. "Mark all of it down. These have to go."
 
-"Understood," Sydney whispers, spy to spy. My mother, not a spy, walks off to straighten coats, and the three of us laugh into our own shoulders.
+"Understood," Sydney whispers. My mother walks off to straighten coats, and the three of us laugh into our own shoulders, unbeknownst to grandma.
 
-I file the order with the drawer rules, where everything my mother has ever told me about money lives. That sentence of hers — *a year of nagging finally worked* — is at five and climbing.
+I go around and slash the price of every item in half. That sentence of hers — *a year of nagging finally worked* — rings in my head.
 
 A little before noon, a woman about my mother's age holds up a stiff brown handbag from the purse table — brass clasp, the kind nobody's made since Kennedy. "How much?"
 
 "$3," I say. She hands me a five, and while I make change I do the thing my mother drilled into me at the store's lost-and-found: check the pockets before it leaves. Main compartment, empty. Side pouch, empty. Then, flat against the back wall, a zip pocket I have to look for — and under the zipper, something stiff.
 
-It's a manila envelope, soft at the corners, with a window in the front gone cloudy with age. Printed across the top: **JOHN MORRELL & CO., SIOUX FALLS, S.D.** Behind the window, a pay stub in purple type. And behind the stub, a $20 bill, folded down to the size of a stamp. Folded the way you fold something you mean.
+It's a manila envelope, soft at the corners, with a window in the front gone cloudy with age. Printed across the top: **JOHN MORRELL & CO., SIOUX FALLS, S.D.** Behind the window, a pay stub in blue type. And behind the stub, a $20 bill, folded down to the size of a stamp. Folded the way you fold something you want to hide
 
 "Oh," I say, and the whole table leans in.
 
@@ -74,15 +74,15 @@ Sydney gets to the stub first. "Estelle Washington, May 16 to 31, 1965." Her fin
 
 "Of full-time?" That's Emily.
 
-"As a $20 it's a ten," I say, holding the bill up to the light. "On velocity it's a two. Sixty years parked in a handbag is the slowest money in town."
+"It's in pristine conditions," I say, holding the bill up to the light. "Money's supposed to move - this has been here for sixty years."
 
-My grandmother arrives from the garage. I never saw her start. She lifts the envelope out of the crowd of us, both hands, the way you take back a bird.
+My grandmother arrives from the garage. She suddenly appears, snatching the envelope out of the crowd of us.
 
 "Not for sale."
 
-The buyer opens her mouth, looks at my grandmother's hands on the envelope — line worker's hands, knuckles like tree roots — and decides she loves the purse just as it is. The rest of us don't move.
+The buyer opens her mouth, looks at my grandmother's firm grip on the envelope, and closes her mouth, confused.
 
-"Miss Estelle," Sydney says. "Was that *yours*? Is that your actual *pay*? And who's *Washington*?"
+"Miss Estelle," Sydney says. "Was that *yours*? Was that your actual *pay*? And who's *Washington*?"
 
 And my grandmother — who narrates the biography of every butter dish in that garage — looks at the stub a long second, her thumb across the little window, and becomes, briefly, anybody's grandmother. "Mine, or somebody's just like mine. They paid you in envelopes then. Cash money, twice a month, at a window with a grille, and you stood in a line the length of the kill floor while a man said your name like he was charging you for it." She taps the purple figures. "That kept a family half a month, if the family behaved. Rent was $60. A hamburger was fifteen cents — and you thought twice."
 
