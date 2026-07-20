@@ -92,7 +92,7 @@ Emily, my best friend since ninth grade, is already at my register calculator. "
 
 "Mm," says my grandmother, and carries the envelope to the workbench inside the garage, in the shade, where the sale isn't.
 
-I once heard her go four minutes on a butter dish. This story had the window, the line, the rent, the hamburger — everything in it except how a pay envelope with a twenty still inside ended up zipped into a purse. Nobody asks. I make change.
+I once heard her go four minutes on a butter dish. This story had everything: the window, the line, the rent, the hamburger. Everything but the part where the envelope never gets opened. Nobody asks the question the story was built around.
 
 My mother's next sweep turns up a shoebox of costume jewelry, and with my grandmother inside, pricing falls to me. I do the lot at $2 apiece: beads, clip-ons, brooches shaped like food, a heavy gold rope chain. Gold, on my grandmother's budget, is gold-tone. I sticker the box and move on to the records.
 
