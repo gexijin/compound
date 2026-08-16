@@ -46,7 +46,7 @@ Thirty dollars of our investor's money is in a parking lot at Falls Park, being 
 
 ## 2
 
-The restaurant does not care that I own a company now. They needs me at eleven, so they get me at eleven.
+The restaurant does not care that I own a company now. They need me at eleven, so they get me at eleven.
 
 Between lunch and the afternoon lull I do what I have done all June: I look for the second job. The two listings I starred at the garage sale both wrote back. The clothing store wants weekend availability — Saturdays, specifically, all of them, the exact Saturdays the market demands. The warehouse pays $19.40 an hour to stack pallets overnight, which sounds like the answer until you read the shift: ends at six, and market setup starts at six, and I have not yet found the superpower to let me be two places at once.
 
@@ -100,21 +100,21 @@ There's a heron that fishes the tailwater at dawn — a great blue, tall as a ma
 
 "Nice," I say, meaning several other words.
 
-"You'll get there," he says, to my phone, and the phone and I absorb it together. Three summers, zero photographs. As an investment the heron is underperforming, and I keep the position anyway. Some positions you hold on principle.
+"You'll get there," he says, to my phone, and the phone and I absorb it together. I've spent three summers trying to capture the heron on my phone, and still no photos. 
 
 At 6:55 I walk up to the market a legal woman. The manager checks the sleeve, initials her line, and says "huh" — the third city employee this week to meet the paragraph — and waves us in. We set up on the walk down to the water, between the kettle corn and a woman who sells honey. The table, the coolers, the records at a slant Sydney calls *browsable*, the lamp presiding. Sofi tapes the price to the cooler lid in her sales-clerk hand: $2. The first pitcher gleams. We are open.
 
 The market, it turns out, does not know we're open.
 
-Morning market people are coffee people. They walk down to the falls holding travel mugs, and they walk back up holding kettle corn, and between those two facts our cash box develops a long quiet middle. The church ladies come through in rotation and handle everything on the table like customs inspectors. One of them holds a 50-cent margarine tub of clothespins to the light, puts it down, and looks at me with real warmth.
+Morning market people are coffee people. They walk down to the falls holding travel mugs, and they walk back up holding kettle corn, and between those two facts our cash box sits unopened. The church ladies come through in rotation and handle everything on the table like customs inspectors. One of them holds a 50-cent margarine tub of clothespins to the light, puts it down, and looks at me with warmth.
 
 "How many weeks till you leave for school, sweetheart?"
 
-"Eight," I say.
+"Eight," I reply.
 
-"Eight," she repeats, nodding, like she's confirming my appointment, and buys nothing.
+"Eight," she repeats, nodding, like she's confirming my appointment.
 
-The bratwurst guy has two cups because it's ninety degrees and he stands over a grill for a living. A man in a bucket hat flips every record twice and buys one for $3 — Sons of the Pioneers, near mint, a fact only I appear to care about. A jogger takes a cup, drinks it at the table, and says the thing the kettle-corn guy said, best thing at the market, and I watch her say it and jog away without telling a single other person.
+The bratwurst guy has two cups because it's ninety degrees outside and he stands over a grill for a living. A man in a bucket hat flips every record twice and buys one for $3 — Sons of the Pioneers, near mint, a fact only I appear to care about. A jogger takes a cup, drinks it at the table, and says the thing the kettle-corn guy said, best thing at the market, and I watch her say it and jog away without telling a single other person.
 
 Emily keeps the tally. At close it reads: customers, ten. Cups, eleven — the bratwurst guy counts once as a person and twice as a sale. One record. One tub of clothespins, to the other church lady, who did not ask me about school.
 
@@ -124,13 +124,13 @@ Emily turns the notebook around. $25.50.
 
 "Which rounds," Sydney says, holding eye contact, "to $30."
 
-We tear down. The heron guy walks by with his tripod over his shoulder and shows the honey woman the back of his camera, and her whole face does something delighted, and my jaw files a complaint I don't authorize.
+We tear down. The heron guy walks by with his tripod over his shoulder and shows the honey woman the back of his camera, and her whole face does something delighted, and my jaw drops in jealousy.
 
-That evening my mother closes us out at the kitchen table, because that's the law now: money came in, so money gets counted. Nobody voted. She doesn't ask why the take is small; the ceremony doesn't check the amount first. She counts the stack and slides it over; I count it back out loud. It took eleven minutes at the garage sale. Tonight it takes two, because $25.50 is mostly ones, plus a single twenty from the record man, who paid big and waited, unbothered, for $17 in change.
+That evening my mother closes us out at the kitchen table, because that's the law now: money came in, so money gets counted, that's just how it works. She doesn't ask why the take is small; the ceremony doesn't check the amount first. She counts the stack and slides it over; I count it back out loud. It took eleven minutes at the garage sale. Tonight it takes two, because $25.50 is mostly ones, plus a single twenty from the record man, who paid big and waited, unbothered, for $17 in change.
 
 "Band the twenties," my mother says.
 
-"It's one twenty."
+"It's only one twenty."
 
 "Then it'll be a fast band."
 
@@ -138,8 +138,8 @@ I band the twenty. One bill, the band lapping itself four times, the most protec
 
 "It's nothing," Emily says, to the pencil box.
 
-Nobody asks a second question. My mother writes the number on the flap of the grocery envelope in her store printing, under a Saturday that went differently, and sets the pen down like a register drawer closing.
+Nobody asks a second question. My mother writes the number on the flap of the grocery envelope in her store printing, under a Saturday that turned out differently, and sets the pen down.
 
-I check my app while she does it. Same number as this morning. Eight Saturdays left.
+I check my app while she does it. Same number as this morning, with only eight Saturdays to go.
 
 $25.50, banded.
