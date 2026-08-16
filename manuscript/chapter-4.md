@@ -4,33 +4,33 @@
 
 The company's first Saturday begins at 5:15 a.m., in the half-dark, with a load plan.
 
-Emily has drawn the hatchback from above in her notebook, every item outlined and labeled like an evidence photo: coolers here, table there, records wedged upright so they can't slide, the lamp riding in the footwell because nobody will say out loud that the lamp is coming. Sofi brewed the jamaica last night — two coolers' worth, dark red, limes floating like it's their job. The ice boards last, at 6:10, because ice is the only cargo with a deadline. Thirty pounds of it, bagged, paid for, working.
+Emily has drawn the trunk from above in her notebook, every item outlined and labeled: coolers here, table there, records wedged upright so they can't slide, the lamp stowed away in the back because no one wants to acknowledge it. Sofi brewed the jamaica last night — two coolers' worth, dark red, limes floating. The ice boards last, at 6:10. Thirty pounds of it, bagged, paid for, working.
 
 We are at Falls Park by 6:40. The market is already half-built: the kettle-corn guy threading his kettle through a tent leg, the bratwurst guy unstacking chairs, everybody moving like they've done this a hundred times, because they have. It smells like river and propane. I have a cash box, a float, a company, and a spot picked out on the walk down to the water where a hot person with no drink would have to walk past us twice.
 
 We get as far as unfolding one table leg.
 
-The market manager has a lanyard, a clipboard, and the walk of a woman who has ended better mornings than ours. "Booth assignment?"
+The market manager has a lanyard, a clipboard, and the walk of a woman on a mission. "Booth assignment?"
 
 "We're new," Sydney says, and gives her the smile that sold ten lamps.
 
 "Vendor permit number?"
 
-There is a silence with four people in it.
+Everyone freezes.
 
 "We're pre-permit," Sydney tries. "It's a startup thing."
 
-The manager flips one page on the clipboard, not because she needs to, but the way a referee touches the rulebook. "City vendor permit, then market vendor agreement. Permits go through the licensing board. Processing is about three weeks."
+The manager flips one page on the clipboard and looks us up and down, inspecting. "You need a city vendor permit, then market vendor agreement. Permits go through the licensing board. Processing is about three weeks."
 
-"Three *weeks*," I say. "The summer is ten of those."
+"Three *weeks*," I say. "That's a third of the whole summer!"
 
-"I know exactly how many weeks a summer is," she says, not unkindly, and moves her pen to the next line. "You can't sell on market grounds without one. That includes the parking lot, before you ask. Everybody asks."
+"I know exactly how long the summer is," she says, patiently, and moves her pen to the next line. "You can't sell on market grounds without one. That includes the parking lot, before you ask. Everybody asks."
 
 Emily turns the notebook around and holds it up — the load plan, the labels, the ruler-straight lines. The manager looks at it a full second longer than she has to.
 
 "Good drawing," she says, and walks off to end somebody else's morning.
 
-So we stand in the parking lot next to thirty pounds of ice and watch the market open without us. Customers arrive. They look thirsty to me, but I've stopped being neutral on that subject. They walk right past the hatchback and buy kettle corn, wrong answer, from a man with a permit.
+So we stand in the parking lot next to thirty pounds of ice and watch the market open without us. Customers arrive, looking thirsty to me. I picture them lining up for our jamaica, cash in hand, ready for a refreshing drink in the hot summer day. I blink myself back to reality and see them walking right past the hatchback and buy kettle corn from a man with a permit.
 
 By nine the bags of ice have gone soft at the corners. By ten they are water with a rumor of ice in it, and the jamaica is warm, and we are drinking the inventory ourselves because the alternative is pouring it out. The kettle-corn guy comes over on his break and accepts a cup.
 
