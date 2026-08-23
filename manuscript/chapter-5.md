@@ -6,9 +6,9 @@ The company's third Saturday starts below the falls at dawn, and the heron wins 
 
 He's standing in the shallow water below the third ledge, right where he always is, and for once the light is good. I raise my phone slowly. I tap the screen to focus. The camera takes a second to decide, and in that exact second the heron spreads his wings and flies off. What I end up with is a clear, well-lit photo of the water where a heron used to be. I have three summers' worth of photos like this.
 
-The retiree with the $3,000 lens isn't even here today. The honey woman tells me he's at the diversion dam this week, photographing pelicans. "He shows everyone," she says, tiredly.
+The retiree with the $3,000 lens isn't even here today. The honey woman tells me he's at the dam this week, photographing pelicans. "He shows everyone," she says, tiredly.
 
-The market is kinder to us this second week. The jogger from last Saturday comes back with two friends and tells them, right in front of our table, that this is the best thing at the market. Which is free advertising, and I'll take it. The bratwurst guy takes his two cups at 8:30 like it's a standing order now. A man buys three records and the 50-cent tub of clothespins. The church ladies rotate through, and one of them asks how many weeks until I leave for school. I say seven. She nods and moves on.
+The market is kinder to us this second week. The jogger from last Saturday comes back with two friends and tells them, right in front of our table, that this is the best thing at the market. Which is free advertising, and I'll take it. The bratwurst guy takes his two cups at 8:30 like it's his routine morning coffee now. A man buys three records and the 50-cent tub of clothespins. The church ladies rotate through, and one of them asks how many weeks until I leave for school. I say seven. She nods and moves on.
 
 At close, Emily runs the tally: customers, nineteen. Cups, twenty-four.
 
@@ -16,13 +16,11 @@ At close, Emily runs the tally: customers, nineteen. Cups, twenty-four.
 
 Emily turns the notebook around. $47.75.
 
-"Which rounds," Sydney says, holding eye contact, "to $50."
-
 Max shows up for teardown because the coolers are heavy and he's free on Saturday afternoons. He does ten solid minutes of actual work, and then he can't help himself: the phone comes out. The screenshot is green, the line goes up, and the number at the top says **+$2,310**.
 
-"The level held," he explains, to me, to Emily, to a dog walking past. "The price came down, tested the level, and bounced. That's confirmation." He draws the chart in the air with a flat hand, the way he always does.
+"The level held," he explains to anyone who will listen. "The price came down, tested the level, and bounced. That's confirmation." He draws the chart in the air with a flat hand, the way he always does.
 
-Sydney takes Sofi to look at the honey. Emily heads to the library, because it's Saturday and that's where Emily goes. Then it's just me and Max, loading coolers into the Vibe, and the parking lot slowly empties around us.
+Sydney takes Sofi to look at the honey. Emily heads to the library, because it's Saturday and that's where Emily goes on Saturdays. Then it's just me and Max, loading coolers into the trunk, and the parking lot slowly empties around us.
 
 "Can I tell you a number?" I say.
 
@@ -38,17 +36,17 @@ He's quiet for a second, thinking. He doesn't gasp. He doesn't ask why I haven't
 
 "Okay," he says. "That's real money. But it's not impossible money. You've got a job, you've got a company—"
 
-"I've got $1,503.72 and a fryer."
+"I've got $1,503.72 and a waitressing job."
 
-"—and you've got ten weeks," he says, like I listed assets instead of the whole problem.
+"—and you've got ten weeks," he says, like that solves everything.
 
-Here is what I notice, standing in a parking lot with an empty cooler between us: the number sounds different out loud. I've been carrying it alone since June, and it has felt enormous the entire time. Said out loud to another person, it's just a number. People say numbers like this every day and live.
+Here is what I notice, standing in a parking lot with an empty cooler between us: the number sounds different out loud. I've been carrying it alone since June, and it has felt enormous the entire time. Said out loud to another person, it's just a number. People say numbers like this every day like it's nothing, and life goes on.
 
-"Don't tell Sydney," I say again.
+"Don't tell Sydney," I repeat.
 
-"Tell her what?" Max says, and grins, and that's the deal, done.
+"Tell her what?" Max says, grinning, and I know without asking again he'll keep my secret.
 
-On the ride home the number is still mine. It weighs the same. It just isn't sitting on my chest anymore.
+On the ride home the number is still mine. It weighs the same; it just isn't sitting as heavily on my chest anymore.
 
 ## 2
 
@@ -62,15 +60,15 @@ She walks over to the inventory, picks up the lamp, clicks it on, clicks it off.
 
 "It was $1 last week."
 
-"Last week it belonged to a company that was losing money." She sets it down. At 5:40 she comes out of the house dressed, the earrings that click, and drives off to her Tuesday. Nobody says the word *gentleman* because Sydney isn't here to say it.
+"Last week it belonged to a company that was losing money." She sets it down. At 5:40 she comes out of the house dressed, the earrings that click, and drives off without another word. Nobody says the word *gentleman* because Sydney isn't here to say it.
 
 Max drops me home last because of the coolers. He parks the Vibe at our curb and leaves the engine running. The kitchen light is on — the window over the sink, where the drawer of envelopes lives. GROCERIES, LIGHTS, CAR, SCHOOL. I look at that light for a second. Then I take out my phone.
 
 "Show me how you opened yours," I say. "The account."
 
-Max does not need to be asked twice. He walks me to the app store like he's been waiting all summer for someone to ask.
+Max does not need to be asked twice. He directs me to the app store like he's been waiting all summer for someone to ask.
 
-The brokerage app has a cartoon rocket on its loading screen. Opening an account turns out to be nineteen questions, and I read every one before I answer it. Employment status: employed. Annual income: I type it in, and the app accepts it without comment. Investment experience: none. There's no box for *watched a neighbor's screenshot twice*. Then a risk quiz with three choices — conservative, moderate, aggressive — and no option that says *I have eleven weeks*.
+The brokerage app has a cartoon rocket on its loading screen. Opening an account turns out to be nineteen questions, and I read every one before I answer it. Employment status: employed. Annual income: I type it in, and the app accepts it without comment. Investment experience: none. There's no box for *watched a neighbor's screenshot twice*. Then a risk quiz with three choices — conservative, moderate, aggressive — and no option that says *I have ten weeks*.
 
 "I'm not, like, a fiduciary," Max says, somewhere around question fourteen. He says it like a joke, but the laugh comes a beat late, like part of him means it.
 
