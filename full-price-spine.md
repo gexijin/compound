@@ -24,8 +24,8 @@
 | 3 | The Leftovers | Wk 1 Sat evening → Tue · *Essie 1976* | drafted |
 | 4 | The Permit | Wks 2–3 | drafted |
 | 5 | The Account | Wk 4 | drafted |
-| 6 | — | Wk 5: projection, Levitt discovery, the invoice, the drop-off | — |
-| 7 | — | Wk 6 Thu: the walk · *Denise, Week 6* | — |
+| 6 | The Line | Wk 5: projection, Levitt discovery, the invoice, the drop-off | drafted |
+| 7 | The Walk | Wk 6 Thu: the walk · *Denise, Week 6* | drafted |
 | 8 | — | Wk 6 Sun → Wk 7: the car, the teasing beat, the liquidity trap | — |
 | 9 | — | Wk 7 Fri: JazzFest · *Essie 2009* | — |
 | 10 | — | Wk 8: the warnings, Verna, the supper table · *Denise, Week 8* | — |
