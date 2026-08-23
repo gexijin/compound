@@ -13,6 +13,7 @@ Keisha Carter, 19, hides a $7,800 tuition gap over one Sioux Falls summer — wh
 2. [The Chase](chapter-2.md)
 3. [The Leftovers](chapter-3.md)
 4. [The Permit](chapter-4.md)
+5. [The Account](chapter-5.md)
 
 <p style="font-size:0.72em; color:#9a9a9a; text-align:center; margin-top:5em; line-height:1.5;">
 ⚠️ <strong>Spoiler alert</strong> — the following gives away the whole book.<br>
