@@ -26,8 +26,8 @@
 | 5 | The Account | Wk 4 | drafted |
 | 6 | The Line | Wk 5: projection, Levitt discovery, the invoice, the drop-off | drafted |
 | 7 | The Walk | Wk 6 Thu: the walk · *Denise, Week 6* | drafted |
-| 8 | — | Wk 6 Sun → Wk 7: the car, the teasing beat, the liquidity trap | — |
-| 9 | — | Wk 7 Fri: JazzFest · *Essie 2009* | — |
+| 8 | The Float | Wk 6 Sun → Wk 7: the car, the teasing beat, the liquidity trap | drafted |
+| 9 | The Box | Wk 7 Fri: JazzFest · *Essie 2009* | drafted |
 | 10 | — | Wk 8: the warnings, Verna, the supper table · *Denise, Week 8* | — |
 | 11 | — | Wk 9: the press, the red morning, Max's bottom, the freeze | — |
 | 12 | — | Wk 10 Tue–Thu: *Denise, Week 10* · the second question · *Essie 1987* · the papers | — |
