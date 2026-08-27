@@ -28,8 +28,8 @@
 | 7 | The Walk | Wk 6 Thu: the walk · *Denise, Week 6* | drafted |
 | 8 | The Float | Wk 6 Sun → Wk 7: the car, the teasing beat, the liquidity trap | drafted |
 | 9 | The Box | Wk 7 Fri: JazzFest · *Essie 2009* | drafted |
-| 10 | — | Wk 8: the warnings, Verna, the supper table · *Denise, Week 8* | — |
-| 11 | — | Wk 9: the press, the red morning, Max's bottom, the freeze | — |
+| 10 | The Doors | Wk 8: the warnings, Verna, the supper table · *Denise, Week 8* | drafted |
+| 11 | The Level | Wk 9: the press, the red morning, Max's bottom, the freeze | drafted |
 | 12 | — | Wk 10 Tue–Thu: *Denise, Week 10* · the second question · *Essie 1987* · the papers | — |
 | 13 | — | Wk 10 Fri → Wk 11 Sat: the contract, the negotiation, the rehearsals | — |
 | 14 | — | Wk 11 Sun: the kitchen-table dinner | — |
