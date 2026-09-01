@@ -32,8 +32,8 @@
 | 11 | The Level | Wk 9: the press, the red morning, Max's bottom, the freeze | drafted |
 | 12 | The Papers | Wk 10 Tue–Thu: *Denise, Week 10* · the second question · *Essie 1987* · the papers | drafted |
 | 13 | The Contract | Wk 10 Fri → Wk 11 Sat: the contract, the negotiation, the rehearsals | drafted |
-| 14 | — | Wk 11 Sun: the kitchen-table dinner | — |
-| 15 | — | Aug 24–29: Gary's Monday, the melted chain, the transfer, the apology, move-in | — |
+| 14 | The Table | Wk 11 Sun: the kitchen-table dinner | drafted |
+| 15 | The Heron | Aug 24–29: Gary's Monday, the melted chain, the transfer, the apology, move-in | drafted |
 
 Interludes (Essie ×4, Denise ×4) ride as chapter tails or openers, per the pattern set in Chs 1–3; they never add chapter count.
 
