@@ -22,7 +22,7 @@ She fought for every price today like the money insulted her, and now she's carr
 
 Two church ladies are working the coat rack at the speed of women on a mission. One says her cousin in Brandon gave $900 to a voice on the phone that said it was her grandson. "Tsk," says the other one, and holds up a coat. "Is this wool?"
 
-At 7:15 a man walks up the driveway wheeling the teal bike, with the expression of a man exercising a warranty.
+At 7:15 a man walks up the driveway wheeling the teal bike, with the expression of a man who'd been scammed.
 
 "The chain is broken," he says.
 
@@ -80,7 +80,7 @@ I find him annoying, and I notice I've been listening.
 
 The app says what it said this morning. I put my phone face-down on the drawer.
 
-At 8:00 Emily counts the day at the card table, out loud, twice, and bands it: **$846.** She sets the band in the cash box and the cash box on the table, and Max's phone is lying right there next to it, screen up, still green, +$1,140 that nobody mowed a hill for. The two numbers sit together in the last of the light.
+At 8:00 Emily counts the day at the card table, out loud, twice, and bands it: **$846.** She sets the band in the cash box and the cash box on the table, and Max's phone is lying right there next to it, screen up, still green, +$1,140 that nobody mowed a hill for.
 
 Nobody comments. We fold the last table.
 
@@ -90,7 +90,7 @@ Nobody comments. We fold the last table.
 
 ## 2
 
-Tuesday I finish the shift at 4:00 and drive to my grandmother's smelling like a value meal, because the leftover items are the inventory, and the inventory needs sorting.
+Tuesday I finish the shift at 4:00 and drive to my grandmother's smelling like a value meal, because today was inventory day, and I was the one in charge of organizing it.
 
 This is the plan, agreed Sunday by group chat: the stand sells agua fresca at Falls Park, and it also sells whatever the sale couldn't — the records, the margarine tubs, the clothespins. The founding assets include two coolers, the folding table, the card table, a cash box. And the lamp, which is here, on a cooler, facing me. I didn't load it. Nobody loaded it. Emily has it in the ledger as an asset.
 
@@ -112,7 +112,7 @@ My grandmother watches us sort for ten minutes from the garage doorway. Then she
 
 "I'll visit."
 
-We say yes because we were always going to say yes, and she knew it before she came out of the house. Her hand goes into the apron pocket — past a corner of manila, and comes out with five twenties, counted onto the card table out loud, slow. Then she shakes four hands in order of age, her grip landing like a stapler, and the deal is made. $100, thirty percent, no contracted beyond the handshake needed.
+We say yes because we were always going to say yes, and she knew it before she came out of the house. Her hand goes into the apron pocket — past a corner of manila, and comes out with five twenties, counted onto the card table out loud, slow. Then she shakes four hands in order of age, her grip landing like a stapler, and the deal is made. $100, thirty percent, no contract beyond the handshake needed.
 
 ---
 
@@ -142,12 +142,6 @@ Not church dressed. *Dressed* — the good blue blouse, the earrings that click,
 "On Tuesdays. A standing supper," Sydney says suspiciously.
 
 My grandmother does not deny the gentleman, which from her is a press release. What she does instead is stop at the garage fridge, where the pop lives and the Canaries schedule hangs, and hold her scorebook up flat against the door like she's serving papers.
-
-"Their scoreboard had Delgado 2-for-3 last night," she tells us, tells the fridge, tells the state of South Dakota. "My ink says 2-for-4. My ink was awake for the sixth inning."
-
-"You could write them a letter," I say.
-
-"They have two of my letters," my grandmother says, and closes the scorebook.
 
 I'm in the fridge behind her anyway, raiding the freezer to test the cracked cooler. The schedule is pinned up by a magnet — SUNRISE RETIREMENT SOLUTIONS, a little orange sunrise, the kind of thing that arrives in a mailbox and ends up holding a coupon for eternity. Her ice trays are the old metal kind with the lever. I crack both into the cooler and leave the trays refilled crooked, which she will fix.
 

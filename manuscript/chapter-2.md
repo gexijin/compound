@@ -50,7 +50,7 @@ The street is burning my feet with every step I take. I run on my toes, then on 
 
 The window comes down. The visor tilts out at a barefoot girl, folded over her own knees, holding up one finger.
 
-"The gold chain," I manage between gasps of air. "Store error. My error. Full refund."
+"The gold chain," I manage between gasps of air. "I'm sorry but that wasn't for sale. We'll give you a full refund"
 
 The woman looks at me. She looks in her rearview, where an old lady is arriving. Her eyes widened as if she couldn't believe what she was seeing.
 
@@ -64,7 +64,7 @@ The woman looks at the money, then at the two of us, then at Sydney, now arrivin
 
 "It was in the two-dollar box," she says.
 
-Nobody argues. It's the truest sentence anyone says all day. She takes her two dollars, keeps the beads, and drives off at the speed limit.
+Nobody says anything in response. She takes her two dollars, keeps the beads, and drives off at the speed limit.
 
 The walk back is a parade: my grandmother in front with her fist closed, me barefoot, Sydney wheeling the dead bike and conducting the investigation nobody authorized.
 
@@ -84,7 +84,7 @@ At the yard, Emily is still holding the cash drawer with both arms, like it's he
 
 Sydney holds out her hand, and my grandmother, after a second, pours the chain into it like it's something melted. Sydney bounces it once, twice, in her palm, calculating.
 
-"Half an ounce, easy, and it's real. Plate doesn't sit in your hand like that."
+"Half an ounce, roughly, and it's real. Plate doesn't sit in your hand like that."
 
 Emily already has her phone out. "Gold's $4,300 an ounce today. So — $2,150."
 
@@ -104,7 +104,7 @@ That's when my mother surfaces from the garage, a cast-iron skillet in each hand
 
 "Where have you girls been?"
 
-Nobody answers her. My grandmother takes the chain back off Sydney's palm, shakes it straight, and is behind my mother before anyone processes it, working the clasp at her neck with those knuckles, one try, two, done.
+Nobody answers her. My grandmother takes the chain back off Sydney's palm, shakes it straight, and is behind my mother before anyone processes it, working the clasp at her neck with those knuckles.
 
 "Somewhere I can see it," she says, mid-clasp.
 
@@ -120,13 +120,13 @@ The bike sells within the hour, $15, full price. We do not volunteer its history
 
 Just before the afternoon wave, my mother and I close out the morning at the card table. This is a thing we do without discussing it, have done ever since I can remember: she counts a stack and slides it over, I count it all out loud and band it. It takes eleven minutes, and the morning comes to $487.
 
-"$487," she says, and writes it on the flap of a grocery envelope. Above the envelope, at her collarbone, the chain catches the sun. $2,150, worn, unwritten.
+"$487," she says, and writes it on the flap of a grocery envelope. Above the envelope, at her collarbone, the chain catches the sun. $2,150 sitting above her clavicles.
 
 ---
 
 The early-afternoon wave brings the serious hagglers, the ones who came after lunch on a mission. Mid-rush, my phone goes off six times in a row, but it's just a group chat, so I ignore it.
 
-It's the bridge team — engineering students who design a steel bridge all year, then race other schools to bolt it together on a stopwatch. Somebody posted the fall competition schedule. Somebody else is penciling names next to roles, and mine is already next to *rules compliance*, no question mark, and someone has typed *keisha has the binder anyway*, which is true. The whole chat is people assuming I'll be there.
+It's the bridge team — engineering students who design a steel bridge all year, then race other schools to bolt it together on a stopwatch. Somebody posted the fall competition schedule. Somebody else is penciling names next to roles, and mine is already next to *rules compliance*, no question mark, and someone has typed *Keisha has the binder anyway*, which is true. The whole chat is people assuming I'll be there.
 
 Between customers I check the app. $1,503.72. Same as this morning.
 
@@ -136,7 +136,7 @@ Last August, my grandmother paid $5,000 toward the first college bill this famil
 
 My mother is ten feet away, re-taping the sign. Eleven minutes ago we counted $487 without a word and got it right to the dollar.
 
-The envelopes in our kitchen drawer are labeled in her printing — GROCERIES, LIGHTS, CAR, SCHOOL - and I know exactly what's in them. And it's June, and the whole summer is ahead of me. That's the part that makes the number feel attainable: ten weeks is a long time to be a person with plans. Look what I made of a morning.
+The envelopes in our kitchen drawer are labeled in her printing — GROCERIES, LIGHTS, CAR, SCHOOL - and I know exactly what's in them. And it's June, and the whole summer is ahead of me. That's the part that makes the number feel attainable: ten weeks is a long time. Look what I made of a morning.
 
 I lock the screen. I don't answer the chat either — the binder's on my desk, and it can wait.
 
@@ -156,9 +156,9 @@ Denise made one inquiry during their phone call that same week. "You set for sch
 
 "Handled," Keisha said.
 
-"Good," Denise said, and that was the conversation. Keisha said *handled* the way Denise said *done*, and Denise knew what her own word was worth, and let it stand.
+"Good," Denise said, and that was the conversation.
 
-So she volunteered her Sundays. The shifts nobody wanted, time and a half, eleven of them between now and the bill. Thirty-five years on that floor and her feet knew what a Sunday cost, but she took them anyway. She took on the shifts the way she'd taken every shift since 1991 — first in, no fuss, never asked anyone to cover for her, ever. The first Sunday's extra cash was already home in the kitchen drawer, behind GROCERIES and LIGHTS and CAR and SCHOOL, in a new envelope with nothing written on it. The labeled ones were for the household; the household was public record. This one she hadn't labeled, because a label made it a conversation, and there was nothing to discuss: a mother is supposed to provide. On the store calendar, months out, she had blocked off the last Saturday of August in her own printing — OFF — boxed twice. Whatever else that week cost, she would be in the car when Keisha went back to Brookings.
+So she volunteered her Sundays. The shifts nobody wanted, time and a half, eleven of them between now and the bill. Thirty-five years on that floor and her feet knew what a Sunday cost, but she took them anyway. She took on the shifts without complaining: first in, no fuss, never asked anyone to cover for her, ever. The first Sunday's extra cash was already home in the kitchen drawer, behind GROCERIES and LIGHTS and CAR and SCHOOL, in a new envelope with nothing written on it. The labeled ones were for the household; the household was public record. This one she hadn't labeled, because a label made it a conversation, and there was nothing to discuss: a mother is supposed to provide. On the store calendar, months out, she had blocked off the last Saturday of August in her own printing — OFF — boxed twice. Whatever else that week cost, she would be in the car when Keisha went back to Brookings.
 
 Across the lawn Keisha called out a total. Denise pressed the tape flat on the sign. Her hand went up once, on its own, to the new weight at her collarbone — warm from the sun, heavier than it looked. She didn't have a thought about it that she let finish.
 

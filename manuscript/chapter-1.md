@@ -10,7 +10,7 @@ It's June. I'll be back in Brookings for sophomore year by the last week of Augu
 
 A neighbor slows his dog to take it all in — the tables, the racks, the lawn. "Big sale, Denise," he says.
 
-"A year of nagging finally worked," my mother tells him, pleasant and carrying, her customer service voice switched ons.
+"A year of nagging finally worked," my mother tells him, pleasant and carrying, her customer service voice switched on.
 
 My grandmother, Estelle Carter, has spent fifty years of Saturdays at estate sales and thrift stores, and the garage is where it all lives. Kept like a museum and dusted like one. She has bought at every sale in the Sioux Empire. Nothing has ever left the overstuffed garage until this morning.
 
@@ -22,7 +22,7 @@ Sydney, a family friend from four blocks over, has the small stuff my mother wan
 
 "Lamps are very in right now," she tells him.
 
-"Are they."
+"Are they?"
 
 "Warm light is shown to improve sleep quality. It's a whole thing. And this one's the best of the collection."
 
@@ -54,7 +54,7 @@ A man circles the sewing cabinet and asks the price.
 
 He walks away. She goes inside with a box. He's opening his truck when my mother catches him at the curb — I can't hear the words, just the posture, her sales clerk voice — and two minutes later he's loading the cabinet into his trunk. My mother brings me $30 herself, then gathers me, Sydney, and Emily with one look, checking the garage door first.
 
-"These are small things," she says, low. "Mark all of it down. These have to go."
+"These are small things," she says. "Mark all of it down. These have to go."
 
 "Understood," Sydney whispers. My mother walks off to straighten coats, and the three of us laugh into our own shoulders, unbeknownst to grandma.
 
@@ -64,7 +64,7 @@ A little before noon, a woman about my mother's age holds up a stiff brown handb
 
 "$3," I say. She hands me a five, and while I make change I do the thing my mother drilled into me at the store's lost-and-found: check the pockets before it leaves. Main compartment, empty. Side pouch, empty. Then, flat against the back wall, a zip pocket I have to look for — and under the zipper, something stiff.
 
-It's a manila envelope, soft at the corners, with a window in the front gone cloudy with age. Printed across the top: **JOHN MORRELL & CO., SIOUX FALLS, S.D.** Behind the window, a pay stub in blue type. And behind the stub, a $20 bill, folded down to the size of a stamp. Folded the way you fold something you want to hide
+It's a manila envelope, soft at the corners, with a window in the front gone cloudy with age. Printed across the top: **JOHN MORRELL & CO., SIOUX FALLS, S.D.** Behind the window, a pay stub in blue type. And behind the stub, a $20 bill, folded down to the size of a stamp. Folded the way you fold something you want to hide.
 
 "Oh," I say, and the whole table leans in.
 
@@ -74,7 +74,7 @@ Sydney gets to the stub first. "Estelle Washington, May 16 to 31, 1965." Her fin
 
 "Of full-time?" That's Emily.
 
-"Condition, ten out of ten," I say, holding the bill up to the light. "Velocity, zero. Money's supposed to move — this twenty has been unemployed for sixty years."
+"Condition, ten out of ten," I say, holding the bill up to the light. "Velocity, zero. Money's supposed to circulate — this twenty has been here for sixty years."
 
 My grandmother arrives from the garage. She suddenly appears, snatching the envelope out of the crowd of us.
 
