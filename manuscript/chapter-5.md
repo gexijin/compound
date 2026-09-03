@@ -50,7 +50,7 @@ On the ride home the number is still mine. It weighs the same; it just isn't sit
 
 ## 2
 
-Tuesday we restock at the garage, and my grandmother comes out to count the box. This week the count takes longer, which is itself the good news.
+Tuesday we restock at the garage, and my grandmother comes out to count the box. This week the count takes longer, which in itself is good news.
 
 "$63.75," she announces. Then, after a pause: "Better."
 
@@ -120,11 +120,11 @@ The buy screen wants a number of shares. The stock is at $11.84. I type 126, whi
 
 I press it.
 
-By the market close on Friday, I'm up $45.36. I check it at a red light, and again in the driveway, and the number hasn't changed between the light and the driveway. I notice that I checked anyway.
+By the time the market close on Friday, I'm up $45.36. I check it at a red light, and again in the driveway, and the number hasn't changed between the light and the driveway. I notice that I checked anyway.
 
-Inside, my mother is at the kitchen table with the drawer open, doing the Friday thing: a folded bill into GROCERIES, a folded bill into LIGHTS, everything in its envelope. If I set my money on the table, she'd count it with me. That's the rule in this house: money came in, money gets counted. Count it twice, band the twenties.
+Inside, my mother is at the kitchen table with the drawer open, doing the Friday thing: a folded bill into GROCERIES, a folded bill into LIGHTS, everything in its envelope. If I set my money on the table, she'd count it with me. That's the rule in this house: money came in, money gets counted.
 
-But there's nothing to set down. My money isn't bills anymore. It's 126 small pieces of a valve company, riding around in my pocket, changing value while I sleep. You can't count it at a kitchen table. There's no band that goes around it.
+But there's nothing to set down. My money isn't bills anymore. It's 126 small pieces of a valve company, riding around in my pocket, changing value every second the market's open. You can't count it at a kitchen table. There's no band that goes around it.
 
 "Goodnight, baby," my mother says, and presses the drawer shut.
 

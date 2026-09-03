@@ -60,7 +60,7 @@ At the card table that night I check my math like running the numbers again will
 
 I push those numbers to the back of my mind, and I read the ordinance instead.
 
-The City of Sioux Falls Code of Ordinances, the chapter on peddlers, solicitors, and transient merchants, is fourteen pages, and I can tell nobody has ever bothered to read it thoroughly. I read rules for a living — on the bridge team I'm the one with the binder, the one who finds out what *shall* means in a sentence where everyone else read *should*. Rules are where systems keep their honesty. Somewhere in the fourteen pages, the city has written down what it actually requires, as opposed to what the clipboard remembers.
+The City of Sioux Falls Code of Ordinances, the chapter on peddlers, solicitors, and transient merchants, is fourteen pages, and I can tell nobody has ever bothered to read it thoroughly. I read rules for a living — on the bridge team I'm the one with the binder, the one who finds out what *shall* means in a sentence where everyone else read *should*. Rules are where systems keep their honesty. Somewhere in the fourteen pages, the city has written down what it actually requires, as opposed to what the clipboard states.
 
 It takes me three shifts' worth of breaks to leaf through the entire thing once, and another to reread it to understand the fine print underneath the legal jargon.
 
@@ -88,7 +88,7 @@ She gets a second clerk. The second clerk reads it and says "huh" too, and then 
 
 Outside on the steps I hold the authorization in both hands, and I let myself think the thought all the way through, because it's earned: everything that has ever told me no this summer has been a document. The permit was a document. The thirty-hour ceiling is a document. The bill is a document — $7,800 of plain type with a date on it. And documents can be out-read. You just have to be the one person willing to sacrifice your breaks to read through pages and pages of nonsensical legal writing.
 
-I get the permit laminated, and it's only then that it finally sinks in, because only official companies have laminated documents.
+I get the permit laminated, and it's then that it finally sinks in, because only official companies have laminated documents.
 
 ## 3
 
