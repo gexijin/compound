@@ -2,17 +2,17 @@
 
 ## 1
 
-Thursday the Levitt books a band people actually drive in for. Sydney knows the name. Sofi knows the name. I know the parking situation.
+Thursday the Levitt books a band people actually drive in for. Sydney knows the name. Sofi knows the name, and I know the parking situation.
 
 We brew five batches — the coolers, the jugs, and a stockpot with foil over it that Sofi's mother lends us on the condition that it comes home tonight. It isn't enough. The line starts before the opener and never gets shorter than ten people, and for three hours I do nothing but pour, make change, and say "next." Somewhere in the middle of it the crowd sings a whole chorus without the band, five thousand people at once, and we sell right through it.
 
-We're dry before the encore. Sydney flips the last cooler upside down on the table like a closed sign, and people keep walking up anyway, and she starts taking orders for tomorrow like we're a restaurant with a reservation book.
+We're dry before the encore. Sydney flips the last cooler upside down on the table like a closed sign, and people keep walking up anyway, then she starts taking orders for tomorrow like we're a restaurant with a reservation book.
 
 Teardown ends a little before midnight. Sofi's cousin picks her up at the curb, stockpot in her lap, foil catching the streetlight. Sydney takes Emily home. Sydney starts to announce the front-of-house number on her way to the car, and Emily says, "I'll have it tomorrow," and closes the notebook, because it's midnight, and even the count is asleep.
 
 Then it's me and Max and the loaded Vibe, the same as every teardown. The cash box is locked in the back under his hoodie. He has the keys in his hand.
 
-He doesn't open the car.
+But he doesn't open the car.
 
 "You ever seen the falls at night?" he says.
 
@@ -54,15 +54,15 @@ So I tell him. I have never told anybody this all the way through, because out l
 
 "Nothing. Then nothing. It isn't for anything."
 
-Max is quiet for a second. He doesn't rate it. He doesn't tell me the heron is pre-revenue. He listens to the whole thing, all the way to the end of the answer, and then he says:
+Max is quiet for a second. He doesn't tell me the heron is pre-revenue. He listens to the whole thing, all the way to the end of the answer, and then he says:
 
 "That's the first thing you've ever told me that didn't have a number in it."
 
-I don't have anything to say to that, so I don't say anything, and we stand there and watch the water come over the ledge, over and over, the same and not the same. His hand is on the railing next to mine. Then his little finger is against mine, barely, the weight of nothing.
+I don't have anything to say to that, so I don't, and we stand there and watch the water come over the ledge, over and over, the same and not the same. His hand is on the railing next to mine. Then his little finger is against mine, barely, the weight of nothing.
 
 I don't move my hand.
 
-Nobody says anything about it. Nobody kisses anybody. There's no crowd, no line, no witnesses, nothing to announce and no one to announce it to, and we stand at the railing until the sprinklers come on somewhere up the hill behind us and make us both jump, and then we laugh, and then we walk back to the car.
+Nobody says anything about it. No kisses happen. There's no crowd, no line, no witnesses, nothing to announce and no one to announce it to, and we stand at the railing until the sprinklers come on somewhere up the hill behind us and make us both jump, and then we laugh, and then we walk back to the car.
 
 He drives me home with the windows down. The kitchen light is on. My mother is up anyway — Thursdays run late now, she's adjusted, the ceremony doesn't check the clock — and we count the box at the table, out loud, twice, and she bands it and writes the number on the envelope flap in her store printing.
 
@@ -84,7 +84,7 @@ At four, the schedule book came around for the end of August. Somebody needed th
 
 "No," Denise said.
 
-She didn't explain. On the store calendar that Saturday had been blocked off in her printing since June — OFF, boxed twice — and everybody knew better than to ask twice, and nobody knew why. She took the Sunday after the schedule book instead, the close on top of her day shift, time and a half, because it was there.
+She didn't explain. On the store calendar that Saturday had been blocked off in her printing since June — OFF, boxed twice — and everybody knew better than to ask twice, and no one knew why. She took the Sunday after the schedule book instead, the close on top of her day shift, time and a half, because it was there.
 
 The Sunday money was in the kitchen drawer, behind GROCERIES and LIGHTS and CAR and SCHOOL, in the envelope with nothing written on it. The envelope had gotten thick enough that this week she had put a rubber band around it, and when she pressed it flat with her thumb she let herself think, for exactly one second, that it was starting to be the kind of money that could matter. Not enough. Starting.
 
