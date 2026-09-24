@@ -30,7 +30,7 @@ At 7:15 that night, the stand is having the best hour of its life, and so is my 
 
 I've been checking it all day, because the stock has been climbing all week, and after my shift it crossed a line I had marked in my head without ever saying it. $4,292.16. I bought in at $1,500. If I sell all of it tonight — all 126 shares — then that number, plus the paychecks left in the summer, plus my share of the stand, puts the bill close enough to touch. Not covered. Close. All summer the math has refused to reach $7,800, and tonight, for the first time, it reaches.
 
-I always told myself I'd sell when it was enough. It's enough.
+I always told myself I'd sell when it was enough, now it's enough.
 
 The app trades until seven; I checked that weeks ago, then six more times since then to make sure. At 6:52 I'm standing behind the table with the sell screen open, quantity: 126, my thumb over the button, waiting for one break in the line.
 
@@ -52,19 +52,19 @@ Emily doesn't want to say it and says it anyway, because numbers are the one thi
 
 Everyone looks at me. Emily looks at me like I've said the earth is flat, because her tally has never been wrong in its life.
 
-"The box had $653.50. The tally's off by sixty dollars." I make myself say the rest of it at normal volume, to the whole row. "Because Thursday morning I took three twenties out of it to pay for ice, and I didn't tell anyone, and I didn't put it in the book. I was going to pay it back tonight and nobody was ever going to know. So the book is wrong, and it's wrong because of me — and if the book can be wrong because of me, then nobody here is accusing a twelve-year-old of a number nobody actually knows. We audit everything first. Every dollar in, every dollar out, out loud, or nobody gets accused of anything."
+"The box had $653.50. The tally's off by sixty dollars." I make myself say the rest of it at normal volume, to the whole row. "Because Thursday morning I took three twenties out of it to pay for ice, and I didn't tell anyone, and I didn't put it in the book. I was going to pay it back tonight and nobody was ever going to know. So the book is wrong, and it's wrong because of me — and if the book can be wrong because of me, then nobody here is accusing a twelve-year-old of a number no one actually knows. We audit everything first. Every dollar in, every dollar out, out loud, or nobody gets accused of anything."
 
-Nobody says anything for a second. The funnel-cake woman looks less official. The kid's father puts his hand on the kid's shoulder.
+The table went quiet. The funnel-cake woman looks less official. The kid's father puts his hand on the kid's shoulder.
 
 And that is when Lourdes walks up carrying the cash box.
 
 "The crowd came through," she says, like it's the most obvious thing in the world. "I took it to my car and locked it. I told the table."
 
-"Nobody heard you," Sofi says.
+"We didn't heard you," Sofi says.
 
 "I said it in Spanish and in English," Lourdes says, "to the backs of six heads."
 
-So there it is. No thief, no crime, a box that was safe in a Corolla the entire hour, and a row full of adults who nearly convicted a child because nobody passed the word. The kid gets an apology — Sydney walks over and makes it herself, out loud, to him and his father both, which I will not forget — and the vendors drift back to their carts like it never happened.
+So there it is. No thief, no crime, a box that was safe in a Corolla the entire hour, and a row full of adults who nearly convicted a child because the message never made it through. The kid gets an apology — Sydney walks over and makes it herself, out loud, to him and his father both, which I will not forget — and the vendors drift back to their carts like it never happened.
 
 My confession can't be taken back, though, and I slowly see everyone else coming to terms with it.
 
@@ -94,7 +94,7 @@ Mid-morning my grandmother comes by the market — she does that some Saturdays,
 
 She counts it all the way through, says nothing about the total, puts the band back on, and sets the box down.
 
-Nobody laughs. It isn't a joke now, and everyone at the table knows exactly when it stopped being one.
+No one laughs. It isn't a joke now, and everyone at the table knows exactly when it stopped being one.
 
 $60, repaid, counted.
 
@@ -106,7 +106,7 @@ The office was nearly empty in January, which suited her.
 
 The paper had spent the fall using the word *crisis* on the front page, and by the new year half the men she'd worked beside were afraid to open the envelopes their statements came in. Estelle had read every statement to the last line, the way she read everything, and then driven downtown through the slush.
 
-The young man at the desk had a sign with his name on it and a tie he hadn't grown into. She told him what she wanted: a college account, the kind where the money grows and the taxes wait, in the name of her granddaughter. Keisha Carter. Two years old.
+The young man at the desk had a sign with his name on it and a tie he hadn't grown into. She told him what she wanted: a college account, the kind where the money grows and the taxes wait, in the name of her granddaughter, Keisha Carter, two years old.
 
 He typed for a while. Then he felt he should say something, because of the year it was. "I just want to make sure — with the market where it is right now — you're comfortable putting money in?"
 
@@ -116,7 +116,7 @@ He didn't have a form response for that, so he typed.
 
 She wrote the first check for $400 with the pen from her purse, not his, and her signature came out level, first try, the way it had since 1976. The confirmation printed and she read it twice before she folded it.
 
-At home she took a sheet of lined paper and ruled it methodically. Four lines. On each line she wrote $5,000, and next to each one, no date — just the word *when*, four times, in her small print. When the girl goes. When she goes back. When she goes back. When she finishes.
+At home she took a sheet of lined paper and ruled it methodically. Four lines. On each line she wrote $5,000, and next to each one, no date — just the word *when*, four times, in her small print. When the girl goes, when she goes back, when she goes back, and when she finishes.
 
 She folded the page behind the confirmation, put both in the folder, and put the folder where her folders went, under everything, at the back, in the quiet, where her money had lived for forty-four years.
 
