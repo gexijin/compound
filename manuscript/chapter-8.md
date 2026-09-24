@@ -6,7 +6,7 @@ Sunday night my mother comes home in the passenger seat of somebody else's car.
 
 I'm at the kitchen table when the headlights swing across the window, and she comes in with her keys still in her hand, which is wrong, because the keys should be in the bowl and the car should be in the driveway.
 
-"Car's at the store," she says. "It wouldn't start. Reggie ran me home. It gets towed in the morning." She sets the keys in the bowl. "I need the bus schedule for tomorrow." And that's the whole conversation.
+"Car's at the store," she explains. "It wouldn't start, so Reggie ran me home. It gets towed in the morning." She sets the keys in the bowl. "I need the bus schedule for tomorrow." And that's the whole conversation.
 
 Monday the shop calls at lunch. I'm there for it because my shift starts at eleven and my mother's break lines up with mine now that we're both riding the same bus line. She takes the call standing at the counter, listening, writing one number on the pad by the phone. The starter is dead, and the battery died trying. Parts and labor, $800.
 
@@ -72,8 +72,6 @@ I have the money. That's the strange part, and I want to write it down exactly, 
 
 I have $150 three different ways. It's in my paycheck — payday is Friday, two days late for the deadline. It's in my account, where 126 shares of a valve company are worth more every single day; eleven shares would cover the deposit with change. And it's in the drawer downstairs, where my mother would hand it over without blinking, because that's what SCHOOL is for.
 
-The drawer is out for reasons already covered.
-
 The shares are out because the stock went up again today, and selling eleven shares of a thing that's climbing, to pay a fee, is the one move that locks in less. This is the second job I've been looking for all summer, and it's finally paying, and you don't quit the good job to cover a $150 bill. You wait two days for the check from the other one.
 
 So I scrape it out of checking — the gas money, the folding money in my backpack, all of it — and I pay the deposit Wednesday night, and my everything-else balance goes to nearly nothing, and I'm fine, because payday is Friday.
@@ -82,17 +80,17 @@ While I'm still in the portal, my phone buzzes. It's the bridge team chat, which
 
 I check the account. $1,847.76. Up again, up all week.
 
-I type: *in for both.* Then: *and the call.* First thing I've said in that chat all summer, and it takes four seconds. It's easy to say yes to a fall that's ten weeks of paper profit away. I say yes to everything and put the phone face-down, feeling like a person whose plans are working.
+I type: *in for both.* Then: *and the call.* First thing I've said in that chat all summer, and it takes four seconds. It's easy to say yes to a fall that's ten weeks of paper profit away. I say yes to everything and put the phone face-down.
 
 Thursday morning is the ice run. That's mine this week; it rotates. Thirty pounds for the Levitt crowd, $60 at the depot, and the company pays me back from the box on Tuesday when the receipt goes in the book in front of everyone. That's Emily's system, and it's a good system, and I helped build it.
 
-Except I'm standing at the depot counter Thursday at 6:50 a.m. with a receipt printing and no money to front it with. Payday is tomorrow. The deposit took the rest.
+Except I'm standing at the depot counter Thursday at 6:50 a.m. with a receipt printing and no money to answer it with. Payday is tomorrow, and the deposit took the rest.
 
 The box is in the car, ten feet away, because the box rides home with me now for the counts.
 
 Here is the thing I could do: text the group, say *can someone else front ice this week, I'm short till Friday.* Four people would say yes in a minute. And then one of them — Sydney, probably, or Emily with just her eyes — would ask the completely fair, completely friendly question, which is *how is the girl with two jobs short in July,* and the honest answer to that question has a housing deposit in it, and behind the deposit a brokerage account, and behind the account a bill, and I am not walking anyone down that hallway in a parking lot at 6:50 in the morning.
 
-So I open the box and I take three twenties.
+So I open the cash box and I take three twenties.
 
 I pay for the ice with the company's money, which is normal, except that nothing about it is normal, because nobody knows, and it isn't Tuesday, and there's no receipt going in the book out loud in front of anyone. My mother taught me the rule when I was seven, standing on a milk crate at her register: money that moves gets counted, out loud, at a table. Every dollar in this family gets said. That's the one rule.
 
